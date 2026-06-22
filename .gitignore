@@ -1,0 +1,14 @@
+# Generated site output
+wiki-site/
+
+# Local/editor noise
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Codex/local scratch
+.codex_tools/
+tmp*/
+*_temp*/
+

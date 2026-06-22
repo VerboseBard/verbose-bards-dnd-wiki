@@ -1,0 +1,57 @@
+# Lilith
+
+Lilith is a young divine-born child tied to [Belle](belle.md) and, through inheritance and later family structure, to [Alen](alen.md), the [Raven Queen of Saharun](raven-queen-of-saharun.md).
+
+## Description
+
+Lilith appears as a very small, thin child with raven-black hair, pointed ears, and piercing green eyes. She is physically weak compared to her twin sister [Eva](eva.md), but carries deep divine resonance.
+
+## Origin
+
+Lilith is one of [Belle](belle.md)'s two daughters and one of the clearest bridges between the [War of the Gods / New Beginning Campaign](../campaign/war-of-the-gods.md) material and the later [Sixth Age](../concepts/sixth-age.md) campaigns.
+
+[Belle](belle.md) is Lilith's biological mother. She carried and birthed Lilith through divine means, with [Alen](alen.md) assisting in the birth process. The underlying transformation of 69 and Mummy into the two girls is part of that same origin chain.
+
+[Alen](alen.md) is therefore not Lilith's biological mother, but later family material treats [Alen](alen.md) much more like a stepfather or parental-guardian figure in Lilith's life.
+
+## Divine Nature
+
+Lilith has a protective aura that can block some magical sight around herself. Her toy, a doll resembling [Gregario / Shaq](gregario-shaq.md), is a divine artifact containing divine sand. The [Black Vipers](../factions/black-vipers.md) use the doll as a tracking point until the group replaces its contents with anti-divination protection.
+
+After the bridge attack, Lilith rests under [Mave](mave.md)'s care inside [Junara's Magnificent Mansion](../places/junaras-magnificent-mansion.md). [Mave](mave.md) attempts to feed her power and stabilize her diminished condition.
+
+[Annabelle](annabelle.md) later moves Lilith to [Constant and Zuk's Dragon-Bonding School](../places/constant-and-zuks-dragon-bonding-school.md), judging that the party's defenses are not enough.
+
+## Death's Kiss
+
+Lilith gives [Junara](junara.md) a kiss on the forehead that grants [Death's Kiss](../concepts/deaths-kiss.md). The blessing can redirect a death within close range to another creature.
+
+During the serpent avatar battle, the blessing activates when [Vis / Jarvis](vis-jarvis.md) is killed inside the serpent. [Vis](vis-jarvis.md) returns to life, and the death is redirected into the monster.
+
+## Mini G
+
+[Annabelle](annabelle.md) awakens Lilith's [Gregario](gregario-shaq.md) doll into a small sentient protector called Mini G. Lilith delights in the living toy, and [Annabelle](annabelle.md) insists that the divine sand removed from the doll be returned.
+
+## Dragon Bond and Mantle
+
+Zuk brings Lilith a dragon egg at the school. Lilith bonds with the dragon within, later named Gth, and the egg changes from pale white to black as her death mantle settles into place.
+
+After [Annabelle](annabelle.md) severs [Alen](alen.md)'s remaining influence from [Gregario](gregario-shaq.md), Lilith is no longer threatened by [Alen](alen.md)'s return. The Raven Queen mantle that belonged to [Alen](alen.md) now points toward Lilith's future ascension.
+
+After [Annabelle](annabelle.md) severs [Gregario](gregario-shaq.md)'s old connection, Lilith can no longer feel him and believes her new bond with the dragon killed him. When [Gregario](gregario-shaq.md) returns, Lilith manifests the [Ring of Lilith's Favor](../items/ring-of-liliths-favor.md) and asks for him back.
+
+[Gregario](gregario-shaq.md) accepts, becoming the black-winged champion of Lilith's Raven Queen mantle. The relief and joy of the renewed bond stabilizes Lilith, who also ages forward into early adolescence. Her dragon hatches as a black dragon with blue eyes and purple-tinted scales, called Greggy.
+
+## Related
+
+- [Gregario / Shaq](gregario-shaq.md)
+- [Eva](eva.md)
+- [Belle](belle.md)
+- [Alen](alen.md)
+- [Raven Queen of Saharun](raven-queen-of-saharun.md)
+- [War of the Gods / New Beginning Campaign](../campaign/war-of-the-gods.md)
+- [The Hunt for Black Vipers, Part 2](../sessions/hunt-for-black-vipers-part-2.md)
+- [Death's Kiss](../concepts/deaths-kiss.md)
+- [The Hunt for Black Vipers, Part 3](../sessions/hunt-for-black-vipers-part-3.md)
+- [The Hunt for Black Vipers, Part 4](../sessions/hunt-for-black-vipers-part-4.md)
+- [The Hunt for Black Vipers, Part 8](../sessions/hunt-for-black-vipers-part-8.md)

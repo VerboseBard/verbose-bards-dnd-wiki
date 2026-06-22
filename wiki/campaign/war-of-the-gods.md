@@ -1,0 +1,77 @@
+# War of the Gods / New Beginning Campaign
+
+The [War of the Gods](../concepts/war-of-the-gods.md), also referred to in some table discussion as the New Beginning campaign, is the campaign grouping this wiki uses for the imported Session 16 onward material.
+
+## Summary
+
+This campaign begins in the school-and-Seekers phase of the late [Sixth Age](../concepts/sixth-age.md), when newly awakened characters are gathered from different worlds and trained at [Lady Penny Hathaway's School](../places/lady-penny-hathaways-school.md) on the [Radiant Citadel](../places/radiant-citadel.md). What starts as orientation, training, and off-world mission work steadily grows into a crisis of broken accords, rogue ritual sites, dragon cores, undead invasions, collapsing divine trust, and the active reforming of the [Divine Gate](../concepts/divine-gate.md).
+
+Across the surviving notes and transcripts, the campaign moves through several major phases:
+
+- awakening, training, and early school politics under [Mave](../people/mave.md)
+- the desert-world missions, mine ritual, and [Hawk](../people/hawk.md)'s intervention against [Aylinn](../people/aylinn.md)'s control
+- the Emerald Palace council disaster and school-side fallout
+- [Radiant Citadel](../places/radiant-citadel.md) labor, dock, and Black Viper pressure
+- the undead war in the elven lands and the [Thornwall](../places/thornwall.md) refuge and assault arc
+- dungeon-core, dragon-core, and ley-line revelations
+- the [Radiant Citadel](../places/radiant-citadel.md) siege, [Lucian](../people/lucian.md)'s return attempt, and the beginning of the [Seventh Age](../concepts/seventh-age.md) transition
+
+## Identity
+
+This arc was previously being cataloged in the wiki under [Logan's First Campaign](logans-first-campaign.md). That older label is now treated as a legacy placeholder rather than the best campaign name for this material.
+
+For wiki purposes, the correct campaign grouping for the imported Session 16 onward material is the War of the Gods / New Beginning campaign.
+
+The extracted session archive currently starts at Session 16, but surviving player-note pages preserve earlier parts of the same campaign as well. [Kestrel](../people/kestrel.md)'s notes, for example, cover the school, desert-world, council, and mine material that precedes the later siege-and-ritual arc.
+
+## Era
+
+This campaign begins at the end of the [Sixth Age](../concepts/sixth-age.md), in the final stretch before the [Concurrence](../concepts/the-concurrence.md) and the opening of the [Seventh Age](../concepts/seventh-age.md).
+
+Its fallout carries directly into later [Concurrence](../concepts/the-concurrence.md) and [Seventh Age](../concepts/seventh-age.md) material, which is why so many later arcs still treat its events as living history rather than remote legend.
+
+## Extracted Sessions
+
+- [War of the Gods, Session 1 (January 7, 2023)](../sessions/war-of-the-gods-session-1.md)
+- [War of the Gods, Session 2 (January 21, 2023)](../sessions/war-of-the-gods-session-2.md)
+- [War of the Gods, Session 3 (January 28, 2023)](../sessions/war-of-the-gods-session-3.md)
+- [War of the Gods, Session 4 (February 11, 2023)](../sessions/war-of-the-gods-session-4.md)
+- [War of the Gods, Session 5 (February 18, 2023)](../sessions/war-of-the-gods-session-5.md)
+- [War of the Gods, Session 6 (March 4, 2023)](../sessions/war-of-the-gods-session-6.md)
+- [War of the Gods, Session 7 (June 17, 2023)](../sessions/war-of-the-gods-session-7.md)
+- [War of the Gods, Session 8 (August 5, 2023)](../sessions/war-of-the-gods-session-8.md)
+- [War of the Gods, Session 9 (August 12, 2023)](../sessions/war-of-the-gods-session-9.md)
+- [War of the Gods, Session 10 (September 2, 2023)](../sessions/war-of-the-gods-session-10.md)
+- [War of the Gods, Session 11 (September 9, 2023)](../sessions/war-of-the-gods-session-11.md)
+- [War of the Gods, Session 12 (September 16, 2023)](../sessions/war-of-the-gods-session-12.md)
+- [War of the Gods, Session 13 (September 23, 2023)](../sessions/war-of-the-gods-session-13.md)
+- [War of the Gods, Session 14 (September 30, 2023)](../sessions/war-of-the-gods-session-14.md)
+- [War of the Gods, Session 15 (October 21, 2023)](../sessions/war-of-the-gods-session-15.md)
+- [War of the Gods, Session 16 (November 11, 2023)](../sessions/war-of-the-gods-session-16.md)
+- [War of the Gods, Session 17](../sessions/war-of-the-gods-session-17.md)
+- [War of the Gods, Session 18](../sessions/war-of-the-gods-session-18.md)
+- [War of the Gods, Session 19](../sessions/war-of-the-gods-session-19.md)
+- [War of the Gods, Session 20](../sessions/war-of-the-gods-session-20.md)
+- [War of the Gods, Session 21](../sessions/war-of-the-gods-session-21.md)
+- [War of the Gods, Session 22](../sessions/war-of-the-gods-session-22.md)
+- [War of the Gods, Session 23](../sessions/war-of-the-gods-session-23.md)
+- [War of the Gods, Session 24](../sessions/war-of-the-gods-session-24.md)
+
+## Sequence Notes
+
+Correlating the surviving dated player notes shows that the extracted archive was not starting at the true beginning of the campaign. It also shows that the first extracted transcript page, previously labeled simply as Session 16, includes some setup material that actually belongs to [War of the Gods, Session 15 (October 21, 2023)](../sessions/war-of-the-gods-session-15.md).
+
+At the moment, the cleanest confirmed sequence is:
+
+- Session 15: October 21, 2023
+- Session 16: November 11, 2023
+
+If more dated notes from other players contradict that alignment, this page should be updated again rather than forcing the old numbering to stand.
+
+## Related
+
+- [War of the Gods](../concepts/war-of-the-gods.md)
+- [Sixth Age](../concepts/sixth-age.md)
+- [Seventh Age](../concepts/seventh-age.md)
+- [Fifth Age](../concepts/fifth-age.md)
+- [Logan's First Campaign](logans-first-campaign.md)

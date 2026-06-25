@@ -2,11 +2,7 @@
 
 ![Selyra Vexryn](../assets/images/selyra-vexryn.png)
 
-Mistress Selyra Vex'ryn, transcribed in earlier session notes as Mistress Sila Vex'Ry, is the drow matron of [The Silk Parlor](../places/silk-parlor.md) in [Sin](../places/sin.md).
-
-## Name Notes
-
-The newer Sin setting brief and supplied visual reference use Selyra Vex'ryn. Session 3 and Session 4 transcript summaries used Sila Vex'Ry or similar transcript spellings. These are treated as the same person unless future canon separates them.
+Mistress Selyra Vex'ryn is the drow matron of [The Silk Parlor](../places/silk-parlor.md) in [Sin](../places/sin.md).
 
 ## Role
 
@@ -32,7 +28,7 @@ That is only a resemblance for now. The wiki should not treat Selyra as confirme
 
 ## Session 9 Temple Involvement
 
-In [Session 9](../sessions/session-9.md), a figure identified in the transcript as Mistress Vexaran or Vexeran appears to [Sgt. Jefferson Stone](sergeant-jefferson-stone.md) inside an office in [Ssar'Velyn Temple](../places/ssar-velyn-temple.md). This wiki treats that as Mistress Selyra Vex'ryn unless later canon separates the temple figure from the Silk Parlor mistress.
+In [Session 9](../sessions/session-9.md), Selyra appears to [Sgt. Jefferson Stone](sergeant-jefferson-stone.md) inside an office in [Ssar'Velyn Temple](../places/ssar-velyn-temple.md).
 
 She calls the room her mother's office and claims that the temple was dedicated to [Lolth](lolth.md)'s path to ascension. She tells Jefferson that the old crusader assault damaged the temple's vats, defenses, and processes, and she claims the immediate corruption source is something imprisoned in a cave south along the wall.
 

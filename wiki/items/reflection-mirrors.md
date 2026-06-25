@@ -1,6 +1,6 @@
 # Reflection Mirrors
 
-Reflection Mirrors are unstable one-use defensive prototypes based on work by [Greg](../people/greg.md) and [Professor Hazard](../people/professor-hazard.md).
+Reflection Mirrors are unstable one-use defensive prototypes based on work by [Greg](../people/greg-p-smith.md) and [Professor Hazard](../people/professor-hazard.md).
 
 ## Function
 
@@ -14,6 +14,6 @@ The prototypes are unreliable. One test reflects a pistol shot successfully, whi
 
 ## Related
 
-- [Greg](../people/greg.md)
+- [Greg](../people/greg-p-smith.md)
 - [Professor Hazard](../people/professor-hazard.md)
 - [Moon Stone Collectors, Part 6](../sessions/moon-stone-collectors-part-6.md)

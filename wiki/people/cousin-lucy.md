@@ -14,6 +14,6 @@ The same session also suggests Lucy has changed after the world's recent metaphy
 
 ## Related
 
-- [Constant and Zuk](constant-and-zuk.md)
+- [Constance and Zuk](constance-l-coggeshall.md)
 - [Josiah](josiah.md)
 - [War of the Gods, Session 22](../sessions/war-of-the-gods-session-22.md)

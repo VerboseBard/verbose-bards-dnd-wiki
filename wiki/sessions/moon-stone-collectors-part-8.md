@@ -10,9 +10,9 @@ The session resumes inside [Wendell's Sixth-Layer Fortress](../places/wendells-s
 
 ## The Deceiver Falls
 
-Lyris multiplies herself, making it difficult to tell which body is real. She charms [Paul](../people/paul.md) and [Luca](../people/luca.md), lashes [p'Op](../people/p-op.md) with a fear vision, and tries to turn the party's frontline against itself.
+Lyris multiplies herself, making it difficult to tell which body is real. She charms [Paul](../people/paul.md) and [Luka](../people/luka.md), lashes [p'Op](../people/p-op.md) with a fear vision, and tries to turn the party's frontline against itself.
 
-[Vylra](../people/vylra.md)'s burning skull detonates inside one of Lyris's bodies, forcing her concentration to break. [Zen](../people/zen.md) dispels [Luca](../people/luca.md)'s charm, [p'Op](../people/p-op.md) and the others pressure the real body, and [Luca](../people/luca.md) finishes Lyris with radiant claws.
+[Vylra](../people/vylra.md)'s burning skull detonates inside one of Lyris's bodies, forcing her concentration to break. [Zen](../people/zen.md) dispels [Luka](../people/luka.md)'s charm, [p'Op](../people/p-op.md) and the others pressure the real body, and [Luka](../people/luka.md) finishes Lyris with radiant claws.
 
 The fight ends with the party having killed two leaders of the [Abyssal Hand](../factions/abyssal-hand.md): Morgrath and Lyris.
 

@@ -16,7 +16,7 @@ The whole region is widely regarded as a cage. Because teleportation cannot bypa
 
 ## Campaign Role
 
-The Upside-Down contextualizes later drow references on [Driftvale](driftvale.md), especially [Mistress Selyra Vex'ryn](../people/mistress-sila-vexry.md), the [Silk Parlor Network](../factions/silk-parlor-network.md), and old drow artifacts.
+The Upside-Down contextualizes later drow references on [Driftvale](driftvale.md), especially [Mistress Selyra Vex'ryn](../people/mistress-selyra-vexryn.md), the [Silk Parlor Network](../factions/silk-parlor-network.md), and old drow artifacts.
 
 It also explains why trade, piracy, and military logistics in [Unity](unity.md) are so tightly connected: whoever controls the route controls the future.
 

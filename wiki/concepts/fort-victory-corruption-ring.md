@@ -4,7 +4,7 @@ The Fort Victory Corruption Ring is the network of bribes, artifact skimming, il
 
 ## Structure
 
-The ring involves corrupt officers under [Colonel Marrow Vance](../people/colonel-marrow-vance.md), scavengers operating in the fog, artifact buyers, and town power brokers such as [Mistress Selyra Vex'ryn](../people/mistress-sila-vexry.md) and [Rurik Valdren](../people/rurik-valdren.md).
+The ring involves corrupt officers under [Colonel Marrow Vance](../people/colonel-marrow-vance.md), scavengers operating in the fog, artifact buyers, and town power brokers such as [Mistress Selyra Vex'ryn](../people/mistress-selyra-vexryn.md) and [Rurik Valdren](../people/rurik-valdren.md).
 
 ## Exposure
 

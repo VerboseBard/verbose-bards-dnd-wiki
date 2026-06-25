@@ -6,9 +6,9 @@ The Divine Gate is the barrier or structure that pushed the gods out and changed
 
 After the Divine Gate went up, the gods were sealed rather than destroyed. Their voices became distant, their direct reach was blunted, and divine power receded into echoes.
 
-The Gate was the final lockout created in the aftermath of [Lucian](../people/lucian.md)'s defeat. Though [Lucian](../people/lucian.md) died, many scholars argue that the Gate was his true victory: the gods were exiled from the world they once ruled, while his contingencies and influence continued to echo inside it.
+The Gate was the final lockout created in the aftermath of [Lucius](../people/lucius.md)'s defeat. Though [Lucius](../people/lucius.md) died, many scholars argue that the Gate was his true victory: the gods were exiled from the world they once ruled, while his contingencies and influence continued to echo inside it.
 
-In the extracted [War of the Gods, Session 17](../sessions/war-of-the-gods-session-17.md), [Greg](../people/greg.md)'s reconstruction of [Wendell](../people/wendell.md)'s plan describes a similar pressure-based logic before the Gate formally exists. In that model, if a world's magical density drops far enough, gods and other overpowered beings are forced one step farther away from the mortal plane. They can still act, but less directly and at greater cost.
+In the extracted [War of the Gods, Session 17](../sessions/war-of-the-gods-session-17.md), [Greg](../people/greg-p-smith.md)'s reconstruction of [Wendell](../people/wendell.md)'s plan describes a similar pressure-based logic before the Gate formally exists. In that model, if a world's magical density drops far enough, gods and other overpowered beings are forced one step farther away from the mortal plane. They can still act, but less directly and at greater cost.
 
 After the Divine Gate went up, ley lines activated and began holding reality together. This appears to consume a massive share of available magical potential.
 
@@ -18,13 +18,13 @@ In [War of the Gods, Session 22](../sessions/war-of-the-gods-session-22.md), tha
 
 That same session also sharpens the danger of partial restoration. Once a single nexus is active, later segments may be powered from it. This means the real disaster may not be "Gate restored" versus "Gate not restored," but "some pieces restored incorrectly while others lag behind," leaving worlds and magic to destabilize unevenly.
 
-In [War of the Gods, Session 24](../sessions/war-of-the-gods-session-24.md), the Gate stops being only a theory and becomes an openly advancing condition of the setting. After [Lucian](../people/lucian.md)'s defeat at the [Radiant Citadel Crystal](../places/radiant-citadel-crystal.md), [Lady Penny Hathaway](../people/lady-penny-hathaway.md) explains that the ley-line net is already going up, divine beings are being pushed farther to the other side, and many of the school's former protections will no longer function the same way. The same briefing also raises a new problem: with the death-domain structure destabilized, even the destination and shepherding of souls may no longer behave as they once did.
+In [War of the Gods, Session 24](../sessions/war-of-the-gods-session-24.md), the Gate stops being only a theory and becomes an openly advancing condition of the setting. After [Lucius](../people/lucius.md)'s defeat at the [Radiant Citadel Crystal](../places/radiant-citadel-crystal.md), [Lady Penny Hathaway](../people/lady-penny-hathaway.md) explains that the ley-line net is already going up, divine beings are being pushed farther to the other side, and many of the school's former protections will no longer function the same way. The same briefing also raises a new problem: with the death-domain structure destabilized, even the destination and shepherding of souls may no longer behave as they once did.
 
-During the Black Viper hunt, the Conclave reveals that the Gate and post-[Concurrence](the-concurrence.md) reality still contain holes, cracks, and failures. [Greg](../people/greg.md) intends to use the discharge from [Lucian](../people/lucian.md)'s final destruction to patch those flaws and prevent the same kind of divine-scale disaster from recurring.
+During the Black Viper hunt, the Conclave reveals that the Gate and post-[Concurrence](the-concurrence.md) reality still contain holes, cracks, and failures. [Greg](../people/greg-p-smith.md) intends to use the discharge from [Lucius](../people/lucius.md)'s final destruction to patch those flaws and prevent the same kind of divine-scale disaster from recurring.
 
-During the first briefing for [Jimbo's Soul Ritual](jimbo-soul-ritual.md), [Greg](../people/greg.md) explains a dangerous loophole: if [Lucian](../people/lucian.md) returns powerful enough, the gods can directly strike him because he exceeds what the mortal side of the Gate permits. Saving [Jimbo](../people/jimbo.md) weakens [Lucian](../people/lucian.md), which is morally necessary for the party but may reduce the gods' ability to intervene.
+During the first briefing for [Jimbo's Soul Ritual](jimbo-soul-ritual.md), [Greg](../people/greg-p-smith.md) explains a dangerous loophole: if [Lucius](../people/lucius.md) returns powerful enough, the gods can directly strike him because he exceeds what the mortal side of the Gate permits. Saving [Jimbo](../people/jimbo.md) weakens [Lucius](../people/lucius.md), which is morally necessary for the party but may reduce the gods' ability to intervene.
 
-In the [Moon Stone Collectors](../factions/moon-stone-collectors.md) [Concurrence](the-concurrence.md) arc, [Constant and Zuk](../people/constant-and-zuk.md) recognize that [Greg](../people/greg.md)'s rewrite also functions as a power gate. Left unchanged, dragons and other beings beyond the new limit would eventually be forced out of the mortal side of reality. Constant chooses to alter that limit during the [Concurrence](the-concurrence.md) to protect Zuk, the dragon families, and herself.
+In the [Moon Stone Collectors](../factions/moon-stone-collectors.md) [Concurrence](the-concurrence.md) arc, [Constance and Zuk](../people/constance-l-coggeshall.md) recognize that [Greg](../people/greg-p-smith.md)'s rewrite also functions as a power gate. Left unchanged, dragons and other beings beyond the new limit would eventually be forced out of the mortal side of reality. Constance chooses to alter that limit during the [Concurrence](the-concurrence.md) to protect Zuk, the dragon families, and herself.
 
 ## Magical Impact
 
@@ -36,7 +36,7 @@ Session-17 discussion also frames this in terms of magical "pressure." Mortals a
 
 - [Ley Lines](ley-lines.md)
 - [War of the Gods](war-of-the-gods.md)
-- [Lucian](../people/lucian.md)
+- [Lucius](../people/lucius.md)
 - [Post-Concurrence Magic Theory](post-concurrence-magic.md)
 - [Dungeons](dungeons.md)
 - [Radiant Citadel](../places/radiant-citadel.md)
@@ -46,3 +46,4 @@ Session-17 discussion also frames this in terms of magical "pressure." Mortals a
 - [War of the Gods, Session 24](../sessions/war-of-the-gods-session-24.md)
 - [The Hunt for Black Vipers, Part 8](../sessions/hunt-for-black-vipers-part-8.md)
 - [The Hunt for Black Vipers, Part 9](../sessions/hunt-for-black-vipers-part-9.md)
+

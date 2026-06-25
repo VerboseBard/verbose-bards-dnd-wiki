@@ -10,7 +10,7 @@ He names [Bishop Collins](bishop-collins.md) and [Deacon Matthews](deacon-matthe
 
 ## Death
 
-When pressed on the cult's pursuit of children, Thomas begins chanting the hunger doctrine of the serpent faith. [Eve / Eva](eva.md) incinerates him before the interrogation continues.
+When pressed on the cult's pursuit of children, Thomas begins chanting the hunger doctrine of the serpent faith. [Eve](eve.md) incinerates him before the interrogation continues.
 
 ## Related
 

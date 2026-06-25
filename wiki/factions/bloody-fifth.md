@@ -51,7 +51,7 @@ Captains execute the general's doctrine. They control tempo, waves, and sacrific
 - Race: Elf
 - Gender: Female
 - Role: Assault Captain, Bloody Fifth
-- Status: Active unless later corrected; wounded and stabilized in Session 1 actual play
+- Status: Active after Session 1 actual play; wounded and stabilized on-screen
 - Function: Arrives with the troops, stands before the men after the general's speech, assumes battlefield control after the first losses, and orders the assaults that matter
 
 ### Lieutenants

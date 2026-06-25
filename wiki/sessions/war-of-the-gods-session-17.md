@@ -14,7 +14,7 @@ By morning, the group learns that [Thornwall](../places/thornwall.md)'s desecrat
 - The quiet member of the party inherits Glattus's cursed green blade, while another receives her bow and quiver.
 - [Charlie](../people/charlie.md) and Constance spend the evening rebuilding [Shaq](../people/gregario-shaq.md)'s lost arm as a true magitech prosthetic rather than a simple replacement limb.
 - The group identifies several items taken from the Death Knight encounter, including cursed anti-healing gear, enhanced plate, and a necrotic blade.
-- [Greg](../people/greg.md) receives a mind-to-mind call from [Jinx](../people/jinx.md), who apologizes in her own warped way and explains that his "three questions a day" library access came from an illicit magical tap she built and tested through him.
+- [Greg](../people/greg-p-smith.md) receives a mind-to-mind call from [Jinx](../people/jinx.md), who apologizes in her own warped way and explains that his "three questions a day" library access came from an illicit magical tap she built and tested through him.
 - [Jinx](../people/jinx.md) also warns that [Wendell](../people/wendell.md) has access to the library's main line, making information control and question choice much more dangerous.
 - During the night, multiple party members are trapped in black dream constructs or magical nightmare spaces. These include featureless voids, pursuit by [Wendell](../people/wendell.md) imagery, and mind-prison effects severe enough to force emergency magical intervention.
 - One member escapes by banishing himself back to the [Citadel](../places/radiant-citadel.md) and briefly encounters [Mave](../people/mave.md), who confirms the others will wake and helps protect him from the dream assault's aftermath.
@@ -22,18 +22,18 @@ By morning, the group learns that [Thornwall](../places/thornwall.md)'s desecrat
 - The party returns to [Thornwall](../places/thornwall.md)'s desecrated church and begins exploring the newly formed dungeon beneath it.
 - The dungeon is packed with magical and mechanical traps, treasure caches, alarm systems, and a magma-fed chamber that actively sucks magical energy into a deeper shaft.
 - [Belle](../people/belle.md) is briefly called into the fire chamber and appears to recognize the magical flow as a ley-line scale event, effectively getting drunk or high on raw power before descending deeper into the molten passage.
-- [Greg](../people/greg.md) uses the library to assemble a working interpretation of [Wendell](../people/wendell.md)'s plan: reduce the world's magical density and "pressure" until the gods are forced off the mortal plane into a more distant relationship with reality.
+- [Greg](../people/greg-p-smith.md) uses the library to assemble a working interpretation of [Wendell](../people/wendell.md)'s plan: reduce the world's magical density and "pressure" until the gods are forced off the mortal plane into a more distant relationship with reality.
 
 ## Important People
 
-- [Greg](../people/greg.md)
+- [Greg](../people/greg-p-smith.md)
 - [Mave](../people/mave.md)
 - [Belle](../people/belle.md)
 - [Wendell](../people/wendell.md)
 - [Charlie](../people/charlie.md)
-- [Constant and Zuk](../people/constant-and-zuk.md)
+- [Constance and Zuk](../people/constance-l-coggeshall.md)
 - [Gregario / Shaq](../people/gregario-shaq.md)
-- [Junara](../people/junara.md)
+- [Junvara](../people/junvara.md)
 - [Rose Qinlee](../people/rose-qinlee.md)
 
 ## Important Places
@@ -44,11 +44,11 @@ By morning, the group learns that [Thornwall](../places/thornwall.md)'s desecrat
 
 ## Consequences
 
-This session turns [Thornwall](../places/thornwall.md) from a rescue site into a philosophical fault line. The party is no longer only fighting undead occupation; it is now forced to ask whether [Wendell](../people/wendell.md)'s goal is pure villainy, a brutal version of an old necessary correction, or both at once.
+This session turns [Thornwall](../places/thornwall.md) from a rescue site into a philosophical fault line. The party is no longer only fighting undead occupation; it is now forced to ask whether [Wendell](../people/wendell.md)'s goal is pure villainy, a brutal version of an old necessary reckoning, or both at once.
 
 It also establishes that proto-dungeon phenomena and ley-line sinks were already appearing in [Fifth Age](../concepts/fifth-age.md) war zones before the later dungeon-heavy eras. [Thornwall](../places/thornwall.md)'s church is not just corrupted holy ground. It has become a magical engine, trap site, and information black spot tied to [Wendell](../people/wendell.md)'s larger project.
 
-Finally, the session sharpens the strategic stakes around [Greg](../people/greg.md)'s library access. Questions are finite, possibly monitored, and now contested by another high-level enemy.
+Finally, the session sharpens the strategic stakes around [Greg](../people/greg-p-smith.md)'s library access. Questions are finite, possibly monitored, and now contested by another high-level enemy.
 
 ## Source Notes
 

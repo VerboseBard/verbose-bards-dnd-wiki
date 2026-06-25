@@ -16,7 +16,7 @@ Hellspire may be less dangerous outside his prepared workshops, but in his own f
 
 ## Defeat
 
-At [Hellspire's Manufactory](../places/hellspires-manufactory.md), Hellspire is caught while using [Charlie](charlie.md)'s soul prison. [Constant and Zuk](constant-and-zuk.md) and [Vis / Jarvis](vis-jarvis.md) attack from above in draconic form.
+At [Hellspire's Manufactory](../places/hellspires-manufactory.md), Hellspire is caught while using [Charlie](charlie.md)'s soul prison. [Constance and Zuk](constance-l-coggeshall.md) and [Vis / Jarvice](vis-jarvice.md) attack from above in draconic form.
 
 He is killed before he can activate his prepared mech suit or full facility defenses. [Charlie](charlie.md)'s soul prison is recovered.
 

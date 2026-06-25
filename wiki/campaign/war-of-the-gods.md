@@ -1,4 +1,4 @@
-# War of the Gods / New Beginning Campaign
+﻿# War of the Gods / New Beginning Campaign
 
 The [War of the Gods](../concepts/war-of-the-gods.md), also referred to in some table discussion as the New Beginning campaign, is the campaign grouping this wiki uses for the imported Session 16 onward material.
 
@@ -14,7 +14,28 @@ Across the surviving notes and transcripts, the campaign moves through several m
 - [Radiant Citadel](../places/radiant-citadel.md) labor, dock, and Black Viper pressure
 - the undead war in the elven lands and the [Thornwall](../places/thornwall.md) refuge and assault arc
 - dungeon-core, dragon-core, and ley-line revelations
-- the [Radiant Citadel](../places/radiant-citadel.md) siege, [Lucian](../people/lucian.md)'s return attempt, and the beginning of the [Seventh Age](../concepts/seventh-age.md) transition
+- the [Radiant Citadel](../places/radiant-citadel.md) siege, [Lucius](../people/lucius.md)'s return attempt, and the beginning of the [Seventh Age](../concepts/seventh-age.md) transition
+
+## Roster Snapshot
+
+These levels and class mixes are a reference snapshot from uploaded roster information. Because builds shifted during play, the exact level and class state should not override session lore when a specific scene says otherwise.
+
+- [Greg P Smith "The Sower"](../people/greg-p-smith.md): Level 10 Autognome Artificer.
+- [Jack Kenway](../people/jack-kenway.md): Level 20 Lineages Fighter / Rogue / Champion / Swashbuckler / Captain / Chieftain. Player: Unassigned.
+- [Jarruth Stion](../people/jarruth-stion.md): Level 20 Aasimar Ranger / Fighter / Beast Master.
+- [Charlie](../people/charlie.md): Level 20 Astral Elf Fighter / Gunslinger / Artificer / Artillerist.
+- [Constance L. Coggeshall](../people/constance-l-coggeshall.md): Level 20 Half-Elf Fighter / Gunslinger / Artificer / Artillerist.
+- [Eve](../people/eve.md): Level 20 Fairy Sorcerer / Firestorm Sorcery (Belle). Player: EternalMisfit.
+- [Jarvice](../people/vis-jarvice.md): Level 20 Autognome Cleric / Knowledge Domain (Legacy).
+- [Jimbo](../people/jimbo.md): Level 20 Human Sorcerer / Spectrum Caster.
+- [Junvara](../people/junvara.md): Level 20 Githyanki Wizard / Fighter / Bladesinging / Echo Knight. Player: BattleHammerBOis.
+- [Kestrel](../people/kestrel.md): Level 20 Changeling Bard / Warlock / College of Swords / The Hexblade.
+- [Molokan](../people/molokan.md): Level 12 Lineages Barbarian / Rogue / Path of the Storm Herald.
+- [Quark "Adamantine Balls" Skaa-Doush](../people/quark-skaa-doush.md): Level 13 Hadozee Barbarian / Fighter / Rogue / Champion / Assassin.
+- [Ricky Bricardo](../people/ricky-bricardo.md): Level 12 Harengon Ranger / Warlock / Arcane Gunslinger / The Dungeon Master.
+- Unnamed lineages character: Level 16 Lineages Barbarian / Fighter / Rogue / Champion / Swashbuckler / Path of the Giant.
+- Unnamed warforged character: Level 20 Warforged Artificer / Artillerist.
+- [Wendell, The Crimson Hound](../people/wendell.md): Level 20 Aasimar Cleric / Warlock / The Undying / Death Domain. Player: EternalMisfit.
 
 ## Identity
 
@@ -75,3 +96,4 @@ If more dated notes from other players contradict that alignment, this page shou
 - [Seventh Age](../concepts/seventh-age.md)
 - [Fifth Age](../concepts/fifth-age.md)
 - [Logan's First Campaign](logans-first-campaign.md)
+

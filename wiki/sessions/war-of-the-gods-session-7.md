@@ -24,8 +24,8 @@ The mine descent reveals that the party is standing in the middle of something f
 
 - [Wendell](../people/wendell.md)
 - [Hawk](../people/hawk.md)
-- [Greg](../people/greg.md)
-- [Junara](../people/junara.md)
+- [Greg](../people/greg-p-smith.md)
+- [Junvara](../people/junvara.md)
 
 ## Important Places
 

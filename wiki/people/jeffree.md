@@ -1,6 +1,6 @@
 # Jeffree
 
-Jeffree, spelling provisional, is a shifter and local fog walker / contractor encountered near [Fort Victory](../places/fort-victory.md).
+Jeffree is a shifter and local fog walker / contractor encountered near [Fort Victory](../places/fort-victory.md).
 
 ## Role
 
@@ -17,4 +17,3 @@ He subtly reveals himself as a local by shifting his hand during a handshake wit
 - [Driftvale Fog Walkers](../factions/driftvale-fog-walkers.md)
 - [Rurik Valdren](rurik-valdren.md)
 - [Session 3](../sessions/session-3.md)
-

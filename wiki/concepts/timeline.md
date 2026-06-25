@@ -1,4 +1,4 @@
-# Timeline
+﻿# Timeline
 
 This page summarizes the major historical eras referenced in the campaign. For session-by-session events, see the [Sessions Index](../sessions/index.md).
 
@@ -22,7 +22,7 @@ During this age, the fey creatures were at war with the giants. The war lasted f
 
 The dwarves answered by breaking the world and bringing the first dragon into it. These dragons devastated large portions of the world, destroying both fey and now-dwarven peoples.
 
-During the chaos of the war, a minor devil or perhaps demon named [Lucian](../people/lucian.md) exploited the conflict. When the serpent god [Rexel Kar](../people/rexel-kar.md) was slain, [Lucian](../people/lucian.md) stood victorious, stealing the god's mantle and the worship of his people.
+During the chaos of the war, a minor devil or perhaps demon named [Lucius](../people/lucius.md) exploited the conflict. When the serpent god [Rexel Kar](../people/rexel-kar.md) was slain, [Lucius](../people/lucius.md) stood victorious, stealing the god's mantle and the worship of his people.
 
 By the end of the [Second Age](second-age.md), most of the original supreme creators had moved on from the world, leaving one caretaker behind.
 
@@ -38,13 +38,13 @@ Details pending.
 
 [The Breaking](the-breaking.md) ends the [Fifth Age](fifth-age.md) and shatters the world order. Later generations inherit fragments, myths, and broken geographies rather than a clean historical record.
 
-[Lucian](../people/lucian.md)'s long plan reaches across this era. He claims a divine artifact, conquers the Hells and the Abyss, recruits lesser gods and powerful mortals, engineers the slaughter of the dragon guardians, and uses deceived heroes to shatter the world.
+[Lucius](../people/lucius.md)'s long plan reaches across this era. He claims a divine artifact, conquers the Hells and the Abyss, recruits lesser gods and powerful mortals, engineers the slaughter of the dragon guardians, and uses deceived heroes to shatter the world.
 
 ## Sixth Age
 
 The [Sixth Age](sixth-age.md) includes the leadup to [the Concurrence](the-concurrence.md), the rise of modern divine politics, and the conditions that produce the [Divine Gate](divine-gate.md).
 
-The [War of the Gods](war-of-the-gods.md) erupts when [Lucian](../people/lucian.md) turns on gods, heroes, and allies alike. At the height of his power, the [Hell's Bane Heroes](../factions/hells-bane-heroes.md) strike him down. His defeat still leaves the [Divine Gate](divine-gate.md) sealed, ending the age of direct divine rule.
+The [War of the Gods](war-of-the-gods.md) erupts when [Lucius](../people/lucius.md) turns on gods, heroes, and allies alike. At the height of his power, the [Hell's Bane Heroes](../factions/hells-bane-heroes.md) strike him down. His defeat still leaves the [Divine Gate](divine-gate.md) sealed, ending the age of direct divine rule.
 
 ## Seventh Age
 
@@ -52,7 +52,7 @@ The [Seventh Age](seventh-age.md) begins with the [Concurrence](the-concurrence.
 
 This is not an age of peace but of transition. The worlds are linked, magic is changing, [dungeons](dungeons.md) are more widely understood, and the aftermath of [the Kreen War](kreen-war.md) shapes politics.
 
-[Lucian](../people/lucian.md)'s contingencies continue to move after his death. [Julia / Julisia](../people/julia-julisia.md), [Wendell](../people/wendell.md), the [Black Vipers](../factions/black-vipers.md), and the [Moon Stone Collectors](../factions/moon-stone-collectors.md) all belong to this long shadow.
+[Lucius](../people/lucius.md)'s contingencies continue to move after his death. [Julia / Julisia](../people/julia-julisia.md), [Wendell](../people/wendell.md), the [Black Vipers](../factions/black-vipers.md), and the [Moon Stone Collectors](../factions/moon-stone-collectors.md) all belong to this long shadow.
 
 ## Campaign Sessions
 
@@ -61,3 +61,4 @@ This is not an age of peace but of transition. The worlds are linked, magic is c
 - [Session 3](../sessions/session-3.md): reassignment to [Driftvale](../places/driftvale.md) and [Fort Victory](../places/fort-victory.md) corruption.
 - [Session 4](../sessions/session-4.md): [Inquisition](../factions/inquisition.md) purge, contractor status, and crashed ship investigation.
 - [Session 5](../sessions/session-5.md): the [Concurrence](the-concurrence.md), the ship's bridge, and the start of the [Seventh Age](seventh-age.md).
+

@@ -1,6 +1,6 @@
 # The Singing Sword
 
-The Singing Sword is an inn, tavern, and social hub in [Sin](sin.md), associated with [Granny](../people/granny.md) and the tiefling bard-host [Vaelis Brighttongue](../people/valis-brighttongue.md).
+The Singing Sword is an inn, tavern, and social hub in [Sin](sin.md), associated with [Granny](../people/granny.md) and the tiefling bard-host [Vaelis Brighttongue](../people/vaelis-brighttongue.md).
 
 ## Description
 
@@ -19,6 +19,6 @@ The tavern is where the town speaks plainly, even when no one says anything dire
 ## Related
 
 - [Granny](../people/granny.md)
-- [Vaelis Brighttongue](../people/valis-brighttongue.md)
+- [Vaelis Brighttongue](../people/vaelis-brighttongue.md)
 - [Sin](sin.md)
 - [Granny's Teapot](../items/grannys-teapot.md)

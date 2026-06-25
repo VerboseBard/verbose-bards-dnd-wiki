@@ -28,7 +28,7 @@ In the final seconds before outside help arrives, several members of the party g
 
 ## Reinforcements
 
-Because of an extremely strong luck result, major reinforcements arrive. [Junara](../people/junara.md) joins the fight, as does Saraphel, champion of the Dawnfather.
+Because of an extremely strong luck result, major reinforcements arrive. [Junvara](../people/junvara.md) joins the fight, as does Saraphel, champion of the Dawnfather.
 
 Stonework, walls, and coordinated attacks on the Deceiver's clones prevent [Lyris the Deceiver](../people/lyris-the-deceiver.md) or the Deceiver-linked presence from escaping.
 
@@ -40,7 +40,7 @@ As she dies, she says, "Worth it." The line foreshadows that the fight was not o
 
 ## Juan Turns on June
 
-After the Deceiver falls, [Junara](../people/junara.md) moves to secure the killer of his friend [Jimbo](../people/jimbo.md).
+After the Deceiver falls, [Junvara](../people/junvara.md) moves to secure the killer of his friend [Jimbo](../people/jimbo.md).
 
 [Juan](../people/juan.md), still compromised by enemy influence, attempts to kill [June](../people/june.md) with the dagger. Even with advantage and other benefits, the attack rolls low enough to fail.
 
@@ -50,7 +50,7 @@ After the Deceiver falls, [Junara](../people/junara.md) moves to secure the kill
 
 - [Denny](../people/denny.md)
 - [June](../people/june.md)
-- [Junara](../people/junara.md)
+- [Junvara](../people/junvara.md)
 - [Lyris the Deceiver](../people/lyris-the-deceiver.md)
 - [Vaelith the Whisperer](../people/vaelith-the-whisperer.md)
 

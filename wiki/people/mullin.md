@@ -38,7 +38,7 @@ Instead, the belief and legend in the Commodore's return appear to be feeding hi
 
 In [War of the Gods, Session 23](../sessions/war-of-the-gods-session-23.md), Mullin's unstable situation finally detonates.
 
-[Mave](mave.md) confronts him, reveals more of his old sailor-king memories, and makes clear that the school cannot keep him on its grounds after his bargain with [Wendell](wendell.md). When the party follows him out, [Junara](junara.md) correctly identifies [Wendell](wendell.md)'s crown as the immediate control mechanism distorting his choices.
+[Mave](mave.md) confronts him, reveals more of his old sailor-king memories, and makes clear that the school cannot keep him on its grounds after his bargain with [Wendell](wendell.md). When the party follows him out, [Junvara](junvara.md) correctly identifies [Wendell](wendell.md)'s crown as the immediate control mechanism distorting his choices.
 
 The crown is removed, but too late to stop the contingency built into it. Infernal portals open around the group, [Wendell](wendell.md)'s dragon appears, and Mullin is driven into direct combat against his own companions. He is eventually killed in the fighting, making Session 23 the first clear collapse of the "I can still walk this line safely" idea that had been haunting his arc since Session 20.
 

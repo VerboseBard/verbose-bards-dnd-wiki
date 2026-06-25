@@ -2,7 +2,7 @@
 
 Lieutenant Rethiel Kaine is an elf officer associated with the party's early war service and later [Ash's Hounds](../factions/ashs-hounds.md). Session 1 transcript notes include a surviving lieutenant nicknamed `Gandalf` by the table, but Session 2 later introduces a separate orc supervisor whose name drifts from `Gandalf` to [Colonel Gandor](colonel-gandor.md). The nickname assignment should remain unresolved rather than merged automatically.
 
-The name spelling is now treated as corrected, but his exact Session 1 fate has a continuity conflict: the existing actual-play chain keeps him alive into [Session 2](../sessions/session-2.md), while a later command-hierarchy note lists a Rethiel Kaine as killed in the initial trench engagement.
+His exact Session 1 fate has a continuity conflict: the existing actual-play chain keeps him alive into [Session 2](../sessions/session-2.md), while a later command-hierarchy note lists a Rethiel Kaine as killed in the initial trench engagement.
 
 ## Personality and Role
 

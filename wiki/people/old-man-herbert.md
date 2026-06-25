@@ -10,5 +10,5 @@ He died when Constance was still young, and the loss hit both her and Gadzooks h
 
 ## Related
 
-- [Constant and Zuk](constant-and-zuk.md)
+- [Constance and Zuk](constance-l-coggeshall.md)
 - [Gadzooks](../campaign/logans-second-campaign/gadzooks.md)

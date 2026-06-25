@@ -30,7 +30,7 @@ She:
 - leaves him with a blessing tied to hearth, home, and sanctuary
 - leaves a physical [Hestia's Hearth Pendant](../items/hestias-hearth-pendant.md) around Jefferson's throat
 
-The pendant's visible symbol is an old kitchen with a fire, table, and bread. The Session 6 transcript calls the blessing the blessing of `Hest`, goddess of the hearth; the wiki currently treats Hest and Hestia as the same Fourth-Age figure unless later table notes split them.
+The pendant's visible symbol is an old kitchen with a fire, table, and bread. The blessing is also called Hest's blessing, tying it directly to Hestia's hearth-fragment power.
 
 Known blessing mechanics include turning a natural 1 into a 20 proficiency times per day and a backswing-as-bonus-action style benefit. The exact item text should still be checked against Jefferson's live character sheet.
 
@@ -52,7 +52,7 @@ Third, her survival now points toward a deeper Fourth-Age divine war in which [L
 
 ## Session 9 Recovery
 
-[Session 9](../sessions/session-9.md) makes Hestia's survival more active. [Mistress Selyra Vex'ryn](mistress-sila-vexry.md) claims that Hestia was not simply destroyed because hearth, home, motherhood, welcome, and hospitality still act as unconscious worship. In Vex'ryn's telling, [Lolth](lolth.md) tied that surviving hearth power to her own ascension system rather than wasting it.
+[Session 9](../sessions/session-9.md) makes Hestia's survival more active. [Mistress Selyra Vex'ryn](mistress-selyra-vexryn.md) claims that Hestia was not simply destroyed because hearth, home, motherhood, welcome, and hospitality still act as unconscious worship. In Vex'ryn's telling, [Lolth](lolth.md) tied that surviving hearth power to her own ascension system rather than wasting it.
 
 The claim is suspect because it comes from Vex'ryn, but the party sees confirming signs. When Hestia's name is spoken, Bartholomew's inner pain fades, and the presence near his medallion and Jefferson's pendant feels like a campfire in the void. Bartholomew later prays and receives warmth, comfort, and bodily strengthening.
 

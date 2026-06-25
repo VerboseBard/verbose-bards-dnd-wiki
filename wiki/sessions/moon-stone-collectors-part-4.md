@@ -40,7 +40,7 @@ She warns the party that portal lag has cost them time and gives them rooms, foo
 
 ## Elsewhere II
 
-The cutaway to Constance and Zuks shows the long consequences of [Greg](../people/greg.md)'s changes to reality.
+The cutaway to Constance and Zuks shows the long consequences of [Greg](../people/greg-p-smith.md)'s changes to reality.
 
 The scene reinforces that the [Divine Gate](../concepts/divine-gate.md) is also a power gate, that dragonkind has been changed by the world rewrite, and that the party's timing matters far more than they first realized.
 

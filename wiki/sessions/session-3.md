@@ -10,7 +10,7 @@ Session 3 shifts the campaign into postwar [Driftvale](../places/driftvale.md), 
 - The session explains [Post-Concurrence Magic Theory](../concepts/post-concurrence-magic.md): magic is more common but less concentrated, and artificery/ritual magic may replace old high-magic power.
 - The party teleports to [Fort Victory](../places/fort-victory.md) on [Driftvale](../places/driftvale.md).
 - [Captain Donner](../people/captain-donner.md) explains fog rules, artifact rules, [Calvin's Curios](../places/calvins-curios.md), [Sin](../places/sin.md), and the danger of fog anomalies.
-- The party visits [The Singing Sword](../places/singing-sword.md), meets [Vaelis Brighttongue](../people/valis-brighttongue.md), and receives [Granny's Teapot](../items/grannys-teapot.md)-related foreshadowing through [Granny](../people/granny.md)'s tea.
+- The party visits [The Singing Sword](../places/singing-sword.md), meets [Vaelis Brighttongue](../people/vaelis-brighttongue.md), and receives [Granny's Teapot](../items/grannys-teapot.md)-related foreshadowing through [Granny](../people/granny.md)'s tea.
 - The party sees a [Fog Whale](../concepts/fog-whales.md), read by [Driftvale](../places/driftvale.md) lore as a good omen.
 - The party humiliates [Lieutenant Garrick Hume](../people/lieutenant-garrick-hume.md) by waking him with salt water after he delays the convoy.
 - The party sees the fog containment network and the normalized fine system for unauthorized scavengers.
@@ -18,7 +18,7 @@ Session 3 shifts the campaign into postwar [Driftvale](../places/driftvale.md), 
 - The party is reassigned to [Fort Victory](../places/fort-victory.md) fog-scavenging / punishment duty.
 - [Colonel Marrow Vance](../people/colonel-marrow-vance.md) explains the legal corruption of fog-resource extraction and tells the party not to rock the boat.
 - [Rurik Valdren](../people/rurik-valdren.md) offers payment and protection for dwarven artifacts through [Calvin's Curios](../places/calvins-curios.md).
-- [Mistress Selyra Vex'ryn](../people/mistress-sila-vexry.md) offers double payment for ignoring her scavengers and reveals leverage over Vance.
+- [Mistress Selyra Vex'ryn](../people/mistress-selyra-vexryn.md) offers double payment for ignoring her scavengers and reveals leverage over Vance.
 - The party chooses a pragmatic middle path: make money, avoid hurting locals, sometimes report finds, sometimes look away.
 - The party discovers [The Crashed Ship](../places/crashed-ship.md) in the fog and keeps it secret.
 - The party later finds a murdered fog team and evidence implicating [Lieutenant Garrick Hume](../people/lieutenant-garrick-hume.md).
@@ -31,8 +31,8 @@ Session 3 shifts the campaign into postwar [Driftvale](../places/driftvale.md), 
 - [Colonel Dale](../people/colonel-dale.md)
 - [Colonel Marrow Vance](../people/colonel-marrow-vance.md)
 - [Rurik Valdren](../people/rurik-valdren.md)
-- [Mistress Selyra Vex'ryn](../people/mistress-sila-vexry.md)
-- [Vaelis Brighttongue](../people/valis-brighttongue.md)
+- [Mistress Selyra Vex'ryn](../people/mistress-selyra-vexryn.md)
+- [Vaelis Brighttongue](../people/vaelis-brighttongue.md)
 - [Granny](../people/granny.md)
 - [Jeffree](../people/jeffree.md)
 
@@ -68,7 +68,7 @@ Session 3 puts the party in the middle of a three-way power struggle between cor
 ## Important Conversations
 
 - [Captain Donner](../people/captain-donner.md)'s briefing establishes the social contract of [Driftvale](../places/driftvale.md): obey the fog rules, do not touch what you do not understand, and understand that the fort profits from enforcement as much as safety.
-- [Vaelis Brighttongue](../people/valis-brighttongue.md) and [Granny](../people/granny.md) turn the [Singing Sword](../places/singing-sword.md) into more than a tavern; their dialogue makes [Sin](../places/sin.md) feel like a town held together by hospitality, rumor, and practical kindness.
+- [Vaelis Brighttongue](../people/vaelis-brighttongue.md) and [Granny](../people/granny.md) turn the [Singing Sword](../places/singing-sword.md) into more than a tavern; their dialogue makes [Sin](../places/sin.md) feel like a town held together by hospitality, rumor, and practical kindness.
 - Lieutenant Hume's delay and the party's decision to wake him with salt water define the unit's relationship to lazy authority before the corruption arc even fully starts.
 - [Colonel Dale](../people/colonel-dale.md)'s offer to keep the party on, versus Colonel Vance's demand that they stop rocking the boat, makes the difference between professional service and institutional rot explicit.
 - [Rurik Valdren](../people/rurik-valdren.md) and Mistress Selyra's competing offers show that [Driftvale](../places/driftvale.md)'s real economy runs on private leverage, artifacts, and people who know how to trade in silence.

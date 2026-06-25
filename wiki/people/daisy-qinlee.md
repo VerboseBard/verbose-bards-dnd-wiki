@@ -10,7 +10,7 @@ Those jokes have a habit of going a little too far.
 
 ## Triplet Prophecy
 
-The Qinlee triplets are treated as an anomaly. Older notes describe a gnomish prophecy spoken over them by an old nursemaid and emphasize how unlikely it would have been for all three sisters to awaken to power.
+The Qinlee triplets are treated as an anomaly. A gnomish prophecy spoken over them by an old nursemaid emphasizes how unlikely it would have been for all three sisters to awaken to power.
 
 ## Related
 

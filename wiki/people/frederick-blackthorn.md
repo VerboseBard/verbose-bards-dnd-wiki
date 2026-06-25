@@ -10,11 +10,11 @@ Frederick appears at the [Longshore Casino](../places/longshore-casino.md) table
 
 Frederick is looking for his sister, [Winrah Holm](winrah-holm.md), who vanished after the [Breaking](../concepts/the-breaking.md). He says she was an anti-god activist who regularly denounced the churches but cannot understand why she would attack [Jimbo](jimbo.md) or [Charlie](charlie.md).
 
-[Dark Star](dark-star.md) invited Frederick by promising a path to contact someone who could reach Winrah. Frederick appears more naive than malicious and is openly fascinated by the [Hell's Bane Heroes](../factions/hells-bane-heroes.md), especially [Constant and Zuk](constant-and-zuk.md).
+[Dark Star](dark-star.md) invited Frederick by promising a path to contact someone who could reach Winrah. Frederick appears more naive than malicious and is openly fascinated by the [Hell's Bane Heroes](../factions/hells-bane-heroes.md), especially [Constance and Zuk](constance-l-coggeshall.md).
 
 ## Soul Contingency
 
-During [Lucian's Crystal Trap](../concepts/lucians-crystal-trap.md), Frederick's hidden soul contingency detonates. He appears to have been used as an unwitting vector rather than a conscious saboteur.
+During [Lucius's Crystal Trap](../concepts/lucius-crystal-trap.md), Frederick's hidden soul contingency detonates. He appears to have been used as an unwitting vector rather than a conscious saboteur.
 
 ## Related
 
@@ -23,3 +23,4 @@ During [Lucian's Crystal Trap](../concepts/lucians-crystal-trap.md), Frederick's
 - [Longshore Casino](../places/longshore-casino.md)
 - [The Hunt for Black Vipers, Part 5](../sessions/hunt-for-black-vipers-part-5.md)
 - [The Hunt for Black Vipers, Part 7](../sessions/hunt-for-black-vipers-part-7.md)
+

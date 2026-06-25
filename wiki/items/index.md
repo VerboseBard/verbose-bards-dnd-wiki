@@ -1,4 +1,4 @@
-# Items and Technology Index
+﻿# Items and Technology Index
 
 - [Ether Crystals](ether-crystals.md)
 - [Ether Dust](ether-dust.md)
@@ -41,7 +41,7 @@
 - [Fog-Containment Artifacts](fog-containment-artifacts.md)
 - [Soul Cage](soul-cage.md)
 - [Divine Sand](divine-sand.md)
-- [Lucian Anchor Blades](lucian-anchor-blades.md)
+- [Lucius Anchor Blades](lucius-anchor-blades.md)
 - [Motes of Possibility](motes-of-possibility.md)
 - [Kestrel's Ancient Blades](kestrels-ancient-blades.md)
 - [Tainted Soul Coin](tainted-soul-coin.md)
@@ -64,3 +64,4 @@
 - [Crown of Fools](crown-of-fools.md)
 - [Iron Bands of Bilarro](iron-bands-of-bilarro.md)
 - [Shifter's Mask](shifters-mask.md)
+

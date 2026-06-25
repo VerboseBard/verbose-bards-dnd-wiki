@@ -88,7 +88,7 @@ Session 7 turns [the Lost Homeland Mission](../concepts/lost-homeland-mission.md
 
 ## Source Notes
 
-Derived from corrected Session 7 campaign notes supplied on May 29, 2026, now cross-checked against the uploaded YouTube transcript preserved locally at `campaign/session-7/raw-transcript.txt`.
+Derived from Session 7 campaign notes supplied on May 29, 2026, cross-checked against the uploaded YouTube transcript preserved locally at `campaign/session-7/raw-transcript.txt`.
 
 Session 7 working notes:
 
@@ -97,5 +97,4 @@ Session 7 working notes:
 - `campaign/session-7/character-highlights.md`
 - `campaign/session-7/canon-check.md`
 
-The clan names, council roster, Tavero Bellan / Walter Wifflewick distinction, and Sunhollow first-contact sequence in this page should be treated as the corrected canon pass. The raw transcript contains many auto-caption variants, including `Alistister`, `Lavar/Bavar`, `Barrel/Barrow Root`, and `Hedozi`.
 

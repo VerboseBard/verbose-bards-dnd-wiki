@@ -10,7 +10,7 @@ She appears after the party enters the temple approach and demands to know why m
 
 ## Identity Caution
 
-The transcript compares her appearance to [Mistress Selyra Vex'ryn](mistress-sila-vexry.md), close enough to suggest a sister or mother/daughter resemblance. This is not confirmed as actual kinship. For now, the resemblance is tracked as a visual echo or open question, not proof of identity.
+The transcript compares her appearance to [Mistress Selyra Vex'ryn](mistress-selyra-vexryn.md), close enough to suggest a sister or mother/daughter resemblance. This is not confirmed as actual kinship. For now, the resemblance is tracked as a visual echo or open question, not proof of identity.
 
 It is also unclear whether the ghost priestess and [the Ssar'Velyn Temple Guardian](ssar-velyn-temple-guardian.md) are separate entities, projections of one guardian system, or different stages of the same surviving temple authority.
 
@@ -20,5 +20,5 @@ It is also unclear whether the ghost priestess and [the Ssar'Velyn Temple Guardi
 - [Ssar'Velyn Temple Guardian](ssar-velyn-temple-guardian.md)
 - [Gwen](gwen.md)
 - [Bevar Lurton](bevar-lurton.md)
-- [Mistress Selyra Vex'ryn](mistress-sila-vexry.md)
+- [Mistress Selyra Vex'ryn](mistress-selyra-vexryn.md)
 - [Session 8](../sessions/session-8.md)

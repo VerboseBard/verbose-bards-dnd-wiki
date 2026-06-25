@@ -22,9 +22,9 @@ It later becomes the place where [Phlukk](../people/phlukk.md) is kept in magica
 
 ## Distinction
 
-This school is not the same place as [Constant and Zuk's Dragon-Bonding School](constant-and-zuks-dragon-bonding-school.md) on [Saharun](saharun.md). Earlier wiki drafts accidentally blended the two because both are major sanctuaries involving children, crisis response, and later dragon-linked storylines.
+This school is not the same place as [Constance and Zuk's Dragon-Bonding School](constance-and-zuks-dragon-bonding-school.md) on [Saharun](saharun.md).
 
-Penny Hathaway's school belongs to the late [Sixth Age](../concepts/sixth-age.md) [Citadel](radiant-citadel.md)-era material. [Constant and Zuk](../people/constant-and-zuk.md)'s school belongs to the later [Seventh Age](../concepts/seventh-age.md) [Black Vipers](../factions/black-vipers.md) and [Saharun](saharun.md) material.
+Penny Hathaway's school belongs to the late [Sixth Age](../concepts/sixth-age.md) [Citadel](radiant-citadel.md)-era material. [Constance and Zuk](../people/constance-l-coggeshall.md)'s school belongs to the later [Seventh Age](../concepts/seventh-age.md) [Black Vipers](../factions/black-vipers.md) and [Saharun](saharun.md) material.
 
 ## Related
 

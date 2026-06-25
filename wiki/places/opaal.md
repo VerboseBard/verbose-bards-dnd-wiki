@@ -38,15 +38,15 @@ The twin cities of [Corialis](corialis.md) and [Wytebluff](wytebluff.md) form th
 
 [Wytebluff](wytebluff.md) was founded later on the cliffs above after surface settlers discovered [Corialis](corialis.md). Great cranes in the warehouse district raise and lower cargo between the two cities, making them effectively one vertical trade complex split between sea and air.
 
-[Bowing Reed](bowing-reed.md) is a sprawling wetland town surrounded by swamp and open marsh. It belongs to a different rhythm than the cliff cities and is tied to the Qinlee family line in older notes.
+[Bowing Reed](bowing-reed.md) is a sprawling wetland town surrounded by swamp and open marsh. It belongs to a different rhythm than the cliff cities and is tied to the Qinlee family line.
 
 ## Campaign Role
 
 Opaal appears in the broader setting briefing as the sea-world counterpart to the harsher continental powers. It is one of the places people go when they want distance from war, without escape from consequence.
 
-In the [Black Vipers](../factions/black-vipers.md) side arc, [Eve / Eva](../people/eva.md) is attacked on Opaal by mercenaries hired through Viper-linked money. She destroys the pursuing ships with a meteor shower, while the [442nd](../factions/442nd.md) is directed to trace the payments.
+In the [Black Vipers](../factions/black-vipers.md) side arc, [Eve](../people/eve.md) is attacked on Opaal by mercenaries hired through Viper-linked money. She destroys the pursuing ships with a meteor shower, while the [442nd](../factions/442nd.md) is directed to trace the payments.
 
-[Jack Kenway](../people/jack-kenway.md) later reflects aboard his Opaal ship before returning to aid the assault on [Jimbo's Soul Ritual](../concepts/jimbo-soul-ritual.md). The decision reconnects the Pirate King's household to the old debt against [Lucian](../people/lucian.md).
+[Jack Kenway](../people/jack-kenway.md) later reflects aboard his Opaal ship before returning to aid the assault on [Jimbo's Soul Ritual](../concepts/jimbo-soul-ritual.md). The decision reconnects the Pirate King's household to the old debt against [Lucius](../people/lucius.md).
 
 ## Related
 
@@ -57,6 +57,7 @@ In the [Black Vipers](../factions/black-vipers.md) side arc, [Eve / Eva](../peop
 - [The Concurrence](../concepts/the-concurrence.md)
 - [Council of Gods of the Fifth Age](../concepts/council-of-gods-of-the-fifth-age.md)
 - [Unity](unity.md)
-- [Eve / Eva](../people/eva.md)
+- [Eve](../people/eve.md)
 - [Jack Kenway](../people/jack-kenway.md)
 - [The Hunt for Black Vipers, Part 9](../sessions/hunt-for-black-vipers-part-9.md)
+

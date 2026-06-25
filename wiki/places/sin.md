@@ -26,7 +26,7 @@ The largest and most impressive building in town, the [Silk Parlor](silk-parlor.
 
 The lower levels are where soldiers, merchants, opportunists, and gamblers mix. The upper spaces are more exclusive, more expensive, and far more dangerous.
 
-The Parlor's staff are as much part of the city's power structure as its patrons. Among the names spoken in town are [Selyra Vex'ryn](../people/mistress-sila-vexry.md), Kael Vex'ryn, Velrith Nyx, Kaelis Varn, Serenya Vael, Draevira Sol, Lethira Morn, Myrren Dusk, Zyraen Vex, and Thalira Noct.
+The Parlor's staff are as much part of the city's power structure as its patrons. Among the names spoken in town are [Selyra Vex'ryn](../people/mistress-selyra-vexryn.md), Kael Vex'ryn, Velrith Nyx, Kaelis Varn, Serenya Vael, Draevira Sol, Lethira Morn, Myrren Dusk, Zyraen Vex, and Thalira Noct.
 
 ### [Calvin's Curios](calvins-curios.md)
 

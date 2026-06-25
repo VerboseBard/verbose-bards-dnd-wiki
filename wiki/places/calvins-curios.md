@@ -12,7 +12,7 @@ The building itself feels more curated than commercial. It is a place where valu
 
 ## Campaign Role
 
-The party learns that Rurik is not simply a shopkeeper. He has enough power that even [Colonel Core](../people/colonel-core.md) treats him as a risky target. He is involved in the local corruption structure but appears narrower and more businesslike than [Mistress Selyra Vex'ryn](../people/mistress-sila-vexry.md).
+The party learns that Rurik is not simply a shopkeeper. He has enough power that even [Colonel Core](../people/colonel-core.md) treats him as a risky target. He is involved in the local corruption structure but appears narrower and more businesslike than [Mistress Selyra Vex'ryn](../people/mistress-selyra-vexryn.md).
 
 He is one of the key people who decide what does and does not move through [Sin](sin.md).
 

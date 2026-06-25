@@ -10,5 +10,5 @@ She brought small gifts and knickknacks, recognizing Constance's talent for tink
 
 ## Related
 
-- [Constant and Zuk](constant-and-zuk.md)
+- [Constance and Zuk](constance-l-coggeshall.md)
 - [Cornelius Coggeshall](cornelius-coggeshall.md)

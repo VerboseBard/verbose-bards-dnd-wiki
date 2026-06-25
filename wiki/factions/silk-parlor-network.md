@@ -1,6 +1,6 @@
 # Silk Parlor Network
 
-[The Silk Parlor](../places/silk-parlor.md) Network is the information, artifact, and influence web controlled by [Mistress Selyra Vex'ryn](../people/mistress-sila-vexry.md) from [The Silk Parlor](../places/silk-parlor.md) in [Sin](../places/sin.md).
+[The Silk Parlor](../places/silk-parlor.md) Network is the information, artifact, and influence web controlled by [Mistress Selyra Vex'ryn](../people/mistress-selyra-vexryn.md) from [The Silk Parlor](../places/silk-parlor.md) in [Sin](../places/sin.md).
 
 ## Description
 
@@ -17,6 +17,6 @@ The party cooperates indirectly for profit during their [Fort Victory](../places
 ## Related
 
 - [The Silk Parlor](../places/silk-parlor.md)
-- [Mistress Selyra Vex'ryn](../people/mistress-sila-vexry.md)
+- [Mistress Selyra Vex'ryn](../people/mistress-selyra-vexryn.md)
 - [Fort Victory Corruption Ring](../concepts/fort-victory-corruption-ring.md)
 - [Underdark / Upside-Down](../places/underdark-upside-down.md)

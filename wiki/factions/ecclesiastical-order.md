@@ -40,7 +40,7 @@ Class association: paladin.
 
 Known as "Judgment Made Flesh," Arbiters deliver divine justice. They act with authority to condemn, punish, or absolve, and are both feared and respected.
 
-In normal church structure, an Arbiter is an enforcer of judgment. This should not be confused with the proposed [Arbiter of the Conclave](../concepts/arbiter-of-the-conclave.md), which is a separate secular oversight role offered to [Junara](../people/junara.md).
+In normal church structure, an Arbiter is an enforcer of judgment. This should not be confused with the proposed [Arbiter of the Conclave](../concepts/arbiter-of-the-conclave.md), which is a separate secular oversight role offered to [Junvara](../people/junvara.md).
 
 ### Inquisitor
 

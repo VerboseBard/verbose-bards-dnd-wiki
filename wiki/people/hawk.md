@@ -1,4 +1,4 @@
-# Hawk
+﻿# Hawk
 
 Hawk was a party member in [Logan's Second Campaign](../campaign/logans-second-campaign.md), a [Fifth Age](../concepts/fifth-age.md) arc that begins roughly three years before [The Breaking](../concepts/the-breaking.md).
 
@@ -51,7 +51,7 @@ Even there, Hawk remains one of the steadier figures in the notes. He fights off
 
 The strongest continuity question in Hawk's notes is the repeated appearance of a figure named [Wendell](wendell.md).
 
-Hawk's campaign places a magically capable [Wendell](wendell.md) in active party orbit years before the late-[Sixth Age](../concepts/sixth-age.md) [War of the Gods / New Beginning Campaign](../campaign/war-of-the-gods.md), where [Wendell](wendell.md) becomes one of [Lucian](lucian.md)'s central agents. The name overlap, magical prominence, and setting importance make this a plausible continuity link, but the current notes are not strong enough to treat it as fully confirmed identity rather than a same-name precursor or unstable archival overlap.
+Hawk's campaign places a magically capable [Wendell](wendell.md) in active party orbit years before the late-[Sixth Age](../concepts/sixth-age.md) [War of the Gods / New Beginning Campaign](../campaign/war-of-the-gods.md), where [Wendell](wendell.md) becomes one of [Lucius](lucius.md)'s central agents. The name overlap, magical prominence, and setting importance make this a plausible continuity link, but the current notes are not strong enough to treat it as fully confirmed identity rather than a same-name precursor or unstable archival overlap.
 
 ## New Beginning Echo
 
@@ -72,3 +72,4 @@ Derived from the local source file `C:\Users\bulld\Downloads\Hawk notes.txt`, co
 - [Council of Gods of the Fifth Age](../concepts/council-of-gods-of-the-fifth-age.md)
 - [Wendell](wendell.md)
 - [Kestrel](kestrel.md)
+

@@ -19,7 +19,7 @@ The party follows the aftermath of the children's guild confrontation down to th
 
 ## Important People
 
-- [Greg](../people/greg.md)
+- [Greg](../people/greg-p-smith.md)
 - [Belle](../people/belle.md)
 
 ## Important Places

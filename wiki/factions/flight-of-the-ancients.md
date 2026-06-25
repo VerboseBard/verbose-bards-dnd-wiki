@@ -10,12 +10,12 @@ The Flight exists through a mental or metaphysical doorway rather than ordinary 
 
 The Flight guides dragonkind across worlds and ages. It is not a church and does not appear to function like a divine court. It is tied to dragon legend, memory, and the way powerful dragons exist across their own timelines.
 
-## Constant and Zuk
+## Constance and Zuk
 
-[Gwyne](../people/gwyne.md) introduces [Constant and Zuk](../people/constant-and-zuk.md) to the Flight after they help stabilize [Lilith](../people/lilith.md)'s dragon bond. There, [Tiamat](../people/tiamat.md) names Constant the future Mother of Dragons for this world and brands both [Constant and Zuk](../people/constant-and-zuk.md) as members of the Flight.
+[Gwyne](../people/gwyne.md) introduces [Constance and Zuk](../people/constance-l-coggeshall.md) to the Flight after they help stabilize [Lilith](../people/lilith.md)'s dragon bond. There, [Tiamat](../people/tiamat.md) names Constance the future Mother of Dragons for this world and brands both [Constance and Zuk](../people/constance-l-coggeshall.md) as members of the Flight.
 
 ## Related
 
 - [Tiamat](../people/tiamat.md)
-- [Constant and Zuk](../people/constant-and-zuk.md)
+- [Constance and Zuk](../people/constance-l-coggeshall.md)
 - [The Hunt for Black Vipers, Part 8](../sessions/hunt-for-black-vipers-part-8.md)

@@ -1,4 +1,4 @@
-# Ages
+﻿# Ages
 
 This page is a quick entry point for the first through tenth ages. If an age has no dedicated detail yet, the page says so plainly.
 
@@ -10,7 +10,7 @@ This page is a quick entry point for the first through tenth ages. If an age has
 ## Second Age
 
 - [Second Age](second-age.md)
-- Summary: An age of world-shaping war, the transformation of giants into dwarves, and the rise of [Lucian](../people/lucian.md) through the death of [Rexel Kar](../people/rexel-kar.md).
+- Summary: An age of world-shaping war, the transformation of giants into dwarves, and the rise of [Lucius](../people/lucius.md) through the death of [Rexel Kar](../people/rexel-kar.md).
 
 ## Third Age
 
@@ -51,4 +51,5 @@ This page is a quick entry point for the first through tenth ages. If an age has
 
 - [Tenth Age](tenth-age.md)
 - No information has been added at this time.
+
 

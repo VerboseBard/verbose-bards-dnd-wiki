@@ -16,7 +16,7 @@ In the extracted [War of the Gods, Session 16](../sessions/war-of-the-gods-sessi
 
 By [War of the Gods, Session 18](../sessions/war-of-the-gods-session-18.md), she is acting with far more authority than an ordinary adventurer. She arrives on the party's ship, warns them to be careful around 69, delivers two dragon cores through [Shaq](gregario-shaq.md) to pay a divine debt, and then departs to rejoin her sisters.
 
-In [War of the Gods, Session 19](../sessions/war-of-the-gods-session-19.md), [Junara](junara.md) catches part of Rose's mental state as she leaves. The glimpse suggests she fears a "Mistress of Death," feels trapped in someone else's revenge logic, and no longer sees revenge as worth the cost of surrendering her own will.
+In [War of the Gods, Session 19](../sessions/war-of-the-gods-session-19.md), [Junvara](junvara.md) catches part of Rose's mental state as she leaves. The glimpse suggests she fears a "Mistress of Death," feels trapped in someone else's revenge logic, and no longer sees revenge as worth the cost of surrendering her own will.
 
 In [War of the Gods, Session 21](../sessions/war-of-the-gods-session-21.md), Rose is privately summoned again by [Alen](alen.md) during the battle's aftermath. [Alen](alen.md) tells her that her service is almost complete and hints that release, reunion, or revenge may finally be close. The scene reinforces that Rose is still under a bargain she never truly wanted, even if the end of it may now be approaching.
 

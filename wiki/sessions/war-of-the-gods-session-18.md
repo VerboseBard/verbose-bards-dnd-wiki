@@ -11,24 +11,24 @@ The group is no longer just fighting a war outside itself. By the end of the ses
 ## Key Events
 
 - The party is rescued from [Wendell](../people/wendell.md)'s ambush by an airship tied to the school and begins a multi-day flight toward Constance's homeland.
-- [Greg](../people/greg.md) receives an urgent message from [Mave](../people/mave.md) asking him not to share the dungeon information too quickly, then views the recorded exchange between [Belle](../people/belle.md) and [Wendell](../people/wendell.md) anyway.
+- [Greg](../people/greg-p-smith.md) receives an urgent message from [Mave](../people/mave.md) asking him not to share the dungeon information too quickly, then views the recorded exchange between [Belle](../people/belle.md) and [Wendell](../people/wendell.md) anyway.
 - Tim meditates on his recovered identity and meets the djinn patron from his former life, who offers him a path back to old bloodline power if he turns away from [Straka](../people/straka.md).
 - [Shaq](../people/gregario-shaq.md)'s raven patron negotiates a concrete payment: Rose will deliver dragon cores, and his debt will be cleared once they reach 69.
 - Constance, deeply shaken after [Wendell](../people/wendell.md)'s mental violation, spends part of the voyage recovering beside [Charlie](../people/charlie.md), who shares her own history of abuse and tries to ground her in the truth that [Wendell](../people/wendell.md)'s actions were not her fault.
 - 69 meets [Belle](../people/belle.md) in a dream. She frames family, forgiveness, and killing in deeply manipulative fey logic, then gives him three possible ways to grow stronger enough to fulfill his purpose.
-- The shipboard political split deepens as [Greg](../people/greg.md), [Junara](../people/junara.md), [Gregario / Shaq](../people/gregario-shaq.md), and [Kestrel](../people/kestrel.md)-like allies quietly conclude that [Belle](../people/belle.md) is becoming too unstable and powerful to trust.
+- The shipboard political split deepens as [Greg](../people/greg-p-smith.md), [Junvara](../people/junvara.md), [Gregario / Shaq](../people/gregario-shaq.md), and [Kestrel](../people/kestrel.md)-like allies quietly conclude that [Belle](../people/belle.md) is becoming too unstable and powerful to trust.
 - [Mave](../people/mave.md) appears through a projection meeting and openly confirms that [Belle](../people/belle.md) and [Straka](../people/straka.md) effectively used the party as bait to force [Wendell](../people/wendell.md) into direct action.
 - [Mave](../people/mave.md) also reveals that she has stepped away from the pantheon because of [Belle](../people/belle.md)'s choices and no longer supports the direction [Belle](../people/belle.md) has taken.
-- Josh's magical redress reveals layered blessings and curses across the party, including [Wendell](../people/wendell.md)'s torment on Constance and unfinished consequences hanging over [Greg](../people/greg.md).
+- Josh's magical redress reveals layered blessings and curses across the party, including [Wendell](../people/wendell.md)'s torment on Constance and unfinished consequences hanging over [Greg](../people/greg-p-smith.md).
 - Rose arrives on the ship, confirms danger around 69, and later delivers two dragon cores through [Shaq](../people/gregario-shaq.md) before vanishing over the side of the vessel to rejoin her sisters.
 - 69 immediately channels the two cores and jumps to level 12, dramatically increasing the danger Bell's side now represents.
 
 ## Important People
 
-- [Greg](../people/greg.md)
+- [Greg](../people/greg-p-smith.md)
 - [Mave](../people/mave.md)
 - [Belle](../people/belle.md)
-- [Constant and Zuk](../people/constant-and-zuk.md)
+- [Constance and Zuk](../people/constance-l-coggeshall.md)
 - [Gregario / Shaq](../people/gregario-shaq.md)
 - [Rose Qinlee](../people/rose-qinlee.md)
 - [Wendell](../people/wendell.md)

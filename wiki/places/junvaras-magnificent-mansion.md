@@ -1,6 +1,6 @@
-# Junara's Magnificent Mansion
+# Junvara's Magnificent Mansion
 
-Junara's Magnificent Mansion is an extradimensional refuge created by [Junara](../people/junara.md).
+Junvara's Magnificent Mansion is an extradimensional refuge created by [Junvara](../people/junvara.md).
 
 ## Description
 
@@ -14,7 +14,7 @@ The group retreats into the mansion from [Caravan's Rest](caravans-rest.md) to s
 
 ## Related
 
-- [Junara](../people/junara.md)
+- [Junvara](../people/junvara.md)
 - [The Hunt for Black Vipers, Part 1](../sessions/hunt-for-black-vipers-part-1.md)
 - [Black Vipers](../factions/black-vipers.md)
 

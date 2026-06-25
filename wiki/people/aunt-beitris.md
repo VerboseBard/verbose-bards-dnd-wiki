@@ -8,5 +8,5 @@ Beitris regularly fed Constance, gave her safe nights away from home, and showed
 
 ## Related
 
-- [Constant and Zuk](constant-and-zuk.md)
+- [Constance and Zuk](constance-l-coggeshall.md)
 - [Gadzooks](../campaign/logans-second-campaign/gadzooks.md)

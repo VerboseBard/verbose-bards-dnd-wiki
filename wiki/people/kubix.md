@@ -2,10 +2,6 @@
 
 Kubix is the shipboard AI of the [Crashed Ship](../places/crashed-ship.md), later identified as the [Kex](../places/kex.md)'s assistant and technical intelligence.
 
-## Name Note
-
-The Session 5 transcript drifts through table variants like `Tubix` and `Kovix`; `Kubix` is the stabilized wiki spelling.
-
 In Session 6, Jose starts calling Kubix or the ship interface `Alexa`. The table jokes about whether the AI or the ship has been renamed, but Jose says he mainly wants to call the interface Alexa and will think about the ship's formal name. Until later canon locks this down, `Alexa` should be treated as Jose's nickname or command-interface label rather than a replacement for Kubix or the [Kex](../places/kex.md).
 
 ## Role

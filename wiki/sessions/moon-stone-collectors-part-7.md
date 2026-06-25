@@ -24,7 +24,7 @@ Morgrath has already been weakened by previous clashes, including [Belle](../peo
 
 [Vylra](../people/vylra.md) activates Guardian of Nature and Symbiotic Entity while coordinating from the balconies. His burning skulls begin blasting enemies, and one later detonates inside a demon for massive damage.
 
-[Luca](../people/luca.md) uses Zealous Presence to strengthen the team and stays at the edge of Sickening Radiance while helping [Zen](../people/zen.md)'s flank.
+[Luka](../people/luka.md) uses Zealous Presence to strengthen the team and stays at the edge of Sickening Radiance while helping [Zen](../people/zen.md)'s flank.
 
 ## Morgrath Paralyzed
 

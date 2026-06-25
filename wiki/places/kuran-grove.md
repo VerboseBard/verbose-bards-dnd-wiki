@@ -1,6 +1,6 @@
 # Kuran Grove
 
-Kuran Grove, also rendered Curan Grove in speech, is [Vylra](../people/vylra.md)'s homeland on [Norvindr](norvindr.md).
+Kuran Grove is [Vylra](../people/vylra.md)'s homeland on [Norvindr](norvindr.md).
 
 ## Fifth Age
 

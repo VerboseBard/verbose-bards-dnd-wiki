@@ -10,7 +10,7 @@ He is visually and thematically tied to spores, fieldcraft, and domestic labor. 
 
 ## Role
 
-At the canon Session 1 final roster, Vylra is a Druid 10 / Ranger 5.
+Roster snapshot: Level 15 firbolg, Druid / Ranger, Circle of Spores / Swarmkeeper. Player: BattleHammerBOis.
 
 He acts as nature controller, marksman, strategist, and one of the clearest consciences in the party. The notes repeatedly present him as someone who thinks tactically, feels protective responsibility strongly, and tries to keep the group from crossing moral lines just because the world is collapsing.
 

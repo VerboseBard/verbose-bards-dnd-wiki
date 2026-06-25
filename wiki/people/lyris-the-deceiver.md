@@ -10,7 +10,7 @@ At the end of [Moon Stone Collectors, Part 7](../sessions/moon-stone-collectors-
 
 ## Death
 
-In [Moon Stone Collectors, Part 8](../sessions/moon-stone-collectors-part-8.md), Lyris multiplies herself through illusions, charms frontline fighters, and lashes out with psychic magic. The party identifies the true body, breaks the charm, and [Luca](luca.md) kills her.
+In [Moon Stone Collectors, Part 8](../sessions/moon-stone-collectors-part-8.md), Lyris multiplies herself through illusions, charms frontline fighters, and lashes out with psychic magic. The party identifies the true body, breaks the charm, and [Luka](luka.md) kills her.
 
 ## Later Echo
 

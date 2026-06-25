@@ -1,4 +1,4 @@
-﻿# Sunhollow Council
+# Sunhollow Council
 
 The Sunhollow Council is the formal ruling body of [Sunhollow Valley](../places/sunhollow-valley.md), combining clan elders, inherited obligations, and long-isolated valley politics.
 
@@ -42,7 +42,7 @@ Walter's public invocation of the emissary clause changes the council's options:
 
 ## Session 9 Crisis
 
-By [Session 9](../sessions/session-9.md), the council is about to face the consequences of the party's temple return. [Bevar Lurton](../people/bevar-lurton.md) remains missing inside or with the temple work, the [Inquisition](inquisition.md) is approaching the valley, and [Mistress Selyra Vex'ryn](../people/mistress-sila-vexry.md) claims she needs one to two weeks before the blood oath problem can be resolved.
+By [Session 9](../sessions/session-9.md), the council is about to face the consequences of the party's temple return. [Bevar Lurton](../people/bevar-lurton.md) remains missing inside or with the temple work, the [Inquisition](inquisition.md) is approaching the valley, and [Mistress Selyra Vex'ryn](../people/mistress-selyra-vexryn.md) claims she needs one to two weeks before the blood oath problem can be resolved.
 
 [Sgt. Jefferson Stone](../people/sergeant-jefferson-stone.md) also realizes that the council site is the old elven conclave and may still be tied to valley defenses meant to admit elves rather than outsiders. The next council meeting therefore has to handle the temple oath, the Inquisition countdown, Rurik Valdren's possible intervention, and the risk that old defensive systems could kill the very people the council is trying to protect.
 

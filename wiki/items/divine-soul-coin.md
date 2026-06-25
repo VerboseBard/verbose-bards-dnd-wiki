@@ -4,7 +4,7 @@ The Divine Soul Coin is a fading relic created from [Mave](../people/mave.md)'s 
 
 ## Origin
 
-After [Mave](../people/mave.md) is released from [Wendell](../people/wendell.md)'s fortress, she pours the last of her divine knowledge into the captive satyr who leaves with her rescuers. The satyr is revealed to be [Juan](../people/juan.md) restored to himself, and the blessing manifests as a coin.
+After [Mave](../people/mave.md) is released from [Wendell](../people/wendell.md)'s fortress, she pours the last of her divine knowledge into the captive goblin who leaves with her rescuers. The captive is revealed to be [Juan](../people/juan.md) restored to himself, and the blessing manifests as a coin.
 
 ## Power
 

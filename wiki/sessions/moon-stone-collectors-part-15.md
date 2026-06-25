@@ -24,7 +24,7 @@ Together, the three aspects mark [Paul](../people/paul.md) with the [Crown of Fo
 
 During watch, [Julara](../people/julara.md) researches a partial workaround. She instructs [Paul](../people/paul.md) to draw a blood circle and drink a potion passed through from her side of the bargain.
 
-The ritual suppresses the crown's constant glow. It no longer shines all the time, but it will flare when [Paul](../people/paul.md) rages. The crown remains physically present and unresolved.
+The ritual suppresses the crown's Constance glow. It no longer shines all the time, but it will flare when [Paul](../people/paul.md) rages. The crown remains physically present and unresolved.
 
 ## Fey Court Lore
 

@@ -1,6 +1,6 @@
 # Astral Sea
 
-The Astral Sea, also called the land or sea of dreams in older notes, is a grey void realm where ordinary land is rare, unstable, and often made of dangerous living flesh.
+The Astral Sea, also called the land or sea of dreams, is a grey void realm where ordinary land is rare, unstable, and often made of dangerous living flesh.
 
 ## Description
 
@@ -10,7 +10,7 @@ Stable places to stand do exist, but many natural masses are too dangerous to li
 
 ## The Six Sectors
 
-Older notes divide the Astral Sea into six major sectors or power blocs:
+The Astral Sea is divided into six major sectors or power blocs:
 
 - [Gith'yanki Empire](../factions/githyanki-empire.md)
 - [Giff Compendency](../factions/giff-compendency.md)

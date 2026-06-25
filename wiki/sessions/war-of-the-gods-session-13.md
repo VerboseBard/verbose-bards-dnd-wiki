@@ -8,7 +8,7 @@ An ominous encounter at McGinty's is immediately followed by open attacks on the
 
 ## Key Events
 
-- [Kestrel](../people/kestrel.md), 69, and [Junara](../people/junara.md) encounter a Black Viper-looking woman at McGinty's.
+- [Kestrel](../people/kestrel.md), 69, and [Junvara](../people/junvara.md) encounter a Black Viper-looking woman at McGinty's.
 - The [Radiant Citadel](../places/radiant-citadel.md) shield comes under attack from ships.
 - The group uses the recall scroll to get back to the school.
 - [Mave](../people/mave.md) is dying, while [Belle](../people/belle.md) tries to keep events moving through dragon-core and soul-coin logic.
@@ -25,8 +25,8 @@ An ominous encounter at McGinty's is immediately followed by open attacks on the
 - [Belle](../people/belle.md)
 - [Jinx](../people/jinx.md)
 - [Gregario / Shaq](../people/gregario-shaq.md)
-- [Junara](../people/junara.md)
-- [Constant and Zuk](../people/constant-and-zuk.md)
+- [Junvara](../people/junvara.md)
+- [Constance and Zuk](../people/constance-l-coggeshall.md)
 
 ## Important Places
 

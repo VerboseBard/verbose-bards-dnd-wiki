@@ -14,7 +14,7 @@ The linked worlds enabled the [Unified Armed Forces](../factions/unified-armed-f
 
 In the weeks before completion, worlds such as [Norvindr](../places/norvindr.md) visibly begin changing course through the heavens. Public fear rises, religious leaders prepare the [Conclave of Churches](../factions/conclave-of-churches.md), and many mortals distrust the same magical technology meant to save them.
 
-During the final moments, the Concurrence provides enough surplus magical power for [Constant and Zuk](../people/constant-and-zuk.md) to force open a portal from the [Radiant Citadel](../places/radiant-citadel.md) to the [Dwarven Egg Fortress](../places/dwarven-egg-fortress.md). The same event completes the visible alignment of the worlds around the [Citadel](../places/radiant-citadel.md).
+During the final moments, the Concurrence provides enough surplus magical power for [Constance and Zuk](../people/constance-l-coggeshall.md) to force open a portal from the [Radiant Citadel](../places/radiant-citadel.md) to the [Dwarven Egg Fortress](../places/dwarven-egg-fortress.md). The same event completes the visible alignment of the worlds around the [Citadel](../places/radiant-citadel.md).
 
 ## Related
 

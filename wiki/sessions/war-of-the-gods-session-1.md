@@ -19,8 +19,8 @@ The campaign opens with newly awakened characters being found across the realms 
 ## Important People
 
 - [Mave](../people/mave.md)
-- [Greg](../people/greg.md)
-- [Constant and Zuk](../people/constant-and-zuk.md)
+- [Greg](../people/greg-p-smith.md)
+- [Constance and Zuk](../people/constance-l-coggeshall.md)
 
 ## Important Places
 

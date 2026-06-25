@@ -4,7 +4,7 @@ Sorrel is a female fairy and one of the core members of the [Moon Stone Collecto
 
 ## Role
 
-At the canon Session 1 final roster, Sorrel is a Bard 9 / Fighter 5 who serves as an aerial duelist and support caster.
+Roster snapshot: Level 16 fairy, Bard, College of Mockery / Illrigger / Messenger. Player: IrishElk2019.
 
 She is described as graceful, witty, and performance-driven, mixing swordplay and song while keeping spirits up with humor even when the fights are ugly.
 

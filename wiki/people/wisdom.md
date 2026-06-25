@@ -1,6 +1,6 @@
-# Wisdom
+﻿# Wisdom
 
-Wisdom, also known as Sophia, is one of the six sister-fragments of the original celestial demon split by [Lucian](lucian.md).
+Wisdom, also known as Sophia, is one of the six sister-fragments of the original celestial demon split by [Lucius](lucius.md).
 
 ## Nature
 
@@ -40,3 +40,4 @@ Wisdom and [Julara](julara.md) merge as the last pieces of [Sovereignty](soverei
 - [Viscus](viscus.md)
 - [Moon Stone Collectors, Part 16](../sessions/moon-stone-collectors-part-16.md)
 - [Moon Stone Collectors, Part 17](../sessions/moon-stone-collectors-part-17.md)
+

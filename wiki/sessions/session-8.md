@@ -45,7 +45,7 @@ By the end of the session, [Bevar Lurton](../people/bevar-lurton.md) and Gwen re
 - [Ssar'Velyn Temple Guardian](../people/ssar-velyn-temple-guardian.md)
 - [Hestia](../people/hestia.md)
 - [Lolth](../people/lolth.md)
-- [Mistress Selyra Vex'ryn](../people/mistress-sila-vexry.md)
+- [Mistress Selyra Vex'ryn](../people/mistress-selyra-vexryn.md)
 - [Captain Havlin](../people/captain-havlin.md)
 - [Penelope Puckle](../people/penelope-puckle.md)
 - [Voss](../people/voss-kenku.md)
@@ -83,4 +83,4 @@ By the end of the session, [Bevar Lurton](../people/bevar-lurton.md) and Gwen re
 
 ## Source Notes
 
-Derived from the pasted transcript summary at `campaign/session-8/actual-summary.md`, with corrected player-to-character mapping supplied on June 8, 2026.
+Derived from the pasted transcript summary at `campaign/session-8/actual-summary.md`, with player-to-character mapping supplied on June 8, 2026.

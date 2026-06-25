@@ -2,8 +2,6 @@
 
 Captain Sgt. Jose is Nate's goliath fighter / monster hunter and one of the core front-line party members of the [After the War Campaign](../campaign/after-the-war-campaign.md).
 
-Earlier transcript material mostly preserved his first name, but the corrected player roster identifies him as Captain Sgt. Jose.
-
 ## Role
 
 Jose emerges in the ship arc as the party member most willing to take command of dangerous technology and then act on it immediately.

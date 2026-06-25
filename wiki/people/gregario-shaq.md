@@ -28,15 +28,15 @@ At the dragon school, [Annabelle](annabelle.md) removes the raven tattoo and the
 
 ## Dark Star Strike
 
-During the [Big Tusk](../places/big-tusk.md) factory breach, Gregario reaches [Dark Star](dark-star.md) inside [Junara](junara.md)'s Anti-Magic Field. He lands Stunning Strike and then Quivering Palm, dropping [Dark Star](dark-star.md) before the Viper can act.
+During the [Big Tusk](../places/big-tusk.md) factory breach, Gregario reaches [Dark Star](dark-star.md) inside [Junvara](junvara.md)'s Anti-Magic Field. He lands Stunning Strike and then Quivering Palm, dropping [Dark Star](dark-star.md) before the Viper can act.
 
 ## Pheromone Control and Zuk's Warning
 
-During the island battle, the spider queen's pheromones briefly override Gregario and cause him to attack Constant. After the party retreats to the [Radiant Citadel Crystal](../places/radiant-citadel-crystal.md), Zuk spars with him and warns that vows made without understanding can become damaging.
+During the island battle, the spider queen's pheromones briefly override Gregario and cause him to attack Constance. After the party retreats to the [Radiant Citadel Crystal](../places/radiant-citadel-crystal.md), Zuk spars with him and warns that vows made without understanding can become damaging.
 
 Zuk frames Gregario's repressed desires and old celibacy oath as a practical danger, not merely a personal issue, and urges him to seek help from [Annabelle](annabelle.md) or another trusted ally.
 
-During [Lucian's Crystal Trap](../concepts/lucians-crystal-trap.md), Gregario closes into melee with the armored fragment, burns through [Lucian](lucian.md)'s legendary defenses, and helps finish the phase before the crystal can collapse.
+During [Lucius's Crystal Trap](../concepts/lucius-crystal-trap.md), Gregario closes into melee with the armored fragment, burns through [Lucius](lucius.md)'s legendary defenses, and helps finish the phase before the crystal can collapse.
 
 ## Champion of Lilith
 
@@ -60,11 +60,11 @@ Most importantly, he chooses not to hoard that power. He spreads much of the res
 
 In [War of the Gods, Session 21](../sessions/war-of-the-gods-session-21.md), the aftertaste of that choice becomes clearer. The party openly debates whether his bargains have really protected them or merely entangled them further, while [Alen](alen.md) continues using private praise and selective affection to isolate him emotionally from the group. The result is not open betrayal, but a growing split between how Gregario understands his sacrifices and how the rest of the party judges them.
 
-In [War of the Gods, Session 22](../sessions/war-of-the-gods-session-22.md), that split widens. After Rose dies over the active gate nexus, Gregario follows [Alen](alen.md)'s prompting and claims Rose's champion gear from the body. He also receives further private reassurance from [Alen](alen.md) that his future role as protector is not over, even as [Junara](junara.md) openly challenges the logic of his bargains and warns that he may be serving a manipulator while calling it protection.
+In [War of the Gods, Session 22](../sessions/war-of-the-gods-session-22.md), that split widens. After Rose dies over the active gate nexus, Gregario follows [Alen](alen.md)'s prompting and claims Rose's champion gear from the body. He also receives further private reassurance from [Alen](alen.md) that his future role as protector is not over, even as [Junvara](junvara.md) openly challenges the logic of his bargains and warns that he may be serving a manipulator while calling it protection.
 
-In [War of the Gods, Session 23](../sessions/war-of-the-gods-session-23.md), that entire structure breaks. [Alen](alen.md)'s manifested form is killed by [Lucian](lucian.md) over the [Citadel](../places/radiant-citadel.md), and Gregario collapses with the loss of the patronage and order that had been shaping many of his recent powers. He does not stay down, however. Soul-coin logic and the damage already done to him yank him back in a broken but living state.
+In [War of the Gods, Session 23](../sessions/war-of-the-gods-session-23.md), that entire structure breaks. [Alen](alen.md)'s manifested form is killed by [Lucius](lucius.md) over the [Citadel](../places/radiant-citadel.md), and Gregario collapses with the loss of the patronage and order that had been shaping many of his recent powers. He does not stay down, however. Soul-coin logic and the damage already done to him yank him back in a broken but living state.
 
-In [War of the Gods, Session 24](../sessions/war-of-the-gods-session-24.md), Gregario becomes one of the only people present capable of surviving and redirecting the massive power release caused by [Lucian](lucian.md)'s hourglass. With Zuk assisting, he routes much of that surge back into the [Radiant Citadel Crystal](../places/radiant-citadel-crystal.md), helping restore the shields and prevent the fight from turning into a second disaster. The moment matters because it shows Gregario's danger in a new light: even after losing the structure that once controlled him, he is still a living regulator for catastrophically unstable power.
+In [War of the Gods, Session 24](../sessions/war-of-the-gods-session-24.md), Gregario becomes one of the only people present capable of surviving and redirecting the massive power release caused by [Lucius](lucius.md)'s hourglass. With Zuk assisting, he routes much of that surge back into the [Radiant Citadel Crystal](../places/radiant-citadel-crystal.md), helping restore the shields and prevent the fight from turning into a second disaster. The moment matters because it shows Gregario's danger in a new light: even after losing the structure that once controlled him, he is still a living regulator for catastrophically unstable power.
 
 ## Jimbo Ritual Warning
 
@@ -76,7 +76,7 @@ At the [Jungle Ley-Line Facility](../places/jungle-ley-line-facility.md), Gregar
 
 Gregario reaches into the burning core, endures the backlash, and with [Jack Kenway](jack-kenway.md)'s help tears the soul-cage fragment out of the mech. This collapses the guardian and recovers the second of [Jimbo](jimbo.md)'s four fragments.
 
-At the [High Temple of Rexel Kar](../places/high-temple-of-rexel-kar.md), Gregario charges down into the lower temple and beats a snake guardian back into [Jarvis](vis-jarvis.md)'s Wall of Fire, finishing it in the flames.
+At the [High Temple of Rexel Kar](../places/high-temple-of-rexel-kar.md), Gregario charges down into the lower temple and beats a snake guardian back into [Jarvice](vis-jarvice.md)'s Wall of Fire, finishing it in the flames.
 
 ## Concurrence Completion
 
@@ -102,3 +102,4 @@ During [Moon Stone Collectors, Part 5](../sessions/moon-stone-collectors-part-5.
 - [War of the Gods, Session 23](../sessions/war-of-the-gods-session-23.md)
 - [War of the Gods, Session 24](../sessions/war-of-the-gods-session-24.md)
 - [Moon Stone Collectors, Part 5](../sessions/moon-stone-collectors-part-5.md)
+

@@ -4,7 +4,7 @@
 
 Session 9 resolves [Sgt. Jefferson Stone](../people/sergeant-jefferson-stone.md)'s separated route through [Ssar'Velyn Temple](../places/ssar-velyn-temple.md) and turns the temple crisis into a race against the approaching [Inquisition](../factions/inquisition.md).
 
-Jefferson survives the fall by using his [Two-Handed Plasma Blade](../items/two-handed-plasma-blade.md) to slow himself against the shaft wall, cuts into forbidden temple spaces, finds a vat system full of demonic ichor, and reaches an office where [Mistress Selyra Vex'ryn](../people/mistress-sila-vexry.md) gives him dangerous information about [Lolth](../people/lolth.md), [Hestia](../people/hestia.md), the valley's blood oath, and the source of the corruption.
+Jefferson survives the fall by using his [Two-Handed Plasma Blade](../items/two-handed-plasma-blade.md) to slow himself against the shaft wall, cuts into forbidden temple spaces, finds a vat system full of demonic ichor, and reaches an office where [Mistress Selyra Vex'ryn](../people/mistress-selyra-vexryn.md) gives him dangerous information about [Lolth](../people/lolth.md), [Hestia](../people/hestia.md), the valley's blood oath, and the source of the corruption.
 
 The party leaves the temple without [Bevar Lurton](../people/bevar-lurton.md), who remains missing after following [Gwen](../people/gwen.md) into the emissary path. Jefferson contacts both the Inquisition and [Rurik Valdren](../people/rurik-valdren.md), creating an urgent political problem: the party must reach the [Sunhollow Council](../factions/sunhollow-council.md) before outside power, old temple magic, or the blood oath destroys the people they are trying to protect.
 
@@ -48,7 +48,7 @@ Jefferson's contact with the Inquisition creates the hard countdown. The Inquisi
 - [Captain Sgt. Jose](../people/jose.md)
 - [Bevar Lurton](../people/bevar-lurton.md)
 - [Gwen](../people/gwen.md)
-- [Mistress Selyra Vex'ryn](../people/mistress-sila-vexry.md)
+- [Mistress Selyra Vex'ryn](../people/mistress-selyra-vexryn.md)
 - [Rurik Valdren](../people/rurik-valdren.md)
 - [Hestia](../people/hestia.md)
 - [Lolth](../people/lolth.md)

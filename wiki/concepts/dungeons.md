@@ -10,7 +10,7 @@ Dungeons generate creatures, hazards, resources, and altered spaces. They are no
 
 Scholars suggest dungeon creatures may be byproducts of unused or unstable magical energy. True dungeons are associated most strongly with [Unity](../places/unity.md), though dungeon-like events occur elsewhere.
 
-The extracted [War of the Gods, Session 21](../sessions/war-of-the-gods-session-21.md) complicates that theory sharply. In that material, [Junara](../people/junara.md)'s contact with a newborn dungeon core presents it as a frightened childlike intelligence rather than a simple machine. Whether that presentation is honest, manipulative, or both remains uncertain, but the implication is huge: some dungeon cores may be conscious entities generating monsters defensively rather than inert magical reactors merely venting power.
+The extracted [War of the Gods, Session 21](../sessions/war-of-the-gods-session-21.md) complicates that theory sharply. In that material, [Junvara](../people/junvara.md)'s contact with a newborn dungeon core presents it as a frightened childlike intelligence rather than a simple machine. Whether that presentation is honest, manipulative, or both remains uncertain, but the implication is huge: some dungeon cores may be conscious entities generating monsters defensively rather than inert magical reactors merely venting power.
 
 In [War of the Gods, Session 22](../sessions/war-of-the-gods-session-22.md), dungeon theory shifts again. The party sees a gate-nexus structure that appears able to channel power through existing dungeons and ley lines at once, suggesting that dungeon cores are not only local threats or habitats but possible infrastructure in much larger world-scale magical systems.
 

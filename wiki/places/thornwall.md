@@ -32,5 +32,5 @@ The same area later attracts outside anti-[Wendell](../people/wendell.md) forces
 - [War of the Gods / New Beginning Campaign](../campaign/war-of-the-gods.md)
 - [War of the Gods, Session 16](../sessions/war-of-the-gods-session-16.md)
 - [Charlie](../people/charlie.md)
-- [Constant and Zuk](../people/constant-and-zuk.md)
+- [Constance and Zuk](../people/constance-l-coggeshall.md)
 - [Wendell](../people/wendell.md)

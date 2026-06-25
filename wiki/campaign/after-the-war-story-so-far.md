@@ -30,9 +30,9 @@ The Hounds are shut down, but the captures they made do not disappear. Their wor
 
 Session 3 moves the party into the postwar machinery of [Driftvale](../places/driftvale.md), where the last months of service are spent at [Fort Victory](../places/fort-victory.md). This is no longer a front-line war story. It is a story about fog, salvage, private leverage, and a military machine that has already started monetizing the aftermath.
 
-The party receives gear and breathing room after the Hounds are broken up, then learns how the new world works. [Captain Donner](../people/captain-donner.md) explains the rules of fog control, artifact handling, and the city-state economy around it. The party visits [The Singing Sword](../places/singing-sword.md), meets [Vaelis Brighttongue](../people/valis-brighttongue.md), and forms a quieter bond with [Granny](../people/granny.md), whose tea and later [Granny's Teapot](../items/grannys-teapot.md) become part comfort item, part signal that the party is now embedded in local life rather than merely passing through.
+The party receives gear and breathing room after the Hounds are broken up, then learns how the new world works. [Captain Donner](../people/captain-donner.md) explains the rules of fog control, artifact handling, and the city-state economy around it. The party visits [The Singing Sword](../places/singing-sword.md), meets [Vaelis Brighttongue](../people/vaelis-brighttongue.md), and forms a quieter bond with [Granny](../people/granny.md), whose tea and later [Granny's Teapot](../items/grannys-teapot.md) become part comfort item, part signal that the party is now embedded in local life rather than merely passing through.
 
-The city of [Sin](../places/sin.md) deepens the picture. [Calvin's Curios](../places/calvins-curios.md), [The Silk Parlor](../places/silk-parlor.md), and the broader fog economy reveal how much of [Driftvale](../places/driftvale.md) runs on rumor, artifact brokering, and people who know when to ask questions and when to sell silence. [Rurik Valdren](../people/rurik-valdren.md) and [Mistress Selyra Vex'ryn](../people/mistress-sila-vexry.md) both make offers that show the same thing in different languages: the real war now is over access, not territory.
+The city of [Sin](../places/sin.md) deepens the picture. [Calvin's Curios](../places/calvins-curios.md), [The Silk Parlor](../places/silk-parlor.md), and the broader fog economy reveal how much of [Driftvale](../places/driftvale.md) runs on rumor, artifact brokering, and people who know when to ask questions and when to sell silence. [Rurik Valdren](../people/rurik-valdren.md) and [Mistress Selyra Vex'ryn](../people/mistress-selyra-vexryn.md) both make offers that show the same thing in different languages: the real war now is over access, not territory.
 
 The party also humiliates [Lieutenant Garrick Hume](../people/lieutenant-garrick-hume.md), which is funny in the moment and important later, because it establishes exactly how much patience they have left for lazy authority. That patience does not last long. A fog team is murdered, corruption becomes impossible to ignore, and the secret [The Crashed Ship](../places/crashed-ship.md) becomes the party's private thread of danger and opportunity.
 
@@ -92,7 +92,7 @@ The trials reveal the temple's hardest moral turn: the valley's oath-bound inhab
 
 Session 9 resolves Jefferson's missing side of the temple split. Instead of simply falling through the intended route, he uses the [Plasma Greatblade](../items/two-handed-plasma-blade.md) to cut his way into hidden temple spaces: shattered eggs, unreadable archives, broken spider mechanisms, and a vat system full of demonic ichor. He collects a [Demonic Ichor Vial](../items/demonic-ichor-vial.md), giving the party its first portable sample of the temple's corrupted blood-like substance.
 
-The real turn is his conversation with [Mistress Selyra Vex'ryn](../people/mistress-sila-vexry.md). She claims that the immediate corruption source is a cave south along the wall, that she needs one to two weeks to complete work tied to the temple and blood oath, and that [Hestia](../people/hestia.md)'s survival is tied to hearth, home, welcome, and motherhood. Her claims may be useful, but Jefferson can tell she is hiding motives and may be lying.
+The real turn is his conversation with [Mistress Selyra Vex'ryn](../people/mistress-selyra-vexryn.md). She claims that the immediate corruption source is a cave south along the wall, that she needs one to two weeks to complete work tied to the temple and blood oath, and that [Hestia](../people/hestia.md)'s survival is tied to hearth, home, welcome, and motherhood. Her claims may be useful, but Jefferson can tell she is hiding motives and may be lying.
 
 The party leaves without [Bevar Lurton](../people/bevar-lurton.md), who remains missing after following [Gwen](../people/gwen.md)'s emissary path. Jefferson contacts the [Inquisition](../factions/inquisition.md), learns it is about two days out from the last marker, and then brings [Rurik Valdren](../people/rurik-valdren.md) into the crisis. Rurik's warning about blood magic reframes Vex'ryn's promise to `release` the oath as potentially lethal rather than automatically liberating.
 
@@ -122,8 +122,8 @@ By the end of the campaign so far, they are no longer just members of the [Blood
 - [Colonel Dale](../people/colonel-dale.md)
 - [Colonel Marrow Vance](../people/colonel-marrow-vance.md)
 - [Rurik Valdren](../people/rurik-valdren.md)
-- [Mistress Selyra Vex'ryn](../people/mistress-sila-vexry.md)
-- [Vaelis Brighttongue](../people/valis-brighttongue.md)
+- [Mistress Selyra Vex'ryn](../people/mistress-selyra-vexryn.md)
+- [Vaelis Brighttongue](../people/vaelis-brighttongue.md)
 - [Granny](../people/granny.md)
 - [Captain Hail](../people/captain-hail.md)
 - [Lord Inquisitor Boss](../people/lord-inquisitor-boss.md)

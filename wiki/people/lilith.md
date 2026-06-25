@@ -4,7 +4,7 @@ Lilith is a young divine-born child tied to [Belle](belle.md) and, through inher
 
 ## Description
 
-Lilith appears as a very small, thin child with raven-black hair, pointed ears, and piercing green eyes. She is physically weak compared to her twin sister [Eva](eva.md), but carries deep divine resonance.
+Lilith appears as a very small, thin child with raven-black hair, pointed ears, and piercing green eyes. She is physically weak compared to her twin sister [Eve](eve.md), but carries deep divine resonance.
 
 ## Origin
 
@@ -18,15 +18,15 @@ Lilith is one of [Belle](belle.md)'s two daughters and one of the clearest bridg
 
 Lilith has a protective aura that can block some magical sight around herself. Her toy, a doll resembling [Gregario / Shaq](gregario-shaq.md), is a divine artifact containing divine sand. The [Black Vipers](../factions/black-vipers.md) use the doll as a tracking point until the group replaces its contents with anti-divination protection.
 
-After the bridge attack, Lilith rests under [Mave](mave.md)'s care inside [Junara's Magnificent Mansion](../places/junaras-magnificent-mansion.md). [Mave](mave.md) attempts to feed her power and stabilize her diminished condition.
+After the bridge attack, Lilith rests under [Mave](mave.md)'s care inside [Junvara's Magnificent Mansion](../places/junvaras-magnificent-mansion.md). [Mave](mave.md) attempts to feed her power and stabilize her diminished condition.
 
-[Annabelle](annabelle.md) later moves Lilith to [Constant and Zuk's Dragon-Bonding School](../places/constant-and-zuks-dragon-bonding-school.md), judging that the party's defenses are not enough.
+[Annabelle](annabelle.md) later moves Lilith to [Constance and Zuk's Dragon-Bonding School](../places/constance-and-zuks-dragon-bonding-school.md), judging that the party's defenses are not enough.
 
 ## Death's Kiss
 
-Lilith gives [Junara](junara.md) a kiss on the forehead that grants [Death's Kiss](../concepts/deaths-kiss.md). The blessing can redirect a death within close range to another creature.
+Lilith gives [Junvara](junvara.md) a kiss on the forehead that grants [Death's Kiss](../concepts/deaths-kiss.md). The blessing can redirect a death within close range to another creature.
 
-During the serpent avatar battle, the blessing activates when [Vis / Jarvis](vis-jarvis.md) is killed inside the serpent. [Vis](vis-jarvis.md) returns to life, and the death is redirected into the monster.
+During the serpent avatar battle, the blessing activates when [Vis / Jarvice](vis-jarvice.md) is killed inside the serpent. [Vis](vis-jarvice.md) returns to life, and the death is redirected into the monster.
 
 ## Mini G
 
@@ -45,7 +45,7 @@ After [Annabelle](annabelle.md) severs [Gregario](gregario-shaq.md)'s old connec
 ## Related
 
 - [Gregario / Shaq](gregario-shaq.md)
-- [Eva](eva.md)
+- [Eve](eve.md)
 - [Belle](belle.md)
 - [Alen](alen.md)
 - [Raven Queen of Saharun](raven-queen-of-saharun.md)

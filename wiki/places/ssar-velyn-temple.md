@@ -1,4 +1,4 @@
-﻿# Ssar'Velyn Temple
+# Ssar'Velyn Temple
 
 Ssar'Velyn Temple is the ancient hidden temple complex at the southern forbidden edge of [Sunhollow Valley](sunhollow-valley.md), extending through mountain approaches and underground chambers preserved from the drow era.
 
@@ -40,7 +40,7 @@ In [Session 9](../sessions/session-9.md), Jefferson's separated route exposes hi
 
 Jefferson collects a [Demonic Ichor Vial](../items/demonic-ichor-vial.md) after the substance burns through leather but holds in treated glass. The vat system suggests that the temple's damaged defenses and processes were more extensive than the party saw during the trials.
 
-[Mistress Selyra Vex'ryn](../people/mistress-sila-vexry.md) appears to Jefferson in an office she calls her mother's office. She claims that the immediate source of the spreading corruption is something imprisoned in a cave south along the wall, not the temple itself. Because Jefferson can tell she is hiding motives and may be lying, this should be treated as a claim or partial truth rather than a replacement for the temple-fragment corruption model.
+[Mistress Selyra Vex'ryn](../people/mistress-selyra-vexryn.md) appears to Jefferson in an office she calls her mother's office. She claims that the immediate source of the spreading corruption is something imprisoned in a cave south along the wall, not the temple itself. Because Jefferson can tell she is hiding motives and may be lying, this should be treated as a claim or partial truth rather than a replacement for the temple-fragment corruption model.
 
 Vex'ryn also claims she needs one to two weeks to finish work connected to the temple and the valley's blood oath. If the [Inquisition](../factions/inquisition.md) threatens the temple before then, she warns that old oaths and old magics may kill many people.
 

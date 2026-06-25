@@ -13,7 +13,7 @@ She brews medicinal tea for aches, pains, and long walks in the fog. She appreci
 
 ## Warning
 
-Granny warns that once the party loses uniform protection, [Mistress Selyra Vex'ryn](mistress-sila-vexry.md)'s people may try to kill them.
+Granny warns that once the party loses uniform protection, [Mistress Selyra Vex'ryn](mistress-selyra-vexryn.md)'s people may try to kill them.
 
 ## Related
 

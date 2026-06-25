@@ -78,6 +78,5 @@ Session 6 working notes:
 - `campaign/session-6/character-highlights.md`
 - `campaign/session-6/canon-check.md`
 
-Zach's character name is normalized here to [Sgt. Jefferson Stone](../people/sergeant-jefferson-stone.md), Nate's to [Captain Sgt. Jose](../people/jose.md), Josh's to [Alistair Hooley](../people/alistair-hooley.md), and Clayton's to [Bevar Lurton](../people/bevar-lurton.md), matching the corrected player roster rather than muddier auto-caption variants.
 
 

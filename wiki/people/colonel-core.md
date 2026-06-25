@@ -1,6 +1,6 @@
 # Colonel Core
 
-Colonel Core, spelling provisional, is the orc officer who assumes command of [Fort Victory](../places/fort-victory.md) after the [Inquisition](../factions/inquisition.md) purge.
+Colonel Core is the orc officer who assumes command of [Fort Victory](../places/fort-victory.md) after the [Inquisition](../factions/inquisition.md) purge.
 
 ## Role
 

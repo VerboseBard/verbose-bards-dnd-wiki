@@ -18,7 +18,7 @@ This level is also where [Wendell](../people/wendell.md) once escaped through a 
 
 ## Morir Meeting
 
-[Morir](../people/morir.md) chooses the third level for his protected meeting with [Junara](../people/junara.md), [Kestrel](../people/kestrel.md), and [Gregario / Shaq](../people/gregario-shaq.md) because the crystals block outside divine sight.
+[Morir](../people/morir.md) chooses the third level for his protected meeting with [Junvara](../people/junvara.md), [Kestrel](../people/kestrel.md), and [Gregario / Shaq](../people/gregario-shaq.md) because the crystals block outside divine sight.
 
 ## Collapse of the Renewable Source
 

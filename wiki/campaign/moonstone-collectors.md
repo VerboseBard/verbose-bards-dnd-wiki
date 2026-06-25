@@ -1,6 +1,6 @@
 # Moon Stone Collectors
 
-Moon Stone Collectors, sometimes rendered in older wiki drafts as `Moon Stone Collators`, is the campaign arc that carries the party through the end of the [Sixth Age](../concepts/sixth-age.md) and into the [Concurrence](../concepts/the-concurrence.md), ending at the start of the [Seventh Age](../concepts/seventh-age.md).
+Moon Stone Collectors is the campaign arc that carries the party through the end of the [Sixth Age](../concepts/sixth-age.md) and into the [Concurrence](../concepts/the-concurrence.md), ending at the start of the [Seventh Age](../concepts/seventh-age.md).
 
 ## Overview
 
@@ -8,19 +8,19 @@ The arc begins as a rescue-and-escort job. The [Moon Stone Collectors](../factio
 
 From there the campaign widens into the [Concurrence](../concepts/the-concurrence.md) itself. The world is literally changing under the party's feet as the old gods' order collapses, new travel structures emerge, and the party moves between [Norvindr](../places/norvindr.md), the [Citadel](../places/radiant-citadel.md), and later the thawing north. What begins as escort work becomes a chain of discoveries about divine politics, old ruins, dead gods, and the consequences of the [Concurrence](../concepts/the-concurrence.md).
 
-## Canon Roster
+## Player Roster
 
-The canon Session 1 final roster for the Moon Stone Collectors is:
+The core player roster includes:
 
-- [Juan Flehxis](../people/juan.md): male satyr in disguise, Bard 6 / Warlock 9, illusionist and psychic artillery
-- [Luca](../people/luca.md): male leonin, Barbarian 14, Path of the Zealot frontliner
-- [Sorrel](../people/sorrel.md): female fairy, Bard 9 / Fighter 5, aerial duelist and support caster
-- [Paul](../people/paul.md): male minotaur, Barbarian 14, Path of the Giant bruiser and tank
-- [Phlukk](../people/phlukk.md): male owlin, Rogue 12 / Blood Hunter 1, assassin and scout
-- [Vylra](../people/vylra.md): male firbolg, Druid 10 / Ranger 5, nature controller and marksman
-- [Zeniyrwynn Dothrynellion / Zen](../people/zen.md): female drow, Wizard 14 / Cleric 1, arcane tactician and divine scholar
-- [p'Op](../people/p-op.md): male grung, Fighter 14 / Bard 1, cavalier defender and mounted tactician
-- [Soda](../people/soda.md): giant honey badger companion and mount to [p'Op](../people/p-op.md)
+- [Juan Flehxis](../people/juan.md): Level 15 goblin, Bard / Warlock, The Great Old One patron, College of Eloquence. Player: Greenstone56.
+- [Luka](../people/luka.md): Level 14 leonin, Barbarian, Path of the Zealot. Player: DomiB.
+- [Paul](../people/paul.md): Level 15 minotaur, Barbarian, Path of the Giant. Player: Intuitivemoose.
+- [Phlukk](../people/phlukk.md): Level 13 owlin, Rogue / Blood Hunter, Scout. Player: EternalMisfit.
+- [Sorrel](../people/sorrel.md): Level 16 fairy, Bard, College of Mockery / Illrigger / Messenger. Player: IrishElk2019.
+- [Vylra](../people/vylra.md): Level 15 firbolg, Druid / Ranger, Circle of Spores / Swarmkeeper. Player: BattleHammerBOis.
+- [Zeniyrwynn Dothrynellion / Zen](../people/zen.md): Level 15 elf, Cleric / Wizard, School of Divination / Order Domain. Player: OncaObsidiana.
+
+Levels and class mixes shifted over the course of play, so this roster works best as a reference snapshot rather than a fixed mechanical endpoint.
 
 Characters like [Zen](../people/zen.md), [Vylra](../people/vylra.md), [Paul](../people/paul.md), and [Juan](../people/juan.md) give that middle stretch much of its shape. Their notes emphasize the campaign's investigative, moral, and survival sides: cursed dwarven infernal artifacts, the politics around [Elisia](../people/elisia.md), the problem of restored memory, the cost of [Fey](../concepts/fey.md) bargains, and the effort to understand what the changing worlds are actually doing rather than merely survive them.
 
@@ -85,7 +85,7 @@ The cleanest currently supported date chain is:
 ## Related
 
 - [Juan](../people/juan.md)
-- [Luca](../people/luca.md)
+- [Luka](../people/luka.md)
 - [Sorrel](../people/sorrel.md)
 - [Paul](../people/paul.md)
 - [Phlukk](../people/phlukk.md)

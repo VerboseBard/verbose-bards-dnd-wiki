@@ -1,4 +1,4 @@
-# Winrah Holm
+﻿# Winrah Holm
 
 Winrah Holm is a noble-born anti-god speaker who becomes tied to the serpent church and [Dark Star](dark-star.md).
 
@@ -10,7 +10,7 @@ For years on the [Citadel](../places/radiant-citadel.md), Winrah denounces the g
 
 According to [Morir](morir.md), Winrah swears loyalty to the same cause as [Dark Star](dark-star.md) and becomes a charismatic leader or intermediary for the Church of [Rax'al Karath](../factions/cobra-cult-of-raxal-karath.md).
 
-In the Vipers' own prelude, she is one of the four main sleepers who helps steal [Lucian](lucian.md)'s weapons and kill [Jimbo](jimbo.md) and [Charlie](charlie.md).
+In the Vipers' own prelude, she is one of the four main sleepers who helps steal [Lucius](lucius.md)'s weapons and kill [Jimbo](jimbo.md) and [Charlie](charlie.md).
 
 [Frederick Blackthorn](frederick-blackthorn.md) later explains that Winrah is his sister and that she had long been publicly anti-god before her disappearance. He does not believe she would target nonreligious [Hell's Bane](../factions/hells-bane-heroes.md) members, but [Dark Star](dark-star.md)'s soul claims Winrah is now more fanatical than the Mother Superior and no longer working under [Dark Star](dark-star.md)'s direction.
 
@@ -33,3 +33,4 @@ Once freed, Winrah collapses in shock and tears. The party chooses not to execut
 - [The Hunt for Black Vipers, Part 4](../sessions/hunt-for-black-vipers-part-4.md)
 - [The Hunt for Black Vipers, Part 7](../sessions/hunt-for-black-vipers-part-7.md)
 - [The Hunt for Black Vipers, Part 11](../sessions/hunt-for-black-vipers-part-11.md)
+

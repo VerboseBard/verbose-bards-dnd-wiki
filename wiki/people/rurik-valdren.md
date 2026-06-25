@@ -2,7 +2,7 @@
 
 ![Rurik Valdren](../assets/images/rurik-valdren.png)
 
-Rurik Valdren, spelling provisional, is an extremely old dwarf associated with [Calvin's Curios](../places/calvins-curios.md).
+Rurik Valdren is an extremely old dwarf associated with [Calvin's Curios](../places/calvins-curios.md).
 
 ## Background
 
@@ -28,14 +28,14 @@ In Session 4, [Colonel Core](colonel-core.md) treats Rurik as a dangerous politi
 
 In Session 7, [Sgt. Jefferson Stone](sergeant-jefferson-stone.md) considers contacting Rurik as a possible way to create a legal-commercial shield around [Sunhollow Valley](../places/sunhollow-valley.md) before the military, churches, or state powers seize the valley's ether wealth. This is only a plan at that point; the transcript says temple-related events must happen before Jefferson can send that message.
 
-In [Session 9](../sessions/session-9.md), Jefferson follows through and contacts Rurik after leaving [Ssar'Velyn Temple](../places/ssar-velyn-temple.md). Rurik becomes actively involved in the Sunhollow crisis once he hears about the valley's ether wealth, the approaching [Inquisition](../factions/inquisition.md), the old blood oath, [Mistress Selyra Vex'ryn](mistress-sila-vexry.md)'s temple activity, and the presence of [Bartholomew Hildebrant](bartholomew-hildebrant.md), an ancient dwarf who can still speak Dwarven.
+In [Session 9](../sessions/session-9.md), Jefferson follows through and contacts Rurik after leaving [Ssar'Velyn Temple](../places/ssar-velyn-temple.md). Rurik becomes actively involved in the Sunhollow crisis once he hears about the valley's ether wealth, the approaching [Inquisition](../factions/inquisition.md), the old blood oath, [Mistress Selyra Vex'ryn](mistress-selyra-vexryn.md)'s temple activity, and the presence of [Bartholomew Hildebrant](bartholomew-hildebrant.md), an ancient dwarf who can still speak Dwarven.
 
 Rurik warns that Vex'ryn's promise to `release` the people from the blood oath is dangerously ambiguous. In blood magic, release may mean freedom, but it may also mean death, severance, or fulfillment of the oath in a lethal form.
 
 ## Related
 
 - [Calvin's Curios](../places/calvins-curios.md)
-- [Mistress Selyra Vex'ryn](mistress-sila-vexry.md)
+- [Mistress Selyra Vex'ryn](mistress-selyra-vexryn.md)
 - [Fort Victory Corruption Ring](../concepts/fort-victory-corruption-ring.md)
 - [Sunhollow Valley](../places/sunhollow-valley.md)
 - [Bartholomew Hildebrant](bartholomew-hildebrant.md)

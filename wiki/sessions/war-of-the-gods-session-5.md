@@ -11,17 +11,17 @@ Dream unease gives way to field work. The party is now living in the Emerald Pal
 - [Kestrel](../people/kestrel.md) has ominous dreams before the mission day begins.
 - The party starts navigating the Emerald Palace and desert-world mission structure.
 - Old maps of the world before the [Breaking](../concepts/the-breaking.md) become a research focus.
-- [Greg](../people/greg.md) remains irritable and shut away.
+- [Greg](../people/greg-p-smith.md) remains irritable and shut away.
 - The group is sent to investigate a missing mistress at a ruin with a dry well.
 - They fight hostile creatures on the beach and descend into the well.
 - Giant rats, sleep effects, and battlefield disruption create a rough early-party fight.
-- [Greg](../people/greg.md) arrives partway through the encounter.
+- [Greg](../people/greg-p-smith.md) arrives partway through the encounter.
 - The rat king's crown and the group's improvised counters make the fight feel like the party's first real shared field victory.
 
 ## Important People
 
-- [Greg](../people/greg.md)
-- [Junara](../people/junara.md)
+- [Greg](../people/greg-p-smith.md)
+- [Junvara](../people/junvara.md)
 
 ## Important Places
 

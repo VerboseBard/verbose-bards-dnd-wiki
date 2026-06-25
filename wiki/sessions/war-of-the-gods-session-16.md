@@ -18,14 +18,14 @@ The main dated play for Session 16 begins after the island-temple refuge establi
 
 ## Important People
 
-- [Greg](../people/greg.md)
+- [Greg](../people/greg-p-smith.md)
 - [Mave](../people/mave.md)
 - [Belle](../people/belle.md)
 - [Wendell](../people/wendell.md)
 - [Charlie](../people/charlie.md)
-- [Constant and Zuk](../people/constant-and-zuk.md)
+- [Constance and Zuk](../people/constance-l-coggeshall.md)
 - [Gregario / Shaq](../people/gregario-shaq.md)
-- [Junara](../people/junara.md)
+- [Junvara](../people/junvara.md)
 - [June](../people/june.md)
 - [Rose Qinlee](../people/rose-qinlee.md)
 

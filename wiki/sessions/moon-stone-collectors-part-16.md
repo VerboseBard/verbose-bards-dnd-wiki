@@ -32,11 +32,11 @@ That night, [Viscus](../people/viscus.md) reaches out to [Phlukk](../people/phlu
 
 [Paul](../people/paul.md) refuses the total bond and later leaves the party rather than risk [Julara](../people/julara.md) being killed or forcibly merged.
 
-## Luca's Mission
+## Luka's Mission
 
-On the [Radiant Citadel](../places/radiant-citadel.md), [Luca](../people/luca.md) and [Junara](../people/junara.md) are briefed by church leaders about the six sister-fragments. The churches believe that if all six recombine, an arch-demoness or arch-celestial-demon threat could return.
+On the [Radiant Citadel](../places/radiant-citadel.md), [Luka](../people/luka.md) and [Junvara](../people/junvara.md) are briefed by church leaders about the six sister-fragments. The churches believe that if all six recombine, an arch-demoness or arch-celestial-demon threat could return.
 
-[Luca](../people/luca.md) is tasked with finding [Paul](../people/paul.md), freeing him from [Julara](../people/julara.md), and killing [Julara](../people/julara.md) through the connection if necessary. [Junara](../people/junara.md) is sent after another fragment, but his hunt leads instead to a confrontation with [Sovereignty](../people/sovereignty.md).
+[Luka](../people/luka.md) is tasked with finding [Paul](../people/paul.md), freeing him from [Julara](../people/julara.md), and killing [Julara](../people/julara.md) through the connection if necessary. [Junvara](../people/junvara.md) is sent after another fragment, but his hunt leads instead to a confrontation with [Sovereignty](../people/sovereignty.md).
 
 ## Summer Court
 
@@ -60,19 +60,19 @@ The party debates whether to allow [Wisdom](../people/wisdom.md) to merge with [
 
 The decision is interrupted by [Sovereignty](../people/sovereignty.md)'s progress and by the more immediate threat of the goo.
 
-## Sovereignty and Junara
+## Sovereignty and Junvara
 
-[Junara](../people/junara.md) finds [Sovereignty](../people/sovereignty.md) after she absorbs Lust. They discuss whether she is responsible for Conquer's actions, whether [Lucian](../people/lucian.md) feared what he accidentally created, and what she might become if made whole.
+[Junvara](../people/junvara.md) finds [Sovereignty](../people/sovereignty.md) after she absorbs Lust. They discuss whether she is responsible for Conquer's actions, whether [Lucius](../people/lucius.md) feared what he accidentally created, and what she might become if made whole.
 
-[Sovereignty](../people/sovereignty.md) argues that [Lucian](../people/lucian.md) split her with an artifact he did not understand and that she only seeks to know herself again. She says she does not wish to conquer mortal realms, though if she sought dominion she would more likely go home to Hell or ascend to the heavens to learn why the artifact was cast down.
+[Sovereignty](../people/sovereignty.md) argues that [Lucius](../people/lucius.md) split her with an artifact he did not understand and that she only seeks to know herself again. She says she does not wish to conquer mortal realms, though if she sought dominion she would more likely go home to Hell or ascend to the heavens to learn why the artifact was cast down.
 
-[Junara](../people/junara.md) decides not to fight her immediately, but warns that if she becomes whole, they will need another conversation.
+[Junvara](../people/junvara.md) decides not to fight her immediately, but warns that if she becomes whole, they will need another conversation.
 
 ## Return to the Grove
 
 When the party returns from the [Summer Court](../places/summer-court.md), three weeks have passed in the Mortal lands. The repaired link empowers [Viscus](../people/viscus.md) again and protects the grove's fields from a dangerous cold front.
 
-[Luca](../people/luca.md) is waiting at the grove. The group celebrates [Phlukk](../people/phlukk.md)'s recovery and the hydra victory, but tension remains. The hunters report that the hydra carcasses nearly became infected by the goo before they were cleansed.
+[Luka](../people/luka.md) is waiting at the grove. The group celebrates [Phlukk](../people/phlukk.md)'s recovery and the hydra victory, but tension remains. The hunters report that the hydra carcasses nearly became infected by the goo before they were cleansed.
 
 [Paul](../people/paul.md) slips away during the celebration. [Phlukk](../people/phlukk.md) notices and follows. [Paul](../people/paul.md) says he cannot let the party kill [Julara](../people/julara.md) and that he no longer fits with the group. [Phlukk](../people/phlukk.md) lets him go after a farewell embrace.
 
@@ -100,7 +100,7 @@ The session ends as the party prepares to descend into the dwarven facility lead
 ## Important People
 
 - [Julara](../people/julara.md)
-- [Luca](../people/luca.md)
+- [Luka](../people/luka.md)
 - [Phlukk](../people/phlukk.md)
 - [Sovereignty](../people/sovereignty.md)
 - [The Weaver](../concepts/the-weaver.md)
@@ -122,3 +122,4 @@ The session ends as the party prepares to descend into the dwarven facility lead
 ## Source Notes
 
 Derived from the uploaded [Moon Stone Collectors](../factions/moon-stone-collectors.md) [Wisdom](../people/wisdom.md) and control-room transcript. See also the [Moon Stone Collectors Finale Transcript Reference](../campaign/moonstone-collectors-finale-reference.md).
+

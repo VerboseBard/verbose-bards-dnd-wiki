@@ -32,7 +32,7 @@ In one chamber, the party finds a huge skeleton on a throne. [Phlukk](../people/
 
 The attempt stirs gray goo around the bones instead. [Vylra](../people/vylra.md) reacts by casting bone cage, tearing the bones into protective armor and accidentally exposing himself to the forming infection.
 
-[p'Op](../people/p-op.md) strikes the goo with the holy-water flamethrower, fire is driven onto it, and [Luca](../people/luca.md) rages into the fight to keep the infection from reaching the living cutting of [Viscus](../people/viscus.md). [Vylra](../people/vylra.md) resists the infection, the [Viscus](../people/viscus.md) cutting survives, and the remaining goo is pulled into a disintegration well and destroyed.
+[p'Op](../people/p-op.md) strikes the goo with the holy-water flamethrower, fire is driven onto it, and [Luka](../people/luka.md) rages into the fight to keep the infection from reaching the living cutting of [Viscus](../people/viscus.md). [Vylra](../people/vylra.md) resists the infection, the [Viscus](../people/viscus.md) cutting survives, and the remaining goo is pulled into a disintegration well and destroyed.
 
 ## Control-Room Shortcut
 
@@ -51,9 +51,9 @@ The fight becomes a defensive ritual:
 - [Juan](../people/juan.md) and [Zen](../people/zen.md) work the control panel through luck, arcana, blessing, bardic support, and a borrowed luck ring.
 - [Vylra](../people/vylra.md) inserts and protects the [Viscus](../people/viscus.md) cutting while throwing up fire, healing, spores, and battlefield control.
 - [p'Op](../people/p-op.md), [Phlukk](../people/phlukk.md), and the others blast or disable waves of goo-servants with holy water, radiant shots, thunder, psychic magic, stinking cloud, faerie fire, and forced movement.
-- [Luca](../people/luca.md), in a zealot rage, nearly kills the master goo outright before the party restrains and redirects him.
+- [Luka](../people/luka.md), in a zealot rage, nearly kills the master goo outright before the party restrains and redirects him.
 
-At one point, [Luca](../people/luca.md) is shoved into the goo and briefly infected. After [Viscus](../people/viscus.md) takes control, [Luca](../people/luca.md) survives and purges the infection through divine force.
+At one point, [Luka](../people/luka.md) is shoved into the goo and briefly infected. After [Viscus](../people/viscus.md) takes control, [Luka](../people/luka.md) survives and purges the infection through divine force.
 
 ## Viscus Claims the Network
 
@@ -87,7 +87,7 @@ The ending also explicitly frames the early [Seventh Age](../concepts/seventh-ag
 ## Important People
 
 - [Julara](../people/julara.md)
-- [Luca](../people/luca.md)
+- [Luka](../people/luka.md)
 - [Phlukk](../people/phlukk.md)
 - [Sovereignty](../people/sovereignty.md)
 - [Viscus](../people/viscus.md)

@@ -18,8 +18,6 @@ Elisia says she has five sisters. One of them is [Julara](julara.md), the knowle
 
 In [Moon Stone Collectors, Part 9](../sessions/moon-stone-collectors-part-9.md), Elisia explains that the sisters are fragments of one original being split by a stolen divine artifact. She identifies herself with justice and protection, while [Julara](julara.md) is tied to knowledge. Other sisters appear to embody paired celestial and demonic aspects such as power, lust, love, and wisdom.
 
-Session canon does not support the older planning-note label that described Elisia as "strength and honor." That appears to be a draft variant. The transcript-backed description is justice and protection.
-
 ## Custody on the Citadel
 
 After the party returns to the [Radiant Citadel](../places/radiant-citadel.md), [Cardinal Preceptor Thornvale](cardinal-preceptor-thornvale.md) tries to have Elisia destroyed as an abomination. [Lady Seraphina Blackthorn](lady-seraphina-blackthorn.md) argues for compassion and due process.
@@ -28,7 +26,7 @@ The compromise is a [Collar of Demon Subjugation](../items/collar-of-demon-subju
 
 ## First Night Free
 
-Elisia's first hours outside Hell overwhelm her. Food, air, softness, and the absence of constant pain are all new to her after roughly twelve hundred years of imprisonment.
+Elisia's first hours outside Hell overwhelm her. Food, air, softness, and the absence of Constance pain are all new to her after roughly twelve hundred years of imprisonment.
 
 She rejects false disguise as a long-term solution, arguing that justice requires truth. [Vylra](vylra.md) comforts her and leaves [Denny](denny.md), polymorphed as a soft fox-like creature, to help her sleep.
 

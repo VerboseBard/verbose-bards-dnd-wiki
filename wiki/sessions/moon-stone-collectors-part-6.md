@@ -10,7 +10,7 @@ The party concludes that the missing team may have found its own route deeper in
 
 ## Annabelle's Warning
 
-[Annabelle](../people/annabelle.md) confirms that Constant will still open the party's promised portal, but warns that Hell itself will burn those without protection.
+[Annabelle](../people/annabelle.md) confirms that Constance will still open the party's promised portal, but warns that Hell itself will burn those without protection.
 
 The party purchases rings of fire resistance and prepares for the dive. The city around them has shifted from pre-[Concurrence](../concepts/the-concurrence.md) panic into exhausted relief.
 
@@ -18,7 +18,7 @@ The party purchases rings of fire resistance and prepares for the dive. The city
 
 An Elsewhere shows [Belle](../people/belle.md) entering the Black Keep in Hell. She tears fire from demonic blood, melts the gates, and announces herself to [Wendell](../people/wendell.md).
 
-[Wendell](../people/wendell.md) believes the new [Divine Gate](../concepts/divine-gate.md) leaves [Belle](../people/belle.md) reduced to an avatar. [Belle](../people/belle.md) proves that he has misunderstood her again. With a mirror device built from [Greg](../people/greg.md)'s work, she reflects the god-killing dagger back into [Wendell](../people/wendell.md) and leaves him maimed inside a ritual circle of [Mave](../people/mave.md)'s divine blood rather than killing him outright.
+[Wendell](../people/wendell.md) believes the new [Divine Gate](../concepts/divine-gate.md) leaves [Belle](../people/belle.md) reduced to an avatar. [Belle](../people/belle.md) proves that he has misunderstood her again. With a mirror device built from [Greg](../people/greg-p-smith.md)'s work, she reflects the god-killing dagger back into [Wendell](../people/wendell.md) and leaves him maimed inside a ritual circle of [Mave](../people/mave.md)'s divine blood rather than killing him outright.
 
 ## Professor Hazard's Workshop
 
@@ -30,9 +30,9 @@ He also helps [Paul](../people/paul.md) compare giant maps and identifies a lost
 
 ## The Temple Blessing
 
-At a small [Citadel](../places/radiant-citadel.md) temple of the god of war and struggle, [p'Op](../people/p-op.md), [Soda](../people/soda.md), and [Luca](../people/luca.md) are judged worthy before the statue.
+At a small [Citadel](../places/radiant-citadel.md) temple of the god of war and struggle, [p'Op](../people/p-op.md), [Soda](../people/soda.md), and [Luka](../people/luka.md) are judged worthy before the statue.
 
-[p'Op](../people/p-op.md)'s lance and [Soda](../people/soda.md)'s claws are blessed with radiant force. [Luca](../people/luca.md) receives a deeper zealot blessing whose full form is not yet known.
+[p'Op](../people/p-op.md)'s lance and [Soda](../people/soda.md)'s claws are blessed with radiant force. [Luka](../people/luka.md) receives a deeper zealot blessing whose full form is not yet known.
 
 ## Jimbo and Charlie
 
@@ -50,7 +50,7 @@ That night, [Paul](../people/paul.md) wakes with the ritual components laid out 
 
 By morning, the school is full of allies preparing for war: dragons, werewolves, Arnold's orcs, Gaston's duelists, [Nicole](../people/nicole.md)'s side, and the remaining [Hell's Bane](../factions/hells-bane-heroes.md) allies.
 
-[Mave](../people/mave.md), now in a weakened mortal body, explains that [Belle](../people/belle.md) and [Greg](../people/greg.md) have opened the way and that roughly thirty thousand demons remain. Constant opens a massive portal, and several dragons enter first.
+[Mave](../people/mave.md), now in a weakened mortal body, explains that [Belle](../people/belle.md) and [Greg](../people/greg-p-smith.md) have opened the way and that roughly thirty thousand demons remain. Constance opens a massive portal, and several dragons enter first.
 
 ## The Elevator Detour
 

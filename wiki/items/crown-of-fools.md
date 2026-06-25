@@ -12,7 +12,7 @@ In [Moon Stone Collectors, Part 15](../sessions/moon-stone-collectors-part-15.md
 
 The curse originally functions like a permanent faerie fire effect: [Paul](../people/paul.md) glows, cannot hide or benefit from invisibility normally, and becomes easier to target.
 
-[Julara](../people/julara.md) later helps [Paul](../people/paul.md) suppress the constant glow through a blood-circle ritual and potion. Afterward, the crown still exists and flares when [Paul](../people/paul.md) rages.
+[Julara](../people/julara.md) later helps [Paul](../people/paul.md) suppress the Constance glow through a blood-circle ritual and potion. Afterward, the crown still exists and flares when [Paul](../people/paul.md) rages.
 
 ## Unresolved Debt
 

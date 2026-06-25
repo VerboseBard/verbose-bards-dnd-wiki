@@ -8,10 +8,10 @@ The motes can be spent for rerolls, crafting, spell alteration, and other creati
 
 ## Known Effects
 
-Contact with the dust causes unpredictable changes. [Eve](../people/eva.md) absorbs most of the remaining pile and gains new power, while Constant, Zuk, and the party preserve smaller quantities for future crafting.
+Contact with the dust causes unpredictable changes. [Eve](../people/eve.md) absorbs most of the remaining pile and gains new power, while Constance, Zuk, and the party preserve smaller quantities for future crafting.
 
 ## Related
 
 - [Possibility Core](../concepts/possibility-core.md)
-- [Eve / Eva](../people/eva.md)
+- [Eve](../people/eve.md)
 - [The Hunt for Black Vipers, Part 4](../sessions/hunt-for-black-vipers-part-4.md)

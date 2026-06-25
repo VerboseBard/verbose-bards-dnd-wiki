@@ -33,13 +33,13 @@ In [Session 8](../sessions/session-8.md), [Bartholomew Hildebrant](../people/bar
 
 ## Session 9 Resonance
 
-In [Session 9](../sessions/session-9.md), [Mistress Selyra Vex'ryn](../people/mistress-sila-vexry.md) claims Hestia still receives power through every act of hearth, home, welcome, and motherhood, even when people do not consciously know they are honoring her.
+In [Session 9](../sessions/session-9.md), [Mistress Selyra Vex'ryn](../people/mistress-selyra-vexryn.md) claims Hestia still receives power through every act of hearth, home, welcome, and motherhood, even when people do not consciously know they are honoring her.
 
 Bartholomew senses the combined presence of his medallion and Jefferson's pendant as a campfire in the void rather than only a distant candle. This confirms that the pendant is part of an active and growing divine-fragment pattern, not only a static blessing.
 
-## Canon Caution
+## Hest's Blessing
 
-The transcript calls the blessing the blessing of `Hest`, goddess of the hearth. The wiki treats this as the same Fourth-Age goddess currently stabilized as [Hestia](../people/hestia.md), unless later table notes separate the names.
+The blessing is also called Hest's blessing, tying the pendant directly to [Hestia](../people/hestia.md)'s hearth-fragment power.
 
 ## Related
 

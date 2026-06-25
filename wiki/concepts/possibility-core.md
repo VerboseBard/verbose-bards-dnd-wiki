@@ -16,7 +16,7 @@ After the core enters [Kestrel](../people/kestrel.md), the monolith collapses in
 
 ## Dust
 
-The remaining dust acts as motes of possibility. It can be used for rerolls, crafting, spell alteration, or other creative magical work. [Eve / Eva](../people/eva.md) absorbs a large amount of it, further empowering herself and [Belle](../people/belle.md)'s sight.
+The remaining dust acts as motes of possibility. It can be used for rerolls, crafting, spell alteration, or other creative magical work. [Eve](../people/eve.md) absorbs a large amount of it, further empowering herself and [Belle](../people/belle.md)'s sight.
 
 ## Related
 

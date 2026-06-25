@@ -1,10 +1,17 @@
-# Eve / Eva
+# Eve
 
-Eve, also called Eva in some notes, is [Lilith](lilith.md)'s twin sister and one of [Belle](belle.md)'s daughters.
+Eve is [Lilith](lilith.md)'s twin sister and one of [Belle](belle.md)'s daughters.
+
+## Roster Snapshot
+
+- Level 20
+- Fairy
+- Sorcerer / Firestorm Sorcery (Belle)
+- Player: EternalMisfit
 
 ## Description
 
-Eva manifests older and more powerful than [Lilith](lilith.md), appearing around seventeen with greater magical and mental capability. Her eyes are blue, contrasting [Lilith](lilith.md)'s green.
+Eve manifests older and more powerful than [Lilith](lilith.md), appearing around seventeen with greater magical and mental capability. Her eyes are blue, contrasting [Lilith](lilith.md)'s green.
 
 ## Origin
 
@@ -16,7 +23,7 @@ That origin matters to later conversations with [Belle](belle.md), because part 
 
 ## Opaal Attack
 
-On [Opaal](../places/opaal.md), mercenaries attack Eva at sea. When six ships chase her captain's vessel toward a storm, Eva turns back toward the pursuers and calls down a meteor shower, destroying or devastating the attackers.
+On [Opaal](../places/opaal.md), mercenaries attack Eve at sea. When six ships chase her captain's vessel toward a storm, Eve turns back toward the pursuers and calls down a meteor shower, destroying or devastating the attackers.
 
 ## Mentor
 
@@ -34,7 +41,7 @@ During the fight against the serpent avatar, Eve is swallowed and responds by ca
 
 ## Dragon School and Memories
 
-At [Constant and Zuk's Dragon-Bonding School](../places/constant-and-zuks-dragon-bonding-school.md), Eve reacts with open delight to dragons, famous romance pamphlets about [Constant and Zuk](constant-and-zuk.md), and the school full of [Belle](belle.md)-touched children.
+At [Constance and Zuk's Dragon-Bonding School](../places/constance-and-zuks-dragon-bonding-school.md), Eve reacts with open delight to dragons, famous romance pamphlets about [Constance and Zuk](constance-l-coggeshall.md), and the school full of [Belle](belle.md)-touched children.
 
 [Mave](mave.md) gives Eve memory cubes that restore the harsher truth of her origin and purpose. Eve accepts the memories without breaking, but they leave a mark on her sanity and make her effectively older and more aware.
 
@@ -42,13 +49,13 @@ At the old mine, Eve absorbs much of the [Motes of Possibility](../items/motes-o
 
 ## Prison and Soul Damage
 
-During the [Big Tusk](../places/big-tusk.md) operation, Eve is pulled into the [Prison Between Worlds](../places/prison-between-worlds.md) and meets [Caden / Baba Yaga](caden-baba-yaga.md). He helps her escape when [Lucian](lucian.md)'s pain cracks the prison, leaving a mark of grief and power on her.
+During the [Big Tusk](../places/big-tusk.md) operation, Eve is pulled into the [Prison Between Worlds](../places/prison-between-worlds.md) and meets [Caden / Baba Yaga](caden-baba-yaga.md). He helps her escape when [Lucius](lucius.md)'s pain cracks the prison, leaving a mark of grief and power on her.
 
-After the island battle, Eve consumes the [Mother Superior of Rax'al Karath](mother-superior-of-raxal-karath.md)'s soul and is bitten from within by a hidden [Lucian](lucian.md) fragment. She traps that fragment in a soul coin after [Belle](belle.md) teaches her how to purge and consume stronger souls more safely.
+After the island battle, Eve consumes the [Mother Superior of Rax'al Karath](mother-superior-of-raxal-karath.md)'s soul and is bitten from within by a hidden [Lucius](lucius.md) fragment. She traps that fragment in a soul coin after [Belle](belle.md) teaches her how to purge and consume stronger souls more safely.
 
-During [Lucian's Crystal Trap](../concepts/lucians-crystal-trap.md), Eve returns to the crystal despite exhaustion. After the fragment is destroyed, she nearly tries to consume its residue, but [Vis / Jarvis](vis-jarvis.md) stops her. [Junara](junara.md) later trades her a cache of wealth and emergency healing for the soul coin, which [Greg](greg.md) says can trace the main ritual.
+During [Lucius's Crystal Trap](../concepts/lucius-crystal-trap.md), Eve returns to the crystal despite exhaustion. After the fragment is destroyed, she nearly tries to consume its residue, but [Vis / Jarvice](vis-jarvice.md) stops her. [Junvara](junvara.md) later trades her a cache of wealth and emergency healing for the soul coin, which [Greg](greg-p-smith.md) says can trace the main ritual.
 
-After a full rest, [Belle](belle.md) heals Eve's remaining soul damage and gives her the [Hairpin of Cuteness](../items/hairpin-of-cuteness.md). [Belle](belle.md) also shows Eve one of her active fey curses and warns her not to eat [Lucian](lucian.md)'s final god-soul, even if Eve helps land the killing blow.
+After a full rest, [Belle](belle.md) heals Eve's remaining soul damage and gives her the [Hairpin of Cuteness](../items/hairpin-of-cuteness.md). [Belle](belle.md) also shows Eve one of her active fey curses and warns her not to eat [Lucius](lucius.md)'s final god-soul, even if Eve helps land the killing blow.
 
 The conversations between [Belle](belle.md) and Eve also suggest [Belle](belle.md) may have shaped events in part so she could recover her daughters, making Eve one of the clearest windows into [Belle](belle.md)'s maternal motives rather than just her divine manipulations.
 
@@ -56,9 +63,9 @@ The conversations between [Belle](belle.md) and Eve also suggest [Belle](belle.m
 
 Before the assault on [Jimbo's Soul Ritual](../concepts/jimbo-soul-ritual.md), Eve meets [Belle](belle.md) in dreams and chooses to free [Caden / Baba Yaga](caden-baba-yaga.md). Using Eve's memory of the prison and [Belle](belle.md)'s power, they reach the [Prison Between Worlds](../places/prison-between-worlds.md), shatter [Caden](caden-baba-yaga.md)'s bars, and release him to join the battle later.
 
-At the [Desert Well Ritual Site](../places/desert-well-ritual-site.md), Eve reveals the surface ambush by striking hidden enemies with Scorching Ray and destroys an air djinn whose soul [Junara](junara.md) captures. In the hellish descent below, she uses radiant Meteor Swarm to wipe out waves of demons and triggers a living-arcana surge that temporarily magnifies her magic at personal risk.
+At the [Desert Well Ritual Site](../places/desert-well-ritual-site.md), Eve reveals the surface ambush by striking hidden enemies with Scorching Ray and destroys an air djinn whose soul [Junvara](junvara.md) captures. In the hellish descent below, she uses radiant Meteor Swarm to wipe out waves of demons and triggers a living-arcana surge that temporarily magnifies her magic at personal risk.
 
-Eve then assists [Junara](junara.md) in the first soul exchange, helping replace [Jimbo](jimbo.md)'s fragment with the captured djinn soul. The extraction succeeds without breaking magic.
+Eve then assists [Junvara](junvara.md) in the first soul exchange, helping replace [Jimbo](jimbo.md)'s fragment with the captured djinn soul. The extraction succeeds without breaking magic.
 
 At the [Jungle Ley-Line Facility](../places/jungle-ley-line-facility.md), Eve experiments with portal magic at the shield edge, then later neutralizes the buried tower network by teleporting away the power crystals rather than the antenna array. The successful move drops the towers before their target-lock routines can escalate further.
 
@@ -85,3 +92,4 @@ In the lower temple, Eve turns herself into a firestorm, combining Immolation, W
 - [The Hunt for Black Vipers, Part 9](../sessions/hunt-for-black-vipers-part-9.md)
 - [The Hunt for Black Vipers, Part 10](../sessions/hunt-for-black-vipers-part-10.md)
 - [The Hunt for Black Vipers, Part 11](../sessions/hunt-for-black-vipers-part-11.md)
+

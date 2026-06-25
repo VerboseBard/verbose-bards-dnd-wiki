@@ -10,7 +10,7 @@ The second preserved session is about orientation settling into routine. The par
 
 - The group meets Arnold, the large orc weapons trainer.
 - Gaston and Monique are introduced as part of the school's fox-kin social and training presence.
-- [Greg](../people/greg.md) and Molokan peel away from the main group to pursue answers on their own.
+- [Greg](../people/greg-p-smith.md) and Molokan peel away from the main group to pursue answers on their own.
 - [Lady Penny Hathaway](../people/lady-penny-hathaway.md) appears early as the school's librarian and a major institutional figure.
 - The party settles into school life through the dining hall, workshops, and dorm-style routines.
 - Constance starts pursuing artificer help for her leg.
@@ -19,8 +19,8 @@ The second preserved session is about orientation settling into routine. The par
 ## Important People
 
 - [Lady Penny Hathaway](../people/lady-penny-hathaway.md)
-- [Greg](../people/greg.md)
-- [Constant and Zuk](../people/constant-and-zuk.md)
+- [Greg](../people/greg-p-smith.md)
+- [Constance and Zuk](../people/constance-l-coggeshall.md)
 
 ## Important Places
 

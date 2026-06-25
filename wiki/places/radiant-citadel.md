@@ -26,9 +26,9 @@ In the extracted [War of the Gods, Session 20](../sessions/war-of-the-gods-sessi
 
 In [War of the Gods, Session 23](../sessions/war-of-the-gods-session-23.md), the Citadel stops being just a strategic prize and becomes an active battlefield. Mind flayer infiltration, infernal portals, scattered dungeon seeds, and external siege forces all hit at once, forcing the defenders to fight block by block while [Veil](../people/veil-guardian-of-the-citadel.md) works from the crystal to redeploy specialists and keep the whole structure from collapsing into panic.
 
-In [War of the Gods, Session 24](../sessions/war-of-the-gods-session-24.md), the battle reaches the crystal itself. [Lucian](../people/lucian.md) attacks the [Radiant Citadel Crystal](radiant-citadel-crystal.md) directly, the party fights him on its outer surface, and the city's survival depends on keeping [Veil](../people/veil-guardian-of-the-citadel.md) at the controls while the assault happens outside. When the released power is successfully channeled back into the system, the shields re-form, the open hell portals across the city slam shut, and the crystal begins firing on the invading fleet. The session also makes the Citadel's deeper role explicit: it is not only a travel hub, but the central anchor needed to pull the fractured worlds back together.
+In [War of the Gods, Session 24](../sessions/war-of-the-gods-session-24.md), the battle reaches the crystal itself. [Lucius](../people/lucius.md) attacks the [Radiant Citadel Crystal](radiant-citadel-crystal.md) directly, the party fights him on its outer surface, and the city's survival depends on keeping [Veil](../people/veil-guardian-of-the-citadel.md) at the controls while the assault happens outside. When the released power is successfully channeled back into the system, the shields re-form, the open hell portals across the city slam shut, and the crystal begins firing on the invading fleet. The session also makes the Citadel's deeper role explicit: it is not only a travel hub, but the central anchor needed to pull the fractured worlds back together.
 
-During the final hours before the [Concurrence](../concepts/the-concurrence.md), the [Shippers and Delivery Guild Warehouse](shippers-and-delivery-guild-warehouse.md) becomes the staging ground for [Annabelle](../people/annabelle.md) and Constant's rescue operation into the [Dwarven Egg Fortress](dwarven-egg-fortress.md).
+During the final hours before the [Concurrence](../concepts/the-concurrence.md), the [Shippers and Delivery Guild Warehouse](shippers-and-delivery-guild-warehouse.md) becomes the staging ground for [Annabelle](../people/annabelle.md) and Constance's rescue operation into the [Dwarven Egg Fortress](dwarven-egg-fortress.md).
 
 ## Related
 
@@ -46,3 +46,4 @@ During the final hours before the [Concurrence](../concepts/the-concurrence.md),
 - [War of the Gods, Session 24](../sessions/war-of-the-gods-session-24.md)
 - [Moon Stone Collectors, Part 4](../sessions/moon-stone-collectors-part-4.md)
 - [Moon Stone Collectors, Part 5](../sessions/moon-stone-collectors-part-5.md)
+

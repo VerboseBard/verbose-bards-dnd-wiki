@@ -20,7 +20,7 @@ After a surreal chapel scene involving [Straka](../people/straka.md), [Belle](..
 
 - [Belle](../people/belle.md)
 - [Mave](../people/mave.md)
-- [Constant and Zuk](../people/constant-and-zuk.md)
+- [Constance and Zuk](../people/constance-l-coggeshall.md)
 
 ## Important Places
 

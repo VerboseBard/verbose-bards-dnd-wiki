@@ -10,7 +10,7 @@ The same notes connect him to [Phlukk](phlukk.md) long before the campaign. The 
 
 ## Role
 
-At the canon Session 1 final roster, Paul is a Barbarian 14 on the Path of the Giant.
+Roster snapshot: Level 15 minotaur, Barbarian, Path of the Giant. Player: Intuitivemoose.
 
 He is the party's heavy bruiser and tank: a towering juggernaut who grows when enraged, dominates space physically, and solves many problems by refusing to be moved.
 

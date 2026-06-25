@@ -12,7 +12,7 @@ It is also the session where [Mullin](../people/mullin.md)'s story sharply chang
 
 - The session opens with the immediate recap of the crashed-ship dungeon, 69's disappearance, and the group still split between the wall, the battlefield, and Constance's family stronghold.
 - Constance is summoned before her father [Cornelius Coggeshall](../people/cornelius-coggeshall.md), [Lucian Coggeshall](../people/lucian-coggeshall.md), and allied officers, where the old hatred around her birth is dragged into the open.
-- [Lucian](../people/lucian.md) publicly recites the hostile prophecy that framed her as a malformed betrayer who would doom her kin.
+- [Lucius](../people/lucius.md) publicly recites the hostile prophecy that framed her as a malformed betrayer who would doom her kin.
 - [Cousin Lucy](../people/cousin-lucy.md) interrupts and reveals that there were actually two prophecies spoken the night Constance was born, not one.
 - The second prophecy recasts Constance as a scarred but defiant figure whose bond with Zuk may let her rise above hatred and choose her own fate rather than fulfill the family's fear.
 - While that confrontation is still unresolved, the party's messages about the fallen ship and newborn dungeon pull attention back toward the larger battlefield crisis.
@@ -37,13 +37,13 @@ It is also the session where [Mullin](../people/mullin.md)'s story sharply chang
 - During the return fallout, [Mave](../people/mave.md) later confronts [Mullin](../people/mullin.md) privately and reveals that [Straka](../people/straka.md) never truly brought him back.
 - Instead, the belief and legend in the Commodore's return appear to be feeding him power directly, placing him on a path that could approach godhood or something dangerously adjacent to it.
 - [Mave](../people/mave.md) also makes clear that [Belle](../people/belle.md) has effectively stepped off the main board after completing her plan with 69, even if her influence and consequences remain.
-- The next morning, [Junara](../people/junara.md) asks the library for the record of [Wendell](../people/wendell.md)'s own research questions.
-- That search history shows [Wendell](../people/wendell.md) has been repeatedly asking about repairing the [Divine Gate](../concepts/divine-gate.md), recreating ley lines, creating dungeon cores, tracking [Alen](../people/alen.md), and monitoring whether [Lucian](../people/lucian.md)'s timetable is still on pace.
-- The party meets to compare notes and comes away with a more dangerous picture than before: [Wendell](../people/wendell.md) may be improvising, but he is not acting alone, [Lucian](../people/lucian.md)'s role is still unclear, and several factions may be exploiting the same catastrophe at once.
+- The next morning, [Junvara](../people/junvara.md) asks the library for the record of [Wendell](../people/wendell.md)'s own research questions.
+- That search history shows [Wendell](../people/wendell.md) has been repeatedly asking about repairing the [Divine Gate](../concepts/divine-gate.md), recreating ley lines, creating dungeon cores, tracking [Alen](../people/alen.md), and monitoring whether [Lucius](../people/lucius.md)'s timetable is still on pace.
+- The party meets to compare notes and comes away with a more dangerous picture than before: [Wendell](../people/wendell.md) may be improvising, but he is not acting alone, [Lucius](../people/lucius.md)'s role is still unclear, and several factions may be exploiting the same catastrophe at once.
 
 ## Important People
 
-- [Constance and Zuk](../people/constant-and-zuk.md)
+- [Constance and Zuk](../people/constance-l-coggeshall.md)
 - [Mullin](../people/mullin.md)
 - [Wendell](../people/wendell.md)
 - [Rose Qinlee](../people/rose-qinlee.md)
@@ -69,3 +69,4 @@ It also radically changes the personal map of the party. Constance finally gets 
 ## Source Notes
 
 Derived from the uploaded Session 22 transcript fragment for Hellsbane's heroes at the end of the [Sixth Age](../concepts/sixth-age.md), in the [War of the Gods / New Beginning Campaign](../campaign/war-of-the-gods.md). The session covers the double prophecy around Constance, the dragon hatchery raid, the activation of the first ley-line gate nexus, Rose's death, [Mullin](../people/mullin.md)'s private oath with [Wendell](../people/wendell.md), the resurrection of the fallen dragons, and the party's first use of [Wendell](../people/wendell.md)'s own library-search history as intelligence.
+

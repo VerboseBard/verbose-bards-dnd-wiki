@@ -4,7 +4,7 @@ The Shili Jungle is a jungle region on [Saharun](saharun.md), believed to be tie
 
 ## Campaign Role
 
-[Junara](../people/junara.md) sends two squads of the [442nd](../factions/442nd.md) deep undercover into the Shili Jungle to learn more about the cult. Their orders are to avoid engagement, gather information, and flee if discovered.
+[Junvara](../people/junvara.md) sends two squads of the [442nd](../factions/442nd.md) deep undercover into the Shili Jungle to learn more about the cult. Their orders are to avoid engagement, gather information, and flee if discovered.
 
 One squad goes silent. The second appears to attempt a response, but the message is distorted by interference. [Soul Cage](../items/soul-cage.md) interrogation reveals that the jungle's watcher can see nearly everything entering the region, but "does not have eyes under the water."
 

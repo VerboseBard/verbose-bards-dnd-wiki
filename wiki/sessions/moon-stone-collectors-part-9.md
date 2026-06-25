@@ -46,7 +46,7 @@ The bargain is sealed through a small circle made with demonic pepper powder. A 
 
 [Elisia](../people/elisia.md) explains more about herself and her sisters.
 
-[Lucian](../people/lucian.md) once used a stolen divine artifact against a powerful demon. Instead of simply destroying the being, the artifact split its nature into purified and corrupted aspects, creating six sisters: demonic and celestial fragments of one original whole.
+[Lucius](../people/lucius.md) once used a stolen divine artifact against a powerful demon. Instead of simply destroying the being, the artifact split its nature into purified and corrupted aspects, creating six sisters: demonic and celestial fragments of one original whole.
 
 [Elisia](../people/elisia.md) believes she is justice and protection. [Julara](../people/julara.md) is tied to knowledge. Other sisters are associated with power, carnal desire, love, wisdom, and related paired aspects. Some may want reunion; others may fear what reunion would erase.
 
@@ -60,7 +60,7 @@ She recognizes that the party carries the last of her divine power after the div
 
 ## Memorial and Politics
 
-The party attends the memorial for the fallen from the Hell assault. [Jimbo](../people/jimbo.md), [Charlie](../people/charlie.md), and other dead are honored. The ceremony also gives a public version of [Greg](../people/greg.md)'s departure as the Architect of Worlds: he gave everything for the work, rather than openly naming his divine transformation.
+The party attends the memorial for the fallen from the Hell assault. [Jimbo](../people/jimbo.md), [Charlie](../people/charlie.md), and other dead are honored. The ceremony also gives a public version of [Greg](../people/greg-p-smith.md)'s departure as the Architect of Worlds: he gave everything for the work, rather than openly naming his divine transformation.
 
 The remaining [Hell's Bane](../factions/hells-bane-heroes.md) heroes begin to disperse. Constance and Zuk leave the [Citadel](../places/radiant-citadel.md) to deal with their own people and responsibilities, leaving the old heroic network fractured.
 
@@ -78,9 +78,9 @@ The manor's protected room is built to block psionics, telepathy, and cheating. 
 
 [Vylra](../people/vylra.md) absorbs a truth and insight, seeing through the room's disguises. The party is not among friendly nobles. [Vaelith the Whisperer](../people/vaelith-the-whisperer.md), Lyris or a Deceiver-linked presence, and other hostile disguised figures are present. Threads of deception connect people throughout the room.
 
-One truth reveals what [Juan](../people/juan.md) lost for his luck: destiny and legacy. In another timeline he left Feyland as a faun hero, joined the [Hell's Bane](../factions/hells-bane-heroes.md) orbit, and killed [Lucian](../people/lucian.md) with the dagger on the crystal. That path was stolen or diverted by a deal involving his brother, leaving [Juan](../people/juan.md) with probability-bending luck at a severe cost.
+One truth reveals what [Juan](../people/juan.md) lost for his luck: destiny and legacy. In another timeline he left Feyland as a Fey-touched hero, joined the [Hell's Bane](../factions/hells-bane-heroes.md) orbit, and killed [Lucius](../people/lucius.md) with the dagger on the crystal. That path was stolen or diverted by a deal involving his brother, leaving [Juan](../people/juan.md) with probability-bending luck at a severe cost.
 
-Another revelation frames [Wendell](../people/wendell.md) himself as part of a cosmic joke: the powers that defeated [Lucian](../people/lucian.md) used a diminished undead reject of the gods, empowered him in Hell, and let him believe he had true demon lords under his command. Many of the forces the party fought in Hell were pale or forced imitations, not demon lords risking true destruction.
+Another revelation frames [Wendell](../people/wendell.md) himself as part of a cosmic joke: the powers that defeated [Lucius](../people/lucius.md) used a diminished undead reject of the gods, empowered him in Hell, and let him believe he had true demon lords under his command. Many of the forces the party fought in Hell were pale or forced imitations, not demon lords risking true destruction.
 
 ## Cliffhanger
 
@@ -117,3 +117,4 @@ The session ends with [Vylra](../people/vylra.md) and [Juan](../people/juan.md) 
 ## Source Notes
 
 Derived from the uploaded [Moon Stone Collectors](../factions/moon-stone-collectors.md) Part 9 transcript.
+

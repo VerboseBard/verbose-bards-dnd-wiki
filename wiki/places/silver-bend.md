@@ -1,6 +1,6 @@
 # Silverbend
 
-Silverbend is the canonical spelling used in this wiki for the desert-city thread that appears across the Fifth, Sixth, and [Seventh Age](../concepts/seventh-age.md) notes. The older [Fifth Age](../concepts/fifth-age.md) material places Silverbend in [Karakum](karakum.md), while later material places a separate Silverbend thread on [Saharun](saharun.md) around a divine catastrophe and the [Black Vipers](../factions/black-vipers.md) hunt. The chronology below keeps the record in oldest-to-newest order.
+Silverbend is a desert-city thread that appears across the Fifth, Sixth, and [Seventh Age](../concepts/seventh-age.md) notes. [Fifth Age](../concepts/fifth-age.md) material places Silverbend in [Karakum](karakum.md), while later material places a separate Silverbend thread on [Saharun](saharun.md) around a divine catastrophe and the [Black Vipers](../factions/black-vipers.md) hunt. The chronology below keeps the record in oldest-to-newest order.
 
 ## Fifth Age
 
@@ -16,7 +16,7 @@ The destruction leaves North Silverbend and South Silverbend separated by devast
 
 ## Seventh Age
 
-In the [Black Vipers](../factions/black-vipers.md) arc, [Gregario / Shaq](../people/gregario-shaq.md) protects [Lilith](../people/lilith.md) through the ruins while [Black Vipers](../factions/black-vipers.md) hunt her. [Junara](../people/junara.md) teleports into the ruined library and tracks them to a bridge near the water temple.
+In the [Black Vipers](../factions/black-vipers.md) arc, [Gregario / Shaq](../people/gregario-shaq.md) protects [Lilith](../people/lilith.md) through the ruins while [Black Vipers](../factions/black-vipers.md) hunt her. [Junvara](../people/junvara.md) teleports into the ruined library and tracks them to a bridge near the water temple.
 
 ## Related
 

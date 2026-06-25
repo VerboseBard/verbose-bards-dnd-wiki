@@ -1,8 +1,6 @@
 # Sergeant Feder
 
-Sergeant Feder, spelling provisional, handles corporals and squad-leader assignments in [Session 1](../sessions/session-1.md).
-
-The transcript also sounds like `Federer` in places, so the short form remains provisional until corrected.
+Sergeant Feder handles corporals and squad-leader assignments in [Session 1](../sessions/session-1.md).
 
 ## Role
 

@@ -4,7 +4,7 @@ Saraphel is a champion of the Dawnfather associated with the [Conclave of Church
 
 ## Conclave Champion
 
-Saraphel is previously named among the Conclave champions sent to aid [Junara](junara.md) during the assaults on [Jimbo's Soul Ritual](../concepts/jimbo-soul-ritual.md).
+Saraphel is previously named among the Conclave champions sent to aid [Junvara](junvara.md) during the assaults on [Jimbo's Soul Ritual](../concepts/jimbo-soul-ritual.md).
 
 ## Ebonwing Manor
 
@@ -16,5 +16,5 @@ Saraphel kills the Deceiver-linked enemy with a blade of divine retribution, snu
 
 - [Conclave of Churches](../factions/conclave-of-churches.md)
 - [Ebonwing Manor](../places/ebonwing-manor.md)
-- [Junara](junara.md)
+- [Junvara](junvara.md)
 - [Moon Stone Collectors, Part 10](../sessions/moon-stone-collectors-part-10.md)

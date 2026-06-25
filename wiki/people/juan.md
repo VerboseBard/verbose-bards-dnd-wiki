@@ -1,16 +1,18 @@
-# Juan
+﻿# Juan
 
-Juan Flehxis is a male satyr, usually kept in a disguised apparent form, and one of the core members of the [Moon Stone Collectors](../campaign/moonstone-collectors.md). His story becomes one of the most important personal threads in the later campaign.
+Juan Flehxis is a goblin bard-warlock and one of the core members of the [Moon Stone Collectors](../campaign/moonstone-collectors.md). His story becomes one of the most important personal threads in the later campaign.
 
 ## Background
 
-Early roster notes describe Juan as someone who ran away from home to become a bard and later picked up pact magic. He hides his satyr nature under a heavier apparent disguise for much of the campaign, letting many strangers assume he is merely another odd small traveler rather than a [Fey](../concepts/fey.md)-blooded manipulator with deeper history.
+Early roster notes describe Juan as someone who ran away from home to become a bard and later picked up pact magic. He moves through much of the campaign as an odd small traveler whose charm, performance, and pact magic hide a deeper history.
 
 He is also an established gambler, trickster, and social driver inside the party. [Sorrel](sorrel.md) is with the group because she once lost a bet to Juan, and several notes frame him as the one most likely to turn a tense scene into a performance, con, or dare. At the same time, he is personally intimidated by [Zen](zen.md)'s intelligence and repeatedly measures himself against [Vylra](vylra.md)'s steadier temperament.
 
 ## Role
 
-At the canon Session 1 final roster, Juan is a Bard 6 / Warlock 9 who serves as the party's illusionist, psychic artillery piece, manipulator, and social powerhouse.
+Roster snapshot: Level 15 goblin, Bard / Warlock, The Great Old One patron, College of Eloquence. Player: Greenstone56.
+
+Juan serves as the party's illusionist, psychic artillery piece, manipulator, and social powerhouse.
 
 Juan is one of the characters through whom the campaign explores luck, destiny, memory, and stolen possibility. What first looks like unusually strong fortune later turns out to be the residue of a deeper bargain or rewrite.
 
@@ -28,7 +30,7 @@ In [Moon Stone Collectors, Part 9](../sessions/moon-stone-collectors-part-9.md),
 
 He lost destiny and legacy.
 
-That revelation suggests that in another timeline or version of events, Juan left Feyland as a faun hero, moved in the orbit of the [Hell's Bane Heroes](../factions/hells-bane-heroes.md), and was the one who killed [Lucian](../people/lucian.md) with the dagger on the crystal. That path was diverted or stolen through a deal involving his brother, leaving Juan with probability-bending luck but stripped of the larger fate that should have been his.
+That revelation suggests that in another timeline or version of events, Juan left Feyland as a Fey-touched hero, moved in the orbit of the [Hell's Bane Heroes](../factions/hells-bane-heroes.md), and was the one who killed [Lucius](../people/lucius.md) with the dagger on the crystal. That path was diverted or stolen through a deal involving his brother, leaving Juan with probability-bending luck but stripped of the larger fate that should have been his.
 
 ## Weaver Connection
 
@@ -65,3 +67,4 @@ He remains dangerous, theatrical, and manipulative when needed, but the later ca
 - [Amulet of Lost Memories](../items/amulet-of-lost-memories.md)
 - [Divine Soul Coin](../items/divine-soul-coin.md)
 - [Ebonwing Manor](../places/ebonwing-manor.md)
+

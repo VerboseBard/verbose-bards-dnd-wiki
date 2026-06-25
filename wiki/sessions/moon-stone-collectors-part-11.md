@@ -44,9 +44,9 @@ The stasis shield over [Phlukk](../people/phlukk.md) remains intact. Blood has r
 
 The party debates whether to stay and face the Conclave or leave. Because they had accepted responsibility for [Elisia](../people/elisia.md) and she is now gone, remaining could result in arrest, execution, or being turned into scapegoats by the Dawnfather's hardliners.
 
-[Luca](../people/luca.md) chooses to stay behind and keep fighting for the [Citadel](../places/radiant-citadel.md). Before the party leaves, [Luca](../people/luca.md) receives a divine blessing connected to the struggle ahead.
+[Luka](../people/luka.md) chooses to stay behind and keep fighting for the [Citadel](../places/radiant-citadel.md). Before the party leaves, [Luka](../people/luka.md) receives a divine blessing connected to the struggle ahead.
 
-[Vylra](../people/vylra.md) sends a message by bee to [Junara](../people/junara.md), saying the party is going to [Ice Watch](../places/ice-watch.md) and that he will still help with the captive assassin if needed.
+[Vylra](../people/vylra.md) sends a message by bee to [Junvara](../people/junvara.md), saying the party is going to [Ice Watch](../places/ice-watch.md) and that he will still help with the captive assassin if needed.
 
 The party teleports away with [Phlukk](../people/phlukk.md) and [Juan](../people/juan.md) unconscious or incapacitated, leaving the [Citadel](../places/radiant-citadel.md) crisis behind.
 
@@ -61,7 +61,7 @@ They reach [Ice Watch](../places/ice-watch.md), then the [Chuckling Gecko](../pl
 - [Big Bart](../items/big-bart.md)
 - [Elisia](../people/elisia.md)
 - [Julia / Julisia](../people/julia-julisia.md)
-- [Luca](../people/luca.md)
+- [Luka](../people/luka.md)
 - [Mave](../people/mave.md)
 - [Phlukk](../people/phlukk.md)
 - [Veil, Guardian of the Citadel](../people/veil-guardian-of-the-citadel.md)

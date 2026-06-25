@@ -91,15 +91,15 @@ People are grouped by campaign, faction, and divine family so related figures st
 ## Driftvale and Sin
 
 - [Rurik Valdren](rurik-valdren.md)
-- [Mistress Selyra Vex'ryn](mistress-sila-vexry.md)
-- [Vaelis Brighttongue](valis-brighttongue.md)
+- [Mistress Selyra Vex'ryn](mistress-selyra-vexryn.md)
+- [Vaelis Brighttongue](vaelis-brighttongue.md)
 - [Granny](granny.md)
 - [Jeffree](jeffree.md)
 - [Goblin Quartermaster Assistant](goblin-quartermaster-assistant.md)
 
 ## Moon Stone Collectors
 
-- [Luca](luca.md)
+- [Luka](luka.md)
 - [Sorrel](sorrel.md)
 - [Paul](paul.md)
 - [Bishop Octavian Ironheart](bishop-octavian-ironheart.md)
@@ -155,17 +155,34 @@ People are grouped by campaign, faction, and divine family so related figures st
 
 ## Hell's Bane Heroes
 
-- [Greg](greg.md)
+- [Greg P Smith "The Sower"](greg-p-smith.md)
 - [Gregario / Shaq](gregario-shaq.md)
-- [Junara](junara.md)
+- [Junvara](junvara.md)
 - [Kestrel](kestrel.md)
 - [Krol](krol.md)
 - [Mullin](mullin.md)
-- [Vis / Jarvis](vis-jarvis.md)
+- [Vis / Jarvice](vis-jarvice.md)
 - [Captain West](captain-west.md)
 - [Charlie](charlie.md)
 - [Jimbo](jimbo.md)
-- [Constant and Zuk](constant-and-zuk.md)
+- [Constance L. Coggeshall and Zuk](constance-l-coggeshall.md)
+
+## War of the Gods / New Beginning Character Roster
+
+- [Greg P Smith "The Sower"](greg-p-smith.md)
+- [Jack Kenway](jack-kenway.md)
+- [Jarruth Stion](jarruth-stion.md)
+- [Charlie](charlie.md)
+- [Constance L. Coggeshall](constance-l-coggeshall.md)
+- [Eve](eve.md)
+- [Jarvice](vis-jarvice.md)
+- [Jimbo](jimbo.md)
+- [Junvara](junvara.md)
+- [Kestrel](kestrel.md)
+- [Molokan](molokan.md)
+- [Quark "Adamantine Balls" Skaa-Doush](quark-skaa-doush.md)
+- [Ricky Bricardo](ricky-bricardo.md)
+- [Wendell, The Crimson Hound](wendell.md)
 
 ## War of the Gods / School and Citadel Allies
 
@@ -249,7 +266,7 @@ People are grouped by campaign, faction, and divine family so related figures st
 - [The Weaver](../concepts/the-weaver.md)
 - [Second Age Bound Spirit](second-age-bound-spirit.md)
 - [The Big Shad](../concepts/big-shad.md)
-- [Lucian](lucian.md)
+- [Lucius](lucius.md)
 - [Rexel Kar](rexel-kar.md)
 - [Wendell](wendell.md)
 - [Zarvok the Torturer](zarvok-the-torturer.md)
@@ -259,7 +276,7 @@ People are grouped by campaign, faction, and divine family so related figures st
 - [Veil, Guardian of the Citadel](veil-guardian-of-the-citadel.md)
 - [Viscus](viscus.md)
 - [Glade Mistress](glade-mistress.md)
-- [Eve / Eva](eva.md)
+- [Eve](eve.md)
 - [Jack Kenway](jack-kenway.md)
 - [Joseph the Goblin](joseph-the-goblin.md)
 - [Alen](alen.md)
@@ -293,3 +310,4 @@ People are grouped by campaign, faction, and divine family so related figures st
 ## Shipboard AIs
 
 - [Kubix](kubix.md)
+

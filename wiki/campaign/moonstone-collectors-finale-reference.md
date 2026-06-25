@@ -9,12 +9,6 @@ Source videos:
 
 The existing session pages remain the playable summaries. This page keeps the higher-level continuity details in one place so later Seventh Age material can reference them without re-reading the raw transcript.
 
-## Canon Name Notes
-
-The transcript language supports `Moon Stone Collectors` / `Moonstone Collectors` as the readable campaign name. Older wiki drafts used `Moon Stone Collators`; those should be treated as display-name drift unless later table notes say otherwise. Existing file paths keep `moonstone-collectors` so current links stay stable.
-
-The leonin zealot appears as both `Luka` and `Luca` in older pages and transcript drift. The current wiki treats [Luca](../people/luca.md) as the active page and keeps [Luka](../people/luka.md) as an alias.
-
 ## Part 16 Summary
 
 The finale opens with the six sister-fragments being tracked by aspect: justice, conquer or power, love, lust, knowledge, and wisdom.
@@ -27,7 +21,7 @@ Back at the cabin after the hydra fight, [Juan](../people/juan.md) shares the [A
 
 [Julara](../people/julara.md) gives [Paul](../people/paul.md) a cold-iron amulet that suppresses the faerie-fire portion of the [Crown of Fools](../items/crown-of-fools.md). She explains that the Keeper of the Gates stole 64 years from Paul, a punishment wildly disproportionate for a non-fey mortal. Paul refuses a full bond with Julara, and later leaves the party rather than let the churches use him as a route to kill or force-merge her.
 
-On the [Radiant Citadel](../places/radiant-citadel.md), [Luca](../people/luca.md) and [Junara](../people/junara.md) are briefed by church leaders. The churches fear the recombined sister-being could become an arch-demoness or arch-celestial-demon threat. Luca is sent to free Paul from Julara or kill Julara through the connection if necessary. Junara is sent after another fragment, but his path leads to a conversation with Sovereignty instead of a fight.
+On the [Radiant Citadel](../places/radiant-citadel.md), [Luka](../people/luka.md) and [Junvara](../people/junvara.md) are briefed by church leaders. The churches fear the recombined sister-being could become an arch-demoness or arch-celestial-demon threat. Luka is sent to free Paul from Julara or kill Julara through the connection if necessary. Junvara is sent after another fragment, but his path leads to a conversation with Sovereignty instead of a fight.
 
 The party enters the [Summer Court](../places/summer-court.md), where [Sorrel](../people/sorrel.md) serves under her grandfather, the Brownie adviser to the Green Man. [Wisdom](../people/wisdom.md), also called Sophia, recognizes [Juan](../people/juan.md) as marked by her nemesis, [The Weaver](../concepts/the-weaver.md), and explains the hidden Fey oath, the Wild Hunt's enforcement role, and the cornerstone spellwork that holds the [Feywild](../places/feywild.md) together. She also explains Viscus's origin as a fey-altered offshoot of the demonic dwarven goo and the moral problem of forcing sister-fragments to merge or split. The party petitions the Green Man to replace the broken Spring Court connection. The request is accepted, restoring the grove's fey link, removing Paul's crown, and returning his stolen years.
 
@@ -41,7 +35,7 @@ Inside the facility, the party solves a statue-and-lever puzzle, survives dwarve
 
 A failed or experimental attempt to interact with a giant skeleton stirs gray goo. The party contains it with fire, holy water, disintegration effects, and battlefield control while protecting the living Viscus cutting.
 
-In the master chamber, [Juan](../people/juan.md), [Zen](../people/zen.md), [Vylra](../people/vylra.md), [p'Op](../people/p-op.md), [Phlukk](../people/phlukk.md), [Luca](../people/luca.md), and the others defend the control operation long enough for Viscus to claim the master goo. Luca nearly destroys the master goo outright, which would have ruined the plan, and is briefly infected before purging the goo through zealot divine force.
+In the master chamber, [Juan](../people/juan.md), [Zen](../people/zen.md), [Vylra](../people/vylra.md), [p'Op](../people/p-op.md), [Phlukk](../people/phlukk.md), [Luka](../people/luka.md), and the others defend the control operation long enough for Viscus to claim the master goo. Luka nearly destroys the master goo outright, which would have ruined the plan, and is briefly infected before purging the goo through zealot divine force.
 
 The final control succeeds. Viscus gains command over the master goo, the wider goo network, infected animals and bodies, the dwarven tunnel infection, and roughly 500,000 undead soldiers preserved in frozen lakes and old dwarven systems.
 

@@ -2,7 +2,7 @@
 
 ![Vaelis Brighttongue](../assets/images/vaelis-brighttongue.png)
 
-Vaelis Brighttongue, transcribed earlier as Valis Brighttongue, is a flamboyant male tiefling bard and proprietor at [The Singing Sword](../places/singing-sword.md).
+Vaelis Brighttongue is a flamboyant male tiefling bard and proprietor at [The Singing Sword](../places/singing-sword.md).
 
 ## Role
 

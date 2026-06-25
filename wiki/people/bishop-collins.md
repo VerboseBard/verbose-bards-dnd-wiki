@@ -8,11 +8,12 @@ Bishop Collins was a senior field leader of the [Cobra Cult of Rax'al Karath](..
 
 ## Soul Cage
 
-When [Junara](junara.md) questions Collins's trapped soul, the soul no longer behaves as Collins alone. [Lucian's Splintered Echo](../concepts/lucians-splintered-echo.md) manifests through it, claims control of the Church of Rax'al Karath, answers several questions, and then destroys the remaining soul fragment.
+When [Junvara](junvara.md) questions Collins's trapped soul, the soul no longer behaves as Collins alone. [Lucius's Splintered Echo](../concepts/lucius-splintered-echo.md) manifests through it, claims control of the Church of Rax'al Karath, answers several questions, and then destroys the remaining soul fragment.
 
 ## Related
 
 - [Deacon Matthews](deacon-matthews.md)
 - [Initiate Thomas](initiate-thomas.md)
-- [Lucian](lucian.md)
+- [Lucius](lucius.md)
 - [Soul Cage](../items/soul-cage.md)
+

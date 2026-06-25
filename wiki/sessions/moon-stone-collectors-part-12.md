@@ -72,7 +72,7 @@ They do not solve the full puzzle before resting, but the clues suggest a hidden
 
 That night, [Terrence of Tyr](../people/terrence-of-tyr.md) reaches the camp. He is a winged justicar sent by the Conclave to judge the party's actions regarding [Elisia](../people/elisia.md), rather than drag them back by force.
 
-He shares food, speaks with [p'Op](../people/p-op.md) about faith, and explains that [Luca](../people/luca.md)'s testimony helped prevent a harsher response. In the morning, Terrence judges that the party acted in good faith: they protected [Elisia](../people/elisia.md), did not take her into danger, and could not have stopped the attack that took her.
+He shares food, speaks with [p'Op](../people/p-op.md) about faith, and explains that [Luka](../people/luka.md)'s testimony helped prevent a harsher response. In the morning, Terrence judges that the party acted in good faith: they protected [Elisia](../people/elisia.md), did not take her into danger, and could not have stopped the attack that took her.
 
 He warns that the [Citadel](../places/radiant-citadel.md) and the churches will become dangerous in the next few years as old gods lose influence, new gods gain reach, and the Conclave struggles for power.
 

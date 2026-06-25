@@ -2,11 +2,7 @@
 
 ![Plasma Greatblade](../assets/images/plasma-greatblade.png)
 
-The Plasma Greatblade, previously tracked as the Two-Handed Plasma Blade or Twin-Core Plasma Greatblade, is an advanced magitech weapon recovered from [the crashed ship](../places/crashed-ship.md). It is a self-contained plasma weapon system powered by refined energy discs.
-
-## Current Card Name
-
-The visual item card uses `Plasma Greatblade` and describes it as an unknown-origin magitech weapon. Earlier wiki and transcript notes used `Two-Handed Plasma Blade` and `Twin-Core Plasma Greatblade`; these are treated as the same item unless later table notes split them.
+The Plasma Greatblade is an advanced magitech weapon recovered from [the crashed ship](../places/crashed-ship.md). It is a self-contained plasma weapon system powered by refined energy discs.
 
 ## Item Card
 

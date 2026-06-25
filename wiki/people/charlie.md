@@ -2,6 +2,12 @@
 
 Charlie was an artificer-minded fighter and survivor associated with the [Hell's Bane Heroes](../factions/hells-bane-heroes.md), remembered as much for what she did before her murder as for the soul-theft that followed it.
 
+## Roster Snapshot
+
+- Level 20
+- Astral Elf
+- Fighter / Gunslinger / Artificer / Artillerist
+
 ## Thornwall Survivor
 
 In the earlier [War of the Gods / New Beginning Campaign](../campaign/war-of-the-gods.md) material, Charlie is already established as capable, armed, and practical.
@@ -20,17 +26,17 @@ In [War of the Gods, Session 20](../sessions/war-of-the-gods-session-20.md), Cha
 
 ## Death
 
-During the Vipers' strike against the [Hell's Bane Heroes](../factions/hells-bane-heroes.md), Charlie was slain beside [Jimbo](jimbo.md) after the attackers first stole [Lucian](lucian.md)'s old weapons from Hell. The attack formed part of [Julia / Julisia](julia-julisia.md)'s attempt to disrupt [Lucian](lucian.md)'s resurrection.
+During the Vipers' strike against the [Hell's Bane Heroes](../factions/hells-bane-heroes.md), Charlie was slain beside [Jimbo](jimbo.md) after the attackers first stole [Lucius](lucius.md)'s old weapons from Hell. The attack formed part of [Julia / Julisia](julia-julisia.md)'s attempt to disrupt [Lucius](lucius.md)'s resurrection.
 
 ## Soul Prison
 
-Charlie's soul is taken during the assassination itself and later ends up in [Sir Hellspire](sir-hellspire.md)'s custody, where he uses her design knowledge for weapons work. During the [Big Tusk](../places/big-tusk.md) factory strike, [Constant and Zuk](constant-and-zuk.md) detect Charlie's soul prison, and the party kills Hellspire before he can exploit her further.
+Charlie's soul is taken during the assassination itself and later ends up in [Sir Hellspire](sir-hellspire.md)'s custody, where he uses her design knowledge for weapons work. During the [Big Tusk](../places/big-tusk.md) factory strike, [Constance and Zuk](constance-l-coggeshall.md) detect Charlie's soul prison, and the party kills Hellspire before he can exploit her further.
 
 Charlie's soul prison is recovered. Her body remains in stasis on the [Citadel](../places/radiant-citadel.md), making restoration possible if the party uses sufficiently powerful resurrection magic.
 
 ## Release
 
-Before the first ritual-site assault, [Constant and Zuk](constant-and-zuk.md) stands at the dragon school before dawn and chooses not to keep Charlie bound for resurrection. With a felt reassurance from Gray, Constant opens the soul cage. Charlie's soul appears briefly, smiles, and passes on.
+Before the first ritual-site assault, [Constance and Zuk](constance-l-coggeshall.md) stands at the dragon school before dawn and chooses not to keep Charlie bound for resurrection. With a felt reassurance from Gray, Constance opens the soul cage. Charlie's soul appears briefly, smiles, and passes on.
 
 ## Related
 
@@ -46,3 +52,4 @@ Before the first ritual-site assault, [Constant and Zuk](constant-and-zuk.md) st
 - [War of the Gods, Session 20](../sessions/war-of-the-gods-session-20.md)
 - [The Hunt for Black Vipers, Part 5](../sessions/hunt-for-black-vipers-part-5.md)
 - [The Hunt for Black Vipers, Part 9](../sessions/hunt-for-black-vipers-part-9.md)
+

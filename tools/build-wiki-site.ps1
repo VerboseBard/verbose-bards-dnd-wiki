@@ -230,6 +230,7 @@ function Convert-MarkdownFile {
     <aside class="sidebar">
       <a class="brand" href="$homeHref">$SiteTitle</a>
       <nav>
+        <a href="$assetPrefix/campaign/index.html">Campaigns</a>
         <a href="$assetPrefix/sessions/index.html">Sessions</a>
         <a href="$assetPrefix/people/index.html">People</a>
         <a href="$assetPrefix/places/index.html">Places</a>

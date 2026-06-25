@@ -8,9 +8,9 @@ Ether crystals occur naturally in regions of intense magical saturation, especia
 
 Modern arcanists also experiment with artificial growth through controlled spellcasting into accumulators, though the process remains experimental and poorly understood.
 
-## Nomenclature
+## Aether Devices
 
-The wiki uses `Ether Crystal` for the resource. Some item cards and device names use `Aether`, especially the [Aether Conductor](aether-conductor.md) line. Unless a later canon note separates them, these spellings point to the same crystal resource family.
+Some devices use `Aether` in their item names, especially the [Aether Conductor](aether-conductor.md) line. Those devices draw on the same crystal resource family as ether crystals.
 
 ## Forms
 

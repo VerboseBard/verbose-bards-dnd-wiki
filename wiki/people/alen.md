@@ -6,11 +6,11 @@ Alen was the figure later known as the [Raven Queen of Saharun](raven-queen-of-s
 
 Alen and the [Raven Queen of Saharun](raven-queen-of-saharun.md) are the same being.
 
-That matters because older pages sometimes describe "the Raven Queen" and "Alen" from different angles: one as a throne or mantle within [Saharun](../places/saharun.md)'s religious history, the other as a manipulative family figure tied to [Belle](belle.md), [Lilith](lilith.md), and [Gregario](gregario-shaq.md). Both refer to the same person at different stages of her story and under different names or roles.
+That matters because her story spans both the Raven Queen mantle within [Saharun](../places/saharun.md)'s religious history and the manipulative family role tied to [Belle](belle.md), [Lilith](lilith.md), and [Gregario](gregario-shaq.md). Both belong to the same person at different stages of her story and under different names or roles.
 
 ## Family Position
 
-Alen is not the biological mother of [Belle](belle.md), [Eve / Eva](eva.md), or [Lilith](lilith.md).
+Alen is not the biological mother of [Belle](belle.md), [Eve](eve.md), or [Lilith](lilith.md).
 
 Instead, Alen occupies a more tangled family role. She is treated in later material as an elder family figure to [Belle](belle.md) and, in the [Hunt for the Black Vipers](../campaign/hunt-for-black-vipers.md) line especially, as something much closer to a stepfather or parental-guardian figure in [Lilith](lilith.md)'s life.
 
@@ -22,7 +22,7 @@ The cave shrine includes a protected portrait of a younger, softer Alen alongsid
 
 ## Legacy
 
-The [Cobra Cult of Rax'al Karath](../factions/cobra-cult-of-raxal-karath.md) considers Alen a polluting presence on what they regard as holy ground. [Junara](junara.md) considers her old rooms too dangerous to disturb without preparation.
+The [Cobra Cult of Rax'al Karath](../factions/cobra-cult-of-raxal-karath.md) considers Alen a polluting presence on what they regard as holy ground. [Junvara](junvara.md) considers her old rooms too dangerous to disturb without preparation.
 
 ## Fifth Age Ambition
 
@@ -36,11 +36,11 @@ In [War of the Gods, Session 22](../sessions/war-of-the-gods-session-22.md), tha
 
 The same session also reveals that Alen remains one of the powers others still suspect of playing a much larger board than the party can see. Even when she is not visibly moving armies, she is still shaping loyalties, inheritances, and who gets used as part of the Gate crisis.
 
-In [War of the Gods, Session 23](../sessions/war-of-the-gods-session-23.md), Alen finally enters the [Citadel](../places/radiant-citadel.md) crisis directly. She manifests to confront [Lucian](lucian.md) during the first portal-wave siege, tries to stop him from capitalizing on the collapse around the death domain, and is killed in the clash. Her fall immediately strips away much of the divine structure [Gregario](gregario-shaq.md) had still been using, even if it does not erase all the soul-level changes already carved into him.
+In [War of the Gods, Session 23](../sessions/war-of-the-gods-session-23.md), Alen finally enters the [Citadel](../places/radiant-citadel.md) crisis directly. She manifests to confront [Lucius](lucius.md) during the first portal-wave siege, tries to stop him from capitalizing on the collapse around the death domain, and is killed in the clash. Her fall immediately strips away much of the divine structure [Gregario](gregario-shaq.md) had still been using, even if it does not erase all the soul-level changes already carved into him.
 
 ## Birth Assistance and Aftermath
 
-Alen assisted [Belle](belle.md) during the birth process that produced [Eve](eva.md) and [Lilith](lilith.md), but that is not the same thing as being their biological parent.
+Alen assisted [Belle](belle.md) during the birth process that produced [Eve](eve.md) and [Lilith](lilith.md), but that is not the same thing as being their biological parent.
 
 Later family material suggests that after Alen's own death in that older chain of events, [Belle](belle.md) effectively retained or reclaimed a maternal role over the children and raised them until the later [Concurrence](../concepts/the-concurrence.md)-era [Divine Gate](../concepts/divine-gate.md) alterations pulled the girls apart and sent them back out into the worlds.
 
@@ -51,7 +51,7 @@ Later family material suggests that after Alen's own death in that older chain o
 ## Related
 
 - [Belle](belle.md)
-- [Eve / Eva](eva.md)
+- [Eve](eve.md)
 - [Lilith](lilith.md)
 - [Silverbend Coastal Cave Hideout](../places/silver-bend-coastal-cave-hideout.md)
 - [Raven Queen of Saharun](raven-queen-of-saharun.md)
@@ -61,3 +61,4 @@ Later family material suggests that after Alen's own death in that older chain o
 - [War of the Gods, Session 22](../sessions/war-of-the-gods-session-22.md)
 - [War of the Gods, Session 23](../sessions/war-of-the-gods-session-23.md)
 - [The Hunt for Black Vipers, Part 4](../sessions/hunt-for-black-vipers-part-4.md)
+

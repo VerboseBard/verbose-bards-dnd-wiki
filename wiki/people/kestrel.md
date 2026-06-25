@@ -2,7 +2,13 @@
 
 Kestrel is a bardic duelist and awakened member of the later [Hell's Bane Heroes](../factions/hells-bane-heroes.md), active through the [War of the Gods / New Beginning Campaign](../campaign/war-of-the-gods.md) at the end of the [Sixth Age](../concepts/sixth-age.md).
 
-His surviving notes start well before the late-session war archive, during the school period under [Mave](mave.md), and continue forward into the [Black Vipers](../factions/black-vipers.md), [Lucian](lucian.md), and [Jimbo's Soul Ritual](../concepts/jimbo-soul-ritual.md) arcs.
+## Roster Snapshot
+
+- Level 20
+- Changeling
+- Bard / Warlock / College of Swords / The Hexblade
+
+His surviving notes start well before the late-session war archive, during the school period under [Mave](mave.md), and continue forward into the [Black Vipers](../factions/black-vipers.md), [Lucius](lucius.md), and [Jimbo's Soul Ritual](../concepts/jimbo-soul-ritual.md) arcs.
 
 ## School and Song
 
@@ -32,11 +38,11 @@ The ritual chant in that chamber also inspires another of Kestrel's songs. His n
 
 Kestrel remains active through the political and spiritual collapse that follows the mine arc.
 
-At the Emerald Palace, he is part of the group brought to testify before a council involving [Mave](mave.md), [Belle](belle.md), nobles, royals, and other major powers. When the chamber erupts in fire, [Greg](greg.md)'s portal to the library and [Jinx](jinx.md)'s crystal warning help keep Kestrel's side alive.
+At the Emerald Palace, he is part of the group brought to testify before a council involving [Mave](mave.md), [Belle](belle.md), nobles, royals, and other major powers. When the chamber erupts in fire, [Greg](greg-p-smith.md)'s portal to the library and [Jinx](jinx.md)'s crystal warning help keep Kestrel's side alive.
 
 Back at school, Kestrel has one of his quieter but more revealing scenes in the chapel. He repairs the appearance of [Bridget](bridget.md)'s damaged statue with illusion, plays soft music for a while, and feels what seems to be an expression of thanks. That moment reinforces the devotional side of his art before the campaign fully tips into war.
 
-He is also present during the school assault where [Mave](mave.md) is dying or ascending, [Gregario / Shaq](gregario-shaq.md) is being drawn into the vampire and [Lilith](lilith.md) lines, [Constant and Zuk](constant-and-zuk.md) are under pressure, and Kestrel draws his blades for the first time in earnest.
+He is also present during the school assault where [Mave](mave.md) is dying or ascending, [Gregario / Shaq](gregario-shaq.md) is being drawn into the vampire and [Lilith](lilith.md) lines, [Constance and Zuk](constance-l-coggeshall.md) are under pressure, and Kestrel draws his blades for the first time in earnest.
 
 Soon after, in the temple and undead-country material, Kestrel's music helps hold a defensive system together while survivors hide from the spreading dead. Even before the later [Black Vipers](../factions/black-vipers.md) hunt, he is already functioning as a battlefield support anchor.
 
@@ -50,27 +56,27 @@ At the [Old Silverbend Mines](../places/old-silver-bend-mines.md), Kestrel under
 
 That scene is one of the clearest expressions of Kestrel's broader role in the setting: he is not simply a swords-bard. He is someone who can meet ancient magical structures on their own terms and answer them with song.
 
-## Ancient Blades and Lucian War
+## Ancient Blades and Lucius War
 
-Kestrel's blades gradually become part of the larger war against [Lucian](lucian.md).
+Kestrel's blades gradually become part of the larger war against [Lucius](lucius.md).
 
-His blades consume two [Lucian Anchor Blades](../items/lucian-anchor-blades.md), weakening [Lucian](lucian.md)'s return and empowering the weapons further.
+His blades consume two [Lucius Anchor Blades](../items/lucius-anchor-blades.md), weakening [Lucius](lucius.md)'s return and empowering the weapons further.
 
-During the [Big Tusk](../places/big-tusk.md) strike, Kestrel impersonates [Central Toge](central-toge.md), survives [Dark Star](dark-star.md)'s private test, and later seizes [Dark Star](dark-star.md)'s blade before it can be drawn. His ancient blades consume that weapon as another [Lucian](lucian.md) anchor.
+During the [Big Tusk](../places/big-tusk.md) strike, Kestrel impersonates [Central Toge](central-toge.md), survives [Dark Star](dark-star.md)'s private test, and later seizes [Dark Star](dark-star.md)'s blade before it can be drawn. His ancient blades consume that weapon as another [Lucius](lucius.md) anchor.
 
-During [Lucian's Crystal Trap](../concepts/lucians-crystal-trap.md), Kestrel uses Words of Creation to stabilize the shattering [Radiant Citadel Crystal](../places/radiant-citadel-crystal.md) and help keep [Lucian](lucian.md)'s dying soul explosion from reaching full catastrophic force.
+During [Lucius's Crystal Trap](../concepts/lucius-crystal-trap.md), Kestrel uses Words of Creation to stabilize the shattering [Radiant Citadel Crystal](../places/radiant-citadel-crystal.md) and help keep [Lucius](lucius.md)'s dying soul explosion from reaching full catastrophic force.
 
 After that battle, Kestrel meets [Nicole](nicole.md) at his [Citadel](../places/radiant-citadel.md) music-shop persona. [Nicole](nicole.md) gives him the [Shifter's Mask](../items/shifters-mask.md), an ancient [Driftvale](../places/driftvale.md) artifact tied to his people's buried past and to [Veil, Guardian of the Citadel](veil-guardian-of-the-citadel.md)'s wider world.
 
 ## Jimbo's Soul Ritual
 
-Before the assault on [Jimbo's Soul Ritual](../concepts/jimbo-soul-ritual.md), Kestrel and [Junara](junara.md) accept Conclave support and help coordinate incoming allied waves.
+Before the assault on [Jimbo's Soul Ritual](../concepts/jimbo-soul-ritual.md), Kestrel and [Junvara](junvara.md) accept Conclave support and help coordinate incoming allied waves.
 
 Across the ritual-site arc, Kestrel repeatedly fills the same battlefield niche:
 
 - bardic support during the [Desert Well Ritual Site](../places/desert-well-ritual-site.md)
 - Words of Creation to open barriers at the [Jungle Ley-Line Facility](../places/jungle-ley-line-facility.md)
-- crystal and control support while [Junara](junara.md), [Gregario / Shaq](gregario-shaq.md), and others handle the harsher front-line pressure
+- crystal and control support while [Junvara](junvara.md), [Gregario / Shaq](gregario-shaq.md), and others handle the harsher front-line pressure
 - Greater Restoration on [Winrah Holm](winrah-holm.md) after recognizing her crown and using [Frederick Blackthorn](frederick-blackthorn.md)'s appearance to break her obedience
 - Mass Heal in the ritual chamber after catastrophic necrotic damage drops multiple allies
 - Circle of Power at the [High Temple of Rexel Kar](../places/high-temple-of-rexel-kar.md), protecting the lower-temple push from divine and magical retaliation
@@ -86,10 +92,10 @@ Derived from the local source file `C:\Users\bulld\Downloads\Kestrel notes.txt`,
 - [War of the Gods / New Beginning Campaign](../campaign/war-of-the-gods.md)
 - [Sixth Age](../concepts/sixth-age.md)
 - [Black Vipers](../factions/black-vipers.md)
-- [Junara](junara.md)
+- [Junvara](junvara.md)
 - [Mave](mave.md)
-- [Greg](greg.md)
-- [Constant and Zuk](constant-and-zuk.md)
+- [Greg](greg-p-smith.md)
+- [Constance and Zuk](constance-l-coggeshall.md)
 - [Gregario / Shaq](gregario-shaq.md)
 - [Nicole](nicole.md)
 - [Hawk](hawk.md)
@@ -101,3 +107,4 @@ Derived from the local source file `C:\Users\bulld\Downloads\Kestrel notes.txt`,
 - [The Hunt for Black Vipers, Part 9](../sessions/hunt-for-black-vipers-part-9.md)
 - [The Hunt for Black Vipers, Part 10](../sessions/hunt-for-black-vipers-part-10.md)
 - [The Hunt for Black Vipers, Part 11](../sessions/hunt-for-black-vipers-part-11.md)
+

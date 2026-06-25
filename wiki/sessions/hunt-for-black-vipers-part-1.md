@@ -12,24 +12,24 @@ The group learns the Vipers have fractured into cells, some connected to old ser
 
 - [Captain West](../people/captain-west.md) briefs the [442nd](../factions/442nd.md) and allies on the Viper cell's likely retreat to [Saharun](../places/saharun.md).
 - [Gregario / Shaq](../people/gregario-shaq.md) protects [Lilith](../people/lilith.md), the weakened daughter tied to [Belle](../people/belle.md) and to [Alen](../people/alen.md)'s Raven Queen line, while assassins track her divine doll.
-- On [Opaal](../places/opaal.md), [Eva](../people/eva.md), [Lilith](../people/lilith.md)'s older twin sister, destroys six attacking ships with a meteor shower.
-- [Greg](../people/greg.md) and [Belle](../people/belle.md) construct a new divine warforged body for [Vis / Jarvis](../people/vis-jarvis.md), while insisting that [Greg](../people/greg.md) is "not helping."
-- [Junara](../people/junara.md), [Kestrel](../people/kestrel.md), [Krol](../people/krol.md), and [Vis](../people/vis-jarvis.md) teleport to [Silverbend](../places/silver-bend.md) to help [Gregario](../people/gregario-shaq.md).
+- On [Opaal](../places/opaal.md), [Eve](../people/eve.md), [Lilith](../people/lilith.md)'s older twin sister, destroys six attacking ships with a meteor shower.
+- [Greg](../people/greg-p-smith.md) and [Belle](../people/belle.md) construct a new divine warforged body for [Vis / Jarvice](../people/vis-jarvice.md), while insisting that [Greg](../people/greg-p-smith.md) is "not helping."
+- [Junvara](../people/junvara.md), [Kestrel](../people/kestrel.md), [Krol](../people/krol.md), and [Vis](../people/vis-jarvice.md) teleport to [Silverbend](../places/silver-bend.md) to help [Gregario](../people/gregario-shaq.md).
 - The party catches up to [Gregario](../people/gregario-shaq.md) and [Lilith](../people/lilith.md) on a bridge near the water temple.
-- [Junara](../people/junara.md) gives [Lilith](../people/lilith.md) an anti-divination crystal, and [Lilith](../people/lilith.md) gives [Junara](../people/junara.md) "[Death's Kiss](../concepts/deaths-kiss.md)."
+- [Junvara](../people/junvara.md) gives [Lilith](../people/lilith.md) an anti-divination crystal, and [Lilith](../people/lilith.md) gives [Junvara](../people/junvara.md) "[Death's Kiss](../concepts/deaths-kiss.md)."
 - The group replaces the divine sand in [Lilith](../people/lilith.md)'s doll with anti-divination protection, then uses the sand as bait.
 - A bridge fight breaks out against cobra-marked Vipers. The group defeats them, captures one soul, and learns the attackers may be a splinter cult or associated cell.
-- The group relocates to [Caravan's Rest](../places/caravans-rest.md), then into [Junara](../people/junara.md)'s [Magnificent Mansion](../places/junaras-magnificent-mansion.md).
+- The group relocates to [Caravan's Rest](../places/caravans-rest.md), then into [Junvara](../people/junvara.md)'s [Magnificent Mansion](../places/junvaras-magnificent-mansion.md).
 - [Mave](../people/mave.md) arrives in a new body and explains the deeper cult connection to [Rax'al Karath / Rexel Kar](../people/rexel-kar.md).
 
 ## Important People
 
-- [Junara](../people/junara.md)
+- [Junvara](../people/junvara.md)
 - [Gregario / Shaq](../people/gregario-shaq.md)
 - [Lilith](../people/lilith.md)
-- [Eva](../people/eva.md)
-- [Vis / Jarvis](../people/vis-jarvis.md)
-- [Greg](../people/greg.md)
+- [Eve](../people/eve.md)
+- [Vis / Jarvice](../people/vis-jarvice.md)
+- [Greg](../people/greg-p-smith.md)
 - [Belle](../people/belle.md)
 - [Mave](../people/mave.md)
 - [Captain West](../people/captain-west.md)
@@ -44,7 +44,7 @@ The group learns the Vipers have fractured into cells, some connected to old ser
 - [Big Tusk](../places/big-tusk.md)
 - [Opaal](../places/opaal.md)
 - [Caravan's Rest](../places/caravans-rest.md)
-- [Junara's Magnificent Mansion](../places/junaras-magnificent-mansion.md)
+- [Junvara's Magnificent Mansion](../places/junvaras-magnificent-mansion.md)
 
 ## Factions
 
@@ -55,6 +55,7 @@ The group learns the Vipers have fractured into cells, some connected to old ser
 
 ## Consequences
 
-The [Black Vipers](../factions/black-vipers.md) are no longer simply an assassin network. They are entangled with an old serpent cult whose worship originally belonged to [Rexel Kar](../people/rexel-kar.md) but was usurped by [Lucian](../people/lucian.md). Some cultists now protect Viper remnants as sacred agents.
+The [Black Vipers](../factions/black-vipers.md) are no longer simply an assassin network. They are entangled with an old serpent cult whose worship originally belonged to [Rexel Kar](../people/rexel-kar.md) but was usurped by [Lucius](../people/lucius.md). Some cultists now protect Viper remnants as sacred agents.
 
 The party has several active leads: infiltrating the casino at [Big Tusk](../places/big-tusk.md), tracing mercenary payments on [Opaal](../places/opaal.md), and interrogating captured souls or surviving Viper agents.
+

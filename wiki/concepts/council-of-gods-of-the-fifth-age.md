@@ -2,9 +2,9 @@
 
 The Council of Gods of the Fifth Age is the main divine political structure preserved in the surviving [Fifth Age](fifth-age.md) notes.
 
-## Clarified Structure
+## Divine Structure
 
-The older ambiguity around [Maeve](../people/maeve.md), [Bridget](../people/bridget.md), and [Mave](../people/mave.md) is now resolved in current canon:
+[Maeve](../people/maeve.md), [Bridget](../people/bridget.md), and [Mave](../people/mave.md) are separate divine figures:
 
 - [Maeve](../people/maeve.md) was the goddess of magic, formerly fae, and the most powerful member of the pantheon.
 - [Bridget](../people/bridget.md) was the goddess of music, art, and beauty, and roughly third in power.

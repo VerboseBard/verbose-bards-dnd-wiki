@@ -26,5 +26,5 @@ The same transcript clarifies why the party is not treated as part of his corrup
 ## Related
 
 - [Fort Victory Corruption Ring](../concepts/fort-victory-corruption-ring.md)
-- [Mistress Selyra Vex'ryn](mistress-sila-vexry.md)
+- [Mistress Selyra Vex'ryn](mistress-selyra-vexryn.md)
 - [Colonel Core](colonel-core.md)

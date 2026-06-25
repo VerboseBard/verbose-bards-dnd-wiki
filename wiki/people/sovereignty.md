@@ -1,6 +1,6 @@
 # Sovereignty
 
-Sovereignty is the current name for the merged sister-being formed from several fragments of the original celestial demon split by [Lucian](lucian.md).
+Sovereignty is the current name for the merged sister-being formed from several fragments of the original celestial demon split by [Lucius](lucius.md).
 
 ## Composition
 
@@ -15,20 +15,16 @@ Conquer wins the first struggle for dominance, but the merger also changes her. 
 
 In [Moon Stone Collectors, Part 17](../sessions/moon-stone-collectors-part-17.md), the remaining knowledge and wisdom aspects merge in the [Summer Court](../places/summer-court.md). The restored being becomes something new and complete, though not necessarily identical in will to any one fragment.
 
-Transcript-backed fragment names and aspects include:
+Known fragment names and aspects include:
 
 - [Julara](julara.md), the demonic lust for knowledge.
 - [Julia](julia-julisia.md) or [Julisia](julia-julisia.md), the demonic lust for power.
 - [Elisia](elisia.md), the celestial justice and protection.
 - Sophia or [Wisdom](wisdom.md), the celestial wisdom and knowledge.
 
-The sessions do not clearly support separate canon names for the love and lust fragments beyond those aspect labels. Older planning notes also used `Julesia`, `Julessa`, and `Alura`, but those names do not appear in the session transcripts and should be treated as draft variants rather than canon.
+The love and lust fragments are currently tracked by aspect label rather than by separate confirmed names.
 
-## Session Canon Note
-
-When planning notes and the session transcript disagree, the transcript wins.
-
-Current session-backed mapping:
+## Aspect Mapping
 
 - Power / Conquer = [Julia / Julisia](julia-julisia.md)
 - Justice / Protection = [Elisia](elisia.md)
@@ -39,9 +35,9 @@ Current session-backed mapping:
 
 ## Goals
 
-Sovereignty says she wants to become whole and learn who she truly was before [Lucian](lucian.md) split her. She argues that Conquer's actions were the acts of one severed fragment, not the whole being restored.
+Sovereignty says she wants to become whole and learn who she truly was before [Lucius](lucius.md) split her. She argues that Conquer's actions were the acts of one severed fragment, not the whole being restored.
 
-When [Junara](junara.md) confronts her, she says she does not seek to conquer mortal realms. If she sought dominion, she would more likely go home to Hell or ascend toward the heavens to learn why the artifact that split her was cast down.
+When [Junvara](junvara.md) confronts her, she says she does not seek to conquer mortal realms. If she sought dominion, she would more likely go home to Hell or ascend toward the heavens to learn why the artifact that split her was cast down.
 
 ## Current State
 
@@ -55,8 +51,9 @@ The finale explicitly leaves this as one possible ending rather than a simple vi
 
 - [Elisia](elisia.md)
 - [Julara](julara.md)
-- [Junara](junara.md)
-- [Lucian](lucian.md)
+- [Junvara](junvara.md)
+- [Lucius](lucius.md)
 - [Moon Stone Collectors, Part 16](../sessions/moon-stone-collectors-part-16.md)
 - [Moon Stone Collectors, Part 17](../sessions/moon-stone-collectors-part-17.md)
 - [Moon Stone Collectors Finale Transcript Reference](../campaign/moonstone-collectors-finale-reference.md)
+

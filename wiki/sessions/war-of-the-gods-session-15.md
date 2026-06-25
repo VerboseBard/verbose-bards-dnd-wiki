@@ -11,14 +11,14 @@ The party finds a hidden refuge on an island-temple ruin, learns more about the 
 - The party meets Dietrick, a missionary tied to a goddess of life and rebirth.
 - He leads them to an abandoned temple on an island in the river.
 - Beneath the ruin, the group finds survivors including Carlos, Gladys, and [Charlie](../people/charlie.md).
-- [Greg](../people/greg.md) asks the library to show what happened to Rose after her disappearance and learns she fought undead alone until [Wendell](../people/wendell.md) intervened.
+- [Greg](../people/greg-p-smith.md) asks the library to show what happened to Rose after her disappearance and learns she fought undead alone until [Wendell](../people/wendell.md) intervened.
 - [Kestrel](../people/kestrel.md) discovers the temple's security and lighting can be sustained through his song.
 - Dream voices and a vision involving temples and two daggers push the supernatural pressure higher.
 - The party finally heads toward [Thornwall](../places/thornwall.md) through a hidden magical door in the hedgerow.
 
 ## Important People
 
-- [Greg](../people/greg.md)
+- [Greg](../people/greg-p-smith.md)
 - [Charlie](../people/charlie.md)
 - [Wendell](../people/wendell.md)
 - [Rose Qinlee](../people/rose-qinlee.md)

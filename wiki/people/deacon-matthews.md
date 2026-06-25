@@ -8,7 +8,7 @@ Deacon Matthews was an assistant to [Bishop Collins](bishop-collins.md) and a cu
 
 ## Soul Cage
 
-[Junara](junara.md)'s questioning of the Deacon's trapped soul reveals scattered but useful intelligence: one hidden Black Viper in the [Shili Jungle](../places/shili-jungle.md) matters, the jungle watcher sees nearly everything, and the watcher lacks eyes beneath the water.
+[Junvara](junvara.md)'s questioning of the Deacon's trapped soul reveals scattered but useful intelligence: one hidden Black Viper in the [Shili Jungle](../places/shili-jungle.md) matters, the jungle watcher sees nearly everything, and the watcher lacks eyes beneath the water.
 
 The Deacon's soul appears partially broken by the serpent transformation.
 

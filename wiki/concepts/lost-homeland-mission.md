@@ -1,4 +1,4 @@
-﻿# Lost Homeland Mission
+# Lost Homeland Mission
 
 The Lost Homeland Mission is the contractor operation assigned to the party by [Colonel Core](../people/colonel-core.md) after their discharge from military service.
 
@@ -22,7 +22,7 @@ That first contact opens the way to [the Sunhollow Council](../factions/sunhollo
 
 By [Session 8](../sessions/session-8.md), the mission is no longer only about finding the valley or identifying the blight. The party learns that many Sunhollow inhabitants may be oath-bound to defend [Ssar'Velyn Temple](../places/ssar-velyn-temple.md), while outsiders following the marked route may exploit or kill them for the valley's crystal wealth. The mission's central question becomes how to protect Sunhollow without triggering conquest, mass death, or a doomed defense of the temple.
 
-By [Session 9](../sessions/session-9.md), the mission has become a countdown. The Inquisition is close behind, [Bevar Lurton](../people/bevar-lurton.md) remains missing after the temple emissary path, [Mistress Selyra Vex'ryn](../people/mistress-sila-vexry.md) claims the party should redirect the Church toward a demon source south along the wall, and [Rurik Valdren](../people/rurik-valdren.md) is contacted as a possible shield against seizure or purge. The party's immediate objective shifts to briefing the [Sunhollow Council](../factions/sunhollow-council.md) before the outside force reaches the gate.
+By [Session 9](../sessions/session-9.md), the mission has become a countdown. The Inquisition is close behind, [Bevar Lurton](../people/bevar-lurton.md) remains missing after the temple emissary path, [Mistress Selyra Vex'ryn](../people/mistress-selyra-vexryn.md) claims the party should redirect the Church toward a demon source south along the wall, and [Rurik Valdren](../people/rurik-valdren.md) is contacted as a possible shield against seizure or purge. The party's immediate objective shifts to briefing the [Sunhollow Council](../factions/sunhollow-council.md) before the outside force reaches the gate.
 
 ## Related
 

@@ -15,6 +15,6 @@ After the bridge fight, the group retreats to Caravan's Rest, receives food and 
 ## Related
 
 - [Silverbend](silver-bend.md)
-- [Junara's Magnificent Mansion](junaras-magnificent-mansion.md)
+- [Junvara's Magnificent Mansion](junvaras-magnificent-mansion.md)
 - [The Hunt for Black Vipers, Part 1](../sessions/hunt-for-black-vipers-part-1.md)
 

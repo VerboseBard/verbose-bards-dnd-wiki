@@ -4,7 +4,7 @@ Mave was the school-running figure who later became goddess of knowledge, art, a
 
 ## Distinction from Maeve and Bridget
 
-Current canon separates three figures that older notes sometimes blurred together:
+Mave belongs to a divine cluster that includes two other important but separate figures:
 
 - [Maeve](maeve.md): goddess of magic, formerly fae, [Belle](belle.md)'s mother, and the most powerful member of the old pantheon
 - [Bridget](bridget.md): goddess of music, art, and beauty, later killed by [Lucius](lucius.md)
@@ -12,7 +12,7 @@ Current canon separates three figures that older notes sometimes blurred togethe
 
 ## Fall from Divinity
 
-Mave descended from divinity itself, relinquishing her godhood to protect two divine-born children she considered her nieces. Her fall was orchestrated by [Wendell](wendell.md), one of [Lucian](lucian.md)'s trusted agents.
+Mave descended from divinity itself, relinquishing her godhood to protect two divine-born children she considered her nieces. Her fall was orchestrated by [Wendell](wendell.md), one of [Lucius](lucius.md)'s trusted agents.
 
 ## Earlier Rise
 
@@ -34,13 +34,13 @@ In [War of the Gods, Session 22](../sessions/war-of-the-gods-session-22.md), Mav
 
 After her fall, Mave appears in a new mortal body with red hair, orcish features, a cane, and limited access to her former divine knowledge. She can still provide critical information, but many things are blocked from her sight.
 
-In [The Hunt for Black Vipers, Part 1](../sessions/hunt-for-black-vipers-part-1.md), Mave arrives at [Caravan's Rest](../places/caravans-rest.md), reunites with [Lilith](lilith.md), and explains the link between the cobra-marked attackers, [Rax'al Karath / Rexel Kar](rexel-kar.md), [Lucian](lucian.md), and the [Black Vipers](../factions/black-vipers.md).
+In [The Hunt for Black Vipers, Part 1](../sessions/hunt-for-black-vipers-part-1.md), Mave arrives at [Caravan's Rest](../places/caravans-rest.md), reunites with [Lilith](lilith.md), and explains the link between the cobra-marked attackers, [Rax'al Karath / Rexel Kar](rexel-kar.md), [Lucius](lucius.md), and the [Black Vipers](../factions/black-vipers.md).
 
 In the following rest, Mave admits that little remains to her except what she can give to [Belle](belle.md)'s daughters. She stays with [Lilith](lilith.md), arranges food, and takes custody while the others continue the hunt.
 
-At [Constant and Zuk's Dragon-Bonding School](../places/constant-and-zuks-dragon-bonding-school.md), Mave gives [Eve / Eva](eva.md) memory cubes. She restores [Eve](eva.md)'s fuller memories while shielding [Lilith](lilith.md) from the harshest truth until [Eve](eva.md) chooses how much to share.
+At [Constance and Zuk's Dragon-Bonding School](../places/constance-and-zuks-dragon-bonding-school.md), Mave gives [Eve](eve.md) memory cubes. She restores [Eve](eve.md)'s fuller memories while shielding [Lilith](lilith.md) from the harshest truth until [Eve](eve.md) chooses how much to share.
 
-Mave also warns [Eve](eva.md) that [Lilith](lilith.md) may eventually be pulled toward [Saharun](../places/saharun.md)'s throne if the world realizes who she is. If [Belle](belle.md) or another power tries to consume [Eve](eva.md) the way [Alen](alen.md) threatened [Lilith](lilith.md), Mave says she will choose [Eve](eva.md).
+Mave also warns [Eve](eve.md) that [Lilith](lilith.md) may eventually be pulled toward [Saharun](../places/saharun.md)'s throne if the world realizes who she is. If [Belle](belle.md) or another power tries to consume [Eve](eve.md) the way [Alen](alen.md) threatened [Lilith](lilith.md), Mave says she will choose [Eve](eve.md).
 
 ## Jimbo Ritual Warning
 
@@ -48,11 +48,11 @@ Before the first ritual-site assault, Mave warns [Gregario / Shaq](gregario-shaq
 
 Mave asks [Gregario](gregario-shaq.md) not to participate directly in [Jimbo's Soul Ritual](../concepts/jimbo-soul-ritual.md). Instead, she wants him ready to act as the emergency safeguard if the rescuers fail and magic itself begins to break.
 
-## Lucian's Death
+## Lucius's Death
 
-When [Lucian](lucian.md) flees to [Constant and Zuk's Dragon-Bonding School](../places/constant-and-zuks-dragon-bonding-school.md), [Annabelle](annabelle.md) refuses his attempt to bargain from behind the safety of the children and snaps the party to the school.
+When [Lucius](lucius.md) flees to [Constance and Zuk's Dragon-Bonding School](../places/constance-and-zuks-dragon-bonding-school.md), [Annabelle](annabelle.md) refuses his attempt to bargain from behind the safety of the children and snaps the party to the school.
 
-Mave appears through a tear in reality above [Lucian](lucian.md) with her old blades reforged and tipped with god-killing material. She drives both blades into [Lucian](lucian.md)'s back and lands the killing blow.
+Mave appears through a tear in reality above [Lucius](lucius.md) with her old blades reforged and tipped with god-killing material. She drives both blades into [Lucius](lucius.md)'s back and lands the killing blow.
 
 The final legend remembers Mave as the fallen goddess who gave up mortality for children and then slew the deceiver who killed gods, hunted her nieces, and tried to turn the school into his shield. Her choice afterward is framed as a return to godhood and a reunion with [Bridget](bridget.md).
 
@@ -82,7 +82,7 @@ Mave also says the school may close now that so many of its protectors and leade
 - [Divine Gate](../concepts/divine-gate.md)
 - [The Long Shadow Rises](../concepts/the-long-shadow-rises.md)
 - [Lilith](lilith.md)
-- [Eve / Eva](eva.md)
+- [Eve](eve.md)
 - [The Hunt for Black Vipers, Part 3](../sessions/hunt-for-black-vipers-part-3.md)
 - [The Hunt for Black Vipers, Part 4](../sessions/hunt-for-black-vipers-part-4.md)
 - [The Hunt for Black Vipers, Part 9](../sessions/hunt-for-black-vipers-part-9.md)
@@ -93,3 +93,4 @@ Mave also says the school may close now that so many of its protectors and leade
 - [War of the Gods, Session 22](../sessions/war-of-the-gods-session-22.md)
 - [Moon Stone Collectors, Part 5](../sessions/moon-stone-collectors-part-5.md)
 - [Moon Stone Collectors, Part 9](../sessions/moon-stone-collectors-part-9.md)
+

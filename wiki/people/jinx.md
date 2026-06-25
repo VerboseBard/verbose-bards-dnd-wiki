@@ -12,23 +12,23 @@ She appears to operate partially outside the normal constraints of the setting a
 
 Jinx's influence starts much earlier in the [War of the Gods / New Beginning Campaign](../campaign/war-of-the-gods.md) than her current page once showed.
 
-In [War of the Gods, Session 8](../sessions/war-of-the-gods-session-8.md), she intervenes remotely during [Junara](junara.md)'s soul-parasite crisis and helps the group survive a situation that is already eating at memory, life, and magical identity.
+In [War of the Gods, Session 8](../sessions/war-of-the-gods-session-8.md), she intervenes remotely during [Junvara](junvara.md)'s soul-parasite crisis and helps the group survive a situation that is already eating at memory, life, and magical identity.
 
-In [War of the Gods, Session 9](../sessions/war-of-the-gods-session-9.md), she secretly warns [Junara](junara.md) to get green crystals under as many allied seats as possible before the Emerald Palace council attack. That warning is one of the main reasons the party's side survives the blast as well as it does.
+In [War of the Gods, Session 9](../sessions/war-of-the-gods-session-9.md), she secretly warns [Junvara](junvara.md) to get green crystals under as many allied seats as possible before the Emerald Palace council attack. That warning is one of the main reasons the party's side survives the blast as well as it does.
 
-By [War of the Gods, Session 17](../sessions/war-of-the-gods-session-17.md), Jinx finally explains to [Greg](greg.md) that his old "three questions a day" access to the library was never official. It came from an illicit tap she built and tested through him. She also warns that [Wendell](wendell.md) now has access to the library's main line, turning information itself into contested territory.
+By [War of the Gods, Session 17](../sessions/war-of-the-gods-session-17.md), Jinx finally explains to [Greg](greg-p-smith.md) that his old "three questions a day" access to the library was never official. It came from an illicit tap she built and tested through him. She also warns that [Wendell](wendell.md) now has access to the library's main line, turning information itself into contested territory.
 
-In [War of the Gods, Session 19](../sessions/war-of-the-gods-session-19.md), she gives [Greg](greg.md) a much cleaner explanation of world-to-world travel versus true inter-universe movement and dumps enough research into his hands to jump his transit work forward dramatically.
+In [War of the Gods, Session 19](../sessions/war-of-the-gods-session-19.md), she gives [Greg](greg-p-smith.md) a much cleaner explanation of world-to-world travel versus true inter-universe movement and dumps enough research into his hands to jump his transit work forward dramatically.
 
 In [War of the Gods, Session 20](../sessions/war-of-the-gods-session-20.md), Jinx is physically present in [Veil, Guardian of the Citadel](veil-guardian-of-the-citadel.md)'s hidden crystal chamber, exhausted but still working. That session makes clear she is not just a messenger. She is one of the people actually touching the [Citadel](../places/radiant-citadel.md)'s deeper systems.
 
 ## Greg's Updates
 
-In [War of the Gods, Session 23](../sessions/war-of-the-gods-session-23.md), Jinx urgently contacts [Greg](greg.md) after he returns to the [Radiant Citadel](../places/radiant-citadel.md).
+In [War of the Gods, Session 23](../sessions/war-of-the-gods-session-23.md), Jinx urgently contacts [Greg](greg-p-smith.md) after he returns to the [Radiant Citadel](../places/radiant-citadel.md).
 
 She warns him that mind flayers are active, that she has accepted a temporary non-interference deal in exchange for library access, and that something major is likely to go wrong on one of the linked worlds very soon.
 
-More importantly, she pushes a major systems update into [Greg](greg.md). That update gives him complete portal-construction knowledge within the current reality and ties his spare chassis into a fallback continuity plan if his current body dies.
+More importantly, she pushes a major systems update into [Greg](greg-p-smith.md). That update gives him complete portal-construction knowledge within the current reality and ties his spare chassis into a fallback continuity plan if his current body dies.
 
 Jinx also arranges indirect help by flagging an SB Solutions specialist into the [Citadel](../places/radiant-citadel.md) crisis, making her one of the clearest examples in the campaign of a character who can "mostly not interfere" while still absolutely interfering.
 
@@ -44,8 +44,8 @@ Taken together, [Quill](quill.md)'s notes and [Vail](vail.md)'s notes make Jinx 
 
 - [Radiant Citadel](../places/radiant-citadel.md)
 - [Veil, Guardian of the Citadel](veil-guardian-of-the-citadel.md)
-- [Greg](greg.md)
-- [Junara](junara.md)
+- [Greg](greg-p-smith.md)
+- [Junvara](junvara.md)
 - [Quill](quill.md)
 - [Vail](vail.md)
 - [War of the Gods, Session 8](../sessions/war-of-the-gods-session-8.md)

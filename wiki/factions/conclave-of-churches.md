@@ -18,19 +18,19 @@ The Conclave's influence appears through crusading forces, inquisitorial authori
 
 In [Moon Stone Collectors, Part 1](../sessions/moon-stone-collectors-part-1.md), the [Moon Stone Collectors](moon-stone-collectors.md) protect a [Norvindr](../places/norvindr.md) emissary tied to this early Conclave effort.
 
-In [Moon Stone Collectors, Part 16](../sessions/moon-stone-collectors-part-16.md), Conclave-aligned church leaders brief [Luca](../people/luca.md) and [Junara](../people/junara.md) on the danger of the six sister-fragments recombining. They fear that a completed [Sovereignty](../people/sovereignty.md) could become an arch-demoness or arch-celestial-demon level threat, and they send Luca to free [Paul](../people/paul.md) from [Julara](../people/julara.md) or kill Julara through the connection if necessary.
+In [Moon Stone Collectors, Part 16](../sessions/moon-stone-collectors-part-16.md), Conclave-aligned church leaders brief [Luka](../people/luka.md) and [Junvara](../people/junvara.md) on the danger of the six sister-fragments recombining. They fear that a completed [Sovereignty](../people/sovereignty.md) could become an arch-demoness or arch-celestial-demon level threat, and they send Luka to free [Paul](../people/paul.md) from [Julara](../people/julara.md) or kill Julara through the connection if necessary.
 
 ## Private Factions
 
-During the Black Viper hunt, a private faction within the Conclave meets with [Junara](../people/junara.md) and [Kestrel](../people/kestrel.md). They claim that much of the Conclave is not trying to preserve theocracy forever, but to stabilize formerly theocratic worlds long enough for secular law and authority to take over.
+During the Black Viper hunt, a private faction within the Conclave meets with [Junvara](../people/junvara.md) and [Kestrel](../people/kestrel.md). They claim that much of the Conclave is not trying to preserve theocracy forever, but to stabilize formerly theocratic worlds long enough for secular law and authority to take over.
 
-They also reveal that some Conclave factions allowed or assisted [Lucian](../people/lucian.md)'s return because gathering all of [Lucian](../people/lucian.md)'s soul into one place may be the only way to destroy him permanently. They identify [Julia / Julisia](../people/julia-julisia.md) as the hidden player who began pushing the resurrection game.
+They also reveal that some Conclave factions allowed or assisted [Lucius](../people/lucius.md)'s return because gathering all of [Lucius](../people/lucius.md)'s soul into one place may be the only way to destroy him permanently. They identify [Julia / Julisia](../people/julia-julisia.md) as the hidden player who began pushing the resurrection game.
 
-The faction offers [Junara](../people/junara.md) the proposed role of [Arbiter of the Conclave](../concepts/arbiter-of-the-conclave.md), but [Junara](../people/junara.md) refuses divine empowerment and asks instead for a broader adjudicator structure.
+The faction offers [Junvara](../people/junvara.md) the proposed role of [Arbiter of the Conclave](../concepts/arbiter-of-the-conclave.md), but [Junvara](../people/junvara.md) refuses divine empowerment and asks instead for a broader adjudicator structure.
 
 ## Champions
 
-For the first assault on [Jimbo's Soul Ritual](../concepts/jimbo-soul-ritual.md), the Conclave sends champions to aid [Junara](../people/junara.md) and [Kestrel](../people/kestrel.md). [Terrence of Tyr](../people/terrence-of-tyr.md), [Saraphel of the Dawnfather](../people/saraphel-of-the-dawnfather.md), and Veilen of Valora travel with the first wave.
+For the first assault on [Jimbo's Soul Ritual](../concepts/jimbo-soul-ritual.md), the Conclave sends champions to aid [Junvara](../people/junvara.md) and [Kestrel](../people/kestrel.md). [Terrence of Tyr](../people/terrence-of-tyr.md), [Saraphel of the Dawnfather](../people/saraphel-of-the-dawnfather.md), and Veilen of Valora travel with the first wave.
 
 The champions fight through the [Desert Well Ritual Site](../places/desert-well-ritual-site.md). Terrence reflects a necrotic trap back into the ritual chamber, while Veilen remains behind to maintain the first ritual after the lich operator is killed.
 
@@ -57,4 +57,5 @@ In [Moon Stone Collectors, Part 12](../sessions/moon-stone-collectors-part-12.md
 - [Moon Stone Collectors, Part 12](../sessions/moon-stone-collectors-part-12.md)
 - [Moon Stone Collectors, Part 16](../sessions/moon-stone-collectors-part-16.md)
 - [Moon Stone Collectors Finale Transcript Reference](../campaign/moonstone-collectors-finale-reference.md)
+
 

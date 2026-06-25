@@ -1,4 +1,4 @@
-# Lady Penny Hathaway
+﻿# Lady Penny Hathaway
 
 Lady Penny Hathaway is the school librarian who later becomes the acting head of [Lady Penny Hathaway's School](../places/lady-penny-hathaways-school.md) on the [Radiant Citadel](../places/radiant-citadel.md), as well as one of the setting's most practical portal and crisis coordinators.
 
@@ -16,7 +16,7 @@ In the extracted [War of the Gods, Session 20](../sessions/war-of-the-gods-sessi
 
 By [War of the Gods, Session 23](../sessions/war-of-the-gods-session-23.md), the practical consequences of that role are harsher. The school is now a live crisis space during the opening [Citadel](../places/radiant-citadel.md) siege, and the institution's staff are directly involved in escorting dangerous liabilities off the grounds while the broader emergency unfolds.
 
-In [War of the Gods, Session 24](../sessions/war-of-the-gods-session-24.md), Penny becomes the clearest voice of the post-battle reality. She thanks the party for stopping [Lucian](lucian.md), then explains that the [Divine Gate](../concepts/divine-gate.md) is actively reforming, the gods are already being pushed farther from the mortal side of reality, school protections are weakening, and even the handling of souls is now uncertain after the deaths tied to the siege. Her briefing reframes the victory: the fight is won, but the rules of the world are changing.
+In [War of the Gods, Session 24](../sessions/war-of-the-gods-session-24.md), Penny becomes the clearest voice of the post-battle reality. She thanks the party for stopping [Lucius](lucius.md), then explains that the [Divine Gate](../concepts/divine-gate.md) is actively reforming, the gods are already being pushed farther from the mortal side of reality, school protections are weakening, and even the handling of souls is now uncertain after the deaths tied to the siege. Her briefing reframes the victory: the fight is won, but the rules of the world are changing.
 
 ## Moon Stone Collectors Connection
 
@@ -32,3 +32,4 @@ Penny also appears in [Moon Stone Collectors](../factions/moon-stone-collectors.
 - [War of the Gods, Session 23](../sessions/war-of-the-gods-session-23.md)
 - [War of the Gods, Session 24](../sessions/war-of-the-gods-session-24.md)
 - [Moon Stone Collectors, Part 4](../sessions/moon-stone-collectors-part-4.md)
+

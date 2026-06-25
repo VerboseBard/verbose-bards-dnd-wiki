@@ -8,9 +8,9 @@ The fortress sits in a black, volcanic hellscape of obsidian, lava flows, demoni
 
 ## Mave's Release
 
-In [Moon Stone Collectors, Part 5](../sessions/moon-stone-collectors-part-5.md), [Junara](../people/junara.md) and [Jarth](../people/jarth.md) enter the fortress to complete a bargain for [Mave](../people/mave.md)'s release.
+In [Moon Stone Collectors, Part 5](../sessions/moon-stone-collectors-part-5.md), [Junvara](../people/junvara.md) and [Jarth](../people/jarth.md) enter the fortress to complete a bargain for [Mave](../people/mave.md)'s release.
 
-[Wendell](../people/wendell.md) honors the exchange but uses the moment to declare that his old leash is gone. [Mave](../people/mave.md) is released in a dying state, and a captive satyr is allowed to leave as well.
+[Wendell](../people/wendell.md) honors the exchange but uses the moment to declare that his old leash is gone. [Mave](../people/mave.md) is released in a dying state, and a captive goblin is allowed to leave as well.
 
 ## Hidden Route
 

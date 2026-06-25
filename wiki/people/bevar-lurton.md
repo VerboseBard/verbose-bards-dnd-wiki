@@ -2,8 +2,6 @@
 
 Bevar Lurton is an artificer-leaning party member in the [After the War Campaign](../campaign/after-the-war-campaign.md).
 
-Session 1 planning notes identify Clayton's veteran character as `Bevar Lurton`. Earlier wiki text used `Bavar` from later auto-caption reconstruction, but the current corrected spelling is Bevar.
-
 Table note: Bevar was originally played by Clayton. After Clayton left the table, Bevar became a character run by the DM.
 
 ## Bloody Fifth Origin
@@ -65,7 +63,7 @@ By the end of the session, Bevar and Gwen remain with or inside the temple for u
 
 ## Session 9 Status
 
-In [Session 9](../sessions/session-9.md), the rest of the party is returned outside [Ssar'Velyn Temple](../places/ssar-velyn-temple.md), but Bevar is still missing. The transcript renders his name as `Lavar`, `Labar`, and `Bavar`; these are treated as auto-caption drift from Bevar Lurton.
+In [Session 9](../sessions/session-9.md), the rest of the party is returned outside [Ssar'Velyn Temple](../places/ssar-velyn-temple.md), but Bevar is still missing.
 
 The party discusses his increasingly strange behavior and treats his absence as dangerous. It remains unclear whether Bevar is acting under Gwen's influence, the temple's influence, his own choices, or some mixture of all three.
 

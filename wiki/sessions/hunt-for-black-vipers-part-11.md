@@ -4,11 +4,11 @@ Part 11 resolves the active ritual at the [Jungle Ley-Line Facility](../places/j
 
 ## Ritual Chamber
 
-The session resumes mid-combat on the facility's ritual floor. [Eve / Eva](../people/eva.md) dominates the gunner and turns the machine gun against another defender. [Jack Kenway](../people/jack-kenway.md) enters the chamber, recognizes that the ritual operator wears a mind-control crown similar to the one used on Mulligan, and warns the others.
+The session resumes mid-combat on the facility's ritual floor. [Eve](../people/eve.md) dominates the gunner and turns the machine gun against another defender. [Jack Kenway](../people/jack-kenway.md) enters the chamber, recognizes that the ritual operator wears a mind-control crown similar to the one used on Mulligan, and warns the others.
 
-Jack and [Junara](../people/junara.md) help finish the Hellspire-like defender, and [Junara](../people/junara.md) captures its soul so it cannot return again.
+Jack and [Junvara](../people/junvara.md) help finish the Hellspire-like defender, and [Junvara](../people/junvara.md) captures its soul so it cannot return again.
 
-The room itself attacks through layered ritual effects. [Junara](../people/junara.md) is briefly plane-shifted out by the ritual but returns through a defensive feature. Necrotic and lightning-like ritual blasts knock multiple allies down, forcing [Kestrel](../people/kestrel.md) to answer with Mass Heal.
+The room itself attacks through layered ritual effects. [Junvara](../people/junvara.md) is briefly plane-shifted out by the ritual but returns through a defensive feature. Necrotic and lightning-like ritual blasts knock multiple allies down, forcing [Kestrel](../people/kestrel.md) to answer with Mass Heal.
 
 ## Winrah Freed
 
@@ -16,15 +16,15 @@ The aasimar ritual operator is revealed to be [Winrah Holm](../people/winrah-hol
 
 [Kestrel](../people/kestrel.md) casts Greater Restoration and removes the crown. The spikes tear free from Winrah's head, but she maintains concentration on the ritual long enough for a Conclave champion to take control. Once freed, Winrah collapses in tears and shock.
 
-## Constant's Control Work
+## Constance's Control Work
 
-While the others fight upstairs, [Constant and Zuk](../people/constant-and-zuk.md) remain at the control machinery below. Constant studies Hellspire's design and uses tinkering to alter the ley-line flow feeding the ritual.
+While the others fight upstairs, [Constance and Zuk](../people/constance-l-coggeshall.md) remain at the control machinery below. Constance studies Hellspire's design and uses tinkering to alter the ley-line flow feeding the ritual.
 
 She siphons power away, shuts down the defensive shield, combines power channels into a more stable flow, and disables the room's attack system. Her work reduces the difficulty of the soul rescue and prevents further lair attacks from the chamber.
 
 ## Third Fragment Recovered
 
-The party chooses soul substitution again, using the captured Hellspire soul as the replacement. [Junara](../people/junara.md), [Eve](../people/eva.md), and [Kestrel](../people/kestrel.md) participate, with advantage, guidance, and Bardic Inspiration supporting the roll. Constant's earlier control work lowers the difficulty.
+The party chooses soul substitution again, using the captured Hellspire soul as the replacement. [Junvara](../people/junvara.md), [Eve](../people/eve.md), and [Kestrel](../people/kestrel.md) participate, with advantage, guidance, and Bardic Inspiration supporting the roll. Constance's earlier control work lowers the difficulty.
 
 The final result succeeds by a single point. The party extracts [Jimbo](../people/jimbo.md)'s third soul fragment and replaces it with Hellspire's soul.
 
@@ -36,31 +36,31 @@ After the third fragment is secured, the party advances to level 25. The upgrade
 
 Winrah is not executed. The party chooses to send her back under guard with the next allied wave rather than kill her or use her soul.
 
-## Jarvis Opens the Last Way
+## Jarvice Opens the Last Way
 
-[Vis / Jarvis](../people/vis-jarvis.md), still holding the [Citadel](../places/radiant-citadel.md)-side ritual at the [Radiant Citadel Crystal](../places/radiant-citadel-crystal.md), senses that three of four fragments are recovered. With the tracing phase complete, he no longer needs the shuttle chain. He opens the last book, connects through [Greg](../people/greg.md), and joins the party through a new portal.
+[Vis / Jarvice](../people/vis-jarvice.md), still holding the [Citadel](../places/radiant-citadel.md)-side ritual at the [Radiant Citadel Crystal](../places/radiant-citadel-crystal.md), senses that three of four fragments are recovered. With the tracing phase complete, he no longer needs the shuttle chain. He opens the last book, connects through [Greg](../people/greg-p-smith.md), and joins the party through a new portal.
 
-[Jarvis](../people/vis-jarvis.md) then opens the way toward the next location. The group has less than half an hour before [Lucian](../people/lucian.md)'s return reaches its final stage.
+[Jarvice](../people/vis-jarvice.md) then opens the way toward the next location. The group has less than half an hour before [Lucius](../people/lucius.md)'s return reaches its final stage.
 
 ## High Temple Assault
 
-The portal deposits the party in dense jungle near the high temple of [Rexel Kar](../people/rexel-kar.md), surrounded by runes, magic-dense water, and a single trail leading toward a massive snake temple. [Eve](../people/eva.md) summons a flock of tiny fey versions of herself to scout ahead.
+The portal deposits the party in dense jungle near the high temple of [Rexel Kar](../people/rexel-kar.md), surrounded by runes, magic-dense water, and a single trail leading toward a massive snake temple. [Eve](../people/eve.md) summons a flock of tiny fey versions of herself to scout ahead.
 
 The scouting reveals hundreds of snake people, yuan-ti-like defenders, and temple guards between the party and the inner structure. Rather than spend resources fighting the outer army, the party flies over the defenders.
 
-[Eve](../people/eva.md) then uses her stored fire charge to deliver a catastrophic Meteor Swarm. With her fey familiars arrayed like a ritual constellation, she calls down fire from the sky and annihilates the outer temple defenders. The blast removes the temple roof, leaves only major snake guardians below, and briefly creates a vacuum from the force of the firestorm.
+[Eve](../people/eve.md) then uses her stored fire charge to deliver a catastrophic Meteor Swarm. With her fey familiars arrayed like a ritual constellation, she calls down fire from the sky and annihilates the outer temple defenders. The blast removes the temple roof, leaves only major snake guardians below, and briefly creates a vacuum from the force of the firestorm.
 
 ## Lower Temple
 
-The party descends into the exposed lower temple. Divine temple magic immediately tests those entering, and a massive serpent aura suppresses attacks, saves, and ability checks. [Kestrel](../people/kestrel.md) raises Circle of Power. [Junara](../people/junara.md) blinds many of the defenders with Sunburst. [Constant and Zuk](../people/constant-and-zuk.md) tear into the largest snake with firearm and dragon attacks, while Terrence counters the suppression with a divine aura.
+The party descends into the exposed lower temple. Divine temple magic immediately tests those entering, and a massive serpent aura suppresses attacks, saves, and ability checks. [Kestrel](../people/kestrel.md) raises Circle of Power. [Junvara](../people/junvara.md) blinds many of the defenders with Sunburst. [Constance and Zuk](../people/constance-l-coggeshall.md) tear into the largest snake with firearm and dragon attacks, while Terrence counters the suppression with a divine aura.
 
-[Jack Kenway](../people/jack-kenway.md) enters next and crits through multiple snake defenders, killing the first stair guardian and helping finish the largest serpent. [Jarvis](../people/vis-jarvis.md) drops a one-way Wall of Fire, while [Eve](../people/eva.md) sets herself ablaze with Immolation and dives into the snakes with amplified Scorching Rays.
+[Jack Kenway](../people/jack-kenway.md) enters next and crits through multiple snake defenders, killing the first stair guardian and helping finish the largest serpent. [Jarvice](../people/vis-jarvice.md) drops a one-way Wall of Fire, while [Eve](../people/eve.md) sets herself ablaze with Immolation and dives into the snakes with amplified Scorching Rays.
 
 The session ends at the top of the next round after one remaining greater serpent consumes a minion, transforms, and prepares to continue the fight. Additional guests or reinforcements are approaching.
 
 ## End State
 
-Three of [Jimbo](../people/jimbo.md)'s four fragments are recovered. The party is inside the final temple complex and racing for the fourth fragment before [Lucian](../people/lucian.md)'s resurrection completes.
+Three of [Jimbo](../people/jimbo.md)'s four fragments are recovered. The party is inside the final temple complex and racing for the fourth fragment before [Lucius](../people/lucius.md)'s resurrection completes.
 
 ## Related
 
@@ -68,6 +68,7 @@ Three of [Jimbo](../people/jimbo.md)'s four fragments are recovered. The party i
 - [High Temple of Rexel Kar](../places/high-temple-of-rexel-kar.md)
 - [Jungle Ley-Line Facility](../places/jungle-ley-line-facility.md)
 - [Winrah Holm](../people/winrah-holm.md)
-- [Vis / Jarvis](../people/vis-jarvis.md)
-- [Eve / Eva](../people/eva.md)
-- [Constant and Zuk](../people/constant-and-zuk.md)
+- [Vis / Jarvice](../people/vis-jarvice.md)
+- [Eve](../people/eve.md)
+- [Constance and Zuk](../people/constance-l-coggeshall.md)
+

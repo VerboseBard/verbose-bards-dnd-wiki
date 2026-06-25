@@ -1,16 +1,16 @@
-# Black Vipers
+﻿# Black Vipers
 
 The Black Vipers were a sleeper cell deep within the [Citadel](../places/radiant-citadel.md).
 
 ## Manipulation
 
-The Vipers believed they were acting in [Lucian](../people/lucian.md)'s will, striking out through vengeance, old grudges, and personal debts. In truth, [Julia / Julisia](../people/julia-julisia.md) used them as a match meant to draw fire: a distraction placed where [Lucian](../people/lucian.md) would never look, but a beacon to his enemies.
+The Vipers believed they were acting in [Lucius](../people/lucius.md)'s will, striking out through vengeance, old grudges, and personal debts. In truth, [Julia / Julisia](../people/julia-julisia.md) used them as a match meant to draw fire: a distraction placed where [Lucius](../people/lucius.md) would never look, but a beacon to his enemies.
 
 ## Attack on Hell's Bane
 
 Their target was the [Hell's Bane Heroes](hells-bane-heroes.md). The attack was sudden and brutal. [Charlie](../people/charlie.md) and [Jimbo](../people/jimbo.md) were slain, and [Jimbo](../people/jimbo.md)'s soul was claimed as a possible resurrection component.
 
-In the Vipers' own prelude session, [Dark Star](../people/dark-star.md), [Sir Hellspire](../people/sir-hellspire.md), [Winrah Holm](../people/winrah-holm.md), and [Morir](../people/morir.md) carry out the strike after first raiding [Wendell's Sixth-Layer Fortress](../places/wendells-sixth-layer-fortress.md) for [Lucian](../people/lucian.md)'s old Umbra weapons. [Charlie](../people/charlie.md)'s soul is also taken in the aftermath and later ends up in Hellspire's custody, while [Jimbo](../people/jimbo.md)'s soul is routed into [Lucian](../people/lucian.md)'s resurrection lattice.
+In the Vipers' own prelude session, [Dark Star](../people/dark-star.md), [Sir Hellspire](../people/sir-hellspire.md), [Winrah Holm](../people/winrah-holm.md), and [Morir](../people/morir.md) carry out the strike after first raiding [Wendell's Sixth-Layer Fortress](../places/wendells-sixth-layer-fortress.md) for [Lucius](../people/lucius.md)'s old Umbra weapons. [Charlie](../people/charlie.md)'s soul is also taken in the aftermath and later ends up in Hellspire's custody, while [Jimbo](../people/jimbo.md)'s soul is routed into [Lucius](../people/lucius.md)'s resurrection lattice.
 
 ## Saharun Cells
 
@@ -26,9 +26,9 @@ In the cave hideout near [Silverbend](../places/silver-bend-coastal-cave-hideout
 
 [Dark Star](../people/dark-star.md) and [Sir Hellspire](../people/sir-hellspire.md) are both killed during the [Big Tusk](../places/big-tusk.md) factory strike. [Charlie](../people/charlie.md)'s soul is recovered, but [Jimbo](../people/jimbo.md)'s soul remains missing.
 
-[Dark Star](../people/dark-star.md)'s soul interrogation confirms that [Jimbo](../people/jimbo.md)'s soul has been woven into [Lucian](../people/lucian.md)'s resurrection lattice and that [Winrah Holm](../people/winrah-holm.md) is acting independently. The interrogation triggers [Lucian's Crystal Trap](../concepts/lucians-crystal-trap.md), costing the party [Dark Star](../people/dark-star.md)'s captive soul but revealing a new trail toward [Jimbo](../people/jimbo.md).
+[Dark Star](../people/dark-star.md)'s soul interrogation confirms that [Jimbo](../people/jimbo.md)'s soul has been woven into [Lucius](../people/lucius.md)'s resurrection lattice and that [Winrah Holm](../people/winrah-holm.md) is acting independently. The interrogation triggers [Lucius's Crystal Trap](../concepts/lucius-crystal-trap.md), costing the party [Dark Star](../people/dark-star.md)'s captive soul but revealing a new trail toward [Jimbo](../people/jimbo.md).
 
-That trail leads to [Jimbo's Soul Ritual](../concepts/jimbo-soul-ritual.md), where the party recovers the first of [Jimbo](../people/jimbo.md)'s four soul fragments and confirms that the Vipers' attack successfully supplied [Lucian](../people/lucian.md)'s resurrection with an ideal component.
+That trail leads to [Jimbo's Soul Ritual](../concepts/jimbo-soul-ritual.md), where the party recovers the first of [Jimbo](../people/jimbo.md)'s four soul fragments and confirms that the Vipers' attack successfully supplied [Lucius](../people/lucius.md)'s resurrection with an ideal component.
 
 At the [Jungle Ley-Line Facility](../places/jungle-ley-line-facility.md), Black Viper defenders, drones, and Hellspire-style machinery protect the second ritual site. The party defeats the defenders, captures Hellspire's soul, and uses it to replace [Jimbo](../people/jimbo.md)'s third fragment.
 
@@ -48,3 +48,4 @@ At the [Jungle Ley-Line Facility](../places/jungle-ley-line-facility.md), Black 
 - [The Hunt for Black Vipers, Part 9](../sessions/hunt-for-black-vipers-part-9.md)
 - [The Hunt for Black Vipers, Part 10](../sessions/hunt-for-black-vipers-part-10.md)
 - [The Hunt for Black Vipers, Part 11](../sessions/hunt-for-black-vipers-part-11.md)
+

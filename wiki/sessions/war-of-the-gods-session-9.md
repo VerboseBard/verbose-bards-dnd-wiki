@@ -16,18 +16,18 @@ The first half of the session is beautiful and almost calm: a musical duet, [Mav
 - [Hawk](../people/hawk.md)'s image causes a notable pause during the memory review.
 - [Hawk](../people/hawk.md) is brought in physically and questioned.
 - The council fractures around what to do next.
-- [Jinx](../people/jinx.md) secretly warns [Junara](../people/junara.md) to place green crystals under as many allied seats as possible.
+- [Jinx](../people/jinx.md) secretly warns [Junvara](../people/junvara.md) to place green crystals under as many allied seats as possible.
 - The chamber erupts in fire.
 - The crystal warning saves much of the party's side from the worst of the blast.
-- [Greg](../people/greg.md) opens a portal to the library while the rest are evacuated back to the school.
+- [Greg](../people/greg-p-smith.md) opens a portal to the library while the rest are evacuated back to the school.
 
 ## Important People
 
 - [Mave](../people/mave.md)
 - [Hawk](../people/hawk.md)
 - [Jinx](../people/jinx.md)
-- [Greg](../people/greg.md)
-- [Junara](../people/junara.md)
+- [Greg](../people/greg-p-smith.md)
+- [Junvara](../people/junvara.md)
 
 ## Important Places
 

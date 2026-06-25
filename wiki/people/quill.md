@@ -87,7 +87,7 @@ That does not yet tell us the full shape of Quill's later life, but it strongly 
 
 ## Fifth Age Position
 
-The user notes for Quill place his campaign three weeks before [Logan's Second Campaign](../campaign/logans-second-campaign.md). The wiki now treats that earlier Fifth-Age party thread as [Logan's First Campaign](../campaign/logans-first-campaign.md).
+Quill's campaign takes place three weeks before [Logan's Second Campaign](../campaign/logans-second-campaign.md), making it the earlier Fifth-Age party thread now cataloged as [Logan's First Campaign](../campaign/logans-first-campaign.md).
 
 ## Links to Sixth-Age Figures
 

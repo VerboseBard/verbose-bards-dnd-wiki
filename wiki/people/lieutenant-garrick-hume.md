@@ -1,6 +1,6 @@
 # Lieutenant Garrick Hume
 
-Lieutenant Garrick Hume, spelling provisional, is an elf lieutenant at [Fort Victory](../places/fort-victory.md).
+Lieutenant Garrick Hume is an elf lieutenant at [Fort Victory](../places/fort-victory.md).
 
 ## Personality
 
@@ -21,4 +21,3 @@ Open question: Hume may have personally killed them, ordered it, or been connect
 - [Fort Victory](../places/fort-victory.md)
 - [Inquisition](../factions/inquisition.md)
 - [Session 4](../sessions/session-4.md)
-

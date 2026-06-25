@@ -8,11 +8,11 @@ The facility is protected by magical wards, robotic or automaton-like workers, a
 
 ## Soul Work
 
-[Charlie](../people/charlie.md)'s soul prison is opened inside the facility and used for design work. [Constant and Zuk](../people/constant-and-zuk.md) detect her soul during the casino operation and redirect the strike team toward the factory.
+[Charlie](../people/charlie.md)'s soul prison is opened inside the facility and used for design work. [Constance and Zuk](../people/constance-l-coggeshall.md) detect her soul during the casino operation and redirect the strike team toward the factory.
 
 ## Breach
 
-[Kestrel](../people/kestrel.md) bends the external ward open with the language of creation. [Junara](../people/junara.md), [Kestrel](../people/kestrel.md), and [Gregario / Shaq](../people/gregario-shaq.md) descend toward [Dark Star](../people/dark-star.md), while Constant, Zuk, and [Vis / Jarvis](../people/vis-jarvis.md) attack from above.
+[Kestrel](../people/kestrel.md) bends the external ward open with the language of creation. [Junvara](../people/junvara.md), [Kestrel](../people/kestrel.md), and [Gregario / Shaq](../people/gregario-shaq.md) descend toward [Dark Star](../people/dark-star.md), while Constance, Zuk, and [Vis / Jarvice](../people/vis-jarvice.md) attack from above.
 
 Hellspire is killed before he can activate the full facility defenses.
 

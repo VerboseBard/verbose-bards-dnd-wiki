@@ -8,7 +8,7 @@ Belle is the daughter of [Maeve](maeve.md), the older goddess of magic and forme
 
 Belle considered [Bridget](bridget.md), and later [Mave](mave.md) in [Bridget](bridget.md)'s place, more than mere allies in divinity. They were family inside the old council structure, even when politics and succession later complicated that language.
 
-Belle is also the biological mother of [Eve / Eva](eva.md) and [Lilith](lilith.md). She carried them and used her own power to birth them, transforming 69 and Mummy into those two daughters as part of the process.
+Belle is also the biological mother of [Eve](eve.md) and [Lilith](lilith.md). She carried them and used her own power to birth them, transforming 69 and Mummy into those two daughters as part of the process.
 
 That family line becomes one of the most important through-lines connecting the [War of the Gods / New Beginning Campaign](../campaign/war-of-the-gods.md), [The Hunt for Black Vipers](../campaign/hunt-for-black-vipers.md), and [Moon Stone Collectors](../campaign/moonstone-collectors.md).
 
@@ -20,7 +20,7 @@ That distinction matters because later campaign material often treats [Alen](ale
 
 ## Wrath Against Wendell
 
-When [Wendell](wendell.md), one of [Lucian](lucian.md)'s trusted agents, orchestrated [Mave](mave.md)'s fall from divinity, Belle launched an unsanctioned strike. She vented divine fire against [Wendell](wendell.md)'s stronghold, destroying his empire in a single night and erasing the fortress rather than merely conquering it.
+When [Wendell](wendell.md), one of [Lucius](lucius.md)'s trusted agents, orchestrated [Mave](mave.md)'s fall from divinity, Belle launched an unsanctioned strike. She vented divine fire against [Wendell](wendell.md)'s stronghold, destroying his empire in a single night and erasing the fortress rather than merely conquering it.
 
 Hundreds of thousands of devils were caught in the firestorm. The chaos created an opening for the [Moon Stone Collectors](../factions/moon-stone-collectors.md), who launched a rescue and freed [Gillesa](gillesa.md), a lost sister-fragment of [Julia / Julisia](julia-julisia.md).
 
@@ -36,7 +36,7 @@ In the extracted [War of the Gods, Session 17](../sessions/war-of-the-gods-sessi
 
 In [War of the Gods, Session 18](../sessions/war-of-the-gods-session-18.md), Belle's manipulation becomes much more explicit. She pressures 69 in dreams, frames obedience and violence in the language of love and purpose, and presents multiple paths for him to grow stronger in service to her. The same session also confirms that her recent maneuvering is severe enough for [Mave](mave.md) to step away from the pantheon rather than endorse it.
 
-In [War of the Gods, Session 19](../sessions/war-of-the-gods-session-19.md), Belle appears again in a more conversational but no less revealing form. While playing a chaotic board game with 69 and [Greg](greg.md), she insists that she is not trying to stop the [Divine Gate](../concepts/divine-gate.md) simply to preserve her own comfort, and claims she only needs 69 to receive one more dragon core so she can finish her own move and step off the board safely.
+In [War of the Gods, Session 19](../sessions/war-of-the-gods-session-19.md), Belle appears again in a more conversational but no less revealing form. While playing a chaotic board game with 69 and [Greg](greg-p-smith.md), she insists that she is not trying to stop the [Divine Gate](../concepts/divine-gate.md) simply to preserve her own comfort, and claims she only needs 69 to receive one more dragon core so she can finish her own move and step off the board safely.
 
 That session also gives one of the clearest short summaries of Belle's self-understanding: she rejects the party's simplified version of her motives, but openly admits that she is still a villain. She just insists she is a different villain than the one they have imagined.
 
@@ -54,23 +54,23 @@ Those notes portray Belle as someone mercenary hunters are actively trying to se
 
 ## Belle and Her Daughters
 
-Later conversation with [Eve](eva.md) complicates Belle's motives further. The material strongly suggests Belle may have helped arrange events specifically so she could get her daughter back, because she did not want to give up [Lilith](lilith.md).
+Later conversation with [Eve](eve.md) complicates Belle's motives further. The material strongly suggests Belle may have helped arrange events specifically so she could get her daughter back, because she did not want to give up [Lilith](lilith.md).
 
 That does not erase the manipulation, divine politics, or collateral damage around her choices. It does, however, reframe them. Belle is not acting only as chaos, hunger, or vanity. She is also acting as a possessive and determined mother trying to reclaim what she believes is hers.
 
-During the final Black Viper hunt, Belle meets [Eve / Eva](eva.md) in dreams, heals the last of [Eve](eva.md)'s soul damage, and gives her the [Hairpin of Cuteness](../items/hairpin-of-cuteness.md). Belle also admits that she taught [Lucian](lucian.md) a lesser form of soul-splitting, while insisting her own fractured aspects are more sophisticated than [Lucian](lucian.md)'s hidden soul anchors.
+During the final Black Viper hunt, Belle meets [Eve](eve.md) in dreams, heals the last of [Eve](eve.md)'s soul damage, and gives her the [Hairpin of Cuteness](../items/hairpin-of-cuteness.md). Belle also admits that she taught [Lucius](lucius.md) a lesser form of soul-splitting, while insisting her own fractured aspects are more sophisticated than [Lucius](lucius.md)'s hidden soul anchors.
 
-Belle warns [Eve](eva.md) not to consume [Lucian](lucian.md)'s final divine soul if [Eve](eva.md) lands the killing blow, because doing so would force [Eve](eva.md) into godhood and divine politics too soon.
+Belle warns [Eve](eve.md) not to consume [Lucius](lucius.md)'s final divine soul if [Eve](eve.md) lands the killing blow, because doing so would force [Eve](eve.md) into godhood and divine politics too soon.
 
-Before the first ritual-site assault, Belle meets [Eve](eva.md) in dreams. [Eve](eva.md) chooses to free [Caden / Baba Yaga](caden-baba-yaga.md), and Belle helps her trace the memory-path back to the [Prison Between Worlds](../places/prison-between-worlds.md). Belle shatters [Caden](caden-baba-yaga.md)'s cell and releases him to join the coming fight.
+Before the first ritual-site assault, Belle meets [Eve](eve.md) in dreams. [Eve](eve.md) chooses to free [Caden / Baba Yaga](caden-baba-yaga.md), and Belle helps her trace the memory-path back to the [Prison Between Worlds](../places/prison-between-worlds.md). Belle shatters [Caden](caden-baba-yaga.md)'s cell and releases him to join the coming fight.
 
-[Eve](eva.md) also asks for a fey army, but the aspect she approaches refuses after sensing manipulation in the request.
+[Eve](eve.md) also asks for a fey army, but the aspect she approaches refuses after sensing manipulation in the request.
 
 ## Black Keep Assault
 
 During [Moon Stone Collectors, Part 6](../sessions/moon-stone-collectors-part-6.md), Belle attacks [Wendell](wendell.md)'s Black Keep in Hell. She tears fire from demons' blood, melts the fortress gates, and confronts [Wendell](wendell.md) in his throne room.
 
-[Wendell](wendell.md) wounds her with the god-killing dagger he received in exchange for [Mave](mave.md), but Belle uses a mirror-like device tied to [Greg](greg.md)'s work to reflect the strike back into him. She leaves [Wendell](wendell.md) alive but maimed in a ritual circle of [Mave](mave.md)'s divine blood as punishment for taking what was hers.
+[Wendell](wendell.md) wounds her with the god-killing dagger he received in exchange for [Mave](mave.md), but Belle uses a mirror-like device tied to [Greg](greg-p-smith.md)'s work to reflect the strike back into him. She leaves [Wendell](wendell.md) alive but maimed in a ritual circle of [Mave](mave.md)'s divine blood as punishment for taking what was hers.
 
 ## Fey Courts
 
@@ -88,7 +88,7 @@ Together they mark [Paul](paul.md) with the [Crown of Fools](../items/crown-of-f
 - [Bridget](bridget.md)
 - [Mave](mave.md)
 - [Alen](alen.md)
-- [Eve / Eva](eva.md)
+- [Eve](eve.md)
 - [Lilith](lilith.md)
 - [Crown of Fools](../items/crown-of-fools.md)
 - [War of the Gods / New Beginning Campaign](../campaign/war-of-the-gods.md)
@@ -105,3 +105,4 @@ Together they mark [Paul](paul.md) with the [Crown of Fools](../items/crown-of-f
 - [The Hunt for Black Vipers, Part 9](../sessions/hunt-for-black-vipers-part-9.md)
 - [Moon Stone Collectors, Part 6](../sessions/moon-stone-collectors-part-6.md)
 - [Moon Stone Collectors, Part 15](../sessions/moon-stone-collectors-part-15.md)
+

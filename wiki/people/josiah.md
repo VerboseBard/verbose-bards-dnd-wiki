@@ -10,5 +10,5 @@ His admiration gave Constance something rare in her early life: uncomplicated be
 
 ## Related
 
-- [Constant and Zuk](constant-and-zuk.md)
+- [Constance and Zuk](constance-l-coggeshall.md)
 - [Cousin Lucy](cousin-lucy.md)

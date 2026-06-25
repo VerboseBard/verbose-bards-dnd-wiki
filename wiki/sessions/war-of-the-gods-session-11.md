@@ -8,7 +8,7 @@ Starting as a simple errand run, the session quickly turns into a three-pronged 
 
 ## Key Events
 
-- [Kestrel](../people/kestrel.md), 69, and [Greg](../people/greg.md) visit Old McGinty's.
+- [Kestrel](../people/kestrel.md), 69, and [Greg](../people/greg-p-smith.md) visit Old McGinty's.
 - Another party branch goes on a pub crawl that includes [Nicole](../people/nicole.md) and an ancient undead smith.
 - The crystal station and warehouse district are thrown into chaos by a children's labor strike.
 - [Tony](../people/tony.md), kobold workers, and the dock network expose a larger underclass economy.
@@ -20,7 +20,7 @@ Starting as a simple errand run, the session quickly turns into a three-pronged 
 
 ## Important People
 
-- [Greg](../people/greg.md)
+- [Greg](../people/greg-p-smith.md)
 - [Gregario / Shaq](../people/gregario-shaq.md)
 - [Belle](../people/belle.md)
 - [Nicole](../people/nicole.md)

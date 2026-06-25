@@ -1,10 +1,6 @@
-﻿# Lolth
+# Lolth
 
 Lolth is an ancient fallen drow spider goddess tied to the [Fourth Age](../concepts/fourth-age.md), the betrayal of rival divinities, and the fragment-corruption buried beneath [Sunhollow Valley](../places/sunhollow-valley.md).
-
-## Name Note
-
-`Lolth` is the corrected canon spelling for the drow goddess. Session 8 transcript variants such as `Lith`, `Loth`, or `Lor` are auto-caption drift.
 
 ## Divine Role
 
@@ -26,7 +22,7 @@ Some of Lolth's priestesses also captured fragments of [Hestia](hestia.md) and h
 
 Session 8 reframes that poison as more than a passive fragment leak. The blight also involves a corrupted sacred-forest bond, oily web-like death strands, damaged temple law, and living guardians still enforcing the old order.
 
-In [Session 9](../sessions/session-9.md), [Mistress Selyra Vex'ryn](mistress-sila-vexry.md) tells [Sgt. Jefferson Stone](sergeant-jefferson-stone.md) that Hestia was tied into Lolth's ascension system rather than simply destroyed. If true, Lolth's survival and return may be linked to the same hearth-fragment power that now moves through Jefferson's pendant and [Bartholomew Hildebrant](bartholomew-hildebrant.md)'s medallion.
+In [Session 9](../sessions/session-9.md), [Mistress Selyra Vex'ryn](mistress-selyra-vexryn.md) tells [Sgt. Jefferson Stone](sergeant-jefferson-stone.md) that Hestia was tied into Lolth's ascension system rather than simply destroyed. If true, Lolth's survival and return may be linked to the same hearth-fragment power that now moves through Jefferson's pendant and [Bartholomew Hildebrant](bartholomew-hildebrant.md)'s medallion.
 
 This remains dangerous and unresolved. Vex'ryn also claims that the immediate corruption source is an imprisoned entity south along the wall rather than the temple itself, but that should be treated as her claim or a partial truth until the party confirms it.
 

@@ -20,7 +20,7 @@ What starts as another training-and-performance session widens into city explora
 ## Important People
 
 - [Mave](../people/mave.md)
-- [Greg](../people/greg.md)
+- [Greg](../people/greg-p-smith.md)
 
 ## Important Places
 

@@ -1,12 +1,14 @@
 # Zen
 
-Zeniyrwynn Dothrynellion, usually called Zen, is a female drow, a diviner, arcane analyst, and one of the core members of the [Moon Stone Collectors](../campaign/moonstone-collectors.md) during the late [Sixth Age](../concepts/sixth-age.md).
+Zeniyrwynn Dothrynellion, usually called Zen, is a female elf, a diviner, arcane analyst, and one of the core members of the [Moon Stone Collectors](../campaign/moonstone-collectors.md) during the late [Sixth Age](../concepts/sixth-age.md).
 
 Her surviving notes place her at the center of some of the campaign's most important investigative and ethical decisions: identifying infernal artifacts, reading portal traces, navigating church politics, protecting [Elisia](elisia.md), and helping the party survive the northern post-[Concurrence](../concepts/the-concurrence.md) wilderness.
 
 ## Role
 
-At the canon Session 1 final roster, Zen is a Wizard 14 of the Divinity School with Cleric 1 layered in, serving as arcane tactician and divine scholar.
+Roster snapshot: Level 15 elf, Cleric / Wizard, School of Divination / Order Domain. Player: OncaObsidiana.
+
+Zen serves as arcane tactician and divine scholar.
 
 Zen repeatedly comes across in the notes as the party's clearest interpreter of magical systems and hidden structure.
 

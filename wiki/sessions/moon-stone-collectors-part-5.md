@@ -4,11 +4,11 @@ Part 5 brings the [Moon Stone Collectors](../factions/moon-stone-collectors.md) 
 
 ## Wendell's Bargain
 
-In an Elsewhere, [Junara](../people/junara.md) and [Jarth](../people/jarth.md) enter [Wendell's Sixth-Layer Fortress](../places/wendells-sixth-layer-fortress.md) to complete a grim exchange.
+In an Elsewhere, [Junvara](../people/junvara.md) and [Jarth](../people/jarth.md) enter [Wendell's Sixth-Layer Fortress](../places/wendells-sixth-layer-fortress.md) to complete a grim exchange.
 
 [Wendell](../people/wendell.md) has taken control of the sixth layer of Hell. He has [Mave](../people/mave.md) suspended and drained of divine blood, with other captives nearby. The bargain is honored, but [Wendell](../people/wendell.md) makes clear that his old leash is gone and that he no longer intends to submit to anyone's limits.
 
-[Mave](../people/mave.md) is released in a dying state, and [Wendell](../people/wendell.md) also allows a captive satyr to leave.
+[Mave](../people/mave.md) is released in a dying state, and [Wendell](../people/wendell.md) also allows a captive goblin to leave.
 
 ## Morning at the School
 
@@ -18,21 +18,21 @@ The party wakes at [Lady Penny Hathaway's School](../places/lady-penny-hathaways
 
 ## Annabelle's Contract
 
-[Annabelle](../people/annabelle.md) arrives with stuffed protectors and scolds [Paul](../people/paul.md) about [Phlukk](../people/phlukk.md). She explains that [Constant and Zuk](../people/constant-and-zuk.md) are occupied with an emergency rescue and cannot meet normally.
+[Annabelle](../people/annabelle.md) arrives with stuffed protectors and scolds [Paul](../people/paul.md) about [Phlukk](../people/phlukk.md). She explains that [Constance and Zuk](../people/constance-l-coggeshall.md) are occupied with an emergency rescue and cannot meet normally.
 
-[Annabelle](../people/annabelle.md) offers the party a contract: help rescue trapped children and protect the porters hauling them out. In return, Constant will open the portal the [Moon Stone Collectors](../factions/moon-stone-collectors.md) need to reach [Phlukk](../people/phlukk.md).
+[Annabelle](../people/annabelle.md) offers the party a contract: help rescue trapped children and protect the porters hauling them out. In return, Constance will open the portal the [Moon Stone Collectors](../factions/moon-stone-collectors.md) need to reach [Phlukk](../people/phlukk.md).
 
 ## The Warehouse Ritual
 
 At the [Shippers and Delivery Guild Warehouse](../places/shippers-and-delivery-guild-warehouse.md), the party finds hundreds of children, porters, living stuffed protectors, ritual machinery, wirework, and a wall-sized portal sigil.
 
-Constant, Zuk, and [Annabelle](../people/annabelle.md) use the peak of the [Concurrence](../concepts/the-concurrence.md) to punch through reality and open a route to the children. The portal reveals an ancient dwarven ruin holding thousands of dragon eggs.
+Constance, Zuk, and [Annabelle](../people/annabelle.md) use the peak of the [Concurrence](../concepts/the-concurrence.md) to punch through reality and open a route to the children. The portal reveals an ancient dwarven ruin holding thousands of dragon eggs.
 
-When the eggs are revealed, [Constant and Zuk](../people/constant-and-zuk.md) embrace the rescue as a matter of family and hoard. Both transform into dragons and enter first.
+When the eggs are revealed, [Constance and Zuk](../people/constance-l-coggeshall.md) embrace the rescue as a matter of family and hoard. Both transform into dragons and enter first.
 
 ## The Dwarven Egg Fortress
 
-The [Moon Stone Collectors](../factions/moon-stone-collectors.md) take the right-side defense route while [Nicole](../people/nicole.md), [Kendrick](../people/kendrick.md), and [Nicole](../people/nicole.md)'s bodyguards hold the opposite flank. [Constant and Zuk](../people/constant-and-zuk.md) drive through the center.
+The [Moon Stone Collectors](../factions/moon-stone-collectors.md) take the right-side defense route while [Nicole](../people/nicole.md), [Kendrick](../people/kendrick.md), and [Nicole](../people/nicole.md)'s bodyguards hold the opposite flank. [Constance and Zuk](../people/constance-l-coggeshall.md) drive through the center.
 
 The right hallway is defended by corrupted dwarves, zombies, and spiders. The fight becomes a battlefield-control showcase: Wall of Fire, telekinetic throws, forced movement, bardic inspiration, silvery barbs, radiant claws, Chain Lightning, and [Juan](../people/juan.md)'s dramatic illusion all turn the corridor into a kill zone.
 
@@ -40,7 +40,7 @@ The party defeats the defenders and holds the room while the eggs are evacuated.
 
 ## Juan's Return
 
-The released satyr from [Wendell](../people/wendell.md)'s fortress is revealed to be [Juan](../people/juan.md) restored to himself. [Mave](../people/mave.md)'s final blessing leaves him with a [Divine Soul Coin](../items/divine-soul-coin.md), a fading source of knowledge tied to the goddess of knowledge, art, and beauty.
+The released goblin from [Wendell](../people/wendell.md)'s fortress is revealed to be [Juan](../people/juan.md) restored to himself. [Mave](../people/mave.md)'s final blessing leaves him with a [Divine Soul Coin](../items/divine-soul-coin.md), a fading source of knowledge tied to the goddess of knowledge, art, and beauty.
 
 [Juan](../people/juan.md) uses the coin to read the fortress's history. The ruin was once a dwarven stronghold, then fell into cannibalistic, demonic degeneration. [Wendell](../people/wendell.md) later arrived, declared himself a god, and bound the surviving dwarves into his service.
 
@@ -48,7 +48,7 @@ The released satyr from [Wendell](../people/wendell.md)'s fortress is revealed t
 
 The party learns that the fortress contains a hidden route to [Wendell](../people/wendell.md)'s Hell stronghold. The route can be opened with the [Demonic Dwarven Gauntlets and Hammer](../items/demonic-dwarven-gauntlets-and-hammer.md), but doing so requires attunement to a dangerous artifact set.
 
-The session ends with the party weighing two options: take the back door and risk corruption, or leave and ask Constant to open a direct portal to the front of [Wendell](../people/wendell.md)'s fortress.
+The session ends with the party weighing two options: take the back door and risk corruption, or leave and ask Constance to open a direct portal to the front of [Wendell](../people/wendell.md)'s fortress.
 
 ## Concurrence Elsewhere
 
@@ -57,11 +57,11 @@ Another Elsewhere follows [Gregario / Shaq](../people/gregario-shaq.md) as he wa
 ## Important People
 
 - [Annabelle](../people/annabelle.md)
-- [Constant and Zuk](../people/constant-and-zuk.md)
-- [Greg](../people/greg.md)
+- [Constance and Zuk](../people/constance-l-coggeshall.md)
+- [Greg](../people/greg-p-smith.md)
 - [Gregario / Shaq](../people/gregario-shaq.md)
 - [Jarth](../people/jarth.md)
-- [Junara](../people/junara.md)
+- [Junvara](../people/junvara.md)
 - [Kendrick](../people/kendrick.md)
 - [Mave](../people/mave.md)
 - [Nicole](../people/nicole.md)

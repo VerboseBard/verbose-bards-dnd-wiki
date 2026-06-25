@@ -90,7 +90,7 @@ In [Session 9](../sessions/session-9.md), Jefferson's separated path through the
 
 He discovers a shattered egg or crypt room, a broken spider plinth, an archive of unreadable old script, and a vat chamber filled with dangerous purple demonic ichor. The ichor burns through leather but can be contained in treated glass, so Jefferson collects a [Demonic Ichor Vial](../items/demonic-ichor-vial.md) for later proof or study.
 
-Jefferson then reaches an office where [Mistress Selyra Vex'ryn](mistress-sila-vexry.md) tells him a mixture of warnings, claims, and likely lies about [Lolth](lolth.md), [Hestia](hestia.md), the valley's blood oath, and a claimed corruption source south along the valley wall. His insight confirms that she is hiding motives and that some of what she says may be false.
+Jefferson then reaches an office where [Mistress Selyra Vex'ryn](mistress-selyra-vexryn.md) tells him a mixture of warnings, claims, and likely lies about [Lolth](lolth.md), [Hestia](hestia.md), the valley's blood oath, and a claimed corruption source south along the valley wall. His insight confirms that she is hiding motives and that some of what she says may be false.
 
 After leaving the temple without [Bevar Lurton](bevar-lurton.md), Jefferson contacts the [Inquisition](../factions/inquisition.md) with careful partial truths and then contacts [Rurik Valdren](rurik-valdren.md). This turns his earlier Session 7 idea of using Rurik as a shield for [Sunhollow Valley](../places/sunhollow-valley.md) into an active plan.
 

@@ -1,11 +1,11 @@
 # Moon Stone Collectors
 
-The Moon Stone Collectors, often shortened to TMC, are an adventuring group whose story becomes important near the end of the [Sixth Age](../concepts/sixth-age.md) and again after [Belle](../people/belle.md)'s destruction of [Wendell](../people/wendell.md)'s stronghold. Older notes and early wiki drafts sometimes rendered the name as `Moon Stone Collators`; current transcript evidence supports `Moon Stone Collectors` as the readable canon name.
+The Moon Stone Collectors, often shortened to TMC, are an adventuring group whose story becomes important near the end of the [Sixth Age](../concepts/sixth-age.md) and again after [Belle](../people/belle.md)'s destruction of [Wendell](../people/wendell.md)'s stronghold.
 
 ## Canon Roster
 
 - [Juan Flehxis](../people/juan.md)
-- [Luca](../people/luca.md)
+- [Luka](../people/luka.md)
 - [Sorrel](../people/sorrel.md)
 - [Paul](../people/paul.md)
 - [Phlukk](../people/phlukk.md)

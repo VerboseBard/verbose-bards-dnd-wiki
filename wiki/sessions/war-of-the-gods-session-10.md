@@ -22,7 +22,7 @@ The party spills back through the library in shock and has to regroup inside the
 - [Lady Penny Hathaway](../people/lady-penny-hathaway.md)
 - [Mave](../people/mave.md)
 - [Gregario / Shaq](../people/gregario-shaq.md)
-- [Greg](../people/greg.md)
+- [Greg](../people/greg-p-smith.md)
 
 ## Important Places
 

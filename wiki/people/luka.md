@@ -1,25 +1,37 @@
 # Luka
 
-Luka is an older spelling variant for [Luca](luca.md), the male leonin zealot and front-line anchor of the [Moon Stone Collectors](../campaign/moonstone-collectors.md).
+Luka is a male leonin, a Path of the Zealot frontliner, and a core member of the [Moon Stone Collectors](../factions/moon-stone-collectors.md), connected to Gorthak's faith and the party's Hell-side rescue arc.
 
-Use [Luca](luca.md) as the active character page unless later table notes separate the names.
+## Faith
 
-## Role
+Luka is devoted to Gorthak, a god of strength, struggle, and trials. [p'Op](p-op.md)'s own religious awakening begins when he joins Luka's baptism or dedication and unexpectedly feels that same divine power.
 
-At the canon Session 1 final roster, Luka is a Barbarian 14 on the Path of the Zealot.
+Roster snapshot: Level 14 leonin, Barbarian, Path of the Zealot. Player: DomiB.
 
-He fills the role of zealous frontliner and divine berserker: a feral holy warrior whose rage is tied as much to faith and conviction as to raw violence. In party balance terms, he is one of the characters most likely to lead the charge straight into danger and force the rest of the battlefield to answer him.
+Luka fills the role of zealous frontliner and divine berserker: a feral holy warrior whose rage is tied as much to faith and conviction as to raw violence.
 
-## Campaign Place
+## Citadel Stand
 
-The surviving wiki notes for the Moon Stone Collectors focus more heavily on some of the other party members, so this alias page is kept mainly to preserve older links.
+In the reconstructed events of [Moon Stone Collectors, Part 11](../sessions/moon-stone-collectors-part-11.md), Luka stays behind on the [Radiant Citadel](../places/radiant-citadel.md) while the others flee with [Phlukk](phlukk.md). Luka argues that the [Citadel](../places/radiant-citadel.md) is worth fighting for and that his calling is to protect those still present.
 
-Even so, he belongs to the core Session 1 final lineup that carries the campaign through the late [Sixth Age](../concepts/sixth-age.md) and the [Concurrence](../concepts/the-concurrence.md).
+His testimony later helps keep the Conclave from sending harsher forces after the party.
+
+## Mission Against Julara
+
+In [Moon Stone Collectors, Part 16](../sessions/moon-stone-collectors-part-16.md), Luka returns to the [Kuran Grove](../places/kuran-grove.md) with a mission from the churches. He has been told that [Julara](julara.md) is a dangerous sister-fragment feeding through [Paul](paul.md) and that she must be destroyed or [Paul](paul.md) must be freed from her.
+
+Luka's arrival helps push [Paul](paul.md) to leave the party rather than risk [Julara](julara.md) being killed or forcibly merged.
+
+## Control-Room Finale
+
+In [Moon Stone Collectors, Part 17](../sessions/moon-stone-collectors-part-17.md), Luka joins the party in the old dwarven control room. His zealot rage helps protect the living [Viscus](viscus.md) cutting when gray goo begins forming around a giant skeleton.
+
+During the final fight, Luka nearly destroys the master goo outright, which would prevent [Viscus](viscus.md) from taking control of it. The party restrains, redirects, and eventually knocks him into the goo. He is briefly infected, but after [Viscus](viscus.md) claims the master network, Luka survives and purges the infection through divine force.
 
 ## Related
 
-- [Moon Stone Collectors](../campaign/moonstone-collectors.md)
 - [Moon Stone Collectors](../factions/moon-stone-collectors.md)
-- [Luca](luca.md)
-- [Norvindr](../places/norvindr.md)
-- [The Concurrence](../concepts/the-concurrence.md)
+- [Moon Stone Collectors, Part 11](../sessions/moon-stone-collectors-part-11.md)
+- [Moon Stone Collectors, Part 12](../sessions/moon-stone-collectors-part-12.md)
+- [Moon Stone Collectors, Part 16](../sessions/moon-stone-collectors-part-16.md)
+- [Moon Stone Collectors, Part 17](../sessions/moon-stone-collectors-part-17.md)

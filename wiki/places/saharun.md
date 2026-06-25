@@ -24,7 +24,7 @@ Saharun is discussed in the wider world briefing and later becomes important thr
 
 In the [Black Vipers](../factions/black-vipers.md) side arc, Saharun becomes the main refuge and recruiting ground for Viper remnants. [Silverbend](silver-bend.md) is attacked, [Big Tusk](big-tusk.md) becomes a casino lead, the [Shili Jungle](shili-jungle.md) becomes a cult-scouting target, and old serpent worshippers connected to [Rexel Kar](../people/rexel-kar.md) complicate the hunt.
 
-[Soul Cage](../items/soul-cage.md) interrogation confirms that several assassins connected to [Charlie](../people/charlie.md) and [Jimbo](../people/jimbo.md)'s deaths remain on Saharun or are returning to it. The world also holds [Constant and Zuk's Dragon-Bonding School](constant-and-zuks-dragon-bonding-school.md), now a likely target because of its concentration of children, dragons, eggs, and bonded souls.
+[Soul Cage](../items/soul-cage.md) interrogation confirms that several assassins connected to [Charlie](../people/charlie.md) and [Jimbo](../people/jimbo.md)'s deaths remain on Saharun or are returning to it. The world also holds [Constance and Zuk's Dragon-Bonding School](constance-and-zuks-dragon-bonding-school.md), now a likely target because of its concentration of children, dragons, eggs, and bonded souls.
 
 The old [Silverbend](silver-bend.md) mine loses its renewable green-crystal source when the [Possibility Core](../concepts/possibility-core.md) collapses, altering the balance between mortal secrecy and divine sight on Saharun.
 
@@ -38,5 +38,5 @@ The old [Silverbend](silver-bend.md) mine loses its renewable green-crystal sour
 - [Big Tusk](big-tusk.md)
 - [Shili Jungle](shili-jungle.md)
 - [Cobra Cult of Rax'al Karath](../factions/cobra-cult-of-raxal-karath.md)
-- [Constant and Zuk's Dragon-Bonding School](constant-and-zuks-dragon-bonding-school.md)
+- [Constance and Zuk's Dragon-Bonding School](constance-and-zuks-dragon-bonding-school.md)
 - [Old Silverbend Mines](old-silver-bend-mines.md)

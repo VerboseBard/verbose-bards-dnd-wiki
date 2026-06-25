@@ -10,9 +10,9 @@ The Dwarven Egg Fortress is an ancient ruin used by [Wendell](../people/wendell.
 
 ## Egg Rescue
 
-During [Moon Stone Collectors, Part 5](../sessions/moon-stone-collectors-part-5.md), [Annabelle](../people/annabelle.md), [Constant and Zuk](../people/constant-and-zuk.md), the [Moon Stone Collectors](../factions/moon-stone-collectors.md), and allied defenders open a portal from the [Shippers and Delivery Guild Warehouse](shippers-and-delivery-guild-warehouse.md) into the fortress.
+During [Moon Stone Collectors, Part 5](../sessions/moon-stone-collectors-part-5.md), [Annabelle](../people/annabelle.md), [Constance and Zuk](../people/constance-l-coggeshall.md), the [Moon Stone Collectors](../factions/moon-stone-collectors.md), and allied defenders open a portal from the [Shippers and Delivery Guild Warehouse](shippers-and-delivery-guild-warehouse.md) into the fortress.
 
-[Constant and Zuk](../people/constant-and-zuk.md) enter as dragons and drive through the center. The [Moon Stone Collectors](../factions/moon-stone-collectors.md) hold one flank while [Nicole](../people/nicole.md), [Kendrick](../people/kendrick.md), and [Nicole](../people/nicole.md)'s bodyguards hold the other.
+[Constance and Zuk](../people/constance-l-coggeshall.md) enter as dragons and drive through the center. The [Moon Stone Collectors](../factions/moon-stone-collectors.md) hold one flank while [Nicole](../people/nicole.md), [Kendrick](../people/kendrick.md), and [Nicole](../people/nicole.md)'s bodyguards hold the other.
 
 ## Back Door to Hell
 

@@ -4,7 +4,9 @@ Phlukk is a male owlin and one of the core members of the [Moon Stone Collectors
 
 ## Role
 
-At the canon Session 1 final roster, Phlukk is a Rogue 12 / Blood Hunter 1 who serves as assassin, scout, and chaos agent.
+Roster snapshot: Level 13 owlin, Rogue / Blood Hunter, Scout. Player: EternalMisfit.
+
+Phlukk serves as assassin, scout, and chaos agent.
 
 In the opening mission, the party finds that Phlukk has already been teleported ahead with the real emissary as part of the fake-priest escort plan. Soon after, the larger campaign finds that he has left behind a note, payment threads, and a hidden bow, but not a clean explanation of where he went.
 

@@ -1,4 +1,4 @@
-# Big Tusk
+﻿# Big Tusk
 
 Big Tusk is a city or major settlement on [Saharun](saharun.md), known in this arc for a casino connected to [Black Vipers](../factions/black-vipers.md) communication.
 
@@ -14,7 +14,7 @@ No [Sixth Age](../concepts/sixth-age.md) material has been added for Big Tusk ye
 
 A retired or semi-retired Viper contact frequents a casino in Big Tusk about once a month. The casino becomes one of the main leads for finding additional Viper cells.
 
-During the [Soul Cage](../items/soul-cage.md) interrogation, [Lucian's Splintered Echo](../concepts/lucians-splintered-echo.md) confirms that one of the Black Viper assassins connected to [Jimbo](../people/jimbo.md) and [Charlie](../people/charlie.md)'s deaths is presently in Big Tusk.
+During the [Soul Cage](../items/soul-cage.md) interrogation, [Lucius's Splintered Echo](../concepts/lucius-splintered-echo.md) confirms that one of the Black Viper assassins connected to [Jimbo](../people/jimbo.md) and [Charlie](../people/charlie.md)'s deaths is presently in Big Tusk.
 
 [Morir](../people/morir.md) later clarifies that [Dark Star](../people/dark-star.md) is expected at the [Longshore Casino](longshore-casino.md), while [Sir Hellspire](../people/sir-hellspire.md) maintains a manufacturing operation somewhere in the city.
 
@@ -39,3 +39,4 @@ During the casino operation, Vince agrees to keep casino security from interferi
 - [The Hunt for Black Vipers, Part 3](../sessions/hunt-for-black-vipers-part-3.md)
 - [The Hunt for Black Vipers, Part 4](../sessions/hunt-for-black-vipers-part-4.md)
 - [The Hunt for Black Vipers, Part 5](../sessions/hunt-for-black-vipers-part-5.md)
+

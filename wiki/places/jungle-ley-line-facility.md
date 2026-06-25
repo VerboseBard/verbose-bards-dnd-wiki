@@ -16,7 +16,7 @@ The shield reacts to damage, repairs itself, and changes defensive states over t
 
 Buried defensive towers rise once the facility is alerted. The towers are powered by ley-line systems and can impose target locks, fire necrotic or curse effects, and escalate the longer combat continues. They are not practical damage targets, but can be suppressed by dispelling or by attacking their power/control system.
 
-[Eve / Eva](../people/eva.md) neutralizes the tower network by teleporting away the power crystals, causing the towers to sink back into the ground.
+[Eve](../people/eve.md) neutralizes the tower network by teleporting away the power crystals, causing the towers to sink back into the ground.
 
 ## Mech Guardian
 
@@ -28,7 +28,7 @@ The facility's lower defense includes a huge segmented mech with shields, rocket
 
 The upper ritual floor contains the active ritual operator, drones, Black Viper defenders, and a Hellspire-like enemy. Another [Jimbo](../people/jimbo.md) fragment is still being used in the active working when Part 10 ends.
 
-In Part 11, the party identifies the operator as [Winrah Holm](../people/winrah-holm.md), removes her mind-control crown, and has a Conclave champion take over the ritual. Constant's work on the lower control panels disables the shield and lair attacks, helping the party recover the third [Jimbo](../people/jimbo.md) fragment by replacing it with Hellspire's captured soul.
+In Part 11, the party identifies the operator as [Winrah Holm](../people/winrah-holm.md), removes her mind-control crown, and has a Conclave champion take over the ritual. Constance's work on the lower control panels disables the shield and lair attacks, helping the party recover the third [Jimbo](../people/jimbo.md) fragment by replacing it with Hellspire's captured soul.
 
 ## Related
 

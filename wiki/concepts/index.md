@@ -1,4 +1,4 @@
-# Concepts Index
+﻿# Concepts Index
 
 - [Ages](ages.md)
 - [Timeline](timeline.md)
@@ -34,10 +34,10 @@
 - [The Weaver](the-weaver.md)
 - [Divine Champions and Patrons](divine-champions-and-patrons.md)
 - [Death's Kiss](deaths-kiss.md)
-- [Lucian's Splintered Echo](lucians-splintered-echo.md)
+- [Lucius's Splintered Echo](lucius-splintered-echo.md)
 - [Rax'al Karath Prophecy](raxal-karath-prophecy.md)
 - [Possibility Core](possibility-core.md)
-- [Lucian Soul Fragments](lucian-soul-fragments.md)
+- [Lucius Soul Fragments](lucius-soul-fragments.md)
 - [Jimbo's Soul Ritual](jimbo-soul-ritual.md)
 - [Lost Homeland Mission](lost-homeland-mission.md)
 - [Fort Victory Corruption Ring](fort-victory-corruption-ring.md)
@@ -48,3 +48,4 @@
 - [Fog Whales](fog-whales.md)
 - [Sanctuary City](sanctuary-city.md)
 - [Dragonborn of Saharun](dragonborn-of-saharun.md)
+

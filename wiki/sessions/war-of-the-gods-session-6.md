@@ -18,8 +18,8 @@ The tone turns darker. Blood-moon imagery, local quest infrastructure, and [Ayli
 
 ## Important People
 
-- [Constant and Zuk](../people/constant-and-zuk.md)
-- [Junara](../people/junara.md)
+- [Constance and Zuk](../people/constance-l-coggeshall.md)
+- [Junvara](../people/junvara.md)
 
 ## Consequences
 

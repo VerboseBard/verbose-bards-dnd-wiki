@@ -1,6 +1,6 @@
 # Lord Inquisitor Boss
 
-Lord Inquisitor Boss / Bosh, spelling provisional, is a tall aasimar [Inquisition](../factions/inquisition.md) authority in white robes or formal uniform.
+Lord Inquisitor Boss, also called Bosh in some accounts, is a tall aasimar [Inquisition](../factions/inquisition.md) authority in white robes or formal uniform.
 
 ## Role
 

@@ -12,7 +12,7 @@ In [War of the Gods, Session 22](../sessions/war-of-the-gods-session-22.md), Cor
 
 ## Related
 
-- [Constant and Zuk](constant-and-zuk.md)
+- [Constance and Zuk](constance-l-coggeshall.md)
 - [Genevieve Coggeshall](genevieve-coggeshall.md)
 - [Lucian Coggeshall](lucian-coggeshall.md)
 - [Josephine Coggeshall](josephine-coggeshall.md)

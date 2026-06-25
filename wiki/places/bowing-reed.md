@@ -6,7 +6,7 @@ Bowing Reed is a sprawling town on [Opaal](opaal.md) surrounded by swamp and ope
 
 Unlike the vertical twin cities of [Corialis](corialis.md) and [Wytebluff](wytebluff.md), Bowing Reed belongs to the marshlands. Its life is shaped by waterlogged ground, reeds, mud, and the slower but no less political rhythms of wetland settlement.
 
-Older notes connect Bowing Reed to the Qinlee family and the unusual destiny of the triplet sisters.
+Bowing Reed is connected to the Qinlee family and the unusual destiny of the triplet sisters.
 
 ## Related
 

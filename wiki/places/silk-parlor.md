@@ -1,6 +1,6 @@
 # The Silk Parlor
 
-The Silk Parlor is a luxury establishment in [Sin](sin.md), run by [Mistress Selyra Vex'ryn](../people/mistress-sila-vexry.md), previously transcribed as Mistress Sila Vex'Ry. It combines courtesan services, information gathering, black-market influence, and carefully controlled intimacy.
+The Silk Parlor is a luxury establishment in [Sin](sin.md), run by [Mistress Selyra Vex'ryn](../people/mistress-selyra-vexryn.md). It combines courtesan services, information gathering, black-market influence, and carefully controlled intimacy.
 
 ![The Women of the Silk Parlor](../assets/images/silk-parlor-women.jpeg)
 
@@ -32,6 +32,6 @@ The place is less a business than a machine for influence.
 ## Related
 
 - [Silk Parlor Network](../factions/silk-parlor-network.md)
-- [Mistress Selyra Vex'ryn](../people/mistress-sila-vexry.md)
+- [Mistress Selyra Vex'ryn](../people/mistress-selyra-vexryn.md)
 - [Fort Victory Corruption Ring](../concepts/fort-victory-corruption-ring.md)
 - [Underdark / Upside-Down](underdark-upside-down.md)

@@ -38,13 +38,13 @@ In [Moon Stone Collectors, Part 15](../sessions/moon-stone-collectors-part-15.md
 
 She also researches hydras for the party, explaining that ancient ice hydras are beastlike, regenerate fiercely, and are vulnerable to anti-regeneration tactics such as fire or acid.
 
-After [Belle](belle.md) marks [Paul](paul.md) with the [Crown of Fools](../items/crown-of-fools.md), Julara finds a ritual that suppresses the crown's constant glow, though it does not remove the curse.
+After [Belle](belle.md) marks [Paul](paul.md) with the [Crown of Fools](../items/crown-of-fools.md), Julara finds a ritual that suppresses the crown's Constance glow, though it does not remove the curse.
 
 ## Departure with Paul
 
 In [Moon Stone Collectors, Part 16](../sessions/moon-stone-collectors-part-16.md), Julara helps [Paul](paul.md) suppress the [Crown of Fools](../items/crown-of-fools.md) with a cold-iron amulet and warns him that the [Fey](../concepts/fey.md) age curse has stolen 64 years of his expected life.
 
-She offers ways to restore or extend his life, including a full bond with her. [Paul](paul.md) refuses that deeper bond, but when [Luca](luca.md) arrives with orders to kill Julara or free [Paul](paul.md) from her, [Paul](paul.md) leaves the party to protect her.
+She offers ways to restore or extend his life, including a full bond with her. [Paul](paul.md) refuses that deeper bond, but when [Luka](luka.md) arrives with orders to kill Julara or free [Paul](paul.md) from her, [Paul](paul.md) leaves the party to protect her.
 
 [Wisdom](wisdom.md) later suggests merging with Julara to wield the celestial artifact, but the party recognizes this would override Julara's will.
 

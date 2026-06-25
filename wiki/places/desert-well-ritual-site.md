@@ -6,7 +6,7 @@ The Desert Well Ritual Site is the first known location in [Jimbo's Soul Ritual]
 
 The site appears as a desert well beside ruins, watched by calm local figures who offer water freely. The greeting is a facade. Invisible guardians, scorpions, hidden magic, and a powerful signature in the water mark it as an active ritual access point.
 
-[Eve / Eva](../people/eva.md)'s opening fire reveals the ambush and destroys an air djinn. [Junara](../people/junara.md) captures the djinn's soul as a replacement candidate for [Jimbo](../people/jimbo.md)'s fragment.
+[Eve](../people/eve.md)'s opening fire reveals the ambush and destroys an air djinn. [Junvara](../people/junvara.md) captures the djinn's soul as a replacement candidate for [Jimbo](../people/jimbo.md)'s fragment.
 
 ## Portal
 

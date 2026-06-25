@@ -1,18 +1,25 @@
-# Wendell
+# Wendell, The Crimson Hound
 
-Wendell was one of [Lucian](lucian.md)'s most trusted agents.
+Wendell was one of [Lucius](lucius.md)'s most trusted agents.
+
+## Roster Snapshot
+
+- Level 20
+- Aasimar
+- Cleric / Warlock / The Undying / Death Domain
+- Player: EternalMisfit
 
 ## Role
 
 Wendell orchestrated the fall of [Mave](mave.md), goddess of knowledge, art, and beauty. This brought the wrath of [Belle](belle.md) down upon him.
 
-In the extracted [War of the Gods, Session 17](../sessions/war-of-the-gods-session-17.md), [Greg](greg.md)'s library-assisted analysis frames Wendell's broader plan more clearly. He is not just gathering armies and desecrating towns for conquest. He appears to be trying to lower the world's magical density until the gods can no longer remain directly on the mortal plane.
+In the extracted [War of the Gods, Session 17](../sessions/war-of-the-gods-session-17.md), [Greg](greg-p-smith.md)'s library-assisted analysis frames Wendell's broader plan more clearly. He is not just gathering armies and desecrating towns for conquest. He appears to be trying to lower the world's magical density until the gods can no longer remain directly on the mortal plane.
 
 By [War of the Gods, Session 22](../sessions/war-of-the-gods-session-22.md), the plan is more concrete and more unsettling. Wendell succeeds in activating at least one ley-line gate nexus by exploiting dungeon-linked power, soul-fueled ritual work, and the party's own interference with the purple crystals involved.
 
 That same session also reveals two important wrinkles. First, Wendell claims the dragon eggs were stolen not as fuel but to restore dragons to an older guardian function tied to reality's stability. Second, he is willing to bind allies through ley-line oaths rather than rely only on fear, undead force, or divine leftovers.
 
-In [War of the Gods, Session 23](../sessions/war-of-the-gods-session-23.md) and [War of the Gods, Session 24](../sessions/war-of-the-gods-session-24.md), that strategy reaches the [Radiant Citadel](../places/radiant-citadel.md) in full. Wendell's crown and oath contingency help trigger the infernal incursion around [Mullin](mullin.md), scatter dungeon seeds across the city, and open the first stage of the siege. After [Lucian](lucian.md) falls, however, Wendell is no longer treated as an untouchable mastermind. [Veil](veil-guardian-of-the-citadel.md) takes him into custody, and later recap frames his punishment as exile back toward the Hells under supervision rather than freedom to continue operating on the [Citadel](../places/radiant-citadel.md).
+In [War of the Gods, Session 23](../sessions/war-of-the-gods-session-23.md) and [War of the Gods, Session 24](../sessions/war-of-the-gods-session-24.md), that strategy reaches the [Radiant Citadel](../places/radiant-citadel.md) in full. Wendell's crown and oath contingency help trigger the infernal incursion around [Mullin](mullin.md), scatter dungeon seeds across the city, and open the first stage of the siege. After [Lucius](lucius.md) falls, however, Wendell is no longer treated as an untouchable mastermind. [Veil](veil-guardian-of-the-citadel.md) takes him into custody, and later recap frames his punishment as exile back toward the Hells under supervision rather than freedom to continue operating on the [Citadel](../places/radiant-citadel.md).
 
 ## Sixth-Layer Rule
 
@@ -44,7 +51,7 @@ The session-17 interpretation of Wendell's project is effectively a proto-[Divin
 
 ## Related
 
-- [Lucian](lucian.md)
+- [Lucius](lucius.md)
 - [Belle](belle.md)
 - [Mave](mave.md)
 - [Divine Gate](../concepts/divine-gate.md)
@@ -56,3 +63,4 @@ The session-17 interpretation of Wendell's project is effectively a proto-[Divin
 - [Moon Stone Collectors, Part 5](../sessions/moon-stone-collectors-part-5.md)
 - [Moon Stone Collectors, Part 6](../sessions/moon-stone-collectors-part-6.md)
 - [Moon Stone Collectors, Part 8](../sessions/moon-stone-collectors-part-8.md)
+

@@ -8,7 +8,7 @@ The service uses a large teleportation circle, crystals, and runic infrastructur
 
 ## Campaign Role
 
-[Eve / Eva](../people/eva.md) arrives here after leaving [Opaal](opaal.md). [Joseph the Goblin](../people/joseph-the-goblin.md) greets her, explains money, and later receives platinum from her.
+[Eve](../people/eve.md) arrives here after leaving [Opaal](opaal.md). [Joseph the Goblin](../people/joseph-the-goblin.md) greets her, explains money, and later receives platinum from her.
 
 ## Related
 

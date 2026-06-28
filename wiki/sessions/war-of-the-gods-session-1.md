@@ -15,12 +15,12 @@ The campaign opens with newly awakened characters being found across the realms 
 - Molokan is found on the beach by Seeker Lindsey.
 - Other arrivals include figures under the supervision of Seeker Laura and the clay-like Seeker Lucy.
 - The group passes through a massive crystal transit station before arriving at the school.
-- [Mave](../people/mave.md), still acting as dean rather than a later divine figure, oversees the opening school phase.
+- [Maeve](../people/mave.md), still acting as dean rather than a later divine figure, oversees the opening school phase.
 - A testing course and rune-stamped medallion establish the party's first formal magical and martial assessment.
 
 ## Important People
 
-- [Mave](../people/mave.md)
+- [Maeve](../people/mave.md)
 - [Greg](../people/greg-p-smith.md)
 - [Constance and Zuk](../people/constance-l-coggeshall.md)
 

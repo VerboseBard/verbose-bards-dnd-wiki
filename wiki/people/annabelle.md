@@ -4,7 +4,7 @@ Annabelle is a living doll-like protector whose power rises in response to threa
 
 ## Role
 
-Annabelle appears when [Mave](mave.md) and [Gregario / Shaq](gregario-shaq.md) are guarding [Lilith](lilith.md) in [Junvara's Magnificent Mansion](../places/junvaras-magnificent-mansion.md). She judges the protection insufficient and moves [Lilith](lilith.md) under her own care at [Constance and Zuk's Dragon-Bonding School](../places/constance-and-zuks-dragon-bonding-school.md).
+Annabelle appears when [Maeve](mave.md) and [Gregario / Shaq](gregario-shaq.md) are guarding [Lilith](lilith.md) in [Junvara's Magnificent Mansion](../places/junvaras-magnificent-mansion.md). She judges the protection insufficient and moves [Lilith](lilith.md) under her own care at [Constance and Zuk's Dragon-Bonding School](../places/constance-and-zuks-dragon-bonding-school.md).
 
 ## Protective Aura
 
@@ -26,7 +26,7 @@ Annabelle later removes the raven tattoo from [Gregario / Shaq](gregario-shaq.md
 
 When [Lucius](lucius.md) flees to [Constance and Zuk's Dragon-Bonding School](../places/constance-and-zuks-dragon-bonding-school.md), he tries to exploit Annabelle's protective limits. He swears that he means Annabelle and the children no harm, then demands someone in the school who is no longer a child.
 
-Annabelle refuses to treat that oath as absolution. She snaps the party to the school, creating the opening for [Mave](mave.md) to strike [Lucius](lucius.md) down.
+Annabelle refuses to treat that oath as absolution. She snaps the party to the school, creating the opening for [Maeve](mave.md) to strike [Lucius](lucius.md) down.
 
 ## Concurrence Rescue
 
@@ -37,7 +37,7 @@ She contracts the [Moon Stone Collectors](../factions/moon-stone-collectors.md) 
 ## Related
 
 - [Lilith](lilith.md)
-- [Mave](mave.md)
+- [Maeve](mave.md)
 - [Constance and Zuk](constance-l-coggeshall.md)
 - [Constance and Zuk's Dragon-Bonding School](../places/constance-and-zuks-dragon-bonding-school.md)
 - [The Hunt for Black Vipers, Part 4](../sessions/hunt-for-black-vipers-part-4.md)

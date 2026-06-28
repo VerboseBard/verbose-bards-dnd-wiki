@@ -19,7 +19,7 @@ The main dated play for Session 16 begins after the island-temple refuge establi
 ## Important People
 
 - [Greg](../people/greg-p-smith.md)
-- [Mave](../people/mave.md)
+- [Maeve](../people/mave.md)
 - [Belle](../people/belle.md)
 - [Wendell](../people/wendell.md)
 - [Charlie](../people/charlie.md)

@@ -21,7 +21,7 @@ He turns away from the control panels, goes to a garden he loved, and releases t
 ## Related
 
 - [Radiant Citadel](../places/radiant-citadel.md)
-- [Mave](mave.md)
+- [Maeve](mave.md)
 - [Greg](greg-p-smith.md)
 - [Junvara](junvara.md)
 - [War of the Gods, Session 20](../sessions/war-of-the-gods-session-20.md)

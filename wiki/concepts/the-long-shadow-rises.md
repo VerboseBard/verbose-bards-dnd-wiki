@@ -1,4 +1,4 @@
-﻿# The Long Shadow Rises
+# The Long Shadow Rises
 
 The Long Shadow Rises is the legacy thread of [Lucius](../people/lucius.md)'s surviving contingencies after his defeat.
 
@@ -16,7 +16,7 @@ The attack killed [Charlie](../people/charlie.md) and [Jimbo](../people/jimbo.md
 
 ## The Board Shifts
 
-[Belle](../people/belle.md)'s fury over [Mave](../people/mave.md)'s fall destroyed [Wendell](../people/wendell.md)'s stronghold. In the chaos, the [Moon Stone Collectors](../factions/moon-stone-collectors.md) rescued [Gillesa](../people/gillesa.md), changing [Julia](../people/julia-julisia.md)'s priorities.
+[Belle](../people/belle.md)'s fury over [Maeve, the Schoolmistress](../people/mave.md)'s fall destroyed [Wendell](../people/wendell.md)'s stronghold. In the chaos, the [Moon Stone Collectors](../factions/moon-stone-collectors.md) rescued [Gillesa](../people/gillesa.md), changing [Julia](../people/julia-julisia.md)'s priorities.
 
 [June](../people/june.md) then captured [Central Toge](../people/central-toge.md)'s soul with a soul cage and ancient ritual. [Lucius](../people/lucius.md)'s return, once inevitable, became surrounded by diverging currents: not prophecy, but possibility.
 

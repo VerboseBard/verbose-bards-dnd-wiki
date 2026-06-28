@@ -1,4 +1,4 @@
-﻿# War of the Gods / New Beginning Campaign
+# War of the Gods / New Beginning Campaign
 
 The [War of the Gods](../concepts/war-of-the-gods.md), also referred to in some table discussion as the New Beginning campaign, is the campaign grouping this wiki uses for the imported Session 16 onward material.
 
@@ -8,7 +8,7 @@ This campaign begins in the school-and-Seekers phase of the late [Sixth Age](../
 
 Across the surviving notes and transcripts, the campaign moves through several major phases:
 
-- awakening, training, and early school politics under [Mave](../people/mave.md)
+- awakening, training, and early school politics under [Maeve, the Schoolmistress](../people/mave.md)
 - the desert-world missions, mine ritual, and [Hawk](../people/hawk.md)'s intervention against [Aylinn](../people/aylinn.md)'s control
 - the Emerald Palace council disaster and school-side fallout
 - [Radiant Citadel](../places/radiant-citadel.md) labor, dock, and Black Viper pressure

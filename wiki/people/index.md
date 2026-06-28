@@ -190,13 +190,14 @@ People are grouped by campaign, faction, and divine family so related figures st
 
 ## War of the Gods / School and Citadel Allies
 
-- [Mave](mave.md)
+- [Maeve, the Schoolmistress](mave.md)
 - [Lady Penny Hathaway](lady-penny-hathaway.md)
 - [Jinx](jinx.md)
 - [Professor Hazard](professor-hazard.md)
 - [Nicole](nicole.md)
 - [Rose Qinlee](rose-qinlee.md)
 - [Veil, Guardian of the Citadel](veil-guardian-of-the-citadel.md)
+- [Mulligan](mulligan.md)
 
 ## Black Viper Hunt Figures
 
@@ -251,9 +252,9 @@ People are grouped by campaign, faction, and divine family so related figures st
 ## Gods and Goddesses
 
 - [Belle](belle.md)
-- [Maeve](maeve.md)
+- [Maeve, Queen of the Fae](maeve.md)
 - [Bridget](bridget.md)
-- [Mave](mave.md)
+- [Maeve, the Schoolmistress](mave.md)
 - [Dione](dione.md)
 - [Savras](savras.md)
 - [Sedna](sedna.md)

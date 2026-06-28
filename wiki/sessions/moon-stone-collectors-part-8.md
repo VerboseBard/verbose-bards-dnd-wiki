@@ -18,9 +18,9 @@ The fight ends with the party having killed two leaders of the [Abyssal Hand](..
 
 ## Divine Soup
 
-During the short rest, [Juan](../people/juan.md) considers whether to save or consume the remaining power in [Mave](../people/mave.md)'s [Divine Soul Coin](../items/divine-soul-coin.md).
+During the short rest, [Juan](../people/juan.md) considers whether to save or consume the remaining power in [Maeve](../people/mave.md)'s [Divine Soul Coin](../items/divine-soul-coin.md).
 
-[Vylra](../people/vylra.md) turns the moment into food. The coin is dropped into the soup, creating a divine meal. Everyone who eats gains permanent vitality, and [Juan](../people/juan.md) gains a deeper change in perception tied to [Mave](../people/mave.md)'s domains of knowledge, wisdom, art, and beauty.
+[Vylra](../people/vylra.md) turns the moment into food. The coin is dropped into the soup, creating a divine meal. Everyone who eats gains permanent vitality, and [Juan](../people/juan.md) gains a deeper change in perception tied to [Maeve](../people/mave.md)'s domains of knowledge, wisdom, art, and beauty.
 
 ## The Prison Puzzle
 

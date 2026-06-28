@@ -8,7 +8,7 @@ The campaign begins in the wake of the [Black Vipers](../factions/black-vipers.m
 
 As the arc unfolds, the party follows the trail across [Saharun](../places/saharun.md), [Opaal](../places/opaal.md), [Silverbend](../places/silver-bend.md), [Big Tusk](../places/big-tusk.md), and beyond. They protect [Lilith](../people/lilith.md), uncover the cultic and divine layers underneath the Vipers' retreat, and trace the network that keeps the assassins moving between worlds. The mission is part investigation, part war, and part supernatural cleanup after a much larger power has already made its move.
 
-The middle and late stages widen from street-level hunting into full-scale assaults: the cave hideout, the factory strike, the island purge, the jungle facility, and finally the high temple and soul ritual. The campaign ends with [Lucius](../people/lucius.md)'s final fall and [Mave](../people/mave.md)'s ascension, closing the Viper thread while leaving behind a world shaped by the aftermath of those choices.
+The middle and late stages widen from street-level hunting into full-scale assaults: the cave hideout, the factory strike, the island purge, the jungle facility, and finally the high temple and soul ritual. The campaign ends with [Lucius](../people/lucius.md)'s final fall and [Maeve, the Schoolmistress](../people/mave.md)'s ascension, closing the Viper thread while leaving behind a world shaped by the aftermath of those choices.
 
 ## Extracted Sessions
 
@@ -38,7 +38,7 @@ The one exception is the prelude session, [Assassination of Jimbo and Charlie](.
 - [Lilith](../people/lilith.md), [Gregario](../people/gregario-shaq.md), [Junvara](../people/junvara.md), [Kestrel](../people/kestrel.md), and allies defend the bridge, then trace the cult connection.
 - [Big Tusk](../places/big-tusk.md), [Opaal](../places/opaal.md), and [Silverbend](../places/silver-bend.md) become key pressure points in the hunt.
 - The cult network is exposed as tied to Rax'al Karath / [Rexel Kar](../people/rexel-kar.md) and [Lucius](../people/lucius.md)'s old influence.
-- The arc ends in the ritual climax, [Lucius](../people/lucius.md)'s fall, and [Mave](../people/mave.md)'s ascension.
+- The arc ends in the ritual climax, [Lucius](../people/lucius.md)'s fall, and [Maeve, the Schoolmistress](../people/mave.md)'s ascension.
 
 ## Related
 

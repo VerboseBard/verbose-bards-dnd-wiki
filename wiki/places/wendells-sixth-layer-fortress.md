@@ -6,11 +6,11 @@ Wendell's Sixth-Layer Fortress is the Hell stronghold controlled by [Wendell](..
 
 The fortress sits in a black, volcanic hellscape of obsidian, lava flows, demonic patrols, and tortured captives. Its halls lead down to chambers where prisoners are drained, traded, or broken.
 
-## Mave's Release
+## Maeve's Release
 
-In [Moon Stone Collectors, Part 5](../sessions/moon-stone-collectors-part-5.md), [Junvara](../people/junvara.md) and [Jarth](../people/jarth.md) enter the fortress to complete a bargain for [Mave](../people/mave.md)'s release.
+In [Moon Stone Collectors, Part 5](../sessions/moon-stone-collectors-part-5.md), [Junvara](../people/junvara.md) and [Jarth](../people/jarth.md) enter the fortress to complete a bargain for [Maeve](../people/mave.md)'s release.
 
-[Wendell](../people/wendell.md) honors the exchange but uses the moment to declare that his old leash is gone. [Mave](../people/mave.md) is released in a dying state, and a captive goblin is allowed to leave as well.
+[Wendell](../people/wendell.md) honors the exchange but uses the moment to declare that his old leash is gone. [Maeve](../people/mave.md) is released in a dying state, and a captive goblin is allowed to leave as well.
 
 ## Hidden Route
 
@@ -31,7 +31,7 @@ In [Moon Stone Collectors, Part 8](../sessions/moon-stone-collectors-part-8.md),
 ## Related
 
 - [Wendell](../people/wendell.md)
-- [Mave](../people/mave.md)
+- [Maeve](../people/mave.md)
 - [Dwarven Egg Fortress](dwarven-egg-fortress.md)
 - [Moon Stone Collectors, Part 5](../sessions/moon-stone-collectors-part-5.md)
 - [Moon Stone Collectors, Part 6](../sessions/moon-stone-collectors-part-6.md)

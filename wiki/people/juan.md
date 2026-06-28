@@ -1,4 +1,4 @@
-﻿# Juan
+# Juan
 
 Juan Flehxis is a goblin bard-warlock and one of the core members of the [Moon Stone Collectors](../campaign/moonstone-collectors.md). His story becomes one of the most important personal threads in the later campaign.
 
@@ -20,9 +20,9 @@ Juan is one of the characters through whom the campaign explores luck, destiny, 
 
 From the start of the campaign, Juan functions as the group's charismatic trickster and magical showman. His illusion work helps sell the opening fake-emissary escort, and later sessions repeatedly show him mixing charm, menace, glamour, and raw psychic force to shape both fights and negotiations.
 
-He is also one of the party members most often separated from the rest by plot pressure. He is abducted through an infernal portal during the [Norvindr](../places/norvindr.md) arc, later reemerges after [Wendell](../people/wendell.md)'s prison systems and [Mave](mave.md)'s last gift, and then immediately becomes central again because only he can fully interpret part of what has been done to him.
+He is also one of the party members most often separated from the rest by plot pressure. He is abducted through an infernal portal during the [Norvindr](../places/norvindr.md) arc, later reemerges after [Wendell](../people/wendell.md)'s prison systems and [Maeve](mave.md)'s last gift, and then immediately becomes central again because only he can fully interpret part of what has been done to him.
 
-That return leaves him with the [Divine Soul Coin](../items/divine-soul-coin.md), a fading fragment of [Mave](mave.md)'s knowledge and power. Through it, he reads the history of the dwarven egg fortress, learns more about [Wendell](../people/wendell.md)'s occupation of the site, and becomes even more tightly tied to the campaign's questions of memory and inherited responsibility.
+That return leaves him with the [Divine Soul Coin](../items/divine-soul-coin.md), a fading fragment of [Maeve](mave.md)'s knowledge and power. Through it, he reads the history of the dwarven egg fortress, learns more about [Wendell](../people/wendell.md)'s occupation of the site, and becomes even more tightly tied to the campaign's questions of memory and inherited responsibility.
 
 ## Luck and Cost
 

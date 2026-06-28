@@ -6,7 +6,7 @@ The Hell's Bane Heroes are the legendary heroes who struck down [Lucius](../peop
 
 They were not merely pawns of prophecy. When [Lucius](../people/lucius.md) stood on the verge of total dominion, the Hell's Bane Heroes wounded the impossible and brought him down.
 
-Their legend begins after their own leader, Mulligan, betrays them and allows evil forces into the [Citadel](../places/radiant-citadel.md). The party kills Mulligan, then pursues [Lucius](../people/lucius.md) and defeats him on the great crystal before gods, demons, immortals, and mortals.
+Their legend begins after their own leader, [Mulligan](../people/mulligan.md), betrays them and allows evil forces into the [Citadel](../places/radiant-citadel.md). The party kills Mulligan, then pursues [Lucius](../people/lucius.md) and defeats him on the great crystal before gods, demons, immortals, and mortals.
 
 [Greg](../people/greg-p-smith.md), the small autognome among them, later becomes known as the Architect of Worlds for proposing and building the magical technology that makes [the Concurrence](../concepts/the-concurrence.md) survivable.
 
@@ -14,7 +14,7 @@ For the current campaign, the Hell's Bane Heroes are not just legendary backstor
 
 ## Mid-War State
 
-By the time of the extracted [War of the Gods, Session 16](../sessions/war-of-the-gods-session-16.md), the group is already deep into endgame pressure. [Greg](../people/greg-p-smith.md) has sacrificed part of his life to preserve the library, [Mave](../people/mave.md) has risen into godhood after the death of the pantheon's leader, and the party is moving through Constance's homeland while [Wendell](../people/wendell.md) deploys undead forces from the air.
+By the time of the extracted [War of the Gods, Session 16](../sessions/war-of-the-gods-session-16.md), the group is already deep into endgame pressure. [Greg](../people/greg-p-smith.md) has sacrificed part of his life to preserve the library, [Maeve, the Schoolmistress](../people/mave.md) has risen into godhood after [Bridget](../people/bridget.md)'s death, and the party is moving through Constance's homeland while [Wendell](../people/wendell.md) deploys undead forces from the air.
 
 That session also confirms that [Charlie](../people/charlie.md) was already fighting alongside or immediately adjacent to the wider Hell's Bane network during the war, long before her later death in the Black Viper era.
 
@@ -25,6 +25,7 @@ That session also confirms that [Charlie](../people/charlie.md) was already figh
 ## Related
 
 - [Lucius](../people/lucius.md)
+- [Mulligan](../people/mulligan.md)
 - [War of the Gods](../concepts/war-of-the-gods.md)
 - [Black Vipers](black-vipers.md)
 - [The Long Shadow Rises](../concepts/the-long-shadow-rises.md)

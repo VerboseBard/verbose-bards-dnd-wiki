@@ -30,7 +30,7 @@ That oath cannot be freely explained afterward, which leaves Mullin carrying cri
 
 ## Commodore Legend
 
-The same session also adds a major twist to Mullin's return from death. [Mave](mave.md) privately tells him that [Straka](straka.md) did not truly bring him back at all.
+The same session also adds a major twist to Mullin's return from death. [Maeve](mave.md) privately tells him that [Straka](straka.md) did not truly bring him back at all.
 
 Instead, the belief and legend in the Commodore's return appear to be feeding him power directly. That would make Mullin less a restored servant of a god than a figure being sustained by myth itself, with the frightening implication that he may be rising toward something adjacent to godhood without meaning to.
 
@@ -38,7 +38,7 @@ Instead, the belief and legend in the Commodore's return appear to be feeding hi
 
 In [War of the Gods, Session 23](../sessions/war-of-the-gods-session-23.md), Mullin's unstable situation finally detonates.
 
-[Mave](mave.md) confronts him, reveals more of his old sailor-king memories, and makes clear that the school cannot keep him on its grounds after his bargain with [Wendell](wendell.md). When the party follows him out, [Junvara](junvara.md) correctly identifies [Wendell](wendell.md)'s crown as the immediate control mechanism distorting his choices.
+[Maeve](mave.md) confronts him, reveals more of his old sailor-king memories, and makes clear that the school cannot keep him on its grounds after his bargain with [Wendell](wendell.md). When the party follows him out, [Junvara](junvara.md) correctly identifies [Wendell](wendell.md)'s crown as the immediate control mechanism distorting his choices.
 
 The crown is removed, but too late to stop the contingency built into it. Infernal portals open around the group, [Wendell](wendell.md)'s dragon appears, and Mullin is driven into direct combat against his own companions. He is eventually killed in the fighting, making Session 23 the first clear collapse of the "I can still walk this line safely" idea that had been haunting his arc since Session 20.
 
@@ -49,7 +49,7 @@ At the start of [War of the Gods, Session 24](../sessions/war-of-the-gods-sessio
 ## Related
 
 - [Charlie](charlie.md)
-- [Mave](mave.md)
+- [Maeve](mave.md)
 - [Belle](belle.md)
 - [Wendell](wendell.md)
 - [War of the Gods, Session 20](../sessions/war-of-the-gods-session-20.md)

@@ -64,7 +64,7 @@ After returning to the [Citadel](../places/radiant-citadel.md), the party learns
 
 The party accepts responsibility for [Elisia](../people/elisia.md) under a [Collar of Demon Subjugation](../items/collar-of-demon-subjugation.md) until the Conclave can judge her case.
 
-The same downtime reveals deeper dangers: [Julara](../people/julara.md) bargains with [Paul](../people/paul.md), [Mave](../people/mave.md) warns [Juan](../people/juan.md) about the cost of luck, and an invitation in [Lady Seraphina Blackthorn](../people/lady-seraphina-blackthorn.md)'s name leads [Juan](../people/juan.md) and [Vylra](../people/vylra.md) into a trap at [Ebonwing Manor](../places/ebonwing-manor.md).
+The same downtime reveals deeper dangers: [Julara](../people/julara.md) bargains with [Paul](../people/paul.md), [Maeve](../people/mave.md) warns [Juan](../people/juan.md) about the cost of luck, and an invitation in [Lady Seraphina Blackthorn](../people/lady-seraphina-blackthorn.md)'s name leads [Juan](../people/juan.md) and [Vylra](../people/vylra.md) into a trap at [Ebonwing Manor](../places/ebonwing-manor.md).
 
 The reconstructed next session confirms that the trap becomes a full battle against more than twenty demons. The party prevents the Deceiver-linked enemy from escaping, but [Vaelith the Whisperer](../people/vaelith-the-whisperer.md) escapes and [Juan](../people/juan.md) is left compromised enough to attack [June](../people/june.md).
 

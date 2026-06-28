@@ -50,13 +50,13 @@ The bargain is sealed through a small circle made with demonic pepper powder. A 
 
 [Elisia](../people/elisia.md) believes she is justice and protection. [Julara](../people/julara.md) is tied to knowledge. Other sisters are associated with power, carnal desire, love, wisdom, and related paired aspects. Some may want reunion; others may fear what reunion would erase.
 
-## Mave's Warning
+## Maeve's Warning
 
-[Juan](../people/juan.md) visits the library and finds [Mave](../people/mave.md), now only [Mave](../people/mave.md) rather than goddess, headmistress, or divine mistress of knowledge.
+[Juan](../people/juan.md) visits the library and finds [Maeve](../people/mave.md), now only [Maeve](../people/mave.md) rather than goddess, headmistress, or divine mistress of knowledge.
 
 She recognizes that the party carries the last of her divine power after the divine soup. She warns [Juan](../people/juan.md) that luck without knowledge is dangerous and that bargains always take something. She also confirms that many powerful observers already know he is [Fey](../concepts/fey.md) because divine and celestial senses reveal what disguises do not.
 
-[Mave](../people/mave.md) tells him the school may close now that its old protectors and leaders are gone or diminished. She leaves him to the library and says he may take something from the collection.
+[Maeve](../people/mave.md) tells him the school may close now that its old protectors and leaders are gone or diminished. She leaves him to the library and says he may take something from the collection.
 
 ## Memorial and Politics
 
@@ -97,7 +97,7 @@ The session ends with [Vylra](../people/vylra.md) and [Juan](../people/juan.md) 
 - [Elisia](../people/elisia.md)
 - [Julara](../people/julara.md)
 - [Lady Seraphina Blackthorn](../people/lady-seraphina-blackthorn.md)
-- [Mave](../people/mave.md)
+- [Maeve](../people/mave.md)
 - [Morus the Unchained](../people/morus-the-unchained.md)
 - [Phlukk](../people/phlukk.md)
 - [Vaelith the Whisperer](../people/vaelith-the-whisperer.md)

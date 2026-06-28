@@ -17,7 +17,7 @@ By morning, the group learns that [Thornwall](../places/thornwall.md)'s desecrat
 - [Greg](../people/greg-p-smith.md) receives a mind-to-mind call from [Jinx](../people/jinx.md), who apologizes in her own warped way and explains that his "three questions a day" library access came from an illicit magical tap she built and tested through him.
 - [Jinx](../people/jinx.md) also warns that [Wendell](../people/wendell.md) has access to the library's main line, making information control and question choice much more dangerous.
 - During the night, multiple party members are trapped in black dream constructs or magical nightmare spaces. These include featureless voids, pursuit by [Wendell](../people/wendell.md) imagery, and mind-prison effects severe enough to force emergency magical intervention.
-- One member escapes by banishing himself back to the [Citadel](../places/radiant-citadel.md) and briefly encounters [Mave](../people/mave.md), who confirms the others will wake and helps protect him from the dream assault's aftermath.
+- One member escapes by banishing himself back to the [Citadel](../places/radiant-citadel.md) and briefly encounters [Maeve](../people/mave.md), who confirms the others will wake and helps protect him from the dream assault's aftermath.
 - The next morning, goblinoid scouts from the 447th Aerial Division of the Go Folk Alliance confront the party at the shrine entrance. After a tense exchange, it becomes clear they were also hunting [Wendell](../people/wendell.md)'s lieutenant and that they are enemies of the [Black Vipers](../factions/black-vipers.md) rather than allies of [Wendell](../people/wendell.md).
 - The party returns to [Thornwall](../places/thornwall.md)'s desecrated church and begins exploring the newly formed dungeon beneath it.
 - The dungeon is packed with magical and mechanical traps, treasure caches, alarm systems, and a magma-fed chamber that actively sucks magical energy into a deeper shaft.
@@ -27,7 +27,7 @@ By morning, the group learns that [Thornwall](../places/thornwall.md)'s desecrat
 ## Important People
 
 - [Greg](../people/greg-p-smith.md)
-- [Mave](../people/mave.md)
+- [Maeve](../people/mave.md)
 - [Belle](../people/belle.md)
 - [Wendell](../people/wendell.md)
 - [Charlie](../people/charlie.md)

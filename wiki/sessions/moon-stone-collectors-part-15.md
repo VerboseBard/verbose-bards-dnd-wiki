@@ -38,7 +38,7 @@ On the road, [Paul](../people/paul.md) asks [Julara](../people/julara.md) about 
 
 [Belle](../people/belle.md) is also a goddess and her own avatar, allowing her to remain active in the Mortal lands despite the [Divine Gate](../concepts/divine-gate.md). [Julara](../people/julara.md) warns that trying to solve [Paul](../people/paul.md)'s problem by provoking one of [Belle](../people/belle.md)'s enemies would be extremely dangerous.
 
-She also suggests that [Mave](../people/mave.md) may be one of the few beings who could speak meaningfully on [Paul](../people/paul.md)'s behalf, though [Mave](../people/mave.md) has left the [Citadel](../places/radiant-citadel.md).
+She also suggests that [Maeve](../people/mave.md) may be one of the few beings who could speak meaningfully on [Paul](../people/paul.md)'s behalf, though [Maeve](../people/mave.md) has left the [Citadel](../places/radiant-citadel.md).
 
 ## Hydra Intelligence
 

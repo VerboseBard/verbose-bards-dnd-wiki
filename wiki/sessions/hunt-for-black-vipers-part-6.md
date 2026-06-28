@@ -14,7 +14,7 @@ Back on [Saharun](../places/saharun.md), the party secures [Charlie](../people/c
 
 Across from [Eve](../people/eve.md) is [Caden](../people/caden-baba-yaga.md), also known to the githyanki as [Baba Yaga](../people/caden-baba-yaga.md). He tells [Eve](../people/eve.md) that [Lucius](../people/lucius.md) used Mulligan's hammer and divine relic power to create the prison. Mortals who fall in usually die, but [Eve](../people/eve.md) survives because of her divine nature.
 
-Over weeks of prison-time, [Eve](../people/eve.md) reads him her signed romance book and he tells her a much older love story: his life as a shapeshifter, his love for [Alen](../people/alen.md), the hunger within him, the dragon cores, [Mave](../people/mave.md)'s past, his war on the githyanki, and his hatred of Mulligan's betrayal.
+Over weeks of prison-time, [Eve](../people/eve.md) reads him her signed romance book and he tells her a much older love story: his life as a shapeshifter, his love for [Alen](../people/alen.md), the hunger within him, the dragon cores, [Maeve](../people/mave.md)'s past, his war on the githyanki, and his hatred of Mulligan's betrayal.
 
 ## Caden's Escape Gift
 

@@ -18,7 +18,7 @@ Belle is Lilith's birth mother and surrogate, but Alen is the intended mother an
 
 Lilith has a protective aura that can block some magical sight around herself. Her toy, a doll resembling [Gregario / Shaq](gregario-shaq.md), is a divine artifact containing divine sand. The [Black Vipers](../factions/black-vipers.md) use the doll as a tracking point until the group replaces its contents with anti-divination protection.
 
-After the bridge attack, Lilith rests under [Mave](mave.md)'s care inside [Junvara's Magnificent Mansion](../places/junvaras-magnificent-mansion.md). [Mave](mave.md) attempts to feed her power and stabilize her diminished condition.
+After the bridge attack, Lilith rests under [Maeve](mave.md)'s care inside [Junvara's Magnificent Mansion](../places/junvaras-magnificent-mansion.md). [Maeve](mave.md) attempts to feed her power and stabilize her diminished condition.
 
 [Annabelle](annabelle.md) later moves Lilith to [Constance and Zuk's Dragon-Bonding School](../places/constance-and-zuks-dragon-bonding-school.md), judging that the party's defenses are not enough.
 

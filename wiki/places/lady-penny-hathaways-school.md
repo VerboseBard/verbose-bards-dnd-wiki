@@ -6,7 +6,7 @@ Lady Penny Hathaway's School is the major school, library, and portal-support in
 
 The school combines dormitories, library spaces, magical workrooms, kitchens, portal expertise, and protected crisis space. Under normal conditions it functions as a place of training, study, and controlled access to world-travel systems.
 
-Its best-known staff include [Lady Penny Hathaway](../people/lady-penny-hathaway.md), [Professor Hazard](../people/professor-hazard.md), and later the diminished but still influential [Mave](../people/mave.md).
+Its best-known staff include [Lady Penny Hathaway](../people/lady-penny-hathaway.md), [Professor Hazard](../people/professor-hazard.md), and later the diminished but still influential [Maeve, the Schoolmistress](../people/mave.md).
 
 ## War of the Gods Role
 

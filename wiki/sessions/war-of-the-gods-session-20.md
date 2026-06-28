@@ -21,7 +21,7 @@ By the end of the session, however, the tactical victory is overshadowed by a qu
 - Rather than channel that power into [Straka](../people/straka.md) or any other higher power, [Mullin](../people/mullin.md) chooses to keep it for himself and nearly dies doing so.
 - He survives only barely, loses a massive amount of vitality in the process, and then fully rejects the divine connection still hanging on him by throwing [Straka](../people/straka.md)'s symbol from the ship.
 - [Charlie](../people/charlie.md) helps stabilize him afterward, gives him a heavy weapon of her own design, and frames the whole event as the start of a more self-directed life rather than another bargain-driven one.
-- Back at the [Citadel](../places/radiant-citadel.md), [Junvara](../people/junvara.md) and [Greg](../people/greg-p-smith.md) use [Mave](../people/mave.md)'s directions to reach [Veil, Guardian of the Citadel](../people/veil-guardian-of-the-citadel.md) in the hidden control center inside the crystal itself.
+- Back at the [Citadel](../places/radiant-citadel.md), [Junvara](../people/junvara.md) and [Greg](../people/greg-p-smith.md) use [Maeve](../people/mave.md)'s directions to reach [Veil, Guardian of the Citadel](../people/veil-guardian-of-the-citadel.md) in the hidden control center inside the crystal itself.
 - [Veil](../people/veil-guardian-of-the-citadel.md) demonstrates just how total his [Citadel](../places/radiant-citadel.md) monitoring is, reviews the party's movements, gives them future access, and openly positions himself as a non-divine but deeply informed player willing to work with them.
 - [Jinx](../people/jinx.md) is present in that same hidden chamber, exhausted from long-running work, while [Veil](../people/veil-guardian-of-the-citadel.md) confirms broader concerns about [Alen](../people/alen.md), the crystals, and the limits of trusting even gods the party currently prefers.
 - [Greg](../people/greg-p-smith.md) also receives his old chassis back through a bizarre automated delivery, restoring a piece of his earlier work and history.
@@ -32,7 +32,7 @@ By the end of the session, however, the tactical victory is overshadowed by a qu
 - They deploy the first anchors successfully, open the gates, and quickly prove how much stronger the post-session-19 group has become by tearing through an undead dragon and its support almost immediately.
 - Constance reunites briefly with Zuk's mother and with her brother [Lucian Coggeshall](../people/lucian-coggeshall.md), whose personality remains exactly as abrasive as expected even under siege.
 - While the others focus on the battle and the reinforcement gates, [Experiment 69](../people/experiment-69.md) privately receives the final dragon core from the fallen undead dragon and consumes it.
-- That act pulls him completely into [Belle](../people/belle.md)'s private space, where [Belle](../people/belle.md), [Alen](../people/alen.md), [Mave](../people/mave.md), [Dione](../people/dione.md), and [Mave](../people/mave.md)'s mother all appear as overlapping divine stakeholders in what is about to happen.
+- That act pulls him completely into [Belle](../people/belle.md)'s private space, where [Belle](../people/belle.md), [Alen](../people/alen.md), [Maeve, the Schoolmistress](../people/mave.md), [Dione](../people/dione.md), and [Maeve, Queen of the Fae](../people/maeve.md) all appear as overlapping divine stakeholders in what is about to happen.
 - [Belle](../people/belle.md) reveals that Experiment 69's entire growth path has been part of her plan: she has been grooming him to accept death and consumption as transformation rather than loss.
 - [Alen](../people/alen.md)'s part of the bargain resolves through Mummy. Mummy is bitten by Alen, transformed into a vampire, killed, magically prepared, and consumed by Belle so Belle can birth [Lilith](../people/lilith.md) as the vampire-line child promised to Alen.
 - The session ends with [Belle](../people/belle.md) giving birth to twins, effectively removing Experiment 69 from the battlefield, creating [Eve](../people/eve.md) from Experiment 69's side of the working, and giving Lilith to Alen.
@@ -46,7 +46,7 @@ By the end of the session, however, the tactical victory is overshadowed by a qu
 - [Charlie](../people/charlie.md)
 - [Veil, Guardian of the Citadel](../people/veil-guardian-of-the-citadel.md)
 - [Belle](../people/belle.md)
-- [Mave](../people/mave.md)
+- [Maeve](../people/mave.md)
 - [Lucian Coggeshall](../people/lucian-coggeshall.md)
 - [Lady Penny Hathaway](../people/lady-penny-hathaway.md)
 

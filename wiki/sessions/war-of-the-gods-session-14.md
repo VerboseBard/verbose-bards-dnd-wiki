@@ -4,11 +4,11 @@ This session turns the campaign fully toward undead-country war.
 
 ## Overview
 
-After a surreal chapel scene involving [Straka](../people/straka.md), [Belle](../people/belle.md), and [Mave](../people/mave.md)'s fused presence, the party is teleported into the elven lands. What they find is no longer rumor or distant fallout. It is a road of bones, failed sanctuary, and open undead pressure.
+After a surreal chapel scene involving [Straka](../people/straka.md), [Belle](../people/belle.md), and [Maeve](../people/mave.md)'s fused presence, the party is teleported into the elven lands. What they find is no longer rumor or distant fallout. It is a road of bones, failed sanctuary, and open undead pressure.
 
 ## Key Events
 
-- In the chapel, the party interacts with manifestations of [Straka](../people/straka.md), [Belle](../people/belle.md), and a chaotic [Mave](../people/mave.md) / [Bridget](../people/bridget.md) fusion.
+- In the chapel, the party interacts with manifestations of [Straka](../people/straka.md), [Belle](../people/belle.md), and a chaotic [Maeve](../people/mave.md) / [Bridget](../people/bridget.md) fusion.
 - [Kestrel](../people/kestrel.md) continues work on his song under growing sanity pressure.
 - The party is teleported to a temple in the elven lands.
 - Outside the temple, the region is covered in bones and undead.
@@ -19,7 +19,7 @@ After a surreal chapel scene involving [Straka](../people/straka.md), [Belle](..
 ## Important People
 
 - [Belle](../people/belle.md)
-- [Mave](../people/mave.md)
+- [Maeve](../people/mave.md)
 - [Constance and Zuk](../people/constance-l-coggeshall.md)
 
 ## Important Places

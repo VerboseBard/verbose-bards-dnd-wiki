@@ -6,9 +6,9 @@ Part 5 brings the [Moon Stone Collectors](../factions/moon-stone-collectors.md) 
 
 In an Elsewhere, [Junvara](../people/junvara.md) and [Jarth](../people/jarth.md) enter [Wendell's Sixth-Layer Fortress](../places/wendells-sixth-layer-fortress.md) to complete a grim exchange.
 
-[Wendell](../people/wendell.md) has taken control of the sixth layer of Hell. He has [Mave](../people/mave.md) suspended and drained of divine blood, with other captives nearby. The bargain is honored, but [Wendell](../people/wendell.md) makes clear that his old leash is gone and that he no longer intends to submit to anyone's limits.
+[Wendell](../people/wendell.md) has taken control of the sixth layer of Hell. He has [Maeve](../people/mave.md) suspended and drained of divine blood, with other captives nearby. The bargain is honored, but [Wendell](../people/wendell.md) makes clear that his old leash is gone and that he no longer intends to submit to anyone's limits.
 
-[Mave](../people/mave.md) is released in a dying state, and [Wendell](../people/wendell.md) also allows a captive goblin to leave.
+[Maeve](../people/mave.md) is released in a dying state, and [Wendell](../people/wendell.md) also allows a captive goblin to leave.
 
 ## Morning at the School
 
@@ -40,7 +40,7 @@ The party defeats the defenders and holds the room while the eggs are evacuated.
 
 ## Juan's Return
 
-The released goblin from [Wendell](../people/wendell.md)'s fortress is revealed to be [Juan](../people/juan.md) restored to himself. [Mave](../people/mave.md)'s final blessing leaves him with a [Divine Soul Coin](../items/divine-soul-coin.md), a fading source of knowledge tied to the goddess of knowledge, art, and beauty.
+The released goblin from [Wendell](../people/wendell.md)'s fortress is revealed to be [Juan](../people/juan.md) restored to himself. [Maeve](../people/mave.md)'s final blessing leaves him with a [Divine Soul Coin](../items/divine-soul-coin.md), a fading source of knowledge tied to the goddess of knowledge, art, and beauty.
 
 [Juan](../people/juan.md) uses the coin to read the fortress's history. The ruin was once a dwarven stronghold, then fell into cannibalistic, demonic degeneration. [Wendell](../people/wendell.md) later arrived, declared himself a god, and bound the surviving dwarves into his service.
 
@@ -63,7 +63,7 @@ Another Elsewhere follows [Gregario / Shaq](../people/gregario-shaq.md) as he wa
 - [Jarth](../people/jarth.md)
 - [Junvara](../people/junvara.md)
 - [Kendrick](../people/kendrick.md)
-- [Mave](../people/mave.md)
+- [Maeve](../people/mave.md)
 - [Nicole](../people/nicole.md)
 - [Phlukk](../people/phlukk.md)
 - [Tony](../people/tony.md)

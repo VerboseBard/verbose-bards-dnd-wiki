@@ -4,12 +4,12 @@ This session pushes the campaign from school intrigue into open council-level cr
 
 ## Overview
 
-The first half of the session is beautiful and almost calm: a musical duet, [Mave](../people/mave.md)'s approval, and [Kestrel](../people/kestrel.md)'s growth as a performer. The second half breaks that calm completely through a formal council, exposed ritual memories, [Hawk](../people/hawk.md)'s appearance in testimony, and a fire attack that proves political escalation is already underway.
+The first half of the session is beautiful and almost calm: a musical duet, [Maeve](../people/mave.md)'s approval, and [Kestrel](../people/kestrel.md)'s growth as a performer. The second half breaks that calm completely through a formal council, exposed ritual memories, [Hawk](../people/hawk.md)'s appearance in testimony, and a fire attack that proves political escalation is already underway.
 
 ## Key Events
 
 - [Kestrel](../people/kestrel.md) meets [Nicole](../people/nicole.md) in a powerful shared performance scene.
-- [Mave](../people/mave.md) and Arthur Sarlamin witness the duet and mark it as a meaningful act of worship through music.
+- [Maeve](../people/mave.md) and Arthur Sarlamin witness the duet and mark it as a meaningful act of worship through music.
 - Dual-wield training continues.
 - A major council convenes at the Emerald Palace.
 - [Aylinn](../people/aylinn.md)'s memories are displayed as evidence.
@@ -23,7 +23,7 @@ The first half of the session is beautiful and almost calm: a musical duet, [Mav
 
 ## Important People
 
-- [Mave](../people/mave.md)
+- [Maeve](../people/mave.md)
 - [Hawk](../people/hawk.md)
 - [Jinx](../people/jinx.md)
 - [Greg](../people/greg-p-smith.md)

@@ -11,12 +11,12 @@ It is also the session where [Mullin](../people/mullin.md)'s unstable path final
 ## Key Events
 
 - The session opens with the party still dealing with the consequences of Session 22, now back at the school on the [Radiant Citadel](../places/radiant-citadel.md) and trying to decide what to do next.
-- [Mave](../people/mave.md) privately confronts [Mullin](../people/mullin.md) about the bargain he made with [Wendell](../people/wendell.md) and makes clear that the school cannot tolerate what he has become tied to.
+- [Maeve](../people/mave.md) privately confronts [Mullin](../people/mullin.md) about the bargain he made with [Wendell](../people/wendell.md) and makes clear that the school cannot tolerate what he has become tied to.
 - She also reveals more of [Mullin](../people/mullin.md)'s buried past through the old sailor-king song tied to his prior life, the stolen queen, and the legend of his return.
 - [Mullin](../people/mullin.md) is effectively excommunicated from the school grounds and escorted out by [Citadel](../places/radiant-citadel.md) staff, while the rest of the party follows in confusion and frustration rather than simply abandoning him.
 - [Junvara](../people/junvara.md) quickly deduces that the real source of [Mullin](../people/mullin.md)'s current behavioral distortion is likely the crown [Wendell](../people/wendell.md) gave him, not just the oath itself.
 - [Greg](../people/greg-p-smith.md) and the others confirm that something is actively pushing [Mullin](../people/mullin.md)'s decisions rather than merely influencing his mood.
-- While this fallout is still playing out, Constance and Zuk are drawn to the chapel, where [Mave](../people/mave.md) offers comfort, blessings, and a warning that things are about to get much worse.
+- While this fallout is still playing out, Constance and Zuk are drawn to the chapel, where [Maeve](../people/mave.md) offers comfort, blessings, and a warning that things are about to get much worse.
 - At the same time, [Jinx](../people/jinx.md) contacts [Greg](../people/greg-p-smith.md) with an urgent message: mind flayers have become active around the [Citadel](../places/radiant-citadel.md), she has been paid not to interfere directly for a short window, and she pushes a major systems update into [Greg](../people/greg-p-smith.md)'s body.
 - That update gives [Greg](../people/greg-p-smith.md) full gate-construction knowledge inside the current reality and a failsafe tied to his spare chassis, dramatically increasing how dangerous and useful he is during the siege.
 - [Jinx](../people/jinx.md) also warns that a specialist from SB Solutions is being dropped into the [Citadel](../places/radiant-citadel.md) to help deal with the mind flayer problem.
@@ -41,7 +41,7 @@ It is also the session where [Mullin](../people/mullin.md)'s unstable path final
 - [Gregario / Shaq](../people/gregario-shaq.md)
 - [Jinx](../people/jinx.md)
 - [Veil, Guardian of the Citadel](../people/veil-guardian-of-the-citadel.md)
-- [Mave](../people/mave.md)
+- [Maeve](../people/mave.md)
 - [Alen](../people/alen.md)
 - [Lucius](../people/lucius.md)
 

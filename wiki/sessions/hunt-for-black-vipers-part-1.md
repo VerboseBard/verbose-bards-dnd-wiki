@@ -20,7 +20,7 @@ The group learns the Vipers have fractured into cells, some connected to old ser
 - The group replaces the divine sand in [Lilith](../people/lilith.md)'s doll with anti-divination protection, then uses the sand as bait.
 - A bridge fight breaks out against cobra-marked Vipers. The group defeats them, captures one soul, and learns the attackers may be a splinter cult or associated cell.
 - The group relocates to [Caravan's Rest](../places/caravans-rest.md), then into [Junvara](../people/junvara.md)'s [Magnificent Mansion](../places/junvaras-magnificent-mansion.md).
-- [Mave](../people/mave.md) arrives in a new body and explains the deeper cult connection to [Rax'al Karath / Rexel Kar](../people/rexel-kar.md).
+- [Maeve](../people/mave.md) arrives in a new body and explains the deeper cult connection to [Rax'al Karath / Rexel Kar](../people/rexel-kar.md).
 
 ## Important People
 
@@ -31,7 +31,7 @@ The group learns the Vipers have fractured into cells, some connected to old ser
 - [Vis / Jarvice](../people/vis-jarvice.md)
 - [Greg](../people/greg-p-smith.md)
 - [Belle](../people/belle.md)
-- [Mave](../people/mave.md)
+- [Maeve](../people/mave.md)
 - [Captain West](../people/captain-west.md)
 - [Kestrel](../people/kestrel.md)
 - [Krol](../people/krol.md)

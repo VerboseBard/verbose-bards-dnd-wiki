@@ -68,7 +68,7 @@ In [War of the Gods, Session 24](../sessions/war-of-the-gods-session-24.md), Gre
 
 ## Jimbo Ritual Warning
 
-Before the first assault on [Jimbo's Soul Ritual](../concepts/jimbo-soul-ritual.md), [Mave](mave.md) shares tea with Gregario and warns that failed extraction work could destroy aspects of magic. She asks him not to assist directly in the soul rescue, but to remain outside the working and be ready to stabilize magic if the ritualists lose control.
+Before the first assault on [Jimbo's Soul Ritual](../concepts/jimbo-soul-ritual.md), [Maeve](mave.md) shares tea with Gregario and warns that failed extraction work could destroy aspects of magic. She asks him not to assist directly in the soul rescue, but to remain outside the working and be ready to stabilize magic if the ritualists lose control.
 
 Gregario joins the first-wave assault at the [Desert Well Ritual Site](../places/desert-well-ritual-site.md), using speed, stunning strikes, and radiant force to break through the defenders while holding back from the soul exchange itself.
 

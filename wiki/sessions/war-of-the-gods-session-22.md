@@ -6,7 +6,7 @@ This side session continues directly from [War of the Gods, Session 21](war-of-t
 
 Session 22 is the fallout session where several mysteries stop being abstract. The party finally sees the social and personal damage of [Wendell](../people/wendell.md)'s campaign inside Constance's homeland, gets a much clearer look at how the new ley-line gate structure works, and begins uncovering how many overlapping schemes are driving the war besides [Wendell](../people/wendell.md)'s own.
 
-It is also the session where [Mullin](../people/mullin.md)'s story sharply changes direction. His break from the gods no longer looks like simple independence. By the end of the session, he has a private binding oath with [Wendell](../people/wendell.md), fresh warnings from [Mave](../people/mave.md), and growing evidence that the legend of the Commodore may itself be a source of power.
+It is also the session where [Mullin](../people/mullin.md)'s story sharply changes direction. His break from the gods no longer looks like simple independence. By the end of the session, he has a private binding oath with [Wendell](../people/wendell.md), fresh warnings from [Maeve](../people/mave.md), and growing evidence that the legend of the Commodore may itself be a source of power.
 
 ## Key Events
 
@@ -34,9 +34,9 @@ It is also the session where [Mullin](../people/mullin.md)'s story sharply chang
 - Back at the hatchery, the party finds Constance's mother's body and the full scale of the loss, but the session does not stay entirely in despair.
 - A new ally, [Jimbo](../people/jimbo.md), helps resurrect the five fallen dragons and also brings Constance's mother back, dramatically improving Constance's standing with the surviving dragons even while much of her blood family remains hostile.
 - When the party returns to the [Radiant Citadel](../places/radiant-citadel.md), Constance's father loudly repeats the hateful prophecy behind her, making clear that reconciliation with her family is not coming soon.
-- During the return fallout, [Mave](../people/mave.md) later confronts [Mullin](../people/mullin.md) privately and reveals that [Straka](../people/straka.md) never truly brought him back.
+- During the return fallout, [Maeve](../people/mave.md) later confronts [Mullin](../people/mullin.md) privately and reveals that [Straka](../people/straka.md) never truly brought him back.
 - Instead, the belief and legend in the Commodore's return appear to be feeding him power directly, placing him on a path that could approach godhood or something dangerously adjacent to it.
-- [Mave](../people/mave.md) also makes clear that [Belle](../people/belle.md) has effectively stepped off the main board after completing her plan with [Experiment 69](../people/experiment-69.md), even if her influence and consequences remain.
+- [Maeve](../people/mave.md) also makes clear that [Belle](../people/belle.md) has effectively stepped off the main board after completing her plan with [Experiment 69](../people/experiment-69.md), even if her influence and consequences remain.
 - The next morning, [Junvara](../people/junvara.md) asks the library for the record of [Wendell](../people/wendell.md)'s own research questions.
 - That search history shows [Wendell](../people/wendell.md) has been repeatedly asking about repairing the [Divine Gate](../concepts/divine-gate.md), recreating ley lines, creating dungeon cores, tracking [Alen](../people/alen.md), and monitoring whether [Lucius](../people/lucius.md)'s timetable is still on pace.
 - The party meets to compare notes and comes away with a more dangerous picture than before: [Wendell](../people/wendell.md) may be improvising, but he is not acting alone, [Lucius](../people/lucius.md)'s role is still unclear, and several factions may be exploiting the same catastrophe at once.
@@ -49,7 +49,7 @@ It is also the session where [Mullin](../people/mullin.md)'s story sharply chang
 - [Rose Qinlee](../people/rose-qinlee.md)
 - [Gregario / Shaq](../people/gregario-shaq.md)
 - [Alen](../people/alen.md)
-- [Mave](../people/mave.md)
+- [Maeve](../people/mave.md)
 - [Lucian Coggeshall](../people/lucian-coggeshall.md)
 - [Cornelius Coggeshall](../people/cornelius-coggeshall.md)
 - [Cousin Lucy](../people/cousin-lucy.md)

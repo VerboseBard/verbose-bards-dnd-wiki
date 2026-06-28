@@ -12,7 +12,7 @@ After a divine artifact fell from the heavens and shattered through the plains, 
 
 In the [Council of Gods of the Fifth Age](../concepts/council-of-gods-of-the-fifth-age.md), Lucius is listed among the major powers even though he never fully ascended.
 
-Lucius killed [Bridget](bridget.md), the old goddess of music, art, and beauty. That death is one of the key succession points behind [Mave](mave.md)'s later rise into [Bridget](bridget.md)'s divine place.
+Lucius killed [Bridget](bridget.md), the old goddess of music, art, and beauty. That death is one of the key succession points behind [Maeve](mave.md)'s later rise into [Bridget](bridget.md)'s divine place.
 
 ## Hidden Divinity
 
@@ -82,12 +82,12 @@ Lucius returns through the mantle of [Rexel Kar](rexel-kar.md) and fights the pa
 
 At the school, Lucius tries to exploit the children as a divine shield while claiming he means them no harm. [Annabelle](annabelle.md) refuses his bargain and teleports the party to him.
 
-[Mave](mave.md) then appears through a tear in reality and drives her reforged god-killing blades into Lucius's back, ending him at last.
+[Maeve](mave.md) then appears through a tear in reality and drives her reforged god-killing blades into Lucius's back, ending him at last.
 
 ## Related
 
 - [Bridget](bridget.md)
-- [Mave](mave.md)
+- [Maeve](mave.md)
 - [The Breaking](../concepts/the-breaking.md)
 - [War of the Gods / New Beginning Campaign](../campaign/war-of-the-gods.md)
 - [Moon Stone Collectors](../campaign/moonstone-collectors.md)

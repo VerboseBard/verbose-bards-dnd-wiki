@@ -10,7 +10,7 @@ The lights resemble anti-divination crystals, making communication or observatio
 
 ## Campaign Role
 
-The group retreats into the mansion from [Caravan's Rest](caravans-rest.md) to speak privately with [Mave](../people/mave.md), protect [Lilith](../people/lilith.md), and plan the next stage of the hunt.
+The group retreats into the mansion from [Caravan's Rest](caravans-rest.md) to speak privately with [Maeve](../people/mave.md), protect [Lilith](../people/lilith.md), and plan the next stage of the hunt.
 
 ## Related
 

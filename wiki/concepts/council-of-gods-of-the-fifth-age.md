@@ -4,13 +4,13 @@ The Council of Gods of the Fifth Age is the main divine political structure pres
 
 ## Divine Structure
 
-[Maeve](../people/maeve.md), [Bridget](../people/bridget.md), and [Mave](../people/mave.md) are separate divine figures:
+[Maeve, Queen of the Fae](../people/maeve.md), [Bridget](../people/bridget.md), and [Maeve, the Schoolmistress](../people/mave.md) are separate divine figures:
 
-- [Maeve](../people/maeve.md) was the goddess of magic, formerly fae, and the most powerful member of the pantheon.
+- [Maeve, Queen of the Fae](../people/maeve.md) was the goddess of magic, formerly fae, and the most powerful member of the pantheon.
 - [Bridget](../people/bridget.md) was the goddess of music, art, and beauty, and roughly third in power.
-- [Mave](../people/mave.md), the school-running figure seen in later Fifth- and Sixth-Age campaign material, was a different person from [Maeve](../people/maeve.md). After [Bridget](../people/bridget.md) was killed by [Lucius](../people/lucius.md), [Mave](../people/mave.md) rose into [Bridget](../people/bridget.md)'s place.
+- [Maeve, the Schoolmistress](../people/mave.md), the half-elven paladin and school-running figure seen in later Fifth- and Sixth-Age campaign material, was a different person from [Maeve, Queen of the Fae](../people/maeve.md). After [Bridget](../people/bridget.md) was killed by [Lucius](../people/lucius.md), [Maeve, the Schoolmistress](../people/mave.md) rose into [Bridget](../people/bridget.md)'s place.
 
-[Maeve](../people/maeve.md) was also [Belle](../people/belle.md)'s mother and had been a queen of the fae before becoming a goddess.
+[Maeve, Queen of the Fae](../people/maeve.md) was also [Belle](../people/belle.md)'s mother and had ruled both the Summer Court and Winter Court before becoming a goddess.
 
 ## Assemblies
 
@@ -23,7 +23,7 @@ Only part of the membership list survives in the note.
 
 ## Named Figures
 
-- [Maeve](../people/maeve.md), goddess of magic, formerly fae, most powerful of the pantheon
+- [Maeve, Queen of the Fae](../people/maeve.md), goddess of magic, formerly fae, most powerful of the pantheon
 - [Dione](../people/dione.md) and [Savras](../people/savras.md), gods of foreknowledge and prophecy, collectively second in power, with the Seekers named as their children
 - [Bridget](../people/bridget.md), goddess of music, art, and beauty, third in power
 - [Belle](../people/belle.md), goddess of fire and mischief, fourth in power
@@ -45,6 +45,6 @@ The council belongs to the same broad era that later collapses into the [War of 
 - [War of the Gods](war-of-the-gods.md)
 - [Opaal](../places/opaal.md)
 - [Belle](../people/belle.md)
-- [Maeve](../people/maeve.md)
+- [Maeve, Queen of the Fae](../people/maeve.md)
 - [Bridget](../people/bridget.md)
-- [Mave](../people/mave.md)
+- [Maeve, the Schoolmistress](../people/mave.md)

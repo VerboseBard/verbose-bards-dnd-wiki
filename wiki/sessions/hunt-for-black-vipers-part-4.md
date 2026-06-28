@@ -22,7 +22,7 @@ Several items are upgraded:
 
 ## Eve and Lilith
 
-Back at the table with pineapple and pizza, [Eve](../people/eve.md) processes the memory cubes [Mave](../people/mave.md) gave her. She chooses not to share the full horror of their origin with [Lilith](../people/lilith.md), instead telling her that they have lived before, will likely live again, and are their mother's daughters.
+Back at the table with pineapple and pizza, [Eve](../people/eve.md) processes the memory cubes [Maeve](../people/mave.md) gave her. She chooses not to share the full horror of their origin with [Lilith](../people/lilith.md), instead telling her that they have lived before, will likely live again, and are their mother's daughters.
 
 Zuk later brings [Lilith](../people/lilith.md) a dragon egg. [Lilith](../people/lilith.md) bonds with the dragon within, eventually named Gth, and the egg changes from pale white to black as [Lilith](../people/lilith.md)'s death mantle settles into place.
 

@@ -11,7 +11,7 @@ Wendell was one of [Lucius](lucius.md)'s most trusted agents.
 
 ## Role
 
-Wendell orchestrated the fall of [Mave](mave.md), goddess of knowledge, art, and beauty. This brought the wrath of [Belle](belle.md) down upon him.
+Wendell orchestrated the fall of [Maeve](mave.md), goddess of knowledge, art, and beauty. This brought the wrath of [Belle](belle.md) down upon him.
 
 In the extracted [War of the Gods, Session 17](../sessions/war-of-the-gods-session-17.md), [Greg](greg-p-smith.md)'s library-assisted analysis frames Wendell's broader plan more clearly. He is not just gathering armies and desecrating towns for conquest. He appears to be trying to lower the world's magical density until the gods can no longer remain directly on the mortal plane.
 
@@ -25,7 +25,7 @@ In [War of the Gods, Session 23](../sessions/war-of-the-gods-session-23.md) and 
 
 By the time of [Moon Stone Collectors, Part 5](../sessions/moon-stone-collectors-part-5.md), Wendell controls the sixth layer of Hell from [Wendell's Sixth-Layer Fortress](../places/wendells-sixth-layer-fortress.md).
 
-He honors a bargain for [Mave](mave.md)'s release but declares that his old leash and limits are gone. He has drained [Mave](mave.md)'s divine blood and claims a new stage of power beyond the reach of his former jailers.
+He honors a bargain for [Maeve](mave.md)'s release but declares that his old leash and limits are gone. He has drained [Maeve](mave.md)'s divine blood and claims a new stage of power beyond the reach of his former jailers.
 
 Wendell also uses the [Dwarven Egg Fortress](../places/dwarven-egg-fortress.md) as a servant stronghold. [Juan](juan.md)'s [Divine Soul Coin](../items/divine-soul-coin.md) reveals that Wendell entered the ruin, declared himself a god, and bound its corrupted dwarves into his service.
 
@@ -35,9 +35,9 @@ Wendell also uses the [Dwarven Egg Fortress](../places/dwarven-egg-fortress.md) 
 
 ## Belle's Punishment
 
-During the [Moon Stone Collectors](../factions/moon-stone-collectors.md) Hell assault, [Belle](belle.md) attacks Wendell's Black Keep directly. Wendell believes [Belle](belle.md) is diminished by the completed Gate and uses the god-killing dagger he received in the exchange for [Mave](mave.md).
+During the [Moon Stone Collectors](../factions/moon-stone-collectors.md) Hell assault, [Belle](belle.md) attacks Wendell's Black Keep directly. Wendell believes [Belle](belle.md) is diminished by the completed Gate and uses the god-killing dagger he received in the exchange for [Maeve](mave.md).
 
-[Belle](belle.md) reflects the blade back into him with a mirror device and leaves him alive but maimed in a divine-blood ritual circle. She chooses punishment over death because Wendell did not kill [Mave](mave.md).
+[Belle](belle.md) reflects the blade back into him with a mirror device and leaves him alive but maimed in a divine-blood ritual circle. She chooses punishment over death because Wendell did not kill [Maeve](mave.md).
 
 ## Final Destruction
 
@@ -53,7 +53,7 @@ The session-17 interpretation of Wendell's project is effectively a proto-[Divin
 
 - [Lucius](lucius.md)
 - [Belle](belle.md)
-- [Mave](mave.md)
+- [Maeve](mave.md)
 - [Divine Gate](../concepts/divine-gate.md)
 - [Moon Stone Collectors](../factions/moon-stone-collectors.md)
 - [War of the Gods, Session 17](../sessions/war-of-the-gods-session-17.md)

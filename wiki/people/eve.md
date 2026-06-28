@@ -33,7 +33,7 @@ Jack gives her a teleportation pass pendant so she can reach [Saharun](../places
 
 ## Silverbend
 
-Eve arrives in [Silverbend](../places/silver-bend.md) through [JJ and Jackson's Teleportation Service](../places/jj-and-jacksons-teleportation-service.md). She reunites with [Lilith](lilith.md), meets [Mave](mave.md), and joins the cave assault against the [Cobra Cult of Rax'al Karath](../factions/cobra-cult-of-raxal-karath.md).
+Eve arrives in [Silverbend](../places/silver-bend.md) through [JJ and Jackson's Teleportation Service](../places/jj-and-jacksons-teleportation-service.md). She reunites with [Lilith](lilith.md), meets [Maeve](mave.md), and joins the cave assault against the [Cobra Cult of Rax'al Karath](../factions/cobra-cult-of-raxal-karath.md).
 
 ## Cave Battle
 
@@ -43,7 +43,7 @@ During the fight against the serpent avatar, Eve is swallowed and responds by ca
 
 At [Constance and Zuk's Dragon-Bonding School](../places/constance-and-zuks-dragon-bonding-school.md), Eve reacts with open delight to dragons, famous romance pamphlets about [Constance and Zuk](constance-l-coggeshall.md), and the school full of [Belle](belle.md)-touched children.
 
-[Mave](mave.md) gives Eve memory cubes that restore the harsher truth of her origin and purpose. Eve accepts the memories without breaking, but they leave a mark on her sanity and make her effectively older and more aware.
+[Maeve](mave.md) gives Eve memory cubes that restore the harsher truth of her origin and purpose. Eve accepts the memories without breaking, but they leave a mark on her sanity and make her effectively older and more aware.
 
 At the old mine, Eve absorbs much of the [Motes of Possibility](../items/motes-of-possibility.md) left by the collapsed core. The dust further empowers her and causes [Belle](belle.md)'s laughter to echo after the god-sight-blocking crystal source fails.
 

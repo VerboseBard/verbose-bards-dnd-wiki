@@ -22,7 +22,7 @@ Elsewhere, [Veil, Guardian of the Citadel](../people/veil-guardian-of-the-citade
 
 He walks away from the control panels and ascends from a beloved garden. His light grows beyond the crystal, marking the end of his active guardianship.
 
-[Mave](../people/mave.md), meanwhile, prepares to leave and search for the twins she wants to protect in the new world order.
+[Maeve](../people/mave.md), meanwhile, prepares to leave and search for the twins she wants to protect in the new world order.
 
 ## Return to the School
 
@@ -62,7 +62,7 @@ They reach [Ice Watch](../places/ice-watch.md), then the [Chuckling Gecko](../pl
 - [Elisia](../people/elisia.md)
 - [Julia / Julisia](../people/julia-julisia.md)
 - [Luka](../people/luka.md)
-- [Mave](../people/mave.md)
+- [Maeve](../people/mave.md)
 - [Phlukk](../people/phlukk.md)
 - [Veil, Guardian of the Citadel](../people/veil-guardian-of-the-citadel.md)
 

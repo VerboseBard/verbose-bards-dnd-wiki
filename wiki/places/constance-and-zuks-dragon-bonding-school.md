@@ -30,7 +30,7 @@ During the final battle, [Lucius](../people/lucius.md) uses divine Time Stop and
 
 [Lucius](../people/lucius.md) swears that he means [Annabelle](../people/annabelle.md) and the children no harm, but demands someone in the school who is no longer a child. [Annabelle](../people/annabelle.md) refuses the bargain and teleports the party to the school.
 
-[Mave](../people/mave.md) then appears above [Lucius](../people/lucius.md) and kills him with reforged god-killing blades, making the school the site of [Lucius](../people/lucius.md)'s final fall.
+[Maeve](../people/mave.md) then appears above [Lucius](../people/lucius.md) and kills him with reforged god-killing blades, making the school the site of [Lucius](../people/lucius.md)'s final fall.
 
 ## Related
 

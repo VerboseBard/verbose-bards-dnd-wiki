@@ -10,7 +10,7 @@ The establishment serves travelers, caravans, tea, coffee, breakfast foods, swee
 
 ## Campaign Role
 
-After the bridge fight, the group retreats to Caravan's Rest, receives food and privacy, and meets [Mave](../people/mave.md) when she arrives to take custody of [Lilith](../people/lilith.md).
+After the bridge fight, the group retreats to Caravan's Rest, receives food and privacy, and meets [Maeve](../people/mave.md) when she arrives to take custody of [Lilith](../people/lilith.md).
 
 ## Related
 

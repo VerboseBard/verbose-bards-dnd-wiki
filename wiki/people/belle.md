@@ -4,9 +4,13 @@ Belle is a powerful fae queen / goddess of fire and mischief whose status causes
 
 ## Divine Family
 
-Belle is the daughter of [Maeve](maeve.md), the older goddess of magic and former fae queen.
+Belle is one of the many children of [Maeve, Queen of the Fae](maeve.md), the later goddess of magic.
 
-Belle considered [Bridget](bridget.md), and later [Mave](mave.md) in [Bridget](bridget.md)'s place, more than mere allies in divinity. They were family inside the old council structure, even when politics and succession later complicated that language.
+Maeve ruled both the Summer Court and Winter Court, but her succession culture was brutal. Belle grew up amid lethal Fae politics, rival daughters, sisterly competition, and assassination plots around the question of who might inherit power. That pressure eventually drove Belle out of the Fae realm and into mortal reality during the [Fifth Age](../concepts/fifth-age.md).
+
+The mortal world drained Belle. Its lower magic starved her power and dulled her intelligence, leaving her less fully herself than she had been in the Fae realm. During that period she was hunted by dragonfly assassins from the Fae world. Her companions thought the warnings sounded absurd until it became clear the assassins were real and dangerous.
+
+Belle considered [Bridget](bridget.md), and later [Maeve, the Schoolmistress](mave.md) in [Bridget](bridget.md)'s place, more than mere allies in divinity. They were family inside the old council structure, even when politics and succession later complicated that language.
 
 Belle is also the mother or surrogate-mother figure behind [Eve](eve.md) and [Lilith](lilith.md), but the two births do not mean the same thing. [Experiment 69](experiment-69.md) becomes the foundation for Eve, while [Mummy](mummy.md) becomes the foundation for Lilith after [Alen](alen.md)'s vampire transformation and bargain.
 
@@ -30,7 +34,7 @@ This became one of the accusations against Belle in divine politics. Her enemies
 
 ## Wrath Against Wendell
 
-When [Wendell](wendell.md), one of [Lucius](lucius.md)'s trusted agents, orchestrated [Mave](mave.md)'s fall from divinity, Belle launched an unsanctioned strike. She vented divine fire against [Wendell](wendell.md)'s stronghold, destroying his empire in a single night and erasing the fortress rather than merely conquering it.
+When [Wendell](wendell.md), one of [Lucius](lucius.md)'s trusted agents, orchestrated [Maeve, the Schoolmistress](mave.md)'s fall from divinity, Belle launched an unsanctioned strike. She vented divine fire against [Wendell](wendell.md)'s stronghold, destroying his empire in a single night and erasing the fortress rather than merely conquering it.
 
 Hundreds of thousands of devils were caught in the firestorm. The chaos created an opening for the [Moon Stone Collectors](../factions/moon-stone-collectors.md), who launched a rescue and freed [Gillesa](gillesa.md), a lost sister-fragment of [Julia / Julisia](julia-julisia.md).
 
@@ -82,7 +86,7 @@ Before the first ritual-site assault, Belle meets [Eve](eve.md) in dreams. [Eve]
 
 During [Moon Stone Collectors, Part 6](../sessions/moon-stone-collectors-part-6.md), Belle attacks [Wendell](wendell.md)'s Black Keep in Hell. She tears fire from demons' blood, melts the fortress gates, and confronts [Wendell](wendell.md) in his throne room.
 
-[Wendell](wendell.md) wounds her with the god-killing dagger he received in exchange for [Mave](mave.md), but Belle uses a mirror-like device tied to [Greg](greg-p-smith.md)'s work to reflect the strike back into him. She leaves [Wendell](wendell.md) alive but maimed in a ritual circle of [Mave](mave.md)'s divine blood as punishment for taking what was hers.
+[Wendell](wendell.md) wounds her with the god-killing dagger he received in exchange for [Maeve, the Schoolmistress](mave.md), but Belle uses a mirror-like device tied to [Greg](greg-p-smith.md)'s work to reflect the strike back into him. She leaves [Wendell](wendell.md) alive but maimed in a ritual circle of Maeve's divine blood as punishment for taking what was hers.
 
 ## Fey Courts
 
@@ -96,9 +100,9 @@ Together they mark [Paul](paul.md) with the [Crown of Fools](../items/crown-of-f
 
 - [Conclave of Churches](../factions/conclave-of-churches.md)
 - [Divine Gate](../concepts/divine-gate.md)
-- [Maeve](maeve.md)
+- [Maeve, Queen of the Fae](maeve.md)
 - [Bridget](bridget.md)
-- [Mave](mave.md)
+- [Maeve, the Schoolmistress](mave.md)
 - [Alen](alen.md)
 - [Experiment 69](experiment-69.md)
 - [Mummy](mummy.md)

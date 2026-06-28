@@ -16,7 +16,7 @@ On [Opaal](../places/opaal.md), [Jack Kenway](../people/jack-kenway.md) decides 
 
 [Eve](../people/eve.md) meets [Belle](../people/belle.md) in dreams and chooses to free [Caden / Baba Yaga](../people/caden-baba-yaga.md) before the final push. With [Belle](../people/belle.md)'s power and [Eve](../people/eve.md)'s memory of the [Prison Between Worlds](../places/prison-between-worlds.md), they find the prison, shatter [Caden](../people/caden-baba-yaga.md)'s bars, and release him to join the fight later.
 
-[Mave](../people/mave.md) privately warns [Gregario / Shaq](../people/gregario-shaq.md) that attempts to save [Jimbo](../people/jimbo.md) could damage the fundamentals of magic. She asks him not to participate directly in the extraction attempt, but to stand ready to save magic itself if the ritualists lose control.
+[Maeve](../people/mave.md) privately warns [Gregario / Shaq](../people/gregario-shaq.md) that attempts to save [Jimbo](../people/jimbo.md) could damage the fundamentals of magic. She asks him not to participate directly in the extraction attempt, but to stand ready to save magic itself if the ritualists lose control.
 
 ## Greg's Briefing
 

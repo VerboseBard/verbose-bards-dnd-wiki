@@ -36,7 +36,7 @@ The party later teleports to the school, where thousands of children, dragon egg
 
 ## Memory and Revelation
 
-[Mave](../people/mave.md) gives [Eve](../people/eve.md) memory cubes. [Eve](../people/eve.md) regains the memories of her origin, purpose, and shared history with [Lilith](../people/lilith.md), but [Mave](../people/mave.md) warns her not to give [Lilith](../people/lilith.md) the full truth too quickly. [Lilith](../people/lilith.md) receives only the gentler fish-and-goop memories, while [Eve](../people/eve.md) absorbs the harsher reality of what their mother did and what they were made to be.
+[Maeve](../people/mave.md) gives [Eve](../people/eve.md) memory cubes. [Eve](../people/eve.md) regains the memories of her origin, purpose, and shared history with [Lilith](../people/lilith.md), but [Maeve](../people/mave.md) warns her not to give [Lilith](../people/lilith.md) the full truth too quickly. [Lilith](../people/lilith.md) receives only the gentler fish-and-goop memories, while [Eve](../people/eve.md) absorbs the harsher reality of what their mother did and what they were made to be.
 
 ## Soul Cage Interrogation
 

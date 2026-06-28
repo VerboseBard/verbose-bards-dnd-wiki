@@ -6,7 +6,7 @@ Nicole is a white-haired musician and recurring ally tied to both [Kestrel](kest
 
 Nicole appears in the school-era [War of the Gods / New Beginning Campaign](../campaign/war-of-the-gods.md) before the later Black Viper rescue arc.
 
-In [War of the Gods, Session 9](../sessions/war-of-the-gods-session-9.md), [Kestrel](kestrel.md) meets her in an upstairs performance space where the two of them fall into a long shared musical exchange. [Mave](mave.md) and Nicole's father Arthur are both present by the end of it, turning the moment into something halfway between courtship, worship, and public recognition.
+In [War of the Gods, Session 9](../sessions/war-of-the-gods-session-9.md), [Kestrel](kestrel.md) meets her in an upstairs performance space where the two of them fall into a long shared musical exchange. [Maeve](mave.md) and Nicole's father Arthur are both present by the end of it, turning the moment into something halfway between courtship, worship, and public recognition.
 
 In [War of the Gods, Session 11](../sessions/war-of-the-gods-session-11.md), Nicole is part of the [Radiant Citadel](../places/radiant-citadel.md) pub-crawl social web that keeps the party tied to the city's living culture even while infernal labor disputes and Black Viper pressure are rising around them.
 
@@ -29,7 +29,7 @@ Later [Moon Stone Collectors](../factions/moon-stone-collectors.md) material als
 ## Related
 
 - [Kestrel](kestrel.md)
-- [Mave](mave.md)
+- [Maeve](mave.md)
 - [Shifter's Mask](../items/shifters-mask.md)
 - [Arthur Saran](arthur-saran.md)
 - [Kendrick](kendrick.md)

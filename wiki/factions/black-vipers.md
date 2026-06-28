@@ -1,4 +1,4 @@
-﻿# Black Vipers
+# Black Vipers
 
 The Black Vipers were a sleeper cell deep within the [Citadel](../places/radiant-citadel.md).
 
@@ -16,7 +16,7 @@ In the Vipers' own prelude session, [Dark Star](../people/dark-star.md), [Sir He
 
 After the [Citadel](../places/radiant-citadel.md) and [Hell's Bane](hells-bane-heroes.md) attacks, surviving Viper cells begin falling back to [Saharun](../places/saharun.md). Some operate through underground cells around [Big Tusk](../places/big-tusk.md), while others attack [Lilith](../people/lilith.md) in [Silverbend](../places/silver-bend.md).
 
-The bridge attackers wear cobra necklaces rather than ordinary Viper marks. [Mave](../people/mave.md) explains that these cells are tied to the [Cobra Cult of Rax'al Karath](cobra-cult-of-raxal-karath.md), which treats the Black Vipers as the hands of their god.
+The bridge attackers wear cobra necklaces rather than ordinary Viper marks. [Maeve](../people/mave.md) explains that these cells are tied to the [Cobra Cult of Rax'al Karath](cobra-cult-of-raxal-karath.md), which treats the Black Vipers as the hands of their god.
 
 In the cave hideout near [Silverbend](../places/silver-bend-coastal-cave-hideout.md), the Vipers fight alongside cobra cultists, serpent priests, scorpion guardians, and divine serpent manifestations.
 

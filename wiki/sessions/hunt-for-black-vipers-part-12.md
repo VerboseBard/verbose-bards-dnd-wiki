@@ -60,17 +60,17 @@ At the school, [Annabelle](../people/annabelle.md) confronts [Lucius](../people/
 
 The table's cosmic luck favors the school. [Annabelle](../people/annabelle.md) refuses the bargain. [Lucius](../people/lucius.md)'s present restraint does not erase his past, and she snaps the party directly to the school.
 
-## Mave's Kill
+## Maeve's Kill
 
-As the party arrives, reality tears open above [Lucius](../people/lucius.md). [Mave](../people/mave.md) falls through the opening with her two old blades, now reforged and tipped with god-killing material.
+As the party arrives, reality tears open above [Lucius](../people/lucius.md). [Maeve](../people/mave.md) falls through the opening with her two old blades, now reforged and tipped with god-killing material.
 
 She drives both blades into [Lucius](../people/lucius.md)'s back and ends him.
 
-The final legend remembers the kill as [Mave](../people/mave.md)'s: the fallen goddess who gave up divinity to protect children, striking down the deceiver who killed gods, hunted her nieces, and tried to turn a school into his shield.
+The final legend remembers the kill as [Maeve](../people/mave.md)'s: the fallen goddess who gave up divinity to protect children, striking down the deceiver who killed gods, hunted her nieces, and tried to turn a school into his shield.
 
 ## Epilogue
 
-The tale of the [Hell's Bane Heroes](../factions/hells-bane-heroes.md) reaches its close. [Lucius](../people/lucius.md) is finally destroyed, [Jimbo](../people/jimbo.md)'s full soul has been recovered, [Tiamat](../people/tiamat.md) is free, and [Mave](../people/mave.md)'s divinity is framed as returning through the act of the kill and the need for someone to take [Bridget](../people/bridget.md)'s hand.
+The tale of the [Hell's Bane Heroes](../factions/hells-bane-heroes.md) reaches its close. [Lucius](../people/lucius.md) is finally destroyed, [Jimbo](../people/jimbo.md)'s full soul has been recovered, [Tiamat](../people/tiamat.md) is free, and [Maeve](../people/mave.md)'s divinity is framed as returning through the act of the kill and the need for someone to take [Bridget](../people/bridget.md)'s hand.
 
 Elsewhere in the Hells, a celestial gate opens. A loyal guardian sacrifices himself to unlock it for one of [Julia / Julisia](../people/julia-julisia.md)'s sister-fragments. She walks through divine fire toward the artifact that once split her and toward another trapped sister.
 
@@ -82,7 +82,7 @@ The [Lucius](../people/lucius.md) war is over, but [Julia](../people/julia-julis
 - [Jimbo's Soul Ritual](../concepts/jimbo-soul-ritual.md)
 - [High Temple of Rexel Kar](../places/high-temple-of-rexel-kar.md)
 - [Lucius](../people/lucius.md)
-- [Mave](../people/mave.md)
+- [Maeve](../people/mave.md)
 - [Tiamat](../people/tiamat.md)
 - [Constance and Zuk's Dragon-Bonding School](../places/constance-and-zuks-dragon-bonding-school.md)
 

@@ -4,7 +4,7 @@ This session is the school's immediate recovery phase after the Emerald Palace d
 
 ## Overview
 
-The party spills back through the library in shock and has to regroup inside the school. Even in a quieter session, the emotional temperature stays high: the merfolk delegation is hurt, [Mave](../people/mave.md) is unexpectedly alive, the chapel becomes a place of real comfort, and [Gregario / Shaq](../people/gregario-shaq.md)'s nature is pulled farther into the open.
+The party spills back through the library in shock and has to regroup inside the school. Even in a quieter session, the emotional temperature stays high: the merfolk delegation is hurt, [Maeve](../people/mave.md) is unexpectedly alive, the chapel becomes a place of real comfort, and [Gregario / Shaq](../people/gregario-shaq.md)'s nature is pulled farther into the open.
 
 ## Key Events
 
@@ -14,13 +14,13 @@ The party spills back through the library in shock and has to regroup inside the
 - [Kestrel](../people/kestrel.md) pursues smithing errands and city support contacts.
 - In the chapel, he repairs [Bridget](../people/bridget.md)'s damaged statue by illusion and plays soft music, receiving what feels like a thankful response.
 - [Gregario](../people/gregario-shaq.md) arrives and immediately stands out to both the party and Gadzooks.
-- [Mave](../people/mave.md) appears alive, greatly relieving the group.
-- [Mave](../people/mave.md) privately explains to [Gregario](../people/gregario-shaq.md) that he is half vampire and that the attacking rogue vipers were tied to [Aylinn](../people/aylinn.md).
+- [Maeve](../people/mave.md) appears alive, greatly relieving the group.
+- [Maeve](../people/mave.md) privately explains to [Gregario](../people/gregario-shaq.md) that he is half vampire and that the attacking rogue vipers were tied to [Aylinn](../people/aylinn.md).
 
 ## Important People
 
 - [Lady Penny Hathaway](../people/lady-penny-hathaway.md)
-- [Mave](../people/mave.md)
+- [Maeve](../people/mave.md)
 - [Gregario / Shaq](../people/gregario-shaq.md)
 - [Greg](../people/greg-p-smith.md)
 

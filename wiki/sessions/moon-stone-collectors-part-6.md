@@ -18,7 +18,7 @@ The party purchases rings of fire resistance and prepares for the dive. The city
 
 An Elsewhere shows [Belle](../people/belle.md) entering the Black Keep in Hell. She tears fire from demonic blood, melts the gates, and announces herself to [Wendell](../people/wendell.md).
 
-[Wendell](../people/wendell.md) believes the new [Divine Gate](../concepts/divine-gate.md) leaves [Belle](../people/belle.md) reduced to an avatar. [Belle](../people/belle.md) proves that he has misunderstood her again. With a mirror device built from [Greg](../people/greg-p-smith.md)'s work, she reflects the god-killing dagger back into [Wendell](../people/wendell.md) and leaves him maimed inside a ritual circle of [Mave](../people/mave.md)'s divine blood rather than killing him outright.
+[Wendell](../people/wendell.md) believes the new [Divine Gate](../concepts/divine-gate.md) leaves [Belle](../people/belle.md) reduced to an avatar. [Belle](../people/belle.md) proves that he has misunderstood her again. With a mirror device built from [Greg](../people/greg-p-smith.md)'s work, she reflects the god-killing dagger back into [Wendell](../people/wendell.md) and leaves him maimed inside a ritual circle of [Maeve](../people/mave.md)'s divine blood rather than killing him outright.
 
 ## Professor Hazard's Workshop
 
@@ -50,7 +50,7 @@ That night, [Paul](../people/paul.md) wakes with the ritual components laid out 
 
 By morning, the school is full of allies preparing for war: dragons, werewolves, Arnold's orcs, Gaston's duelists, [Nicole](../people/nicole.md)'s side, and the remaining [Hell's Bane](../factions/hells-bane-heroes.md) allies.
 
-[Mave](../people/mave.md), now in a weakened mortal body, explains that [Belle](../people/belle.md) and [Greg](../people/greg-p-smith.md) have opened the way and that roughly thirty thousand demons remain. Constance opens a massive portal, and several dragons enter first.
+[Maeve](../people/mave.md), now in a weakened mortal body, explains that [Belle](../people/belle.md) and [Greg](../people/greg-p-smith.md) have opened the way and that roughly thirty thousand demons remain. Constance opens a massive portal, and several dragons enter first.
 
 ## The Elevator Detour
 
@@ -76,7 +76,7 @@ Combat is about to begin.
 
 - [Annabelle](../people/annabelle.md)
 - [Belle](../people/belle.md)
-- [Mave](../people/mave.md)
+- [Maeve](../people/mave.md)
 - [Phlukk](../people/phlukk.md)
 - [Professor Hazard](../people/professor-hazard.md)
 - [Tony](../people/tony.md)

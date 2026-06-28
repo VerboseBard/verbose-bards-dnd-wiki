@@ -8,7 +8,7 @@ Kestrel is a bardic duelist and awakened member of the later [Hell's Bane Heroes
 - Changeling
 - Bard / Warlock / College of Swords / The Hexblade
 
-His surviving notes start well before the late-session war archive, during the school period under [Mave](mave.md), and continue forward into the [Black Vipers](../factions/black-vipers.md), [Lucius](lucius.md), and [Jimbo's Soul Ritual](../concepts/jimbo-soul-ritual.md) arcs.
+His surviving notes start well before the late-session war archive, during the school period under [Maeve](mave.md), and continue forward into the [Black Vipers](../factions/black-vipers.md), [Lucius](lucius.md), and [Jimbo's Soul Ritual](../concepts/jimbo-soul-ritual.md) arcs.
 
 ## Driftvale Origin
 
@@ -20,7 +20,7 @@ Kestrel's early arc is tied closely to the academy phase of the New Beginning ca
 
 Several parts of that school material stand out in the notes:
 
-- [Mave](mave.md) personally helps him develop stage presence as an act tied to beauty, music, and worship
+- [Maeve](mave.md) personally helps him develop stage presence as an act tied to beauty, music, and worship
 - [Lady Penny Hathaway](lady-penny-hathaway.md) is already present as a stabilizing authority around the school and its library
 - [Professor Hazard](professor-hazard.md) and the school's artificer culture indirectly shape Kestrel's creative path
 - a viewing of layered runic blueprints inspires one of the first major songs he composes
@@ -42,11 +42,11 @@ The ritual chant in that chamber also inspires another of Kestrel's songs. His n
 
 Kestrel remains active through the political and spiritual collapse that follows the mine arc.
 
-At the Emerald Palace, he is part of the group brought to testify before a council involving [Mave](mave.md), [Belle](belle.md), nobles, royals, and other major powers. When the chamber erupts in fire, [Greg](greg-p-smith.md)'s portal to the library and [Jinx](jinx.md)'s crystal warning help keep Kestrel's side alive.
+At the Emerald Palace, he is part of the group brought to testify before a council involving [Maeve](mave.md), [Belle](belle.md), nobles, royals, and other major powers. When the chamber erupts in fire, [Greg](greg-p-smith.md)'s portal to the library and [Jinx](jinx.md)'s crystal warning help keep Kestrel's side alive.
 
 Back at school, Kestrel has one of his quieter but more revealing scenes in the chapel. He repairs the appearance of [Bridget](bridget.md)'s damaged statue with illusion, plays soft music for a while, and feels what seems to be an expression of thanks. That moment reinforces the devotional side of his art before the campaign fully tips into war.
 
-He is also present during the school assault where [Mave](mave.md) is dying or ascending, [Gregario / Shaq](gregario-shaq.md) is being drawn into the vampire and [Lilith](lilith.md) lines, [Constance and Zuk](constance-l-coggeshall.md) are under pressure, and Kestrel draws his blades for the first time in earnest.
+He is also present during the school assault where [Maeve](mave.md) is dying or ascending, [Gregario / Shaq](gregario-shaq.md) is being drawn into the vampire and [Lilith](lilith.md) lines, [Constance and Zuk](constance-l-coggeshall.md) are under pressure, and Kestrel draws his blades for the first time in earnest.
 
 Soon after, in the temple and undead-country material, Kestrel's music helps hold a defensive system together while survivors hide from the spreading dead. Even before the later [Black Vipers](../factions/black-vipers.md) hunt, he is already functioning as a battlefield support anchor.
 
@@ -98,7 +98,7 @@ Derived from the local source file `C:\Users\bulld\Downloads\Kestrel notes.txt`,
 - [Black Vipers](../factions/black-vipers.md)
 - [Driftvale](../places/driftvale.md)
 - [Junvara](junvara.md)
-- [Mave](mave.md)
+- [Maeve](mave.md)
 - [Greg](greg-p-smith.md)
 - [Constance and Zuk](constance-l-coggeshall.md)
 - [Gregario / Shaq](gregario-shaq.md)

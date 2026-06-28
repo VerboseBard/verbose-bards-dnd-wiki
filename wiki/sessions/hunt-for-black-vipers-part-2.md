@@ -4,17 +4,17 @@ This side session continues the legacy arc following [Junvara](../people/junvara
 
 ## Overview
 
-After resting in [Junvara's Magnificent Mansion](../places/junvaras-magnificent-mansion.md), the group splits responsibilities: [Gregario / Shaq](../people/gregario-shaq.md) remains with [Lilith](../people/lilith.md) and [Mave](../people/mave.md), while the others follow a [442nd](../factions/442nd.md) report to a cave system formerly used by [Alen](../people/alen.md) in her role as the [Raven Queen of Saharun](../people/raven-queen-of-saharun.md).
+After resting in [Junvara's Magnificent Mansion](../places/junvaras-magnificent-mansion.md), the group splits responsibilities: [Gregario / Shaq](../people/gregario-shaq.md) remains with [Lilith](../people/lilith.md) and [Maeve](../people/mave.md), while the others follow a [442nd](../factions/442nd.md) report to a cave system formerly used by [Alen](../people/alen.md) in her role as the [Raven Queen of Saharun](../people/raven-queen-of-saharun.md).
 
 Meanwhile, [Eve](../people/eve.md) leaves [Opaal](../places/opaal.md), arrives in [Silverbend](../places/silver-bend.md), reunites with her sister, and joins the hunt.
 
 ## Key Events
 
-- [Mave](../people/mave.md) continues protecting and resting near [Lilith](../people/lilith.md), though her diminished body is clearly strained.
+- [Maeve](../people/mave.md) continues protecting and resting near [Lilith](../people/lilith.md), though her diminished body is clearly strained.
 - [Eve](../people/eve.md) speaks with [Jack Kenway](../people/jack-kenway.md) after destroying the mercenary fleet pursuing her.
 - Jack gives [Eve](../people/eve.md) a teleportation pass pendant, allowing her to cross to [Saharun](../places/saharun.md).
 - [Eve](../people/eve.md) arrives through [JJ and Jackson's Teleportation Service](../places/jj-and-jacksons-teleportation-service.md) in [Silverbend](../places/silver-bend.md), learns local basics from [Joseph the Goblin](../people/joseph-the-goblin.md), and gathers brochures about the city, the god war, vampires, caravan routes, and local schools.
-- [Eve](../people/eve.md) enters [Junvara](../people/junvara.md)'s mansion, reunites with [Lilith](../people/lilith.md), and receives money and a soul coin from [Mave](../people/mave.md).
+- [Eve](../people/eve.md) enters [Junvara](../people/junvara.md)'s mansion, reunites with [Lilith](../people/lilith.md), and receives money and a soul coin from [Maeve](../people/mave.md).
 - The group discusses [442nd](../factions/442nd.md) deployments: three squads remain in [Silverbend](../places/silver-bend.md), three move toward [Big Tusk](../places/big-tusk.md), and two scout the [Shili Jungle](../places/shili-jungle.md).
 - A [442nd](../factions/442nd.md) report identifies a cave hideout three hours up the coast from the old palace.
 - The group travels along the coast, bypasses a sentry, and eliminates him quietly through teleportation and overwhelming firepower.
@@ -32,7 +32,7 @@ Meanwhile, [Eve](../people/eve.md) leaves [Opaal](../places/opaal.md), arrives i
 - [Gregario / Shaq](../people/gregario-shaq.md)
 - [Lilith](../people/lilith.md)
 - [Eve](../people/eve.md)
-- [Mave](../people/mave.md)
+- [Maeve](../people/mave.md)
 - [Jack Kenway](../people/jack-kenway.md)
 - [Joseph the Goblin](../people/joseph-the-goblin.md)
 - [Belle](../people/belle.md)

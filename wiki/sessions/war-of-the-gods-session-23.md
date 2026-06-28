@@ -28,7 +28,7 @@ It is also the session where [Mullin](../people/mullin.md)'s unstable path final
 - During the same crisis, an SB Solutions contractor arrives through [Veil](../people/veil-guardian-of-the-citadel.md)'s systems: a heavily armed rabbit-man from outside the setting's ordinary frame who joins the defense against the demons.
 - Constance and Zuk break off long enough to intercept [Wendell](../people/wendell.md)'s undead dragon before it can reach the school, and they destroy it with terrifying efficiency.
 - Above the battlefield, [Alen](../people/alen.md) manifests to challenge [Lucius](../people/lucius.md) directly after [Lucius](../people/lucius.md) emerges through the portals and reveals that he wants the death domain and the souls that will spill loose if the worlds collapse wrong.
-- [Mullin](../people/mullin.md) dies in the middle of the fighting after helping enable the disaster, and [Alen](../people/alen.md) dies soon after in her clash with [Lucius](../people/lucius.md).
+- [Mullin](../people/mullin.md) dies in the middle of the fighting after helping enable the disaster, and [Alen](../people/alen.md)'s manifested body is destroyed soon after in her clash with [Lucius](../people/lucius.md).
 - With [Alen](../people/alen.md)'s death, [Gregario](../people/gregario-shaq.md) loses the divine patronage and structure that had been feeding many of his recent powers, but he is not simply erased.
 - Instead, soul-coin logic and his altered condition pull him back in a broken but surviving state, leaving him diminished, damaged, and free of at least some of what had been commanding him.
 - The party successfully closes the immediate portals around them and stabilizes that section of the [Citadel](../places/radiant-citadel.md) before the battle can snowball further.
@@ -55,7 +55,7 @@ It is also the session where [Mullin](../people/mullin.md)'s unstable path final
 
 Session 23 is the point where the party can no longer pretend that containment and debate are the main problems. The enemy can now strike the [Citadel](../places/radiant-citadel.md) directly, use dungeon cores as siege seeds, and exploit divine bargains already made inside the party.
 
-It is also the session where several long-running arcs violently intersect: [Mullin](../people/mullin.md)'s legend-fed resurrection, [Greg](../people/greg-p-smith.md)'s portal engineering, [Alen](../people/alen.md)'s manipulation of [Gregario](../people/gregario-shaq.md), [Lucius](../people/lucius.md)'s ambition for the death mantle, and Constance's role as defender of the school and the eggs all become one battlefield problem instead of separate threads.
+It is also the session where several long-running arcs violently intersect: [Mullin](../people/mullin.md)'s legend-fed resurrection, [Greg](../people/greg-p-smith.md)'s portal engineering, [Alen](../people/alen.md)'s manipulation of [Gregario](../people/gregario-shaq.md), [Lucius](../people/lucius.md)'s ambition for the death mantle, and Constance's role as defender of the school and the eggs all become one battlefield problem instead of separate threads. Alen's apparent death also belonged to her own contingency logic rather than only to Lucius's victory.
 
 ## Source Notes
 

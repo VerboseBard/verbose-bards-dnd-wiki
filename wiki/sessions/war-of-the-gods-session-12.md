@@ -15,7 +15,7 @@ The party follows the aftermath of the children's guild confrontation down to th
 - Grey, the dockmaster, becomes a key contact.
 - The session surfaces broader faction names and pressures around the Green Man, Go Folk, and dead domains of former gods.
 - [Kestrel](../people/kestrel.md) is teleported to McGinty's by Costner and given a spell scroll to return to the school.
-- The Seekers are clarified as having sided with the school rather than Diona.
+- The Seekers are clarified as having sided with the school rather than [Dione](../people/dione.md).
 
 ## Important People
 

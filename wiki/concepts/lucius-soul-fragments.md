@@ -2,6 +2,8 @@
 
 [Lucius](../people/lucius.md) soul fragments are pieces of [Lucius](../people/lucius.md)'s essence embedded in anchors, serpent avatars, and tainted souls.
 
+They are one known expression of the broader [Divine Soul Anchoring](divine-soul-anchoring.md) pattern. Lucius's version is dangerous, aggressive, and comparatively crude beside [Belle](../people/belle.md)'s more sophisticated fractured-aspect methods, but it follows the same basic logic: place enough of the self into surviving anchors that destruction does not end the threat.
+
 ## Anchors
 
 [Lucius](../people/lucius.md) placed parts of himself into weapons and other objects. Destroying or consuming these anchors weakens his return, but interacting with them is dangerous.
@@ -23,6 +25,7 @@ The trace leads into [Jimbo's Soul Ritual](jimbo-soul-ritual.md), a linked serie
 ## Related
 
 - [Lucius Anchor Blades](../items/lucius-anchor-blades.md)
+- [Divine Soul Anchoring](divine-soul-anchoring.md)
 - [Rax'al Karath Prophecy](raxal-karath-prophecy.md)
 - [Lucius's Crystal Trap](lucius-crystal-trap.md)
 - [Jimbo's Soul Ritual](jimbo-soul-ritual.md)

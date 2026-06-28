@@ -16,7 +16,7 @@ Lolth was targeted in part because she betrayed the other gods while grasping fo
 
 ## Fragment Survival
 
-Lolth survived destruction through scattered fragments of spirit and divinity. One of those remnants lies inside [Ssar'Velyn Temple](../places/ssar-velyn-temple.md), where it has remained sealed for so long that its growing power is now poisoning the area around it.
+Lolth survived destruction through scattered fragments of spirit and divinity, making her an ancient example of [Divine Soul Anchoring](../concepts/divine-soul-anchoring.md). One of those remnants lies inside [Ssar'Velyn Temple](../places/ssar-velyn-temple.md), where it has remained sealed for so long that its growing power is now poisoning the area around it.
 
 Some of Lolth's priestesses also captured fragments of [Hestia](hestia.md) and hid them near Lolth-linked sites so that a restored Lolth could consume rival divinity during her return.
 
@@ -30,6 +30,7 @@ This remains dangerous and unresolved. Vex'ryn also claims that the immediate co
 
 - [Hestia](hestia.md)
 - [Fourth Age](../concepts/fourth-age.md)
+- [Divine Soul Anchoring](../concepts/divine-soul-anchoring.md)
 - [Ssar'Velyn Temple](../places/ssar-velyn-temple.md)
 - [Sunhollow Valley](../places/sunhollow-valley.md)
 - [The Weaver](../concepts/the-weaver.md)

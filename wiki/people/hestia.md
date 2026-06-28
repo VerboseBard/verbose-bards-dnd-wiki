@@ -44,6 +44,8 @@ Second, she gives the [After the War Campaign](../campaign/after-the-war-campaig
 
 Third, her survival now points toward a deeper Fourth-Age divine war in which [Lolth](lolth.md)'s priestesses captured and hid rival fragments near their own temple sites.
 
+This also makes Hestia one of the setting's clearest examples of [Divine Soul Anchoring](../concepts/divine-soul-anchoring.md), though her survival appears protective and fragmentary rather than predatory.
+
 ## Session 8 Temple Evidence
 
 [Session 8](../sessions/session-8.md) strengthens Hestia's connection to [Ssar'Velyn Temple](../places/ssar-velyn-temple.md). The [Dead Lands Ghost Druid](dead-lands-ghost-druid.md) recognizes the power tied to [Sgt. Jefferson Stone](sergeant-jefferson-stone.md)'s amulet as belonging to one of the killed divinities.
@@ -63,6 +65,7 @@ The claim is suspect because it comes from Vex'ryn, but the party sees confirmin
 - [Bartholomew Hildebrant](bartholomew-hildebrant.md)
 - [Hestia's Hearth Pendant](../items/hestias-hearth-pendant.md)
 - [Bartholomew's Hearth Medallion](../items/bartholomews-hearth-medallion.md)
+- [Divine Soul Anchoring](../concepts/divine-soul-anchoring.md)
 - [Ssar'Velyn Temple](../places/ssar-velyn-temple.md)
 - [Music Box Anomaly](../items/music-box-anomaly.md)
 - [After the War Campaign](../campaign/after-the-war-campaign.md)

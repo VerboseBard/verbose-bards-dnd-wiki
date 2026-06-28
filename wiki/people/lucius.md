@@ -14,6 +14,12 @@ In the [Council of Gods of the Fifth Age](../concepts/council-of-gods-of-the-fif
 
 Lucius killed [Bridget](bridget.md), the old goddess of music, art, and beauty. That death is one of the key succession points behind [Mave](mave.md)'s later rise into [Bridget](bridget.md)'s divine place.
 
+## Hidden Divinity
+
+Lucius's concealment was central to his success. The treaty-party figures around him did not know he was divine. He had hidden that truth, presenting himself through deception, bargains, and warlord logic while already holding godlike status through stolen mantle power.
+
+During the assassination attack that destroyed [Alen](alen.md)'s body and killed multiple divine figures, Lucius seized the released power to deepen his own strength. That same period strengthened the logic behind his later [Divine Soul Anchoring](../concepts/divine-soul-anchoring.md): anchors, fragments, blades, tainted souls, and ritual lattices were not backup plans bolted on later, but part of how he survived and expanded across ages.
+
 ## Role in the Ages
 
 Lucius's lies helped set up [The Breaking](../concepts/the-breaking.md), the [War of the Gods](../concepts/war-of-the-gods.md), and ultimately the [Divine Gate](../concepts/divine-gate.md). He convinced minor gods, demigods, powerful mortals, and eventually great heroes that the world was already dying and that the dragon guardians had to be sacrificed to save what could be saved.
@@ -86,6 +92,7 @@ At the school, Lucius tries to exploit the children as a divine shield while cla
 - [The Hunt for Black Vipers](../campaign/hunt-for-black-vipers.md)
 - [War of the Gods](../concepts/war-of-the-gods.md)
 - [Divine Gate](../concepts/divine-gate.md)
+- [Divine Soul Anchoring](../concepts/divine-soul-anchoring.md)
 - [The Long Shadow Rises](../concepts/the-long-shadow-rises.md)
 - [Rax'al Karath Prophecy](../concepts/raxal-karath-prophecy.md)
 - [Lucius Anchor Blades](../items/lucius-anchor-blades.md)

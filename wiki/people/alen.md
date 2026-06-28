@@ -10,6 +10,14 @@ That matters because her story spans both the Raven Queen mantle within [Saharun
 
 The Raven Queen mantle had not been properly used since [the Breaking](../concepts/the-breaking.md), because the previous Raven Queen was killed during the war with the gods at the end of the [Fifth Age](../concepts/fifth-age.md). Alen's ascension reoccupied that mantle, but she distorted what it originally was.
 
+## Planned Death and Ascension
+
+Alen's death during [Lucius](lucius.md)'s assault was part of a deliberate strategy. Before the trial material in which the vampire queen's loss of control was judged, Alen was already an extremely powerful queen of vampires, close to divine power but still lacking a true mantle.
+
+Alen knew Lucius intended the assassination strike. Rather than prevent her body's destruction, she allowed it to happen so other powers would stop looking for her. Through a deal with [Belle](belle.md), she had learned enough of the [Divine Soul Anchoring](../concepts/divine-soul-anchoring.md) method to let death become a hiding place and an ascension route rather than a final end.
+
+The power released by multiple divine deaths during that era helped Alen begin moving toward godhood. This is one of the reasons her later Raven Queen identity should be read as an intentional, distorted claim on death authority rather than a clean inheritance.
+
 ## Family Position
 
 Alen is not the biological mother of [Belle](belle.md). Her role in [Eve](eve.md) and [Lilith](lilith.md)'s origins is narrower and darker than simple parentage.
@@ -38,7 +46,7 @@ In [War of the Gods, Session 22](../sessions/war-of-the-gods-session-22.md), tha
 
 The same session also reveals that Alen remains one of the powers others still suspect of playing a much larger board than the party can see. Even when she is not visibly moving armies, she is still shaping loyalties, inheritances, and who gets used as part of the Gate crisis.
 
-In [War of the Gods, Session 23](../sessions/war-of-the-gods-session-23.md), Alen finally enters the [Citadel](../places/radiant-citadel.md) crisis directly. She manifests to confront [Lucius](lucius.md) during the first portal-wave siege, tries to stop him from capitalizing on the collapse around the death domain, and is killed in the clash. Her fall immediately strips away much of the divine structure [Gregario](gregario-shaq.md) had still been using, even if it does not erase all the soul-level changes already carved into him.
+In [War of the Gods, Session 23](../sessions/war-of-the-gods-session-23.md), Alen finally enters the [Citadel](../places/radiant-citadel.md) crisis directly. She manifests to confront [Lucius](lucius.md) during the first portal-wave siege, tries to stop him from capitalizing on the collapse around the death domain, and has her manifested body destroyed in the clash. Her fall immediately strips away much of the divine structure [Gregario](gregario-shaq.md) had still been using, even though the death also belonged to Alen's own contingency logic.
 
 ## Birth Assistance and Aftermath
 
@@ -57,6 +65,7 @@ Later family material suggests that Belle helps arrange circumstances that lead 
 - [Lilith](lilith.md)
 - [Experiment 69](experiment-69.md)
 - [Mummy](mummy.md)
+- [Divine Soul Anchoring](../concepts/divine-soul-anchoring.md)
 - [Silverbend Coastal Cave Hideout](../places/silver-bend-coastal-cave-hideout.md)
 - [Raven Queen of Saharun](raven-queen-of-saharun.md)
 - [Rax'al Karath Prophecy](../concepts/raxal-karath-prophecy.md)

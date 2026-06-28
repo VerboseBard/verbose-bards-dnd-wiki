@@ -18,6 +18,7 @@
 - [The Concurrence](the-concurrence.md)
 - [Greg's Concurrence Proposal](gregs-concurrence-proposal.md)
 - [Divine Gate](divine-gate.md)
+- [Divine Soul Anchoring](divine-soul-anchoring.md)
 - [War of the Gods](war-of-the-gods.md)
 - [The Long Shadow Rises](the-long-shadow-rises.md)
 - [Ley Lines](ley-lines.md)

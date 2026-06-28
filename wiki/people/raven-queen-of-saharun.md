@@ -8,6 +8,8 @@ The Raven Queen mantle had not been properly used since [the Breaking](../concep
 
 [Alen](alen.md) later ascended and took the mantle, but distorted what that mantle originally was. Her ascension contributes to a major power vacuum and is one of the reasons [Saharun](../places/saharun.md)'s later political and religious structure is so unstable.
 
+That ascent ties to Alen's planned physical death during [Lucius](lucius.md)'s assault. She allowed her body to be destroyed after learning enough [Divine Soul Anchoring](../concepts/divine-soul-anchoring.md) from [Belle](belle.md) to survive through hidden ties and use the divine power released around the assassinations as part of her rise.
+
 ## Identity
 
 This is not a separate person from [Alen](alen.md). "Raven Queen of Saharun" is the throne-name or divine title associated with [Alen](alen.md)'s death sovereignty.
@@ -30,5 +32,6 @@ The [Conclave of Churches](../factions/conclave-of-churches.md) refused to recog
 
 - [Saharun](../places/saharun.md)
 - [Dragonborn of Saharun](../concepts/dragonborn-of-saharun.md)
+- [Divine Soul Anchoring](../concepts/divine-soul-anchoring.md)
 - [Session 2](../sessions/session-2.md)
 - [The Hunt for Black Vipers, Part 4](../sessions/hunt-for-black-vipers-part-4.md)

@@ -20,6 +20,14 @@ Alen's role is practical and transactional. She helps arrange the cores and circ
 
 Lilith is the child produced from that vampire-transformed Mummy line. Belle carries and births her, but Lilith is given to Alen afterward and belongs to Alen's death-line inheritance. Belle later helps arrange circumstances that lead to Alen's death at [Lucius](lucius.md)'s hands, which lets Belle reclaim Lilith and raise both daughters herself.
 
+## The Potato King and Divine Inaction
+
+Belle was not aware of [Lucius](lucius.md)'s assassination attack before it happened. However, one of her old friends and pre-[Breaking](../concepts/the-breaking.md) party members, [the Potato King](potato-king.md), was present when the attack unfolded.
+
+Belle had tried multiple times to convince him to ascend to godhood, but he refused. In the moment of the attack, Belle could have protected him. Instead, she let him die and claimed his soul before [Dione](dione.md), the halfling god of foresight and prophecy, could claim him.
+
+This became one of the accusations against Belle in divine politics. Her enemies could argue that she selfishly allowed the attack to weaken another pantheon and steal the soul of her old friend. Belle's defense rests on the divine-law distinction between killing someone and choosing not to prevent their death. In her mind, and under the older rules of the gods, inaction was not the same act as murder.
+
 ## Wrath Against Wendell
 
 When [Wendell](wendell.md), one of [Lucius](lucius.md)'s trusted agents, orchestrated [Mave](mave.md)'s fall from divinity, Belle launched an unsanctioned strike. She vented divine fire against [Wendell](wendell.md)'s stronghold, destroying his empire in a single night and erasing the fortress rather than merely conquering it.
@@ -62,6 +70,8 @@ That does not erase the manipulation, divine politics, or collateral damage arou
 
 During the final Black Viper hunt, Belle meets [Eve](eve.md) in dreams, heals the last of [Eve](eve.md)'s soul damage, and gives her the [Hairpin of Cuteness](../items/hairpin-of-cuteness.md). Belle also admits that she taught [Lucius](lucius.md) a lesser form of soul-splitting, while insisting her own fractured aspects are more sophisticated than [Lucius](lucius.md)'s hidden soul anchors.
 
+This connects Belle directly to the broader [Divine Soul Anchoring](../concepts/divine-soul-anchoring.md) pattern. She did not merely know Lucius's method existed; she helped teach him a lesser version while preserving a more advanced form for herself and later sharing enough of the method with [Alen](alen.md) to make Alen's planned death possible.
+
 Belle warns [Eve](eve.md) not to consume [Lucius](lucius.md)'s final divine soul if [Eve](eve.md) lands the killing blow, because doing so would force [Eve](eve.md) into godhood and divine politics too soon.
 
 Before the first ritual-site assault, Belle meets [Eve](eve.md) in dreams. [Eve](eve.md) chooses to free [Caden / Baba Yaga](caden-baba-yaga.md), and Belle helps her trace the memory-path back to the [Prison Between Worlds](../places/prison-between-worlds.md). Belle shatters [Caden](caden-baba-yaga.md)'s cell and releases him to join the coming fight.
@@ -94,6 +104,8 @@ Together they mark [Paul](paul.md) with the [Crown of Fools](../items/crown-of-f
 - [Mummy](mummy.md)
 - [Eve](eve.md)
 - [Lilith](lilith.md)
+- [The Potato King](potato-king.md)
+- [Divine Soul Anchoring](../concepts/divine-soul-anchoring.md)
 - [Crown of Fools](../items/crown-of-fools.md)
 - [War of the Gods / New Beginning Campaign](../campaign/war-of-the-gods.md)
 - [The Hunt for Black Vipers](../campaign/hunt-for-black-vipers.md)

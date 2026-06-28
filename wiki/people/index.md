@@ -234,6 +234,7 @@ People are grouped by campaign, faction, and divine family so related figures st
 
 ## Divine Champions
 
+- [Toby](toby.md)
 - [Seraphiel](seraphiel.md)
 - [Archivist-General Callis Verdan](callis-verdan.md)
 - [Braelen of the Verdant Hand](braelen-of-the-verdant-hand.md)
@@ -306,6 +307,7 @@ People are grouped by campaign, faction, and divine family so related figures st
 ## Other Notable Figures
 
 - [Elder Tomas Halvek](elder-tomas-halvek.md)
+- [The Potato King](potato-king.md)
 - [Norinar Child](norinar-child.md)
 - [June](june.md)
 - [Central Toge](central-toge.md)

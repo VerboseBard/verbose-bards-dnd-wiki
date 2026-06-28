@@ -8,15 +8,17 @@ Belle is the daughter of [Maeve](maeve.md), the older goddess of magic and forme
 
 Belle considered [Bridget](bridget.md), and later [Mave](mave.md) in [Bridget](bridget.md)'s place, more than mere allies in divinity. They were family inside the old council structure, even when politics and succession later complicated that language.
 
-Belle is also the biological mother of [Eve](eve.md) and [Lilith](lilith.md). She carried them and used her own power to birth them, transforming [Experiment 69](experiment-69.md) and [Mummy](mummy.md) into those two daughters as part of the process.
+Belle is also the mother or surrogate-mother figure behind [Eve](eve.md) and [Lilith](lilith.md), but the two births do not mean the same thing. [Experiment 69](experiment-69.md) becomes the foundation for Eve, while [Mummy](mummy.md) becomes the foundation for Lilith after [Alen](alen.md)'s vampire transformation and bargain.
 
 That family line becomes one of the most important through-lines connecting the [War of the Gods / New Beginning Campaign](../campaign/war-of-the-gods.md), [The Hunt for Black Vipers](../campaign/hunt-for-black-vipers.md), and [Moon Stone Collectors](../campaign/moonstone-collectors.md).
 
 ## Alen and the Family Structure
 
-[Alen](alen.md) is not Belle's biological mother. Instead, Alen belongs to the family in a more complicated later role: an elder family figure to Belle and a power directly involved in the transformation that produces Eve and Lilith.
+[Alen](alen.md) is not Belle's biological mother. Instead, Alen belongs to the family in a more complicated later role tied specifically to Lilith's creation and inheritance.
 
-That distinction matters because later campaign material often treats Alen as deeply entangled with Belle's daughters. Belle carries and births the twins, but Alen's assistance, Raven Queen mantle, and later family role are why the girls can be described in mythic family language as Belle and Alen's daughters.
+Alen's role is practical and transactional. She helps arrange the cores and circumstances that let Experiment 69 and Mummy grow much faster than they otherwise could. When the time comes, Mummy is bitten by Alen, transformed into a vampire, killed, magically prepared, and consumed by Belle as part of the birth working.
+
+Lilith is the child produced from that vampire-transformed Mummy line. Belle carries and births her, but Lilith is given to Alen afterward and belongs to Alen's death-line inheritance. Belle later helps arrange circumstances that lead to Alen's death at [Lucius](lucius.md)'s hands, which lets Belle reclaim Lilith and raise both daughters herself.
 
 ## Wrath Against Wendell
 
@@ -34,15 +36,15 @@ Belle remains recognized in some form, but her exact doctrinal status is politic
 
 In the extracted [War of the Gods, Session 17](../sessions/war-of-the-gods-session-17.md), Belle is briefly called into a magma-fed chamber beneath [Thornwall](../places/thornwall.md). She immediately recognizes the magical current there as something on the scale of a ley-line event and effectively becomes intoxicated on the raw power flowing through the room before descending deeper into the fire.
 
-In [War of the Gods, Session 18](../sessions/war-of-the-gods-session-18.md), Belle's manipulation becomes much more explicit. She pressures [Experiment 69](experiment-69.md) in dreams, frames obedience and violence in the language of love and purpose, and presents multiple paths for him to grow stronger in service to her. The same session also confirms that her recent maneuvering is severe enough for [Mave](mave.md) to step away from the pantheon rather than endorse it.
+In [War of the Gods, Session 18](../sessions/war-of-the-gods-session-18.md), Belle's manipulation becomes much more explicit. At first she frames herself as [Experiment 69](experiment-69.md)'s patron and creator, encouraging him to grow stronger in service to her. Experiment 69 has a childlike mind, adores Belle for giving him sentience, and calls her Mommy. Belle never corrects that affectionate title, but she does not allow him to call her Mother and does not consider him her child.
 
-In [War of the Gods, Session 19](../sessions/war-of-the-gods-session-19.md), Belle appears again in a more conversational but no less revealing form. While playing a chaotic board game with Experiment 69 and [Greg](greg-p-smith.md), she insists that she is not trying to stop the [Divine Gate](../concepts/divine-gate.md) simply to preserve her own comfort, and claims she only needs Experiment 69 to receive one more dragon core so she can finish her own move and step off the board safely.
+In [War of the Gods, Session 19](../sessions/war-of-the-gods-session-19.md), Belle appears again in a more conversational but no less revealing form. While playing a chaotic board game with Experiment 69 and [Greg](greg-p-smith.md), she insists that she is not trying to stop the [Divine Gate](../concepts/divine-gate.md) simply to preserve her own comfort, and claims she only needs Experiment 69 to receive one more dragon core so she can finish her own move and step off the board safely. By this point, she has moved from "grow stronger in my service" toward the idea that Experiment 69 has a greater purpose.
 
 That session also gives one of the clearest short summaries of Belle's self-understanding: she rejects the party's simplified version of her motives, but openly admits that she is still a villain. She just insists she is a different villain than the one they have imagined.
 
-In [War of the Gods, Session 20](../sessions/war-of-the-gods-session-20.md), Belle's "one more dragon core" promise cashes out in the worst possible way for the party. Once Experiment 69 privately consumes the last core, Belle pulls him fully into her space, absorbs him into her own essence, reshapes Mummy as well, and proceeds into childbirth with [Alen](alen.md)'s assistance.
+In [War of the Gods, Session 20](../sessions/war-of-the-gods-session-20.md), Belle's "one more dragon core" promise cashes out in the worst possible way for the party. Once Experiment 69 privately consumes the last core, Belle pulls him fully into her space. Her long grooming of Experiment 69 and Mummy becomes clear: both were led to accept death and consumption as a transformation, like caterpillars becoming butterflies.
 
-Whatever softer language Belle previously used about love, purpose, and stepping off the board, the practical result is brutal: Experiment 69 ceases to function as an adventuring companion and becomes part of Belle's divine family project instead.
+Whatever softer language Belle previously used about love, purpose, and stepping off the board, the practical result is brutal: Experiment 69 ceases to function as an adventuring companion and becomes the foundation for Eve. Mummy is turned into a vampire through Alen, killed, magically prepared, and eaten by Belle so Lilith can be born as the child promised to Alen.
 
 In [War of the Gods, Session 22](../sessions/war-of-the-gods-session-22.md), the after-effects of that plan become clearer. Other powers now speak as though Belle has largely stepped off the main board after completing her move with Experiment 69, even if the damage, children, and political consequences of that move are only beginning to unfold.
 
@@ -54,7 +56,7 @@ Those notes portray Belle as someone mercenary hunters are actively trying to se
 
 ## Belle and Her Daughters
 
-Later conversation with [Eve](eve.md) complicates Belle's motives further. The material strongly suggests Belle may have helped arrange events specifically so she could get her daughter back, because she did not want to give up [Lilith](lilith.md).
+Later conversation with [Eve](eve.md) complicates Belle's motives further. Belle gave Lilith to Alen after the birth, but the material strongly suggests Belle helped arrange events that let her get Lilith back after Alen's death. Belle did not want to surrender the daughter she had carried, even though Lilith's true inheritance and original claim belonged to Alen.
 
 That does not erase the manipulation, divine politics, or collateral damage around her choices. It does, however, reframe them. Belle is not acting only as chaos, hunger, or vanity. She is also acting as a possessive and determined mother trying to reclaim what she believes is hers.
 

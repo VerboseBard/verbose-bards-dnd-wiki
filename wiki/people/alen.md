@@ -12,11 +12,11 @@ The Raven Queen mantle had not been properly used since [the Breaking](../concep
 
 ## Family Position
 
-Alen is not the biological mother of [Belle](belle.md). The birth line for [Eve](eve.md) and [Lilith](lilith.md) is stranger.
+Alen is not the biological mother of [Belle](belle.md). Her role in [Eve](eve.md) and [Lilith](lilith.md)'s origins is narrower and darker than simple parentage.
 
-Belle carries and births Eve and Lilith after transforming [Experiment 69](experiment-69.md) and [Mummy](mummy.md), but Alen helps shape that process and contributes the Raven Queen line that later matters to Lilith. This is why later material can describe the twins as Belle and Alen's daughters while still treating Belle as the one who physically carries and births them.
+Alen helps arrange the cores and circumstances that allow [Experiment 69](experiment-69.md) and [Mummy](mummy.md) to grow at an accelerated rate. Her specific claim is over Lilith. When the time comes, Alen bites Mummy, transforms him into a vampire, and kills him. Belle then magically prepares and consumes Mummy's corpse as part of the birth working that creates Lilith.
 
-That distinction matters because Alen is often spoken about with family language, but her role is mythic, mantle-based, and transformational rather than ordinary mortal parentage.
+That distinction matters because Eve and Lilith are twins in Belle's family, but their origin chains are not identical. Eve comes through Experiment 69. Lilith comes through Mummy's vampire-transformed line and is given to Alen after birth.
 
 ## Hidden Room
 
@@ -42,9 +42,9 @@ In [War of the Gods, Session 23](../sessions/war-of-the-gods-session-23.md), Ale
 
 ## Birth Assistance and Aftermath
 
-Alen assisted [Belle](belle.md) during the birth process that produced [Eve](eve.md) and [Lilith](lilith.md). That process used [Experiment 69](experiment-69.md) and [Mummy](mummy.md) as building blocks after they had grown in power by consuming dungeon cores.
+Alen's assistance in the birth process is chiefly the preparation of Lilith's side of the bargain: arranging accelerated growth, claiming Mummy through vampiric transformation, and receiving Lilith after Belle carries and births her.
 
-Later family material suggests that after Alen's own death in that older chain of events, [Belle](belle.md) effectively retained or reclaimed a maternal role over the children and raised them until the later [Concurrence](../concepts/the-concurrence.md)-era [Divine Gate](../concepts/divine-gate.md) alterations pulled the girls apart and sent them back out into the worlds.
+Later family material suggests that Belle helps arrange circumstances that lead to Alen's death at [Lucius](lucius.md)'s hands. After that, Belle reclaims Lilith and raises both girls until the later [Concurrence](../concepts/the-concurrence.md)-era [Divine Gate](../concepts/divine-gate.md) alterations pull them apart and send them back out into the worlds.
 
 ## End
 

@@ -10,9 +10,9 @@ Lilith appears as a very small, thin child with raven-black hair, pointed ears, 
 
 Lilith is one of [Belle](belle.md)'s two daughters and one of the clearest bridges between the [War of the Gods / New Beginning Campaign](../campaign/war-of-the-gods.md) material and the later [Sixth Age](../concepts/sixth-age.md) campaigns.
 
-[Belle](belle.md) is Lilith's biological mother. She carried and birthed Lilith through divine means, with [Alen](alen.md) assisting in the birth process. The underlying transformation of [Experiment 69](experiment-69.md) and [Mummy](mummy.md) into the two girls is part of that same origin chain.
+[Belle](belle.md) carried and birthed Lilith through divine means, but Lilith's parentage is not the same as [Eve](eve.md)'s. Lilith is born from [Mummy](mummy.md)'s vampire-transformed line after [Alen](alen.md) bites Mummy, transforms him into a vampire, and kills him. Mummy's corpse is then magically prepared and eaten by Belle as part of Lilith's birth working.
 
-[Alen](alen.md)'s role is therefore not simple mortal parentage. Belle carries and births Lilith, while Alen's assistance, Raven Queen mantle, and later family role make Lilith part of Alen's death-line inheritance as well.
+Belle is Lilith's birth mother and surrogate, but Alen is the intended mother and the source of Lilith's death-line inheritance. After the birth, Belle gives Lilith to Alen. Belle later helps arrange circumstances that lead to Alen's death at [Lucius](lucius.md)'s hands, allowing Belle to reclaim Lilith and raise her alongside Eve.
 
 ## Divine Nature
 

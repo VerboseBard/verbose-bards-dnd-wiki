@@ -15,11 +15,11 @@ Eve manifests older and more powerful than [Lilith](lilith.md), appearing around
 
 ## Origin
 
-Eve is [Belle](belle.md)'s biological daughter and [Lilith](lilith.md)'s twin. Belle carried and birthed the two girls through divine means, with the birth process transforming [Experiment 69](experiment-69.md) and [Mummy](mummy.md) into the children.
+Eve is [Belle](belle.md)'s daughter and [Lilith](lilith.md)'s twin, but her origin is more directly tied to [Experiment 69](experiment-69.md) than Lilith's is. Belle grooms Experiment 69 into accepting death and consumption as a higher transformation, then uses him as the foundation for Eve's birth.
 
 That origin matters to later conversations with [Belle](belle.md), because part of [Belle](belle.md)'s manipulation appears tied not just to power or survival but to wanting her daughters back, especially refusing to surrender [Lilith](lilith.md).
 
-[Alen](alen.md) assisted in the birth line and later family structure. Belle is Eve's biological mother in the sense that she carried and birthed the twins, while Alen's assistance and Raven Queen mantle make the later family language more complicated than ordinary mortal parentage.
+[Alen](alen.md)'s role in the twin birth is mostly tied to Lilith. Alen helps arrange the accelerated growth of Experiment 69 and [Mummy](mummy.md), but Lilith is the child given to Alen after birth. Eve remains the daughter Belle keeps.
 
 ## Opaal Attack
 

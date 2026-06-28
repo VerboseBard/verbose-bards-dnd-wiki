@@ -27,8 +27,8 @@ The Elven Lands and [Driftvale](../places/driftvale.md) are separate worlds. Con
 These levels and class mixes are a reference snapshot from uploaded roster information. Because builds shifted during play, the exact level and class state should not override session lore when a specific scene says otherwise.
 
 - [Greg P Smith "The Sower"](../people/greg-p-smith.md): Level 10 Autognome Artificer.
-- [Experiment 69](../people/experiment-69.md): found on Driftvale in a displaced research lab; later central to Belle's divine-family plan.
-- [Mummy](../people/mummy.md): originally a goldfish companion of Experiment 69; later made sentient by Belle's blessing.
+- [Experiment 69](../people/experiment-69.md): found on Driftvale in a displaced research lab; later groomed by Belle and used as the foundation for Eve's birth.
+- [Mummy](../people/mummy.md): originally a goldfish companion of Experiment 69; later made sentient by Belle's blessing and used in Alen's vampire-line bargain for Lilith.
 - [Jack Kenway](../people/jack-kenway.md): Level 20 Lineages Fighter / Rogue / Champion / Swashbuckler / Captain / Chieftain. Player: Unassigned.
 - [Jarruth Stion](../people/jarruth-stion.md): Level 20 Aasimar Ranger / Fighter / Beast Master.
 - [Charlie](../people/charlie.md): Level 20 Astral Elf Fighter / Gunslinger / Artificer / Artillerist.

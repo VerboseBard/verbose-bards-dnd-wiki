@@ -1,6 +1,6 @@
 # Mummy
 
-Mummy is the correct name for the goldfish companion associated with [Experiment 69](experiment-69.md). The name is not "Mommy."
+Mummy is the correct name for the goldfish companion associated with [Experiment 69](experiment-69.md). The name is not "Mommy"; Mommy is what Experiment 69 calls [Belle](belle.md).
 
 ## Origin
 
@@ -10,9 +10,11 @@ Eventually Mummy receives [Belle](belle.md)'s blessing and becomes sentient. Aft
 
 ## Belle's Plan
 
-Mummy and Experiment 69 grow in power by consuming dungeon cores. Once they reach the threshold [Belle](belle.md) needs, she uses them as building blocks to impregnate herself with help from [Alen](alen.md).
+Mummy and Experiment 69 grow in power by consuming dungeon cores. [Alen](alen.md) helps arrange the cores and circumstances that let both of them grow much faster than they otherwise could.
 
-That divine transformation produces [Eve](eve.md) and [Lilith](lilith.md). In later family language, Mummy and Experiment 69 become Belle and Alen's daughters through the same process, even though their earlier relationship to each other was brotherly.
+When the time comes, Mummy is bitten by Alen, transformed into a vampire, and killed. His corpse is then magically prepared and eaten by [Belle](belle.md), allowing Belle to birth [Lilith](lilith.md) as a child of the vampire line promised to Alen.
+
+This is separate from [Experiment 69](experiment-69.md)'s role in the birth of [Eve](eve.md), even though Belle groomed both of them to accept death and consumption as a higher transformation.
 
 ## Related
 
@@ -21,4 +23,3 @@ That divine transformation produces [Eve](eve.md) and [Lilith](lilith.md). In la
 - [Alen](alen.md)
 - [Eve](eve.md)
 - [Lilith](lilith.md)
-

@@ -10,6 +10,8 @@ She took Constance under her wing, became her best friend, and helped shift vill
 
 In [War of the Gods, Session 22](../sessions/war-of-the-gods-session-22.md), Lucy becomes one of the few family members willing to openly oppose the hostile reading of Constance's fate. She interrupts the officers' chamber confrontation to reveal that there were two prophecies spoken at Constance's birth, not one, and that the second prophecy offers a path of courage and self-determination rather than betrayal.
 
+That revelation matters because the second prophecy was part of why Constance survived childhood. It gave the dragons and Constance's few defenders a reason to resist the family's desire to treat her as a cursed threat that should be removed.
+
 The same session also suggests Lucy has changed after the world's recent metaphysical upheaval. She now possesses a strange relationship to a deck of cards that she says are the only things she can truly see, implying some kind of awakened prophetic or divinatory gift.
 
 ## Related

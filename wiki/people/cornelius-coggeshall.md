@@ -8,6 +8,8 @@ The moment Constance was born, Cornelius declared her a bastard and accused his 
 
 He never openly beat Constance, but he rejected her completely, denied her affection, and enforced her disgrace within the household. He also forbade [Genevieve Coggeshall](genevieve-coggeshall.md) from showing Constance much love in public and never intervened to stop the abuse inflicted by others.
 
+Cornelius's hatred was restrained more by prophecy and dragon politics than by mercy. If the second prophecy had not existed, and if the dragons had not supported Constance's survival, he likely would have had her killed or allowed others to dispose of her as a cursed child.
+
 In [War of the Gods, Session 22](../sessions/war-of-the-gods-session-22.md), Cornelius remains trapped in the same fear that defined Constance's childhood. Even during a siege where her reinforcements materially help save his people, he defaults to the old prophecy and treats her help as suspicious at best. When she leaves the homeland again, he publicly recites the hateful version of her prophecy behind her rather than offering gratitude or reconciliation.
 
 ## Related

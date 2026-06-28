@@ -70,7 +70,7 @@ That does not erase the manipulation, divine politics, or collateral damage arou
 
 During the final Black Viper hunt, Belle meets [Eve](eve.md) in dreams, heals the last of [Eve](eve.md)'s soul damage, and gives her the [Hairpin of Cuteness](../items/hairpin-of-cuteness.md). Belle also admits that she taught [Lucius](lucius.md) a lesser form of soul-splitting, while insisting her own fractured aspects are more sophisticated than [Lucius](lucius.md)'s hidden soul anchors.
 
-This connects Belle directly to the broader [Divine Soul Anchoring](../concepts/divine-soul-anchoring.md) pattern. She did not merely know Lucius's method existed; she helped teach him a lesser version while preserving a more advanced form for herself and later sharing enough of the method with [Alen](alen.md) to make Alen's planned death possible.
+This connects Belle directly to the broader [Divine Soul Anchoring](../concepts/divine-soul-anchoring.md) pattern. The technique had been lost to active divines by the end of the Fourth Age and through much of the Fifth, but Belle rediscovered it through unrevealed means. She did not merely know Lucius's method existed; she helped teach him a lesser version while preserving a more advanced form for herself and later sharing enough of the method with [Alen](alen.md) to make Alen's planned death possible.
 
 Belle warns [Eve](eve.md) not to consume [Lucius](lucius.md)'s final divine soul if [Eve](eve.md) lands the killing blow, because doing so would force [Eve](eve.md) into godhood and divine politics too soon.
 

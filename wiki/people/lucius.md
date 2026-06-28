@@ -20,6 +20,8 @@ Lucius's concealment was central to his success. The treaty-party figures around
 
 During the assassination attack that destroyed [Alen](alen.md)'s body and killed multiple divine figures, Lucius seized the released power to deepen his own strength. That same period strengthened the logic behind his later [Divine Soul Anchoring](../concepts/divine-soul-anchoring.md): anchors, fragments, blades, tainted souls, and ritual lattices were not backup plans bolted on later, but part of how he survived and expanded across ages.
 
+Lucius did not rediscover that lost divine technique on his own. [Belle](belle.md) taught him a lesser version because it served her own long schemes, including the conditions that eventually led toward [Experiment 69](experiment-69.md), [Mummy](mummy.md), [Eve](eve.md), and [Lilith](lilith.md).
+
 ## Role in the Ages
 
 Lucius's lies helped set up [The Breaking](../concepts/the-breaking.md), the [War of the Gods](../concepts/war-of-the-gods.md), and ultimately the [Divine Gate](../concepts/divine-gate.md). He convinced minor gods, demigods, powerful mortals, and eventually great heroes that the world was already dying and that the dragon guardians had to be sacrificed to save what could be saved.

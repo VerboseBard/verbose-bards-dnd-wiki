@@ -16,6 +16,8 @@ Constance was born into the Coggeshall line, the ruling bloodline of the Keepers
 
 Her childhood was defined by isolation, neglect, and abuse. She was hidden away as a family disgrace, pushed into a shed at the edge of home life, and treated as something between embarrassment and omen. That rejection shaped both her stubborn independence and her need to build what the world refused to give her.
 
+The hatred around her birth was not only emotional. Without the second prophecy and the dragons' support for her survival, Constance might have been killed as a child or allowed to die soon afterward. The family feared that the hostile prophecy meant she would destroy everything tied to them, but the counter-prophecy and the dragons' recognition kept that fear from becoming a death sentence.
+
 Her bond with Zuk is therefore not just heroic destiny. It is a reversal of everything her family said she was not allowed to become. The child they treated as cursed became one of the defining dragon-bonded figures of the age.
 
 A Seeker found Constance and Zuk before rescuing [Greg](greg-p-smith.md) from the isolated goblins who had captured him on the Elven Lands. This makes Constance and Zuk Greg's first non-goblin contacts after he was pulled into the campaign world.
@@ -40,9 +42,11 @@ Constance also survived because a few people in and around the village saw her c
 
 Two competing versions of the same prophecy followed Constance's childhood.
 
-One frames her as a hated harbinger: a malformed child of dragon blood who will bring betrayal, darkness, and death. That version reflects the family's fear and the village's cruelty more than any objective truth.
+One frames her as a hated harbinger: a malformed child of dragon blood who will bring betrayal, darkness, and death. In the harshest family reading, she was the child who would destroy everything tied to the Coggeshall line. That version reflects the family's fear and the village's cruelty more than any objective truth.
 
-The other treats her as a scarred but defiant figure whose bond with a likewise scarred dragon may let her break fate instead of submit to it. That version better matches the life she actually builds: painful, dangerous, world-shaping, but not reducible to the hatred that named her cursed.
+The other treats her as a scarred but defiant figure whose bond with a likewise scarred dragon may let her break fate instead of submit to it. It is also the prophecy that helped keep her alive. Because the dragons supported her and the second prophecy left open a path other than ruin, the Coggeshall line could not simply execute the feared child and call it duty.
+
+That version better matches the life she actually builds: painful, dangerous, world-shaping, but not reducible to the hatred that named her cursed.
 
 ## School Announcement
 

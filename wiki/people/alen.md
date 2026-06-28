@@ -14,7 +14,7 @@ The Raven Queen mantle had not been properly used since [the Breaking](../concep
 
 Alen's death during [Lucius](lucius.md)'s assault was part of a deliberate strategy. Before the trial material in which the vampire queen's loss of control was judged, Alen was already an extremely powerful queen of vampires, close to divine power but still lacking a true mantle.
 
-Alen knew Lucius intended the assassination strike. Rather than prevent her body's destruction, she allowed it to happen so other powers would stop looking for her. Through a deal with [Belle](belle.md), she had learned enough of the [Divine Soul Anchoring](../concepts/divine-soul-anchoring.md) method to let death become a hiding place and an ascension route rather than a final end.
+Alen knew Lucius intended the assassination strike. Rather than prevent her body's destruction, she allowed it to happen so other powers would stop looking for her. Through a deal with [Belle](belle.md), she had learned enough of the rediscovered [Divine Soul Anchoring](../concepts/divine-soul-anchoring.md) method to let death become a hiding place and an ascension route rather than a final end.
 
 The power released by multiple divine deaths during that era helped Alen begin moving toward godhood. This is one of the reasons her later Raven Queen identity should be read as an intentional, distorted claim on death authority rather than a clean inheritance.
 

@@ -4,10 +4,16 @@ Divine soul anchoring is a recurring metaphysical method in the setting: a soul,
 
 It is not one standardized spell. Different powers use different versions of the same underlying idea.
 
+## Lost Technique
+
+The technique is ancient and comes up often in divine history, but it was lost to active divines by the end of the Fourth Age and through much of the Fifth Age. Earlier examples survived as ruins, fragments, temple failures, and scars in divine law rather than as common working knowledge.
+
+[Belle](../people/belle.md) later rediscovered the method through means not yet revealed in the campaign. She then shared versions of the technique with [Alen](../people/alen.md), the vampire queen, and [Lucius](../people/lucius.md) because both helped serve her larger schemes around survival, soul control, and eventually the creation of children.
+
 ## Known Patterns
 
-- [Belle](../people/belle.md) understands a sophisticated version tied to fractured aspects, soul containment, and controlled consumption.
-- [Lucius](../people/lucius.md) uses a cruder but dangerous form, hiding pieces of himself in weapons, serpent avatars, tainted souls, and ritual lattices.
+- [Belle](../people/belle.md) understands a sophisticated rediscovered version tied to fractured aspects, soul containment, and controlled consumption.
+- [Lucius](../people/lucius.md) uses a cruder but dangerous version learned through Belle, hiding pieces of himself in weapons, serpent avatars, tainted souls, and ritual lattices.
 - [Alen](../people/alen.md) learned enough of the method through a deal with Belle to let her physical death become part of her later ascent rather than a true ending.
 - [Lolth](../people/lolth.md) survived through scattered fragments of spirit and divinity, including the remnant sealed in [Ssar'Velyn Temple](../places/ssar-velyn-temple.md).
 - [Hestia](../people/hestia.md) also survived in fragmentary form, with surviving hearth power hidden, captured, or tied into Lolth-linked temple systems.

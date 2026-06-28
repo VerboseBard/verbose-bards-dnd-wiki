@@ -198,6 +198,10 @@ People are grouped by campaign, faction, and divine family so related figures st
 - [Rose Qinlee](rose-qinlee.md)
 - [Veil, Guardian of the Citadel](veil-guardian-of-the-citadel.md)
 - [Mulligan](mulligan.md)
+- [Seeker Lauren](seeker-lauren.md)
+- [Seeker Lindsey](seeker-lindsey.md)
+- [Seeker Lucia](seeker-lucia.md)
+- [Seeker Linda](seeker-linda.md)
 
 ## Black Viper Hunt Figures
 

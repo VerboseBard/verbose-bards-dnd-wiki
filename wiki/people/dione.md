@@ -6,7 +6,7 @@ Dione is one of the old gods of foreknowledge and prophecy, and is especially ti
 
 In the [Council of Gods of the Fifth Age](../concepts/council-of-gods-of-the-fifth-age.md), Dione and [Savras](savras.md) are collectively described as second in power.
 
-The Seekers are identified as their children.
+The source note identifies the [Seekers](../factions/seekers.md) as their children, while later clarification describes the Seekers more specifically as an order of clerics under the Triumphant of Divination Gods.
 
 Toby is identified in newer clarification as one of Dione's champions.
 

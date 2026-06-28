@@ -22,7 +22,7 @@ The surviving source note lists the Sages' Assembly in this order:
 
 1. [Maeve, Queen of the Fae](../people/maeve.md), goddess of magic, formerly fae, and most powerful member of the pantheon.
 2. [Bridget](../people/bridget.md) / [Maeve, the Schoolmistress](../people/mave.md), preserving the source note's succession shorthand for the goddess of music, art, and beauty, ranked third in power.
-3. [Dione](../people/dione.md) and [Savras](../people/savras.md), gods of foreknowledge and prophecy, ranked second in power, with the [Seekers](../factions/seekers.md) named as their children.
+3. [Dione](../people/dione.md) and [Savras](../people/savras.md), gods of foreknowledge and prophecy, ranked second in power, with the [Seekers](../factions/seekers.md) named in the source note as their children. Later clarification identifies the Seekers as an order of clerics under the Triumphant of Divination Gods.
 4. [Belle](../people/belle.md), goddess of fire and mischief, ranked fourth in power.
 5. [Sedna](../people/sedna.md), goddess of sea and sky.
 6. [Straka](../people/straka.md), god of second chances, storms, and freedom.
@@ -46,7 +46,7 @@ The Sword and Purse Assembly source note preserves positions 1, 2, and 7. Positi
 ## Named Figures
 
 - [Maeve, Queen of the Fae](../people/maeve.md), goddess of magic, formerly fae, most powerful of the pantheon
-- [Dione](../people/dione.md) and [Savras](../people/savras.md), gods of foreknowledge and prophecy, collectively second in power, with the Seekers named as their children
+- [Dione](../people/dione.md) and [Savras](../people/savras.md), gods of foreknowledge and prophecy, collectively second in power, with the [Seekers](../factions/seekers.md) tied to them through the divination order
 - [Bridget](../people/bridget.md), goddess of music, art, and beauty, third in power
 - [Belle](../people/belle.md), goddess of fire and mischief, fourth in power
 - [Sedna](../people/sedna.md), goddess of sea and sky

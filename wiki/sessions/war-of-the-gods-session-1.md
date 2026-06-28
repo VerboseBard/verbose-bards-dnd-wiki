@@ -9,11 +9,11 @@ The campaign opens with newly awakened characters being found across the realms 
 ## Key Events
 
 - The Seekers begin gathering awakened people from different worlds and circumstances.
-- [Constance and Zuk](../people/constance-l-coggeshall.md) are found by Seeker Linda in the [Elven Lands](../places/elven-lands.md).
+- [Constance and Zuk](../people/constance-l-coggeshall.md) are found by [Seeker Linda](../people/seeker-linda.md) in the [Elven Lands](../places/elven-lands.md).
 - [Greg](../people/greg-p-smith.md) is rescued from isolated tribal goblins on the Elven Lands after Constance and Zuk have already been found.
 - [Junvara](../people/junvara.md) arrives a few days later after being found on [Driftvale](../places/driftvale.md).
-- Molokan is found on the beach by Seeker Lindsey.
-- Other arrivals include figures under the supervision of Seeker Laura and the clay-like Seeker Lucy.
+- [Molokan](../people/molokan.md) is found on the beach by [Seeker Lindsey](../people/seeker-lindsey.md).
+- Other arrivals include figures under the supervision of [Seeker Lauren](../people/seeker-lauren.md) and [Seeker Lucia](../people/seeker-lucia.md).
 - The group passes through a massive crystal transit station before arriving at the school.
 - [Maeve](../people/mave.md), still acting as dean rather than a later divine figure, oversees the opening school phase.
 - A testing course and rune-stamped medallion establish the party's first formal magical and martial assessment.
@@ -23,6 +23,8 @@ The campaign opens with newly awakened characters being found across the realms 
 - [Maeve](../people/mave.md)
 - [Greg](../people/greg-p-smith.md)
 - [Constance and Zuk](../people/constance-l-coggeshall.md)
+- [Seeker Linda](../people/seeker-linda.md)
+- [Seeker Lindsey](../people/seeker-lindsey.md)
 
 ## Important Places
 

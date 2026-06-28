@@ -16,7 +16,7 @@ The mine descent reveals that the party is standing in the middle of something f
 - The ritual itself centers on a power focus that draws [June](../people/june.md) toward it.
 - [Hawk](../people/hawk.md) arrives with a dark leopard, raises a staff, and speaks a word of power.
 - [Aylinn](../people/aylinn.md)'s hold over the area is broken or diminished, and awareness of other deities returns.
-- Seeker Lucy arrives with 69.
+- [Seeker Lucia](../people/seeker-lucia.md) arrives with [Experiment 69](../people/experiment-69.md).
 - The group returns to the [Radiant Citadel](../places/radiant-citadel.md) in a way that should not have been possible through ordinary crystal transit.
 - The chant from the mine becomes direct musical inspiration for [Kestrel](../people/kestrel.md).
 
@@ -26,6 +26,7 @@ The mine descent reveals that the party is standing in the middle of something f
 - [Hawk](../people/hawk.md)
 - [Greg](../people/greg-p-smith.md)
 - [Junvara](../people/junvara.md)
+- [Seeker Lucia](../people/seeker-lucia.md)
 
 ## Important Places
 

@@ -1,6 +1,6 @@
 # Violet Qinlee
 
-Violet Qinlee is one of the Qinlee triplets of [Opaal](../places/opaal.md).
+Violet Qinlee is one of the [Qinlee Triplets](qinlee-triplets.md) of [Opaal](../places/opaal.md).
 
 ## Traits
 
@@ -14,5 +14,6 @@ The Qinlee triplets are remembered as an impossibility made real. Their old nurs
 
 - [Opaal](../places/opaal.md)
 - [Bowing Reed](../places/bowing-reed.md)
+- [Qinlee Triplets](qinlee-triplets.md)
 - [Daisy Qinlee](daisy-qinlee.md)
 - [Rose Qinlee](rose-qinlee.md)

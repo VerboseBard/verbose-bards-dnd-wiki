@@ -1,6 +1,6 @@
 # Rose Qinlee
 
-Rose Qinlee is one of the Qinlee triplets of [Opaal](../places/opaal.md).
+Rose Qinlee is one of the [Qinlee Triplets](qinlee-triplets.md) of [Opaal](../places/opaal.md).
 
 ## Traits
 
@@ -26,6 +26,7 @@ In [War of the Gods, Session 22](../sessions/war-of-the-gods-session-22.md), tha
 
 - [Opaal](../places/opaal.md)
 - [Bowing Reed](../places/bowing-reed.md)
+- [Qinlee Triplets](qinlee-triplets.md)
 - [Daisy Qinlee](daisy-qinlee.md)
 - [Violet Qinlee](violet-qinlee.md)
 - [War of the Gods, Session 16](../sessions/war-of-the-gods-session-16.md)

@@ -8,12 +8,13 @@ Lindsey is prickly and grumpy.
 
 ## Known Assignments
 
-Lindsey picked up Tim's character and the triplets. Existing session summaries also identify her as the Seeker who found [Molokan](molokan.md) on the beach.
+Lindsey picked up Tim's character and the [Qinlee Triplets](qinlee-triplets.md). Existing session summaries also identify her as the Seeker who found [Molokan](molokan.md) on the beach.
 
 ## Related
 
 - [Seekers](../factions/seekers.md)
 - [Molokan](molokan.md)
+- [Qinlee Triplets](qinlee-triplets.md)
 - [Daisy Qinlee](daisy-qinlee.md)
 - [Rose Qinlee](rose-qinlee.md)
 - [Violet Qinlee](violet-qinlee.md)

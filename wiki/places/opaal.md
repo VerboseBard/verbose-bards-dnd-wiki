@@ -38,7 +38,7 @@ The twin cities of [Corialis](corialis.md) and [Wytebluff](wytebluff.md) form th
 
 [Wytebluff](wytebluff.md) was founded later on the cliffs above after surface settlers discovered [Corialis](corialis.md). Great cranes in the warehouse district raise and lower cargo between the two cities, making them effectively one vertical trade complex split between sea and air.
 
-[Bowing Reed](bowing-reed.md) is a sprawling wetland town surrounded by swamp and open marsh. It belongs to a different rhythm than the cliff cities and is tied to the Qinlee family line.
+[Bowing Reed](bowing-reed.md) is a sprawling wetland town surrounded by swamp and open marsh. It belongs to a different rhythm than the cliff cities and is tied to the Qinlee family line and the [Qinlee Triplets](../people/qinlee-triplets.md).
 
 ## Campaign Role
 
@@ -53,6 +53,7 @@ In the [Black Vipers](../factions/black-vipers.md) side arc, [Eve](../people/eve
 - [Corialis](corialis.md)
 - [Wytebluff](wytebluff.md)
 - [Bowing Reed](bowing-reed.md)
+- [Qinlee Triplets](../people/qinlee-triplets.md)
 - [The Kreen War](../concepts/kreen-war.md)
 - [The Concurrence](../concepts/the-concurrence.md)
 - [Council of Gods of the Fifth Age](../concepts/council-of-gods-of-the-fifth-age.md)

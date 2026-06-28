@@ -319,6 +319,7 @@ People are grouped by campaign, faction, and divine family so related figures st
 - [Norinar Child](norinar-child.md)
 - [June](june.md)
 - [Central Toge](central-toge.md)
+- [Qinlee Triplets](qinlee-triplets.md)
 - [Daisy Qinlee](daisy-qinlee.md)
 - [Violet Qinlee](violet-qinlee.md)
 - [Rose Qinlee](rose-qinlee.md)

@@ -1,6 +1,6 @@
 # Daisy Qinlee
 
-Daisy Qinlee is one of the Qinlee triplets of [Opaal](../places/opaal.md).
+Daisy Qinlee is one of the [Qinlee Triplets](qinlee-triplets.md) of [Opaal](../places/opaal.md).
 
 ## Traits
 
@@ -16,5 +16,6 @@ The Qinlee triplets are treated as an anomaly. A gnomish prophecy spoken over th
 
 - [Opaal](../places/opaal.md)
 - [Bowing Reed](../places/bowing-reed.md)
+- [Qinlee Triplets](qinlee-triplets.md)
 - [Violet Qinlee](violet-qinlee.md)
 - [Rose Qinlee](rose-qinlee.md)

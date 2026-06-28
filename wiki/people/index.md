@@ -261,6 +261,8 @@ People are grouped by campaign, faction, and divine family so related figures st
 - [Straka](straka.md)
 - [Aylinn](aylinn.md)
 - [Lucius](lucius.md)
+- [Finnian / the Green Man](finnian-green-man.md)
+- [Grommok](grommok.md)
 - [Hestia](hestia.md)
 - [Lilith](lilith.md)
 - [Lolth](lolth.md)
@@ -270,6 +272,7 @@ People are grouped by campaign, faction, and divine family so related figures st
 ## Ancient / Supernatural
 
 - [The Weaver](../concepts/the-weaver.md)
+- [Sir Humphrey Puddington](sir-humphrey-puddington.md)
 - [Second Age Bound Spirit](second-age-bound-spirit.md)
 - [The Big Shad](../concepts/big-shad.md)
 - [Lucius](lucius.md)

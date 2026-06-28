@@ -8,7 +8,7 @@ No [Fifth Age](../concepts/fifth-age.md) material has been added for the Summer 
 
 ## Sixth Age
 
-The court is ruled by the Green Man, a powerful leprechaun-like [Fey](../concepts/fey.md) king whose authority comes from deals, trickery, accumulated power, and a strange fondness for mortal-style architecture.
+The court is ruled by [Finnian / the Green Man](../people/finnian-green-man.md), a powerful leprechaun-like [Fey](../concepts/fey.md) king whose authority comes from deals, trickery, accumulated power, and a strange fondness for mortal-style architecture.
 
 Unlike some [Fey](../concepts/fey.md) courts, the Summer Court uses formal halls, advisers, and holding rooms in ways that feel almost mortal.
 
@@ -27,6 +27,7 @@ In the finale, the Summer Court also becomes the place where [Wisdom](../people/
 ## Related
 
 - [Feywild](feywild.md)
+- [Finnian / the Green Man](../people/finnian-green-man.md)
 - [Kuran Grove](kuran-grove.md)
 - [Viscus](../people/viscus.md)
 - [Wisdom](../people/wisdom.md)

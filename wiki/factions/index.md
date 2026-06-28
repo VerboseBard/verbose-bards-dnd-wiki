@@ -5,6 +5,7 @@
 - [Adventurer's Guild](adventurers-guild.md)
 - [Kreen](kreen.md)
 - [Conclave of Churches](conclave-of-churches.md)
+- [Seekers](seekers.md)
 - [The Ecclesiastical Order](ecclesiastical-order.md)
 - [Godfolk Alliance](godfolk-alliance.md)
 - [Inquisition](inquisition.md)

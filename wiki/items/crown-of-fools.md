@@ -20,11 +20,12 @@ The crown is not merely a spell. [Vylra](../people/vylra.md)'s attempt to dispel
 
 In [Moon Stone Collectors, Part 16](../sessions/moon-stone-collectors-part-16.md), [Julara](../people/julara.md) first creates a cold-iron amulet that suppresses the faerie-fire effect but cannot remove the crown itself. She explains that the Keeper of the Gates' curse stole 64 years from [Paul](../people/paul.md).
 
-Later in the same session, the Green Man of the [Summer Court](../places/summer-court.md) removes the crown and restores [Paul](../people/paul.md)'s stolen years after agreeing to replace the broken Spring Court link to [Viscus](../people/viscus.md).
+Later in the same session, [Finnian / the Green Man](../people/finnian-green-man.md) of the [Summer Court](../places/summer-court.md) removes the crown and restores [Paul](../people/paul.md)'s stolen years after agreeing to replace the broken Spring Court link to [Viscus](../people/viscus.md).
 
 ## Related
 
 - [Belle](../people/belle.md)
+- [Finnian / the Green Man](../people/finnian-green-man.md)
 - [Feywild](../places/feywild.md)
 - [Kuran Grove](../places/kuran-grove.md)
 - [Moon Stone Collectors, Part 15](../sessions/moon-stone-collectors-part-15.md)

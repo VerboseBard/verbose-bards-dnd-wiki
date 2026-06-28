@@ -13,6 +13,8 @@ Junvara is a high-level spellcaster and strategist associated with the [Hell's B
 
 In the earlier late-[Sixth Age](../concepts/sixth-age.md) campaign material, Junvara is already one of the party's main interpreters of magical systems.
 
+Junvara was found on [Driftvale](../places/driftvale.md), a separate world from [Constance and Zuk](constance-l-coggeshall.md)'s [Elven Lands](../places/elven-lands.md). In the early school timeline, Junvara arrives a few days after Greg, Constance, and Zuk reach the [Radiant Citadel](../places/radiant-citadel.md).
+
 He is central to the THE BOOK crisis, the soul-parasite purge, and the library-driven logic work that lets the group understand [Wendell](wendell.md)'s plans. During the desert-world and school phases, he is repeatedly the one willing to read too far, ask the dangerous question, or stare directly at magical infrastructure until it gives up an answer.
 
 By [War of the Gods, Session 17](../sessions/war-of-the-gods-session-17.md), Junvara is helping turn the [Thornwall](../places/thornwall.md) church-dungeon from a simple hazard into a readable system. In [War of the Gods, Session 19](../sessions/war-of-the-gods-session-19.md), he is part of the group trying to survive the dungeon-core catastrophe while still extracting meaning from it.
@@ -54,6 +56,7 @@ In the reconstructed [Moon Stone Collectors, Part 10](../sessions/moon-stone-col
 ## Related
 
 - [War of the Gods, Session 8](../sessions/war-of-the-gods-session-8.md)
+- [Driftvale](../places/driftvale.md)
 - [War of the Gods, Session 17](../sessions/war-of-the-gods-session-17.md)
 - [War of the Gods, Session 19](../sessions/war-of-the-gods-session-19.md)
 - [War of the Gods, Session 21](../sessions/war-of-the-gods-session-21.md)

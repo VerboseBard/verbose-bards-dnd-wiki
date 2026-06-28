@@ -159,6 +159,8 @@ People are grouped by campaign, faction, and divine family so related figures st
 - [Gregario / Shaq](gregario-shaq.md)
 - [Junvara](junvara.md)
 - [Kestrel](kestrel.md)
+- [Experiment 69](experiment-69.md)
+- [Mummy](mummy.md)
 - [Krol](krol.md)
 - [Mullin](mullin.md)
 - [Vis / Jarvice](vis-jarvice.md)
@@ -170,6 +172,8 @@ People are grouped by campaign, faction, and divine family so related figures st
 ## War of the Gods / New Beginning Character Roster
 
 - [Greg P Smith "The Sower"](greg-p-smith.md)
+- [Experiment 69](experiment-69.md)
+- [Mummy](mummy.md)
 - [Jack Kenway](jack-kenway.md)
 - [Jarruth Stion](jarruth-stion.md)
 - [Charlie](charlie.md)
@@ -279,6 +283,8 @@ People are grouped by campaign, faction, and divine family so related figures st
 - [Eve](eve.md)
 - [Jack Kenway](jack-kenway.md)
 - [Joseph the Goblin](joseph-the-goblin.md)
+- [Experiment 69](experiment-69.md)
+- [Mummy](mummy.md)
 - [Alen](alen.md)
 - [Bishop Collins](bishop-collins.md)
 - [Deacon Matthews](deacon-matthews.md)

@@ -1,6 +1,6 @@
 # Thornwall
 
-Thornwall is a hedge-walled village in Constance's homeland during the [War of the Gods](../concepts/war-of-the-gods.md).
+Thornwall is a hedge-walled village in [Constance and Zuk](../people/constance-l-coggeshall.md)'s homeland, the [Elven Lands](elven-lands.md), during the [War of the Gods](../concepts/war-of-the-gods.md).
 
 ## Description
 
@@ -30,6 +30,7 @@ The same area later attracts outside anti-[Wendell](../people/wendell.md) forces
 
 - [War of the Gods](../concepts/war-of-the-gods.md)
 - [War of the Gods / New Beginning Campaign](../campaign/war-of-the-gods.md)
+- [Elven Lands](elven-lands.md)
 - [War of the Gods, Session 16](../sessions/war-of-the-gods-session-16.md)
 - [Charlie](../people/charlie.md)
 - [Constance and Zuk](../people/constance-l-coggeshall.md)

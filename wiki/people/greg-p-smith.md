@@ -8,6 +8,20 @@ Greg P Smith, also known as "The Sower" and often called Greg, is a figure assoc
 - Autognome
 - Artificer
 
+## Early Origin and Autognome Rebirth
+
+Greg began as a human from our world. Before being pulled into the campaign world, he was a B-class movie director who discovered an old dwarven book in the attic of his home. The book belonged to his family line, likely through his grandmother or great-grandmother.
+
+Greg was transported to the [Elven Lands](../places/elven-lands.md), not [Driftvale](../places/driftvale.md). After arriving there, he was captured by an isolated tribal goblin group cut off from the Gobfolk Alliance since [the Breaking](../concepts/the-breaking.md). These goblins were not part of the advanced gobfolk civilization; after roughly a thousand years of isolation, they had fallen into fearful, destructive tribal patterns.
+
+A Seeker rescued Greg before he could be burned at the stake. That Seeker had already found [Constance and Zuk](constance-l-coggeshall.md), making them the first elf or half-elf and dragon Greg met after entering the new reality system.
+
+At [Lady Penny Hathaway's School](../places/lady-penny-hathaways-school.md), Greg's dwarven book became dangerous when [Junvara](junvara.md) studied it. The book was tied to Greg's bloodline, and separation from it triggered a lethal ancestral curse connected to a dwarven ancestor who had been cast to Earth through a massive demonic blood sacrifice.
+
+Greg rejected the demonic temptation bound into that legacy and died. Because he died at the Academy, which is also the main temple to [Bridget](bridget.md), his soul was preserved. [Jinx](jinx.md) then placed Greg's soul into an autognome body, beginning his second life.
+
+Greg later discovered he was not alone in that body. A white mouse uplifted by Jinx into a superintelligent magical assistant shared the autognome body with him. Greg named that presence Jarvis, in honor of comic books.
+
 ## School and Library Thread
 
 In the earlier [War of the Gods / New Beginning Campaign](../campaign/war-of-the-gods.md) material, Greg is already one of the strangest and most system-facing members of the party.
@@ -51,6 +65,7 @@ Before the assault on [Jimbo's Soul Ritual](../concepts/jimbo-soul-ritual.md), G
 ## Related
 
 - [Hell's Bane Heroes](../factions/hells-bane-heroes.md)
+- [Elven Lands](../places/elven-lands.md)
 - [Divine Gate](../concepts/divine-gate.md)
 - [Greg's Concurrence Proposal](../concepts/gregs-concurrence-proposal.md)
 - [The Long Shadow Rises](../concepts/the-long-shadow-rises.md)

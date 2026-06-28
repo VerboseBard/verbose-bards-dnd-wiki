@@ -46,7 +46,7 @@ After the crystal battle, Gregario dreams of [Lilith](lilith.md) crying in ruine
 
 ## Earlier Raven Pact
 
-In the extracted [War of the Gods, Session 18](../sessions/war-of-the-gods-session-18.md), Gregario is shown already entangled with a raven-linked patron or progenitor before the later [Lilith](lilith.md)-centered development seen in [Sixth Age](../concepts/sixth-age.md) material. That figure negotiates through his raven, clears an old debt, and uses him to pass dragon cores toward 69.
+In the extracted [War of the Gods, Session 18](../sessions/war-of-the-gods-session-18.md), Gregario is shown already entangled with a raven-linked patron or progenitor before the later [Lilith](lilith.md)-centered development seen in [Sixth Age](../concepts/sixth-age.md) material. That figure negotiates through his raven, clears an old debt, and uses him to pass dragon cores toward [Experiment 69](experiment-69.md).
 
 The session also makes clear why later allies mistrust the arrangement: even when Gregario himself remains calm, the thing riding with him can still exert pressure, demand service, and redirect events through him.
 

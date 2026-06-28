@@ -10,9 +10,9 @@ Lilith appears as a very small, thin child with raven-black hair, pointed ears, 
 
 Lilith is one of [Belle](belle.md)'s two daughters and one of the clearest bridges between the [War of the Gods / New Beginning Campaign](../campaign/war-of-the-gods.md) material and the later [Sixth Age](../concepts/sixth-age.md) campaigns.
 
-[Belle](belle.md) is Lilith's biological mother. She carried and birthed Lilith through divine means, with [Alen](alen.md) assisting in the birth process. The underlying transformation of 69 and Mummy into the two girls is part of that same origin chain.
+[Belle](belle.md) is Lilith's biological mother. She carried and birthed Lilith through divine means, with [Alen](alen.md) assisting in the birth process. The underlying transformation of [Experiment 69](experiment-69.md) and [Mummy](mummy.md) into the two girls is part of that same origin chain.
 
-[Alen](alen.md) is therefore not Lilith's biological mother, but later family material treats [Alen](alen.md) much more like a stepfather or parental-guardian figure in Lilith's life.
+[Alen](alen.md)'s role is therefore not simple mortal parentage. Belle carries and births Lilith, while Alen's assistance, Raven Queen mantle, and later family role make Lilith part of Alen's death-line inheritance as well.
 
 ## Divine Nature
 
@@ -48,6 +48,8 @@ After [Annabelle](annabelle.md) severs [Gregario](gregario-shaq.md)'s old connec
 - [Eve](eve.md)
 - [Belle](belle.md)
 - [Alen](alen.md)
+- [Experiment 69](experiment-69.md)
+- [Mummy](mummy.md)
 - [Raven Queen of Saharun](raven-queen-of-saharun.md)
 - [War of the Gods / New Beginning Campaign](../campaign/war-of-the-gods.md)
 - [The Hunt for Black Vipers, Part 2](../sessions/hunt-for-black-vipers-part-2.md)

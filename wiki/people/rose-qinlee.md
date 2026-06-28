@@ -14,7 +14,7 @@ Like her sisters, Rose is part of the improbable Qinlee triplet awakening tied t
 
 In the extracted [War of the Gods, Session 16](../sessions/war-of-the-gods-session-16.md), Rose survives an earlier portal jump, emerges far away from the main group, and appears to have become the champion of a god or goddess while cutting through undead on her own.
 
-By [War of the Gods, Session 18](../sessions/war-of-the-gods-session-18.md), she is acting with far more authority than an ordinary adventurer. She arrives on the party's ship, warns them to be careful around 69, delivers two dragon cores through [Shaq](gregario-shaq.md) to pay a divine debt, and then departs to rejoin her sisters.
+By [War of the Gods, Session 18](../sessions/war-of-the-gods-session-18.md), she is acting with far more authority than an ordinary adventurer. She arrives on the party's ship, warns them to be careful around [Experiment 69](experiment-69.md), delivers two dragon cores through [Shaq](gregario-shaq.md) to pay a divine debt, and then departs to rejoin her sisters.
 
 In [War of the Gods, Session 19](../sessions/war-of-the-gods-session-19.md), [Junvara](junvara.md) catches part of Rose's mental state as she leaves. The glimpse suggests she fears a "Mistress of Death," feels trapped in someone else's revenge logic, and no longer sees revenge as worth the cost of surrendering her own will.
 

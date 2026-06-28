@@ -16,11 +16,14 @@ In the weeks before completion, worlds such as [Norvindr](../places/norvindr.md)
 
 During the final moments, the Concurrence provides enough surplus magical power for [Constance and Zuk](../people/constance-l-coggeshall.md) to force open a portal from the [Radiant Citadel](../places/radiant-citadel.md) to the [Dwarven Egg Fortress](../places/dwarven-egg-fortress.md). The same event completes the visible alignment of the worlds around the [Citadel](../places/radiant-citadel.md).
 
+The [Elven Lands](../places/elven-lands.md) are eventually consumed into [Unity](../places/unity.md) during this process. They should not be confused with [Driftvale](../places/driftvale.md), which remains a separate fog-frontier world in the Seventh Age.
+
 ## Related
 
 - [Divine Gate](divine-gate.md)
 - [Greg's Concurrence Proposal](gregs-concurrence-proposal.md)
 - [Post-Concurrence Magic Theory](post-concurrence-magic.md)
+- [Elven Lands](../places/elven-lands.md)
 - [Moon Stone Collectors, Part 1](../sessions/moon-stone-collectors-part-1.md)
 - [Moon Stone Collectors, Part 5](../sessions/moon-stone-collectors-part-5.md)
 - [Seventh Age](seventh-age.md)

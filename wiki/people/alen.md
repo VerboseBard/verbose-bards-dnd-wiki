@@ -8,13 +8,15 @@ Alen and the [Raven Queen of Saharun](raven-queen-of-saharun.md) are the same be
 
 That matters because her story spans both the Raven Queen mantle within [Saharun](../places/saharun.md)'s religious history and the manipulative family role tied to [Belle](belle.md), [Lilith](lilith.md), and [Gregario](gregario-shaq.md). Both belong to the same person at different stages of her story and under different names or roles.
 
+The Raven Queen mantle had not been properly used since [the Breaking](../concepts/the-breaking.md), because the previous Raven Queen was killed during the war with the gods at the end of the [Fifth Age](../concepts/fifth-age.md). Alen's ascension reoccupied that mantle, but she distorted what it originally was.
+
 ## Family Position
 
-Alen is not the biological mother of [Belle](belle.md), [Eve](eve.md), or [Lilith](lilith.md).
+Alen is not the biological mother of [Belle](belle.md). The birth line for [Eve](eve.md) and [Lilith](lilith.md) is stranger.
 
-Instead, Alen occupies a more tangled family role. She is treated in later material as an elder family figure to [Belle](belle.md) and, in the [Hunt for the Black Vipers](../campaign/hunt-for-black-vipers.md) line especially, as something much closer to a stepfather or parental-guardian figure in [Lilith](lilith.md)'s life.
+Belle carries and births Eve and Lilith after transforming [Experiment 69](experiment-69.md) and [Mummy](mummy.md), but Alen helps shape that process and contributes the Raven Queen line that later matters to Lilith. This is why later material can describe the twins as Belle and Alen's daughters while still treating Belle as the one who physically carries and births them.
 
-That distinction matters because Alen is often spoken about with family language, but the birth line belongs to [Belle](belle.md).
+That distinction matters because Alen is often spoken about with family language, but her role is mythic, mantle-based, and transformational rather than ordinary mortal parentage.
 
 ## Hidden Room
 
@@ -40,7 +42,7 @@ In [War of the Gods, Session 23](../sessions/war-of-the-gods-session-23.md), Ale
 
 ## Birth Assistance and Aftermath
 
-Alen assisted [Belle](belle.md) during the birth process that produced [Eve](eve.md) and [Lilith](lilith.md), but that is not the same thing as being their biological parent.
+Alen assisted [Belle](belle.md) during the birth process that produced [Eve](eve.md) and [Lilith](lilith.md). That process used [Experiment 69](experiment-69.md) and [Mummy](mummy.md) as building blocks after they had grown in power by consuming dungeon cores.
 
 Later family material suggests that after Alen's own death in that older chain of events, [Belle](belle.md) effectively retained or reclaimed a maternal role over the children and raised them until the later [Concurrence](../concepts/the-concurrence.md)-era [Divine Gate](../concepts/divine-gate.md) alterations pulled the girls apart and sent them back out into the worlds.
 
@@ -53,6 +55,8 @@ Later family material suggests that after Alen's own death in that older chain o
 - [Belle](belle.md)
 - [Eve](eve.md)
 - [Lilith](lilith.md)
+- [Experiment 69](experiment-69.md)
+- [Mummy](mummy.md)
 - [Silverbend Coastal Cave Hideout](../places/silver-bend-coastal-cave-hideout.md)
 - [Raven Queen of Saharun](raven-queen-of-saharun.md)
 - [Rax'al Karath Prophecy](../concepts/raxal-karath-prophecy.md)

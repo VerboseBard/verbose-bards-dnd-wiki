@@ -8,7 +8,7 @@ Session 20 opens with the consequences of the previous ship disaster split acros
 
 After that character-heavy opening, the session pivots hard into war logistics. [Veil](../people/veil-guardian-of-the-citadel.md) finally receives [Junvara](../people/junvara.md) and [Greg](../people/greg-p-smith.md) in the hidden center of the [Citadel](../places/radiant-citadel.md), the party is given portal devices to deploy reinforcements, and the defense of Constance's homeland begins in earnest.
 
-By the end of the session, however, the tactical victory is overshadowed by a quieter disaster: 69 privately consumes the final dragon core [Belle](../people/belle.md) wanted, disappears from the battlefield, and effectively becomes part of her long-running reproductive and divine power scheme.
+By the end of the session, however, the tactical victory is overshadowed by a quieter disaster: [Experiment 69](../people/experiment-69.md) privately consumes the final dragon core [Belle](../people/belle.md) wanted, disappears from the battlefield, and effectively becomes part of her long-running reproductive and divine power scheme.
 
 ## Key Events
 
@@ -31,14 +31,16 @@ By the end of the session, however, the tactical victory is overshadowed by a qu
 - The party arrives near Constance's homeland in the middle of a massive battle between undead forces and dragons, with defenders already stretched thin.
 - They deploy the first anchors successfully, open the gates, and quickly prove how much stronger the post-session-19 group has become by tearing through an undead dragon and its support almost immediately.
 - Constance reunites briefly with Zuk's mother and with her brother [Lucian Coggeshall](../people/lucian-coggeshall.md), whose personality remains exactly as abrasive as expected even under siege.
-- While the others focus on the battle and the reinforcement gates, 69 privately receives the final dragon core from the fallen undead dragon and consumes it.
+- While the others focus on the battle and the reinforcement gates, [Experiment 69](../people/experiment-69.md) privately receives the final dragon core from the fallen undead dragon and consumes it.
 - That act pulls him completely into [Belle](../people/belle.md)'s private space, where [Belle](../people/belle.md), [Alen](../people/alen.md), [Mave](../people/mave.md), Diona, and [Mave](../people/mave.md)'s mother all appear as overlapping divine stakeholders in what is about to happen.
-- [Belle](../people/belle.md) reveals that 69's entire growth path has been part of her plan, absorbs him into herself, reshapes mummy as well, and proceeds toward childbirth with [Alen](../people/alen.md)'s bargain fulfilled.
-- The session ends with [Belle](../people/belle.md) giving birth to twins, effectively removing 69 from the battlefield and transforming him from party member into part of [Belle](../people/belle.md)'s divine family project.
+- [Belle](../people/belle.md) reveals that Experiment 69's entire growth path has been part of her plan, absorbs him into herself, reshapes [Mummy](../people/mummy.md) as well, and proceeds toward childbirth with [Alen](../people/alen.md)'s bargain fulfilled.
+- The session ends with [Belle](../people/belle.md) giving birth to twins, effectively removing Experiment 69 from the battlefield and transforming him and Mummy into part of Belle and Alen's divine family project.
 
 ## Important People
 
 - [Constance and Zuk](../people/constance-l-coggeshall.md)
+- [Experiment 69](../people/experiment-69.md)
+- [Mummy](../people/mummy.md)
 - [Mullin](../people/mullin.md)
 - [Charlie](../people/charlie.md)
 - [Veil, Guardian of the Citadel](../people/veil-guardian-of-the-citadel.md)
@@ -56,8 +58,8 @@ By the end of the session, however, the tactical victory is overshadowed by a qu
 
 Session 20 is where the cast stops merely talking about change and actually becomes different people. Constance and Zuk are no longer just bonded; they are metaphysically entangled. [Mullin](../people/mullin.md) is no longer meaningfully a cleric in the old sense at all. [Greg](../people/greg-p-smith.md) and [Junvara](../people/junvara.md) now have direct access to [Veil](../people/veil-guardian-of-the-citadel.md). The [Citadel](../places/radiant-citadel.md) itself becomes more than a backdrop and starts acting like an organized but hidden intelligence center.
 
-It is also the session where [Belle](../people/belle.md)'s long game stops being deniable. Whatever softer explanation she gave in session 19, session 20 confirms that 69 was being cultivated toward a very specific reproductive and divine end state. From the party's perspective, that is not just manipulation. It is the effective loss of a companion to a plan they only partly understood until it was already complete.
+It is also the session where [Belle](../people/belle.md)'s long game stops being deniable. Whatever softer explanation she gave in session 19, session 20 confirms that [Experiment 69](../people/experiment-69.md) was being cultivated toward a very specific reproductive and divine end state. From the party's perspective, that is not just manipulation. It is the effective loss of a companion to a plan they only partly understood until it was already complete.
 
 ## Source Notes
 
-Derived from the uploaded Session 20 transcript fragment for Hellsbane's heroes at the end of the [Sixth Age](../concepts/sixth-age.md), in the [War of the Gods / New Beginning Campaign](../campaign/war-of-the-gods.md). The session covers the absent-player fallout from the ship disaster, Constance and Zuk's transformed bond, [Mullin](../people/mullin.md)'s rejection of divine dependence, [Junvara](../people/junvara.md) and [Greg](../people/greg-p-smith.md)'s meeting with [Veil](../people/veil-guardian-of-the-citadel.md), the first reinforcement-gate deployment in the dragon battle, and 69's final disappearance into [Belle](../people/belle.md)'s scheme.
+Derived from the uploaded Session 20 transcript fragment for Hellsbane's heroes at the end of the [Sixth Age](../concepts/sixth-age.md), in the [War of the Gods / New Beginning Campaign](../campaign/war-of-the-gods.md). The session covers the absent-player fallout from the ship disaster, Constance and Zuk's transformed bond, [Mullin](../people/mullin.md)'s rejection of divine dependence, [Junvara](../people/junvara.md) and [Greg](../people/greg-p-smith.md)'s meeting with [Veil](../people/veil-guardian-of-the-citadel.md), the first reinforcement-gate deployment in the dragon battle, and [Experiment 69](../people/experiment-69.md)'s final disappearance into [Belle](../people/belle.md)'s scheme.

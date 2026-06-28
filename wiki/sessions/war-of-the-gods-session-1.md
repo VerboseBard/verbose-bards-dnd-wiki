@@ -9,7 +9,9 @@ The campaign opens with newly awakened characters being found across the realms 
 ## Key Events
 
 - The Seekers begin gathering awakened people from different worlds and circumstances.
-- Constance and Gadzooks are found by Seeker Linda.
+- [Constance and Zuk](../people/constance-l-coggeshall.md) are found by Seeker Linda in the [Elven Lands](../places/elven-lands.md).
+- [Greg](../people/greg-p-smith.md) is rescued from isolated tribal goblins on the Elven Lands after Constance and Zuk have already been found.
+- [Junvara](../people/junvara.md) arrives a few days later after being found on [Driftvale](../places/driftvale.md).
 - Molokan is found on the beach by Seeker Lindsey.
 - Other arrivals include figures under the supervision of Seeker Laura and the clay-like Seeker Lucy.
 - The group passes through a massive crystal transit station before arriving at the school.
@@ -26,6 +28,8 @@ The campaign opens with newly awakened characters being found across the realms 
 
 - [Radiant Citadel](../places/radiant-citadel.md)
 - [Lady Penny Hathaway's School](../places/lady-penny-hathaways-school.md)
+- [Elven Lands](../places/elven-lands.md)
+- [Driftvale](../places/driftvale.md)
 
 ## Consequences
 

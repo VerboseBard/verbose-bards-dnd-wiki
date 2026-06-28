@@ -8,15 +8,15 @@ Belle is the daughter of [Maeve](maeve.md), the older goddess of magic and forme
 
 Belle considered [Bridget](bridget.md), and later [Mave](mave.md) in [Bridget](bridget.md)'s place, more than mere allies in divinity. They were family inside the old council structure, even when politics and succession later complicated that language.
 
-Belle is also the biological mother of [Eve](eve.md) and [Lilith](lilith.md). She carried them and used her own power to birth them, transforming 69 and Mummy into those two daughters as part of the process.
+Belle is also the biological mother of [Eve](eve.md) and [Lilith](lilith.md). She carried them and used her own power to birth them, transforming [Experiment 69](experiment-69.md) and [Mummy](mummy.md) into those two daughters as part of the process.
 
 That family line becomes one of the most important through-lines connecting the [War of the Gods / New Beginning Campaign](../campaign/war-of-the-gods.md), [The Hunt for Black Vipers](../campaign/hunt-for-black-vipers.md), and [Moon Stone Collectors](../campaign/moonstone-collectors.md).
 
 ## Alen and the Family Structure
 
-[Alen](alen.md) is not Belle's biological mother. Instead, [Alen](alen.md) belongs to the family in a more complicated later role: effectively an elder family figure to Belle and a stepfather or parental-guardian figure in [Lilith](lilith.md)'s line.
+[Alen](alen.md) is not Belle's biological mother. Instead, Alen belongs to the family in a more complicated later role: an elder family figure to Belle and a power directly involved in the transformation that produces Eve and Lilith.
 
-That distinction matters because later campaign material often treats [Alen](alen.md) as deeply entangled with Belle's daughters without making her their literal birth parent.
+That distinction matters because later campaign material often treats Alen as deeply entangled with Belle's daughters. Belle carries and births the twins, but Alen's assistance, Raven Queen mantle, and later family role are why the girls can be described in mythic family language as Belle and Alen's daughters.
 
 ## Wrath Against Wendell
 
@@ -34,17 +34,17 @@ Belle remains recognized in some form, but her exact doctrinal status is politic
 
 In the extracted [War of the Gods, Session 17](../sessions/war-of-the-gods-session-17.md), Belle is briefly called into a magma-fed chamber beneath [Thornwall](../places/thornwall.md). She immediately recognizes the magical current there as something on the scale of a ley-line event and effectively becomes intoxicated on the raw power flowing through the room before descending deeper into the fire.
 
-In [War of the Gods, Session 18](../sessions/war-of-the-gods-session-18.md), Belle's manipulation becomes much more explicit. She pressures 69 in dreams, frames obedience and violence in the language of love and purpose, and presents multiple paths for him to grow stronger in service to her. The same session also confirms that her recent maneuvering is severe enough for [Mave](mave.md) to step away from the pantheon rather than endorse it.
+In [War of the Gods, Session 18](../sessions/war-of-the-gods-session-18.md), Belle's manipulation becomes much more explicit. She pressures [Experiment 69](experiment-69.md) in dreams, frames obedience and violence in the language of love and purpose, and presents multiple paths for him to grow stronger in service to her. The same session also confirms that her recent maneuvering is severe enough for [Mave](mave.md) to step away from the pantheon rather than endorse it.
 
-In [War of the Gods, Session 19](../sessions/war-of-the-gods-session-19.md), Belle appears again in a more conversational but no less revealing form. While playing a chaotic board game with 69 and [Greg](greg-p-smith.md), she insists that she is not trying to stop the [Divine Gate](../concepts/divine-gate.md) simply to preserve her own comfort, and claims she only needs 69 to receive one more dragon core so she can finish her own move and step off the board safely.
+In [War of the Gods, Session 19](../sessions/war-of-the-gods-session-19.md), Belle appears again in a more conversational but no less revealing form. While playing a chaotic board game with Experiment 69 and [Greg](greg-p-smith.md), she insists that she is not trying to stop the [Divine Gate](../concepts/divine-gate.md) simply to preserve her own comfort, and claims she only needs Experiment 69 to receive one more dragon core so she can finish her own move and step off the board safely.
 
 That session also gives one of the clearest short summaries of Belle's self-understanding: she rejects the party's simplified version of her motives, but openly admits that she is still a villain. She just insists she is a different villain than the one they have imagined.
 
-In [War of the Gods, Session 20](../sessions/war-of-the-gods-session-20.md), Belle's "one more dragon core" promise cashes out in the worst possible way for the party. Once 69 privately consumes the last core, Belle pulls him fully into her space, absorbs him into her own essence, reshapes mummy as well, and proceeds into childbirth with [Alen](alen.md)'s assistance.
+In [War of the Gods, Session 20](../sessions/war-of-the-gods-session-20.md), Belle's "one more dragon core" promise cashes out in the worst possible way for the party. Once Experiment 69 privately consumes the last core, Belle pulls him fully into her space, absorbs him into her own essence, reshapes Mummy as well, and proceeds into childbirth with [Alen](alen.md)'s assistance.
 
-Whatever softer language Belle previously used about love, purpose, and stepping off the board, the practical result is brutal: 69 ceases to function as an adventuring companion and becomes part of Belle's divine family project instead.
+Whatever softer language Belle previously used about love, purpose, and stepping off the board, the practical result is brutal: Experiment 69 ceases to function as an adventuring companion and becomes part of Belle's divine family project instead.
 
-In [War of the Gods, Session 22](../sessions/war-of-the-gods-session-22.md), the after-effects of that plan become clearer. Other powers now speak as though Belle has largely stepped off the main board after completing her move with 69, even if the damage, children, and political consequences of that move are only beginning to unfold.
+In [War of the Gods, Session 22](../sessions/war-of-the-gods-session-22.md), the after-effects of that plan become clearer. Other powers now speak as though Belle has largely stepped off the main board after completing her move with Experiment 69, even if the damage, children, and political consequences of that move are only beginning to unfold.
 
 ## Earlier Fifth-Age Echo
 
@@ -88,6 +88,8 @@ Together they mark [Paul](paul.md) with the [Crown of Fools](../items/crown-of-f
 - [Bridget](bridget.md)
 - [Mave](mave.md)
 - [Alen](alen.md)
+- [Experiment 69](experiment-69.md)
+- [Mummy](mummy.md)
 - [Eve](eve.md)
 - [Lilith](lilith.md)
 - [Crown of Fools](../items/crown-of-fools.md)

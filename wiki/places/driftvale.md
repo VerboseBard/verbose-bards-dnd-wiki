@@ -2,6 +2,12 @@
 
 Driftvale is a fog-shrouded world and one of the most important postwar theaters after [the Kreen War](../concepts/kreen-war.md). It contains the destroyed [Gorbin gate site](gorbin-ruins.md), [Fort Victory](fort-victory.md), the boomtown [Sin](sin.md), and deep fog regions that hide ruins, monsters, native peoples, and anomalous wreckage.
 
+## Continuity Boundary
+
+Driftvale is separate from the [Elven Lands](elven-lands.md). The Elven Lands are [Constance and Zuk](../people/constance-l-coggeshall.md)'s homeland and the later undead-invasion front. Driftvale is the fog-frontier world tied to [Kestrel](../people/kestrel.md), [Junvara](../people/junvara.md), [Experiment 69](../people/experiment-69.md), and the later Seventh Age campaign.
+
+[Experiment 69](../people/experiment-69.md) was found on Driftvale in a strange research lab, but that lab was not native to Driftvale. It appeared there as displaced detritus from other realities.
+
 ## Fifth Age
 
 No [Fifth Age](../concepts/fifth-age.md) material has been added for Driftvale yet.
@@ -36,6 +42,7 @@ Driftvale is also the place where many units attempt a final high-risk haul befo
 
 - [Fort Victory](fort-victory.md)
 - [Sin](sin.md)
+- [Elven Lands](elven-lands.md)
 - [The Crashed Ship](crashed-ship.md)
 - [Fog Whales](../concepts/fog-whales.md)
 - [Driftvale Fog Walkers](../factions/driftvale-fog-walkers.md)

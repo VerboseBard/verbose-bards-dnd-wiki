@@ -9,6 +9,7 @@
 - [Duskwatch](duskwatch.md)
 - [Larkspur Bend](larkspur-bend.md)
 - [Driftvale](driftvale.md)
+- [Elven Lands](elven-lands.md)
 - [Norvindr](norvindr.md)
 - [Rimefall](rimefall.md)
 - [Whiteridge](whiteridge.md)

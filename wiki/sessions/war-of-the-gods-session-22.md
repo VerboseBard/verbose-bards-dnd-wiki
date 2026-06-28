@@ -10,7 +10,7 @@ It is also the session where [Mullin](../people/mullin.md)'s story sharply chang
 
 ## Key Events
 
-- The session opens with the immediate recap of the crashed-ship dungeon, 69's disappearance, and the group still split between the wall, the battlefield, and Constance's family stronghold.
+- The session opens with the immediate recap of the crashed-ship dungeon, [Experiment 69](../people/experiment-69.md)'s disappearance, and the group still split between the wall, the battlefield, and Constance's family stronghold.
 - Constance is summoned before her father [Cornelius Coggeshall](../people/cornelius-coggeshall.md), [Lucian Coggeshall](../people/lucian-coggeshall.md), and allied officers, where the old hatred around her birth is dragged into the open.
 - [Lucius](../people/lucius.md) publicly recites the hostile prophecy that framed her as a malformed betrayer who would doom her kin.
 - [Cousin Lucy](../people/cousin-lucy.md) interrupts and reveals that there were actually two prophecies spoken the night Constance was born, not one.
@@ -36,7 +36,7 @@ It is also the session where [Mullin](../people/mullin.md)'s story sharply chang
 - When the party returns to the [Radiant Citadel](../places/radiant-citadel.md), Constance's father loudly repeats the hateful prophecy behind her, making clear that reconciliation with her family is not coming soon.
 - During the return fallout, [Mave](../people/mave.md) later confronts [Mullin](../people/mullin.md) privately and reveals that [Straka](../people/straka.md) never truly brought him back.
 - Instead, the belief and legend in the Commodore's return appear to be feeding him power directly, placing him on a path that could approach godhood or something dangerously adjacent to it.
-- [Mave](../people/mave.md) also makes clear that [Belle](../people/belle.md) has effectively stepped off the main board after completing her plan with 69, even if her influence and consequences remain.
+- [Mave](../people/mave.md) also makes clear that [Belle](../people/belle.md) has effectively stepped off the main board after completing her plan with [Experiment 69](../people/experiment-69.md), even if her influence and consequences remain.
 - The next morning, [Junvara](../people/junvara.md) asks the library for the record of [Wendell](../people/wendell.md)'s own research questions.
 - That search history shows [Wendell](../people/wendell.md) has been repeatedly asking about repairing the [Divine Gate](../concepts/divine-gate.md), recreating ley lines, creating dungeon cores, tracking [Alen](../people/alen.md), and monitoring whether [Lucius](../people/lucius.md)'s timetable is still on pace.
 - The party meets to compare notes and comes away with a more dangerous picture than before: [Wendell](../people/wendell.md) may be improvising, but he is not acting alone, [Lucius](../people/lucius.md)'s role is still unclear, and several factions may be exploiting the same catastrophe at once.

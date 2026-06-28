@@ -15,11 +15,11 @@ Eve manifests older and more powerful than [Lilith](lilith.md), appearing around
 
 ## Origin
 
-Eve is [Belle](belle.md)'s biological daughter and [Lilith](lilith.md)'s twin. [Belle](belle.md) carried and birthed the two girls through divine means, with the birth process transforming 69 and Mummy into the children.
+Eve is [Belle](belle.md)'s biological daughter and [Lilith](lilith.md)'s twin. Belle carried and birthed the two girls through divine means, with the birth process transforming [Experiment 69](experiment-69.md) and [Mummy](mummy.md) into the children.
 
 That origin matters to later conversations with [Belle](belle.md), because part of [Belle](belle.md)'s manipulation appears tied not just to power or survival but to wanting her daughters back, especially refusing to surrender [Lilith](lilith.md).
 
-[Alen](alen.md) assisted in the birth line and later family structure, but [Alen](alen.md) is not Eve's biological mother.
+[Alen](alen.md) assisted in the birth line and later family structure. Belle is Eve's biological mother in the sense that she carried and birthed the twins, while Alen's assistance and Raven Queen mantle make the later family language more complicated than ordinary mortal parentage.
 
 ## Opaal Attack
 
@@ -80,6 +80,8 @@ In the lower temple, Eve turns herself into a firestorm, combining Immolation, W
 - [Lilith](lilith.md)
 - [Belle](belle.md)
 - [Alen](alen.md)
+- [Experiment 69](experiment-69.md)
+- [Mummy](mummy.md)
 - [War of the Gods / New Beginning Campaign](../campaign/war-of-the-gods.md)
 - [Opaal](../places/opaal.md)
 - [The Hunt for Black Vipers, Part 1](../sessions/hunt-for-black-vipers-part-1.md)

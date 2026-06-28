@@ -10,6 +10,10 @@ Kestrel is a bardic duelist and awakened member of the later [Hell's Bane Heroes
 
 His surviving notes start well before the late-session war archive, during the school period under [Mave](mave.md), and continue forward into the [Black Vipers](../factions/black-vipers.md), [Lucius](lucius.md), and [Jimbo's Soul Ritual](../concepts/jimbo-soul-ritual.md) arcs.
 
+## Driftvale Origin
+
+Kestrel is from [Driftvale](../places/driftvale.md), not the [Elven Lands](../places/elven-lands.md). His later receipt of the [Shifter's Mask](../items/shifters-mask.md) ties him back to ancient Driftvale history and his people's buried past.
+
 ## School and Song
 
 Kestrel's early arc is tied closely to the academy phase of the New Beginning campaign. At school he trains rapier work, dexterity, and stagecraft while learning to function as an awakened musician rather than only an ordinary performer.
@@ -92,6 +96,7 @@ Derived from the local source file `C:\Users\bulld\Downloads\Kestrel notes.txt`,
 - [War of the Gods / New Beginning Campaign](../campaign/war-of-the-gods.md)
 - [Sixth Age](../concepts/sixth-age.md)
 - [Black Vipers](../factions/black-vipers.md)
+- [Driftvale](../places/driftvale.md)
 - [Junvara](junvara.md)
 - [Mave](mave.md)
 - [Greg](greg-p-smith.md)

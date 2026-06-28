@@ -4,7 +4,9 @@ The Raven Queen of Saharun is [Alen](alen.md), the death queen associated with [
 
 ## Role
 
-[Alen](alen.md) ruled [Saharun](../places/saharun.md) before ascending during or after the [Kreen War](../concepts/kreen-war.md). Her ascension contributes to a major power vacuum and is one of the reasons [Saharun](../places/saharun.md)'s later political and religious structure is so unstable.
+The Raven Queen mantle had not been properly used since [the Breaking](../concepts/the-breaking.md), because the previous Raven Queen was killed during the war with the gods at the end of the [Fifth Age](../concepts/fifth-age.md).
+
+[Alen](alen.md) later ascended and took the mantle, but distorted what that mantle originally was. Her ascension contributes to a major power vacuum and is one of the reasons [Saharun](../places/saharun.md)'s later political and religious structure is so unstable.
 
 ## Identity
 

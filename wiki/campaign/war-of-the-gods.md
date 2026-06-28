@@ -12,15 +12,23 @@ Across the surviving notes and transcripts, the campaign moves through several m
 - the desert-world missions, mine ritual, and [Hawk](../people/hawk.md)'s intervention against [Aylinn](../people/aylinn.md)'s control
 - the Emerald Palace council disaster and school-side fallout
 - [Radiant Citadel](../places/radiant-citadel.md) labor, dock, and Black Viper pressure
-- the undead war in the elven lands and the [Thornwall](../places/thornwall.md) refuge and assault arc
+- the undead war in the [Elven Lands](../places/elven-lands.md) and the [Thornwall](../places/thornwall.md) refuge and assault arc
 - dungeon-core, dragon-core, and ley-line revelations
 - the [Radiant Citadel](../places/radiant-citadel.md) siege, [Lucius](../people/lucius.md)'s return attempt, and the beginning of the [Seventh Age](../concepts/seventh-age.md) transition
+
+## World-Origin Notes
+
+The Elven Lands and [Driftvale](../places/driftvale.md) are separate worlds. Constance and Zuk are from the Elven Lands, where the party later returns to fight the undead invasion. Kestrel is from Driftvale, and [Experiment 69](../people/experiment-69.md) and [Junvara](../people/junvara.md) were found there.
+
+[Greg](../people/greg-p-smith.md) was transported to the Elven Lands, not Driftvale. After arriving there, he was captured by isolated tribal goblins cut off from the Gobfolk Alliance since [the Breaking](../concepts/the-breaking.md). A Seeker who had already found Constance and Zuk rescued him before bringing them through the crystal transport network to the [Radiant Citadel](../places/radiant-citadel.md).
 
 ## Roster Snapshot
 
 These levels and class mixes are a reference snapshot from uploaded roster information. Because builds shifted during play, the exact level and class state should not override session lore when a specific scene says otherwise.
 
 - [Greg P Smith "The Sower"](../people/greg-p-smith.md): Level 10 Autognome Artificer.
+- [Experiment 69](../people/experiment-69.md): found on Driftvale in a displaced research lab; later central to Belle's divine-family plan.
+- [Mummy](../people/mummy.md): originally a goldfish companion of Experiment 69; later made sentient by Belle's blessing.
 - [Jack Kenway](../people/jack-kenway.md): Level 20 Lineages Fighter / Rogue / Champion / Swashbuckler / Captain / Chieftain. Player: Unassigned.
 - [Jarruth Stion](../people/jarruth-stion.md): Level 20 Aasimar Ranger / Fighter / Beast Master.
 - [Charlie](../people/charlie.md): Level 20 Astral Elf Fighter / Gunslinger / Artificer / Artillerist.

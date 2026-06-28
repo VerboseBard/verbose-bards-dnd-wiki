@@ -10,11 +10,15 @@ Constance L. Coggeshall and Zuk are dragon-bonded partners associated with a new
 
 ## Constance's Origin
 
+Constance is from the [Elven Lands](../places/elven-lands.md), not [Driftvale](../places/driftvale.md). The Elven Lands are the world where the party later returns to fight the undead invasion and where Constance's dragon-keeper bloodline was rooted before the [Concurrence](../concepts/the-concurrence.md).
+
 Constance was born into the Coggeshall line, the ruling bloodline of the Keepers of the Dragons. She was born under a dark prophecy and with one leg malformed, which caused her father to immediately reject her as a bastard or a divine curse rather than acknowledge her as his daughter.
 
 Her childhood was defined by isolation, neglect, and abuse. She was hidden away as a family disgrace, pushed into a shed at the edge of home life, and treated as something between embarrassment and omen. That rejection shaped both her stubborn independence and her need to build what the world refused to give her.
 
 Her bond with Zuk is therefore not just heroic destiny. It is a reversal of everything her family said she was not allowed to become. The child they treated as cursed became one of the defining dragon-bonded figures of the age.
+
+A Seeker found Constance and Zuk before rescuing [Greg](greg-p-smith.md) from the isolated goblins who had captured him on the Elven Lands. This makes Constance and Zuk Greg's first non-goblin contacts after he was pulled into the campaign world.
 
 ## Family
 
@@ -113,6 +117,7 @@ At the [Shippers and Delivery Guild Warehouse](../places/shippers-and-delivery-g
 - [Cousin Lucy](cousin-lucy.md)
 - [Josiah](josiah.md)
 - [Constance and Zuk's Dragon-Bonding School](../places/constance-and-zuks-dragon-bonding-school.md)
+- [Elven Lands](../places/elven-lands.md)
 - [Silverbend](../places/silver-bend.md)
 - [The Hunt for Black Vipers, Part 2](../sessions/hunt-for-black-vipers-part-2.md)
 - [The Hunt for Black Vipers, Part 3](../sessions/hunt-for-black-vipers-part-3.md)

@@ -4,13 +4,13 @@ This side session continues directly from [War of the Gods, Session 20](war-of-t
 
 ## Overview
 
-Session 21 begins in the immediate aftermath of 69's disappearance. The battlefield is still active, but the emotional center of the session shifts away from the siege itself and toward what the party now believes about gods, sacrifice, the [Divine Gate](../concepts/divine-gate.md), and each other.
+Session 21 begins in the immediate aftermath of [Experiment 69](../people/experiment-69.md)'s disappearance. The battlefield is still active, but the emotional center of the session shifts away from the siege itself and toward what the party now believes about gods, sacrifice, the [Divine Gate](../concepts/divine-gate.md), and each other.
 
 The practical action of the session comes from [Junvara](../people/junvara.md)'s descent into the newborn dungeon. There, instead of finding a simple hostile artifact, he encounters something childlike, frightened, and possibly manipulative. That encounter changes the party's understanding of what dungeon cores actually are.
 
 ## Key Events
 
-- The group finally compares notes about 69's disappearance and reaches open frustration with both [Belle](../people/belle.md) and the chain of choices that helped her complete the plan.
+- The group finally compares notes about Experiment 69's disappearance and reaches open frustration with both [Belle](../people/belle.md) and the chain of choices that helped her complete the plan.
 - They also confirm that the dungeon-born threat from the crashed ship has to be dealt with immediately before it can overwhelm the battlefield.
 - [Junvara](../people/junvara.md) enters the newborn dungeon alone, using speed, magic, and stealth to navigate through spawning undead and collapsing corridors while the others remain outside.
 - Inside, he discovers that the dungeon has already formed decoy structures, local power nodes, and a central stone-dragon housing for the true core.
@@ -25,7 +25,7 @@ The practical action of the session comes from [Junvara](../people/junvara.md)'s
 - [Junvara](../people/junvara.md) argues for reinstating the Gate through a more ethical and controlled path than [Wendell](../people/wendell.md)'s current method, while still remaining deeply skeptical of all divine actors involved.
 - [Gregario / Shaq](../people/gregario-shaq.md) remains more guarded, but [Alen](../people/alen.md)'s influence is still visible through the raven-tattoo commentary and the way her logic continues to frame his choices.
 - Rose, meanwhile, is privately summoned by [Alen](../people/alen.md) and learns that her service is almost over. [Alen](../people/alen.md) promises eventual release and hints that Rose may finally be allowed either reunion or revenge once the current bargain concludes.
-- The session ends not with a giant reveal or boss fight, but with a hard-won pause: the dungeon crisis is contained, 69 is gone, the battle still rages beyond the wall, and the party is more ideologically divided than ever even while sharing the same short-term goals.
+- The session ends not with a giant reveal or boss fight, but with a hard-won pause: the dungeon crisis is contained, Experiment 69 is gone, the battle still rages beyond the wall, and the party is more ideologically divided than ever even while sharing the same short-term goals.
 
 ## Important People
 
@@ -49,4 +49,4 @@ It also cements that the group's problem is no longer simply "stop [Wendell](../
 
 ## Source Notes
 
-Derived from the uploaded Session 21 transcript fragment for Hellsbane's heroes at the end of the [Sixth Age](../concepts/sixth-age.md), in the [War of the Gods / New Beginning Campaign](../campaign/war-of-the-gods.md). The session covers the aftermath of 69's disappearance, [Junvara](../people/junvara.md)'s solo dungeon-core retrieval, the revelation that dungeon cores may be conscious, and the party's extended debate over gods, sacrifice, and the [Divine Gate](../concepts/divine-gate.md).
+Derived from the uploaded Session 21 transcript fragment for Hellsbane's heroes at the end of the [Sixth Age](../concepts/sixth-age.md), in the [War of the Gods / New Beginning Campaign](../campaign/war-of-the-gods.md). The session covers the aftermath of [Experiment 69](../people/experiment-69.md)'s disappearance, [Junvara](../people/junvara.md)'s solo dungeon-core retrieval, the revelation that dungeon cores may be conscious, and the party's extended debate over gods, sacrifice, and the [Divine Gate](../concepts/divine-gate.md).

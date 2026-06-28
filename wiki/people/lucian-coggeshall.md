@@ -2,6 +2,8 @@
 
 Lucian Coggeshall is Constance's eldest brother, firstborn heir of the Coggeshall line, and one of the primary abusers of her childhood.
 
+He is not [Lucius](lucius.md), the devil/demon god figure and architect of the gods' downfall. The similar names refer to completely separate people.
+
 ## Cruelty
 
 Already an adult by the time Constance was born, Lucian Coggeshall saw her disability and age gap as a stain on the family. He beat her, locked her in the shed for days when he could get away with it, threw her down wells, and made a game of public humiliation.

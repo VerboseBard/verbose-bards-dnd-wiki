@@ -28,7 +28,7 @@ Constance's family history is bitter even before the later wars:
 
 - [Cornelius Coggeshall](cornelius-coggeshall.md), lord of the house and head of the dragon keepers, disowned her at birth and refused her public affection or recognition.
 - [Genevieve Coggeshall](genevieve-coggeshall.md), her mother, loved her quietly and secretly brought her comfort, gifts, and encouragement in the shed.
-- [Lucian Coggeshall](lucian-coggeshall.md), her eldest brother and heir, brutally abused her throughout childhood and spread stories that she was a cursed changeling.
+- [Lucian Coggeshall](lucian-coggeshall.md), her eldest brother and heir, brutally abused her throughout childhood and spread stories that she was a cursed changeling. He is a separate person from [Lucius](lucius.md), the divine deceiver.
 - [Josephine Coggeshall](josephine-coggeshall.md), her older sister, treated her with contempt and later raised her own children to despise Constance's disability.
 
 Constance also survived because a few people in and around the village saw her clearly:

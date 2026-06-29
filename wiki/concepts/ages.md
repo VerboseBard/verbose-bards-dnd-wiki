@@ -30,7 +30,7 @@ This page is a quick entry point for the first through tenth ages. If an age has
 ## Sixth Age
 
 - [Sixth Age](sixth-age.md)
-- Summary: The era immediately before the [Concurrence](the-concurrence.md), including the [Kreen War](kreen-war.md)'s exhaustion, modern divine politics, and the leadup to the [Divine Gate](divine-gate.md).
+- Summary: The era immediately before the [Concurrence](the-concurrence.md), including the [Kreen War](kreen-war.md)'s exhaustion, modern divine politics, the leadup to the [Divine Gate](divine-gate.md), and the pre-Concurrence [Sixth Age World Outline](sixth-age-world-outline.md).
 
 ## Seventh Age
 

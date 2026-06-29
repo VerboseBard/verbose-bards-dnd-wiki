@@ -11,6 +11,7 @@
 - [Age of Heroes](age-of-heroes.md)
 - [Seventh Age](seventh-age.md)
 - [Sixth Age](sixth-age.md)
+- [Sixth Age World Outline](sixth-age-world-outline.md)
 - [Eighth Age](eighth-age.md)
 - [Ninth Age](ninth-age.md)
 - [Tenth Age](tenth-age.md)

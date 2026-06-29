@@ -44,6 +44,8 @@ Details pending.
 
 The [Sixth Age](sixth-age.md) includes the leadup to [the Concurrence](the-concurrence.md), the rise of modern divine politics, and the conditions that produce the [Divine Gate](divine-gate.md).
 
+The [Sixth Age World Outline](sixth-age-world-outline.md) preserves the visual reference for this pre-Concurrence world structure.
+
 The [War of the Gods](war-of-the-gods.md) erupts when [Lucius](../people/lucius.md) turns on gods, heroes, and allies alike. At the height of his power, the [Hell's Bane Heroes](../factions/hells-bane-heroes.md) strike him down. His defeat still leaves the [Divine Gate](divine-gate.md) sealed, ending the age of direct divine rule.
 
 ## Seventh Age

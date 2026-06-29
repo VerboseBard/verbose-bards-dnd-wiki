@@ -50,13 +50,15 @@ The forbidden crypt is the danger pivot of the session.
 
 Once the party enters, the trail stops being theoretical and becomes a confrontation with the sealed past.
 
-## Elsewhere I - The Queen Beneath the Waves
+## Elsewhere II - The Queen Beneath the Waves
 
 The cutaway moves to [Opaal](../places/opaal.md) and the Coral Palace, tying the session to [Mulligan](../people/mulligan.md)'s ancient Commodore history.
 
 [Mira of Opaal](../people/mira-of-opaal.md) speaks with [Aurora, Queen Beneath the Waves](../people/aurora-queen-beneath-waves.md), and the scene flashes through the Shattering, the Rebirth, and the long memory of deep ocean power. The conversation reframes the Commodore as both beloved father and cursed betrayer.
 
 The scene also points toward the [Opaal Old One](../concepts/opaal-old-one.md) and the [Commodore Prophecy](../concepts/commodore-prophecy.md): the Commodore's return means the old seal is failing and the deep threat is close again.
+
+Full review: [Moon Stone Collectors Elsewares](../campaign/moonstone-collectors-elsewares.md#entry-2-queen-beneath-the-waves)
 
 ## Important Places
 

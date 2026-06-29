@@ -8,6 +8,14 @@ The arc begins as a rescue-and-escort job. The [Moon Stone Collectors](../factio
 
 From there the campaign widens into the [Concurrence](../concepts/the-concurrence.md) itself. The world is literally changing under the party's feet as the old gods' order collapses, new travel structures emerge, and the party moves between [Norvindr](../places/norvindr.md), the [Citadel](../places/radiant-citadel.md), and later the thawing north. What begins as escort work becomes a chain of discoveries about divine politics, old ruins, dead gods, and the consequences of the [Concurrence](../concepts/the-concurrence.md).
 
+## Elsewares
+
+Elsewares are a Moon Stone Collectors campaign device: cutaway scenes, visions, dreams, ritual views, and off-screen consequences that show events beyond the active party's immediate perspective.
+
+The campaign Elseware hub collects those scenes in one place, with a quick review index and detailed breakdowns for each scene:
+
+- [Moon Stone Collectors Elsewares](moonstone-collectors-elsewares.md)
+
 ## Player Roster
 
 The core player roster includes:
@@ -50,6 +58,7 @@ For the current wiki structure, Moon Stone Collectors is one of the major featur
 - [Moon Stone Collectors, Part 16](../sessions/moon-stone-collectors-part-16.md)
 - [Moon Stone Collectors, Part 17](../sessions/moon-stone-collectors-part-17.md)
 - [Moon Stone Collectors Finale Transcript Reference](moonstone-collectors-finale-reference.md)
+- [Moon Stone Collectors Elsewares](moonstone-collectors-elsewares.md)
 
 ## Sequence Notes
 
@@ -96,5 +105,6 @@ The cleanest currently supported date chain is:
 - [The Weaver](../concepts/the-weaver.md)
 - [Moon Stone Collectors, Part 1](../sessions/moon-stone-collectors-part-1.md)
 - [Moon Stone Collectors, Part 17](../sessions/moon-stone-collectors-part-17.md)
+- [Moon Stone Collectors Elsewares](moonstone-collectors-elsewares.md)
 - [Concurrence](../concepts/the-concurrence.md)
 - [Age of Heroes](../concepts/age-of-heroes.md)

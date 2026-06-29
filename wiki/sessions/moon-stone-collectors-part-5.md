@@ -10,6 +10,8 @@ In an Elsewhere, [Junvara](../people/junvara.md) and [Jarth](../people/jarth.md)
 
 [Maeve](../people/mave.md) is released in a dying state, and [Wendell](../people/wendell.md) also allows a captive goblin to leave.
 
+Full review: [Moon Stone Collectors Elsewares](../campaign/moonstone-collectors-elsewares.md#entry-5-junvara-and-jarth-in-wendells-black-keep)
+
 ## Morning at the School
 
 The party wakes at [Lady Penny Hathaway's School](../places/lady-penny-hathaways-school.md) after losing time to portal lag. [Tony](../people/tony.md) delivers supplies, including the candles tied to [Paul](../people/paul.md)'s cursed-book compulsion.
@@ -55,6 +57,8 @@ The session ends with the party weighing two options: take the back door and ris
 Another Elsewhere follows [Gregario / Shaq](../people/gregario-shaq.md) as he watches the worlds complete their impossible alignment around the [Radiant Citadel](../places/radiant-citadel.md). The hole in him is filled, and he encounters the child he once swore to protect.
 
 That child is [Lilith](../people/lilith.md), pushed to the mortal side of the [Divine Gate](../concepts/divine-gate.md) by the Concurrence fallout and drawn to Gregario through the oath he swore around her birth. In the paired daughter thread, [Eve](../people/eve.md) is sent toward [Mulligan](../people/mulligan.md), the returned Commodore, for protection.
+
+Full review: [Moon Stone Collectors Elsewares](../campaign/moonstone-collectors-elsewares.md#entry-9-shaq-watches-the-concurrence)
 
 ## Important People
 

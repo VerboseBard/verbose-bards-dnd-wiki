@@ -39,10 +39,19 @@ By the end of the session, the party has:
 - identified the missing [Phlukk](../people/phlukk.md) thread as a live mystery
 - been pushed into the orbit of [Ice Watch](../places/ice-watch.md)'s religious and civic power
 
+## Elsewhere I - The Architect of Worlds
+
+The campaign's first major Elseware shows the other side of the Concurrence crisis: [Greg](../people/greg-p-smith.md), [Jimbo](../people/jimbo.md), [Kestrel](../people/kestrel.md), [Junvara](../people/junvara.md), [Constance and Zuk](../people/constance-l-coggeshall.md), [Charlie](../people/charlie.md), and Jarvis/Jarvice working through the final world-alignment crisis.
+
+This scene culminates with Greg being named the Architect of Worlds.
+
+Full review: [Moon Stone Collectors Elsewares](../campaign/moonstone-collectors-elsewares.md#entry-1-architect-of-worlds)
+
 ## Important People
 
 - [Thrum Stonegrinder](../people/thrum-stonegrinder.md)
 - [Phlukk](../people/phlukk.md)
+- [Greg P Smith](../people/greg-p-smith.md)
 
 ## Important Places
 

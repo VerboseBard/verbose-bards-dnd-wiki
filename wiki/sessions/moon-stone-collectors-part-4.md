@@ -38,11 +38,13 @@ At [Lady Penny Hathaway's School](../places/lady-penny-hathaways-school.md), [La
 
 She warns the party that portal lag has cost them time and gives them rooms, food, and a warning about the dangerous residents in the other wing.
 
-## Elsewhere II
+## Elsewhere - Constance Zuk and Annabelle's Warning
 
-The cutaway to Constance and Zuks shows the long consequences of [Greg](../people/greg-p-smith.md)'s changes to reality.
+The cutaway to [Constance and Zuk](../people/constance-l-coggeshall.md) shows the long consequences of [Greg](../people/greg-p-smith.md)'s changes to reality.
 
 The scene reinforces that the [Divine Gate](../concepts/divine-gate.md) is also a power gate, that dragonkind has been changed by the world rewrite, and that the party's timing matters far more than they first realized.
+
+Full review: [Moon Stone Collectors Elsewares](../campaign/moonstone-collectors-elsewares.md#entry-4-constance-zuk-and-annabelles-warning)
 
 ## Important People
 

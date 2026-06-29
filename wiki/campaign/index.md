@@ -16,6 +16,7 @@ This index gathers the major campaign arcs currently represented in the wiki.
 
 - [War of the Gods / New Beginning Campaign](war-of-the-gods.md): the campaign grouping for the imported War of the Gods material and the beginning of the Seventh Age transition.
 - [Moon Stone Collectors](moonstone-collectors.md): the late Sixth Age campaign arc that carries into the Concurrence and the start of the Seventh Age.
+- [Moon Stone Collectors Elsewares](moonstone-collectors-elsewares.md): review hub for the campaign's formal and Elseware-style cutaway scenes.
 - [Moon Stone Collectors Finale Transcript Reference](moonstone-collectors-finale-reference.md): reference page for the final uploaded Moon Stone Collectors transcripts.
 
 ## Earlier Campaigns

@@ -12,7 +12,7 @@ What begins as reflection on the ritual chant becomes a much more intimate magic
 - The party analyzes the ritual language from the mine and identifies it as a kind of primordial lament ending in severing.
 - [Junvara](../people/junvara.md) realizes THE BOOK is missing and that [Aylinn](../people/aylinn.md) borrowed it while altering his memory.
 - He also realizes keeping the book from him is actively costing him life.
-- [Greg](../people/greg-p-smith.md), Molokan, and others are pulled into the crisis.
+- [Greg](../people/greg-p-smith.md), [Mulligan / Molokan](../people/mulligan.md), and others are pulled into the crisis.
 - [Jinx](../people/jinx.md) intervenes remotely in a dangerous attempt to help.
 - A soul parasite feeding on [Junvara](../people/junvara.md) is discovered.
 - The group supports him through the removal attempt with blessings and bardic aid.

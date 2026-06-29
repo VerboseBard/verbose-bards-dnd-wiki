@@ -27,7 +27,11 @@ On [Opaal](../places/opaal.md), mercenaries attack Eve at sea. When six ships ch
 
 ## Mentor
 
-After the attack, [Jack Kenway](jack-kenway.md) counsels Eve from the crow's nest of the ship. He tells her that family is not an anchor to drown her but a tether to keep her connected, then advises her to kill enemies first and make future enemies afraid.
+After the final phase of [the Concurrence](../concepts/the-concurrence.md), the [Divine Gate](../concepts/divine-gate.md) separates the gods from the mortal side of reality. Because of Elsewhere manipulations, Belle's daughters are pushed to the mortal side instead of remaining safely with her.
+
+[Belle](belle.md) sends Eve to [Mulligan](mulligan.md), the returned Commodore, to be protected and mentored while the gods are cut off. This matters because Mulligan now remembers who he is and is no longer the amnesiac, easily manipulated figure he was during the [War of the Gods / New Beginning Campaign](../campaign/war-of-the-gods.md).
+
+The Opaal shipboard material places [Jack Kenway](jack-kenway.md) in this protective circle. After the attack, Jack counsels Eve from the crow's nest of the ship. He tells her that family is not an anchor to drown her but a tether to keep her connected, then advises her to kill enemies first and make future enemies afraid.
 
 Jack gives her a teleportation pass pendant so she can reach [Saharun](../places/saharun.md).
 
@@ -82,6 +86,7 @@ In the lower temple, Eve turns herself into a firestorm, combining Immolation, W
 - [Alen](alen.md)
 - [Experiment 69](experiment-69.md)
 - [Mummy](mummy.md)
+- [Mulligan](mulligan.md)
 - [War of the Gods / New Beginning Campaign](../campaign/war-of-the-gods.md)
 - [Opaal](../places/opaal.md)
 - [The Hunt for Black Vipers, Part 1](../sessions/hunt-for-black-vipers-part-1.md)

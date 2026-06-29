@@ -29,7 +29,7 @@ The Quartet are four identical sisters who all belong to the Seeker order:
 - [Seeker Lucia](../people/seeker-lucia.md): picked up Nate's character and Josh's character. She is awkward and socially uncertain.
 - [Seeker Linda](../people/seeker-linda.md): picked up Katie's character and Jaden's character. She is easygoing, kind, and has a good sense of humor.
 
-Known wiki-linked pickup details currently include [Seeker Linda](../people/seeker-linda.md) finding [Constance and Zuk](../people/constance-l-coggeshall.md), and [Seeker Lindsey](../people/seeker-lindsey.md) finding [Molokan](../people/molokan.md).
+Known wiki-linked pickup details currently include [Seeker Linda](../people/seeker-linda.md) finding [Constance and Zuk](../people/constance-l-coggeshall.md), and [Seeker Lindsey](../people/seeker-lindsey.md) finding [Mulligan / Molokan](../people/mulligan.md) after he washes ashore on [Opaal](../places/opaal.md).
 
 ## Name Caution
 

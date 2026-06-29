@@ -14,6 +14,8 @@ Lilith is one of [Belle](belle.md)'s two daughters and one of the clearest bridg
 
 Belle is Lilith's birth mother and surrogate, but Alen is the intended mother and the source of Lilith's death-line inheritance. After the birth, Belle gives Lilith to Alen. Belle later helps arrange circumstances that lead to Alen's death at [Lucius](lucius.md)'s hands, allowing Belle to reclaim Lilith and raise her alongside Eve.
 
+After the final phase of [the Concurrence](../concepts/the-concurrence.md), Elsewhere manipulations push both daughters onto the mortal side of the [Divine Gate](../concepts/divine-gate.md). Lilith ends up near [Gregario / Shaq](gregario-shaq.md), whose oath to her at birth and connection to the Raven Queen line make him her natural protector while the gods are severed. [Eve](eve.md) is sent to [Mulligan](mulligan.md), the returned Commodore.
+
 ## Divine Nature
 
 Lilith has a protective aura that can block some magical sight around herself. Her toy, a doll resembling [Gregario / Shaq](gregario-shaq.md), is a divine artifact containing divine sand. The [Black Vipers](../factions/black-vipers.md) use the doll as a tracking point until the group replaces its contents with anti-divination protection.
@@ -50,6 +52,7 @@ After [Annabelle](annabelle.md) severs [Gregario](gregario-shaq.md)'s old connec
 - [Alen](alen.md)
 - [Experiment 69](experiment-69.md)
 - [Mummy](mummy.md)
+- [Mulligan](mulligan.md)
 - [Raven Queen of Saharun](raven-queen-of-saharun.md)
 - [War of the Gods / New Beginning Campaign](../campaign/war-of-the-gods.md)
 - [The Hunt for Black Vipers, Part 2](../sessions/hunt-for-black-vipers-part-2.md)

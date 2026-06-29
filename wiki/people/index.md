@@ -162,7 +162,7 @@ People are grouped by campaign, faction, and divine family so related figures st
 - [Experiment 69](experiment-69.md)
 - [Mummy](mummy.md)
 - [Krol](krol.md)
-- [Mullin](mullin.md)
+- [Mulligan](mulligan.md)
 - [Vis / Jarvice](vis-jarvice.md)
 - [Captain West](captain-west.md)
 - [Charlie](charlie.md)
@@ -190,7 +190,7 @@ People are grouped by campaign, faction, and divine family so related figures st
 - [Jimbo](jimbo.md)
 - [Junvara](junvara.md)
 - [Kestrel](kestrel.md)
-- [Molokan](molokan.md)
+- [Mulligan / Molokan](mulligan.md)
 - [Quark "Adamantine Balls" Skaa-Doush](quark-skaa-doush.md)
 - [Ricky Bricardo](ricky-bricardo.md)
 - [Wendell, The Crimson Hound](wendell.md)
@@ -215,6 +215,8 @@ People are grouped by campaign, faction, and divine family so related figures st
 
 ## Black Viper Hunt Figures
 
+- [Aurora, Queen Beneath the Waves](aurora-queen-beneath-waves.md)
+- [Mira of Opaal](mira-of-opaal.md)
 - [Morir](morir.md)
 - [Dark Star](dark-star.md)
 - [Sir Hellspire](sir-hellspire.md)

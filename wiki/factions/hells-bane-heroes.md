@@ -8,6 +8,8 @@ They were not merely pawns of prophecy. When [Lucius](../people/lucius.md) stood
 
 Their legend begins after their own leader, [Mulligan](../people/mulligan.md), betrays them and allows evil forces into the [Citadel](../places/radiant-citadel.md). The party kills Mulligan, then pursues [Lucius](../people/lucius.md) and defeats him on the great crystal before gods, demons, immortals, and mortals.
 
+The public story remembers Mulligan as the Judas or Benedict Arnold of the war. Only gods and a small number of well-placed witnesses know the deeper truth: Mulligan was also the [Commodore](../concepts/commodore-prophecy.md) reborn, had been returned early without memory, and was fighting through layers of manipulation, vengeance, and agreement with the Divine Gate's larger purpose.
+
 [Greg](../people/greg-p-smith.md), the small autognome among them, later becomes known as the Architect of Worlds for proposing and building the magical technology that makes [the Concurrence](../concepts/the-concurrence.md) survivable.
 
 For the current campaign, the Hell's Bane Heroes are not just legendary backstory. Their Fifth-Age actions are one of the core historical threads still shaping the Seventh-Age present.

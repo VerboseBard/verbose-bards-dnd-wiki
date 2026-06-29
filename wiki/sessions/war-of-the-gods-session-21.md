@@ -20,7 +20,7 @@ The practical action of the session comes from [Junvara](../people/junvara.md)'s
 - Once the core is removed, the dungeon begins to collapse and the spawned monsters lose coherence, ending the immediate threat from the shipwreck site.
 - The party regroups behind the wall for a short rest while the broader battle remains temporarily stabilized by reinforcements and dragon support.
 - During that rest, [Junvara](../people/junvara.md) explains what he learned: dungeon cores may be conscious entities, their dungeons may be defensive behavior rather than simple environmental hazards, and [Wendell](../people/wendell.md)'s whole strategy may involve manipulating beings the party barely understands.
-- [Mullin](../people/mullin.md) explains more openly that he has severed his dependence on [Straka](../people/straka.md) and now considers self-generated power safer than divine borrowing.
+- [Mulligan](../people/mulligan.md) explains more openly that he has severed his dependence on [Straka](../people/straka.md) and now considers self-generated power safer than divine borrowing.
 - The conversation turns into one of the clearest party-level debates yet about the [Divine Gate](../concepts/divine-gate.md), whether it must be restored, what the least destructive method might be, and whether any god can really be trusted with unrestrained power.
 - [Junvara](../people/junvara.md) argues for reinstating the Gate through a more ethical and controlled path than [Wendell](../people/wendell.md)'s current method, while still remaining deeply skeptical of all divine actors involved.
 - [Gregario / Shaq](../people/gregario-shaq.md) remains more guarded, but [Alen](../people/alen.md)'s influence is still visible through the raven-tattoo commentary and the way her logic continues to frame his choices.
@@ -30,7 +30,7 @@ The practical action of the session comes from [Junvara](../people/junvara.md)'s
 ## Important People
 
 - [Junvara](../people/junvara.md)
-- [Mullin](../people/mullin.md)
+- [Mulligan](../people/mulligan.md)
 - [Gregario / Shaq](../people/gregario-shaq.md)
 - [Rose Qinlee](../people/rose-qinlee.md)
 - [Alen](../people/alen.md)

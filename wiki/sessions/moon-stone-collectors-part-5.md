@@ -54,12 +54,16 @@ The session ends with the party weighing two options: take the back door and ris
 
 Another Elsewhere follows [Gregario / Shaq](../people/gregario-shaq.md) as he watches the worlds complete their impossible alignment around the [Radiant Citadel](../places/radiant-citadel.md). The hole in him is filled, and he encounters the child he once swore to protect.
 
+That child is [Lilith](../people/lilith.md), pushed to the mortal side of the [Divine Gate](../concepts/divine-gate.md) by the Concurrence fallout and drawn to Gregario through the oath he swore around her birth. In the paired daughter thread, [Eve](../people/eve.md) is sent toward [Mulligan](../people/mulligan.md), the returned Commodore, for protection.
+
 ## Important People
 
 - [Annabelle](../people/annabelle.md)
 - [Constance and Zuk](../people/constance-l-coggeshall.md)
 - [Greg](../people/greg-p-smith.md)
 - [Gregario / Shaq](../people/gregario-shaq.md)
+- [Lilith](../people/lilith.md)
+- [Eve](../people/eve.md)
 - [Jarth](../people/jarth.md)
 - [Junvara](../people/junvara.md)
 - [Kendrick](../people/kendrick.md)

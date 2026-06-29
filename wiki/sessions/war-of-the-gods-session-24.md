@@ -10,9 +10,9 @@ It is also the session where the party learns that saving the [Citadel](../place
 
 ## Key Events
 
-- The session opens with a recap of the disaster created at the end of Session 23: [Lucius](../people/lucius.md) used [Mullin](../people/mullin.md)'s dropped blessed hammer as the key he needed to bypass school protections and enter the [Citadel](../places/radiant-citadel.md) directly.
+- The session opens with a recap of the disaster created at the end of Session 23: [Lucius](../people/lucius.md) used [Mulligan](../people/mulligan.md)'s dropped blessed hammer as the key he needed to bypass school protections and enter the [Citadel](../places/radiant-citadel.md) directly.
 - [Alen](../people/alen.md) had already manifested to challenge him, and [Constance and Zuk](../people/constance-l-coggeshall.md) had already destroyed [Wendell](../people/wendell.md)'s undead wyvern before racing back toward the main crisis.
-- [Mullin](../people/mullin.md)'s death is confirmed not to be the end of the Commodore legend. An attempted soul-consumption meant to feed him to [Alen](../people/alen.md) fails, which means the prophecy-fed reincarnation logic behind him is still active.
+- [Mulligan](../people/mulligan.md)'s death is confirmed not to be the end of the Commodore legend. An attempted soul-consumption meant to feed him to [Alen](../people/alen.md) fails, which means the prophecy-fed reincarnation logic behind him is still active.
 - With the park portals closed, the party uses [Greg](../people/greg-p-smith.md)'s contact channel to reach [Veil, Guardian of the Citadel](../people/veil-guardian-of-the-citadel.md) inside the crystal's command space.
 - [Veil](../people/veil-guardian-of-the-citadel.md) shows them the wider war through the crystal screens and explains the immediate problem: if he leaves the controls, the [Citadel](../places/radiant-citadel.md) falls, but if no one stops [Lucius](../people/lucius.md), the crystal will be drained and the worlds will not be able to reform safely.
 - The party is teleported onto the outside of the [Radiant Citadel Crystal](../places/radiant-citadel-crystal.md), where gravity is altered and the battlefield wraps around the crystal's surface.
@@ -42,7 +42,7 @@ It is also the session where the party learns that saving the [Citadel](../place
 - [Constance and Zuk](../people/constance-l-coggeshall.md)
 - [Wendell](../people/wendell.md)
 - [Lady Penny Hathaway](../people/lady-penny-hathaway.md)
-- [Mullin](../people/mullin.md)
+- [Mulligan](../people/mulligan.md)
 
 ## Important Places and Concepts
 

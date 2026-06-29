@@ -82,9 +82,13 @@ At the [High Temple of Rexel Kar](../places/high-temple-of-rexel-kar.md), Gregar
 
 During [Moon Stone Collectors, Part 5](../sessions/moon-stone-collectors-part-5.md), an Elsewhere follows Gregario back to the alley where his first team died. He watches the worlds complete their alignment around the [Radiant Citadel](../places/radiant-citadel.md), feels the missing part of himself return, and encounters the child he once swore to protect.
 
+That child is [Lilith](lilith.md). When [Belle](belle.md)'s daughters are pushed to the mortal side of the [Divine Gate](../concepts/divine-gate.md), Lilith lands near Gregario because of the oath and Raven Queen connection formed around her birth. [Eve](eve.md)'s parallel protection thread leads toward [Mulligan](mulligan.md), the returned Commodore.
+
 ## Related
 
 - [Lilith](lilith.md)
+- [Eve](eve.md)
+- [Mulligan](mulligan.md)
 - [Silverbend](../places/silver-bend.md)
 - [The Hunt for Black Vipers, Part 1](../sessions/hunt-for-black-vipers-part-1.md)
 - [The Hunt for Black Vipers, Part 3](../sessions/hunt-for-black-vipers-part-3.md)

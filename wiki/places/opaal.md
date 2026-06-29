@@ -44,9 +44,13 @@ The twin cities of [Corialis](corialis.md) and [Wytebluff](wytebluff.md) form th
 
 Opaal appears in the broader setting briefing as the sea-world counterpart to the harsher continental powers. It is one of the places people go when they want distance from war, without escape from consequence.
 
+Opaal is also the world tied to [Mulligan](../people/mulligan.md)'s ancient Commodore legend. In [War of the Gods, Session 1](../sessions/war-of-the-gods-session-1.md), Mulligan wakes on Opaal with no memory after washing ashore as a corpse. A wind-like air elemental later known as [Straka](../people/straka.md) hovers nearby, leading Mulligan to wrongly believe Straka restored him.
+
+The deeper truth connects Opaal to [Aurora, Queen Beneath the Waves](../people/aurora-queen-beneath-waves.md), [Mira of Opaal](../people/mira-of-opaal.md), the [Opaal Old One](../concepts/opaal-old-one.md), and the [Commodore Prophecy](../concepts/commodore-prophecy.md). The Commodore returns when the old sea horror begins to stir again.
+
 In the [Black Vipers](../factions/black-vipers.md) side arc, [Eve](../people/eve.md) is attacked on Opaal by mercenaries hired through Viper-linked money. She destroys the pursuing ships with a meteor shower, while the [442nd](../factions/442nd.md) is directed to trace the payments.
 
-[Jack Kenway](../people/jack-kenway.md) later reflects aboard his Opaal ship before returning to aid the assault on [Jimbo's Soul Ritual](../concepts/jimbo-soul-ritual.md). The decision reconnects the Pirate King's household to the old debt against [Lucius](../people/lucius.md).
+[Jack Kenway](../people/jack-kenway.md) later reflects aboard his Opaal ship before returning to aid the assault on [Jimbo's Soul Ritual](../concepts/jimbo-soul-ritual.md). The decision reconnects the Opaal shipboard thread to the old debt against [Lucius](../people/lucius.md).
 
 ## Related
 
@@ -60,5 +64,9 @@ In the [Black Vipers](../factions/black-vipers.md) side arc, [Eve](../people/eve
 - [Unity](unity.md)
 - [Eve](../people/eve.md)
 - [Jack Kenway](../people/jack-kenway.md)
+- [Mulligan](../people/mulligan.md)
+- [Aurora, Queen Beneath the Waves](../people/aurora-queen-beneath-waves.md)
+- [Mira of Opaal](../people/mira-of-opaal.md)
+- [Commodore Prophecy and Legend-Fed Rebirth](../concepts/commodore-prophecy.md)
 - [The Hunt for Black Vipers, Part 9](../sessions/hunt-for-black-vipers-part-9.md)
 

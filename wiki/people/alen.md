@@ -48,6 +48,8 @@ The same session also reveals that Alen remains one of the powers others still s
 
 In [War of the Gods, Session 23](../sessions/war-of-the-gods-session-23.md), Alen finally enters the [Citadel](../places/radiant-citadel.md) crisis directly. She manifests to confront [Lucius](lucius.md) during the first portal-wave siege, tries to stop him from capitalizing on the collapse around the death domain, and has her manifested body destroyed in the clash. Her fall immediately strips away much of the divine structure [Gregario](gregario-shaq.md) had still been using, even though the death also belonged to Alen's own contingency logic.
 
+From [Mulligan](mulligan.md)'s side of the story, this death also fulfills an old promise from his Commodore life. Alen had been one of his mortal enemies as the vampire queen, and Mulligan's faction-play helps position [Lucius](lucius.md) to destroy her manifested Raven Queen form.
+
 ## Birth Assistance and Aftermath
 
 Alen's assistance in the birth process is chiefly the preparation of Lilith's side of the bargain: arranging accelerated growth, claiming Mummy through vampiric transformation, and receiving Lilith after Belle carries and births her.
@@ -65,6 +67,7 @@ Later family material suggests that Belle helps arrange circumstances that lead 
 - [Lilith](lilith.md)
 - [Experiment 69](experiment-69.md)
 - [Mummy](mummy.md)
+- [Mulligan](mulligan.md)
 - [Divine Soul Anchoring](../concepts/divine-soul-anchoring.md)
 - [Silverbend Coastal Cave Hideout](../places/silver-bend-coastal-cave-hideout.md)
 - [Raven Queen of Saharun](raven-queen-of-saharun.md)

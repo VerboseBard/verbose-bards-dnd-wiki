@@ -8,12 +8,14 @@ Lindsey is prickly and grumpy.
 
 ## Known Assignments
 
-Lindsey picked up Tim's character and the [Qinlee Triplets](qinlee-triplets.md). Existing session summaries also identify her as the Seeker who found [Molokan](molokan.md) on the beach.
+Lindsey picked up Tim's character and the [Qinlee Triplets](qinlee-triplets.md).
+
+She is also the Seeker tied to [Mulligan / Molokan](mulligan.md)'s first session arrival. Mulligan wakes on [Opaal](../places/opaal.md) as a corpse returned to life, with no memory and a wind-like air elemental nearby. Lindsey brings him from that beach/cliff-side awakening to the school.
 
 ## Related
 
 - [Seekers](../factions/seekers.md)
-- [Molokan](molokan.md)
+- [Mulligan](mulligan.md)
 - [Qinlee Triplets](qinlee-triplets.md)
 - [Daisy Qinlee](daisy-qinlee.md)
 - [Rose Qinlee](rose-qinlee.md)

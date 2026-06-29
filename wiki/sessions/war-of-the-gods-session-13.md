@@ -12,7 +12,7 @@ An ominous encounter at McGinty's is immediately followed by open attacks on the
 - The [Radiant Citadel](../places/radiant-citadel.md) shield comes under attack from ships.
 - The group uses the recall scroll to get back to the school.
 - [Maeve](../people/mave.md) is dying, while [Belle](../people/belle.md) tries to keep events moving through dragon-core and soul-coin logic.
-- [Jinx](../people/jinx.md) and Molokan are involved in the emergency response.
+- [Jinx](../people/jinx.md) and [Mulligan / Molokan](../people/mulligan.md) are involved in the emergency response.
 - [Maeve](../people/mave.md) dies or ascends in the middle of the crisis.
 - Black Viper attackers hit the school directly.
 - Gadzooks absorbs much of the damage aimed at Constance and grows stronger.

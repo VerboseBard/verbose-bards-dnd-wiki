@@ -38,7 +38,7 @@ These levels and class mixes are a reference snapshot from uploaded roster infor
 - [Jimbo](../people/jimbo.md): Level 20 Human Sorcerer / Spectrum Caster.
 - [Junvara](../people/junvara.md): Level 20 Githyanki Wizard / Fighter / Bladesinging / Echo Knight. Player: BattleHammerBOis.
 - [Kestrel](../people/kestrel.md): Level 20 Changeling Bard / Warlock / College of Swords / The Hexblade. Player: Josh.
-- [Molokan](../people/molokan.md): Level 12 Lineages Barbarian / Rogue / Path of the Storm Herald.
+- [Mulligan / Molokan](../people/mulligan.md): Level 12 Lineages Barbarian / Rogue / Path of the Storm Herald; the amnesiac Commodore reborn.
 - [Quark "Adamantine Balls" Skaa-Doush](../people/quark-skaa-doush.md): Level 13 Hadozee Barbarian / Fighter / Rogue / Champion / Assassin.
 - [Ricky Bricardo](../people/ricky-bricardo.md): Level 12 Harengon Ranger / Warlock / Arcane Gunslinger / The Dungeon Master.
 - Unnamed lineages character: Level 16 Lineages Barbarian / Fighter / Rogue / Champion / Swashbuckler / Path of the Giant.

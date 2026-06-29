@@ -22,7 +22,7 @@ Charlie's value to the party keeps increasing in later [War of the Gods](../conc
 
 In [War of the Gods, Session 18](../sessions/war-of-the-gods-session-18.md), she is one of the people who helps ground Constance after [Wendell](wendell.md)'s mental violation, sharing enough of her own history to keep the conversation from becoming empty comfort.
 
-In [War of the Gods, Session 20](../sessions/war-of-the-gods-session-20.md), Charlie is one of the few people on the damaged ship who can still think in systems under pressure. She helps improvise the portal fix that keeps the ship from fully catastrophically failing, stabilizes [Mullin](mullin.md) after he nearly kills himself holding the charge, and hands him a heavy grenade-launching weapon while he rebuilds his fighting style. In practice, Charlie is often the person who keeps bad situations from becoming total losses.
+In [War of the Gods, Session 20](../sessions/war-of-the-gods-session-20.md), Charlie is one of the few people on the damaged ship who can still think in systems under pressure. She helps improvise the portal fix that keeps the ship from fully catastrophically failing, stabilizes [Mulligan](mulligan.md) after he nearly kills himself holding the charge, and hands him a heavy grenade-launching weapon while he rebuilds his fighting style. In practice, Charlie is often the person who keeps bad situations from becoming total losses.
 
 ## Death
 

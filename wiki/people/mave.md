@@ -34,7 +34,9 @@ In [War of the Gods, Session 19](../sessions/war-of-the-gods-session-19.md), Mae
 
 In [War of the Gods, Session 20](../sessions/war-of-the-gods-session-20.md), Maeve remains unwilling to stop caring about [Belle](belle.md)'s collateral damage even after stepping back from her sister's plans. She appears again around [Belle](belle.md)'s final core ritual and childbirth sequence, not as an enthusiastic ally but as one of the powers refusing to leave [Belle](belle.md)'s newest victims entirely unattended.
 
-In [War of the Gods, Session 22](../sessions/war-of-the-gods-session-22.md), Maeve becomes important to [Mullin](mullin.md) specifically. She privately tells him that [Straka](straka.md) never truly returned him to life and that the power now feeding him seems to come instead from belief in the Commodore's return. Her warning reframes [Mullin](mullin.md) from ex-cleric into something much more dangerous: a figure being sustained by legend rather than by ordinary divine sponsorship.
+In [War of the Gods, Session 22](../sessions/war-of-the-gods-session-22.md), Maeve becomes important to [Mulligan](mulligan.md) specifically. She privately tells him that [Straka](straka.md) never truly returned him to life and that the power now feeding him seems to come instead from belief in the Commodore's return. Her warning reframes [Mulligan](mulligan.md) from ex-cleric into something much more dangerous: a figure being sustained by legend rather than by ordinary divine sponsorship.
+
+Before Mulligan's final death at the [Radiant Citadel](../places/radiant-citadel.md), Maeve gives him back the full memory of who he was. As goddess of wisdom and knowledge, she is able to make those memories persist into his next return, which is why the later Commodore is no longer the amnesiac figure his enemies could steer.
 
 ## New Body
 

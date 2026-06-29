@@ -48,7 +48,7 @@ When [Lucius](../people/lucius.md) unleashes a Gravity Lance, [Constance and Zuk
 
 ## The Snake Runs
 
-The party hammers [Lucius](../people/lucius.md) hard enough to push him through multiple phases almost immediately. Jack, still under the giant-size potion's effect, inflicts catastrophic damage with the Commodore's precision. [Gregario](../people/gregario-shaq.md) tests Quivering Palm against [Lucius](../people/lucius.md), [Jarvice](../people/vis-jarvice.md) adds fire and force, and [Tiamat](../people/tiamat.md) keeps the pressure on.
+The party hammers [Lucius](../people/lucius.md) hard enough to push him through multiple phases almost immediately. Jack, still under the giant-size potion's effect, inflicts catastrophic damage with Opaal swashbuckling precision. [Gregario](../people/gregario-shaq.md) tests Quivering Palm against [Lucius](../people/lucius.md), [Jarvice](../people/vis-jarvice.md) adds fire and force, and [Tiamat](../people/tiamat.md) keeps the pressure on.
 
 [Lucius](../people/lucius.md) responds with a divine Time Stop and flees. He drops a transmuted Meteor Swarm behind him, then teleports to [Constance and Zuk's Dragon-Bonding School](../places/constance-and-zuks-dragon-bonding-school.md), trying to place himself where the gods cannot smite him without endangering children.
 

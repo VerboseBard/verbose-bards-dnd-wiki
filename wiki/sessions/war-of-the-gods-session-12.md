@@ -9,7 +9,7 @@ The party follows the aftermath of the children's guild confrontation down to th
 ## Key Events
 
 - The group returns to the children's guild hall and tries to stabilize what was left behind.
-- Molokan and 69 openly present religious ideas to the children.
+- [Mulligan / Molokan](../people/mulligan.md) and [Experiment 69](../people/experiment-69.md) openly present religious ideas to the children.
 - The party moves to the docks to investigate why freight has stopped.
 - Pigfolk and Giff sailors dominate the atmosphere.
 - Grey, the dockmaster, becomes a key contact.

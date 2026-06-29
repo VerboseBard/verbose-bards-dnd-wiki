@@ -1,6 +1,8 @@
 # Jack Kenway
 
-Jack Kenway is the third reincarnation of the Commodore, a legendary sea figure now acting as an unlikely mentor to [Eve](eve.md) on [Opaal](../places/opaal.md).
+Jack Kenway is an Opaal sea captain tied to the later Black Viper material and to [Eve](eve.md)'s shipboard protection after the [Divine Gate](../concepts/divine-gate.md).
+
+His scenes sit in the same ocean-world thread as [Mulligan](mulligan.md)'s returned Commodore story, but the Commodore-reborn identity belongs to Mulligan.
 
 ## Roster Snapshot
 
@@ -34,6 +36,7 @@ On the ritual floor, Jack recognizes [Winrah Holm](winrah-holm.md)'s mind-contro
 ## Related
 
 - [Eve](eve.md)
+- [Mulligan](mulligan.md)
 - [Opaal](../places/opaal.md)
 - [The Hunt for Black Vipers, Part 2](../sessions/hunt-for-black-vipers-part-2.md)
 - [The Hunt for Black Vipers, Part 9](../sessions/hunt-for-black-vipers-part-9.md)

@@ -76,6 +76,8 @@ During the final Black Viper hunt, Belle meets [Eve](eve.md) in dreams, heals th
 
 This connects Belle directly to the broader [Divine Soul Anchoring](../concepts/divine-soul-anchoring.md) pattern. The technique had been lost to active divines by the end of the Fourth Age and through much of the Fifth, but Belle rediscovered it through unrevealed means. She did not merely know Lucius's method existed; she helped teach him a lesser version while preserving a more advanced form for herself and later sharing enough of the method with [Alen](alen.md) to make Alen's planned death possible.
 
+After the final phase of [the Concurrence](../concepts/the-concurrence.md), Elsewhere manipulations push Belle's daughters onto the mortal side of the [Divine Gate](../concepts/divine-gate.md). [Lilith](lilith.md) ends up near [Gregario / Shaq](gregario-shaq.md), whose oath at her birth ties him to the Raven Queen line. Belle sends [Eve](eve.md) to [Mulligan](mulligan.md), the returned Commodore, to be protected and mentored while Belle is cut off from direct action.
+
 Belle warns [Eve](eve.md) not to consume [Lucius](lucius.md)'s final divine soul if [Eve](eve.md) lands the killing blow, because doing so would force [Eve](eve.md) into godhood and divine politics too soon.
 
 Before the first ritual-site assault, Belle meets [Eve](eve.md) in dreams. [Eve](eve.md) chooses to free [Caden / Baba Yaga](caden-baba-yaga.md), and Belle helps her trace the memory-path back to the [Prison Between Worlds](../places/prison-between-worlds.md). Belle shatters [Caden](caden-baba-yaga.md)'s cell and releases him to join the coming fight.
@@ -108,6 +110,7 @@ Together they mark [Paul](paul.md) with the [Crown of Fools](../items/crown-of-f
 - [Mummy](mummy.md)
 - [Eve](eve.md)
 - [Lilith](lilith.md)
+- [Mulligan](mulligan.md)
 - [The Potato King](potato-king.md)
 - [Divine Soul Anchoring](../concepts/divine-soul-anchoring.md)
 - [Crown of Fools](../items/crown-of-fools.md)

@@ -2,6 +2,14 @@
 
 [Kestrel](../people/kestrel.md)'s ancient blades are intelligent weapons that predate [Lucius](../people/lucius.md)'s creation and can alter their shape.
 
+## Origin and Nature
+
+The blades are twin shapeshifting artifacts tied to [Palewood](../places/palewood.md)'s first changelings. They are one of the few artifacts carried by those first changelings when they came to the town.
+
+[Paxton](../people/paxton.md), [Kestrel](../people/kestrel.md)'s uncle, gave the blades to Kestrel. At some point, they become bound closely enough to Kestrel that they are described as being in his body rather than merely worn or carried.
+
+One blade is inhabited by an air jinn, and the other is inhabited by an earth jinn.
+
 ## Lucius Anchors
 
 After [Morir](../people/morir.md) gives the party two [Lucius Anchor Blades](lucius-anchor-blades.md), [Kestrel](../people/kestrel.md)'s blades ask to consume them. They devour both anchors completely, strengthening themselves and making [Lucius](../people/lucius.md) scream on a psychic level.
@@ -15,6 +23,8 @@ After consuming [Dark Star](../people/dark-star.md)'s blade, the weapons grow ag
 ## Related
 
 - [Kestrel](../people/kestrel.md)
+- [Palewood](../places/palewood.md)
+- [Paxton](../people/paxton.md)
 - [Lucius Anchor Blades](lucius-anchor-blades.md)
 - [The Hunt for Black Vipers, Part 4](../sessions/hunt-for-black-vipers-part-4.md)
 - [The Hunt for Black Vipers, Part 5](../sessions/hunt-for-black-vipers-part-5.md)

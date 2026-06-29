@@ -56,6 +56,7 @@
 - [The Silk Parlor](silk-parlor.md)
 - [The Crashed Ship](crashed-ship.md)
 - [Kex](kex.md)
+- [Palewood](palewood.md)
 - [Sunhollow Valley](sunhollow-valley.md)
 - [Hollowmere](hollowmere.md)
 - [Windcrest Roost](windcrest-roost.md)

@@ -30,6 +30,8 @@ Rogue elements of the [Kreen](../factions/kreen.md) still surface from time to t
 
 Native fog-walking communities existed before newer military and commercial powers moved in. These groups understand the fog better than most outsiders and are tied to the [Sunhollow Valley](sunhollow-valley.md) mission. They move with the fog rather than fighting it, and are often hired as guides when patrol routes fail.
 
+[Palewood](palewood.md) is one older forest town in Driftvale. It is surrounded by old woods and connected to the wider settled regions by a single road that can be swallowed by the gloomhaze. [Kestrel](../people/kestrel.md) comes from Palewood, and his ancient blades are tied to the first changelings who came there.
+
 Where the military establishes a foothold, an economy follows: taverns, gambling houses, brothels, fixers, smugglers, and middlemen. It is not uncommon to sit across from someone you were hunting days earlier, now pretending the fog never existed.
 
 ## Campaign Role
@@ -42,6 +44,7 @@ Driftvale is also the place where many units attempt a final high-risk haul befo
 
 - [Fort Victory](fort-victory.md)
 - [Sin](sin.md)
+- [Palewood](palewood.md)
 - [Elven Lands](elven-lands.md)
 - [The Crashed Ship](crashed-ship.md)
 - [Fog Whales](../concepts/fog-whales.md)

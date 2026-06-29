@@ -169,6 +169,13 @@ People are grouped by campaign, faction, and divine family so related figures st
 - [Jimbo](jimbo.md)
 - [Constance L. Coggeshall and Zuk](constance-l-coggeshall.md)
 
+## Kestrel's Palewood Circle
+
+- [Beyza / Quaylar the Druid](beyza-quaylar.md)
+- [Vogel](vogel.md)
+- [Paxton](paxton.md)
+- [Wiz Tarhun](wiz-tarhun.md)
+
 ## War of the Gods / New Beginning Character Roster
 
 - [Greg P Smith "The Sower"](greg-p-smith.md)

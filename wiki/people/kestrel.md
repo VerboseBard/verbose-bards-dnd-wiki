@@ -7,12 +7,21 @@ Kestrel is a bardic duelist and awakened member of the later [Hell's Bane Heroes
 - Level 20
 - Changeling
 - Bard / Warlock / College of Swords / The Hexblade
+- Player: Josh
+
+At the beginning of his personal lore, Kestrel is nineteen years old.
 
 His surviving notes start well before the late-session war archive, during the school period under [Maeve](mave.md), and continue forward into the [Black Vipers](../factions/black-vipers.md), [Lucius](lucius.md), and [Jimbo's Soul Ritual](../concepts/jimbo-soul-ritual.md) arcs.
 
-## Driftvale Origin
+## Palewood Origin
 
-Kestrel is from [Driftvale](../places/driftvale.md), not the [Elven Lands](../places/elven-lands.md). His later receipt of the [Shifter's Mask](../items/shifters-mask.md) ties him back to ancient Driftvale history and his people's buried past.
+Kestrel is from [Palewood](../places/palewood.md) on [Driftvale](../places/driftvale.md), not the [Elven Lands](../places/elven-lands.md). Palewood is surrounded by old forest and connected to the more populous areas of Driftvale by a single road. When the gloomhaze covers that road, travelers need guides to get safely between Palewood and the wider world.
+
+Kestrel's mother, [Beyza / Quaylar the Druid](beyza-quaylar.md), died when he was seventeen. After her death, Kestrel left home and spent about two years traveling from town to town, playing music in pubs and inns.
+
+His father, [Vogel](vogel.md), left when Kestrel was very young because the town guard was hunting him. His uncle [Paxton](paxton.md), a guide and gloomhaze explorer, became more present as Kestrel grew older and eventually gave him the twin blades. [Wiz Tarhun](wiz-tarhun.md), a green dragonborn, taught Kestrel to play the lute.
+
+His later receipt of the [Shifter's Mask](../items/shifters-mask.md) ties him back to ancient Driftvale history and his people's buried past.
 
 ## School and Song
 
@@ -62,6 +71,10 @@ That scene is one of the clearest expressions of Kestrel's broader role in the s
 
 ## Ancient Blades and Lucius War
 
+Kestrel carries twin shapeshifting blades, one of the few known artifacts carried by the first changelings who came to [Palewood](../places/palewood.md). The blades are bound closely enough to Kestrel that they are described as being in his body rather than merely carried.
+
+One blade is inhabited by an air jinn and the other by an earth jinn.
+
 Kestrel's blades gradually become part of the larger war against [Lucius](lucius.md).
 
 His blades consume two [Lucius Anchor Blades](../items/lucius-anchor-blades.md), weakening [Lucius](lucius.md)'s return and empowering the weapons further.
@@ -97,6 +110,12 @@ Derived from the local source file `C:\Users\bulld\Downloads\Kestrel notes.txt`,
 - [Sixth Age](../concepts/sixth-age.md)
 - [Black Vipers](../factions/black-vipers.md)
 - [Driftvale](../places/driftvale.md)
+- [Palewood](../places/palewood.md)
+- [Kestrel's Ancient Blades](../items/kestrels-ancient-blades.md)
+- [Beyza / Quaylar the Druid](beyza-quaylar.md)
+- [Vogel](vogel.md)
+- [Paxton](paxton.md)
+- [Wiz Tarhun](wiz-tarhun.md)
 - [Junvara](junvara.md)
 - [Maeve](mave.md)
 - [Greg](greg-p-smith.md)

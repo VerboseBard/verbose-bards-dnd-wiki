@@ -24,7 +24,7 @@ In the [War of the Gods / New Beginning Campaign](../campaign/war-of-the-gods.md
 
 The Quartet are four identical sisters who all belong to the Seeker order:
 
-- [Seeker Lauren](../people/seeker-lauren.md): found Jeffrey and Anton, then was sent to pick up Zach's character. She rebels against being indistinguishable from her sisters by dyeing her hair pink and wearing pigtails.
+- [Seeker Lauren](../people/seeker-lauren.md): found [Jeffrey Wilson](../people/jeffrey-wilson.md) and Anton, then was sent to pick up Zach's character. She rebels against being indistinguishable from her sisters by dyeing her hair pink and wearing pigtails.
 - [Seeker Lindsey](../people/seeker-lindsey.md): picked up Tim's character and the triplets. She is prickly and grumpy.
 - [Seeker Lucia](../people/seeker-lucia.md): picked up Nate's character and Josh's character. She is awkward and socially uncertain.
 - [Seeker Linda](../people/seeker-linda.md): picked up Katie's character and Jaden's character. She is easygoing, kind, and has a good sense of humor.

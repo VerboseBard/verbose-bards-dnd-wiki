@@ -6,7 +6,7 @@ Lady Penny Hathaway's School is the major school, library, and portal-support in
 
 The school combines dormitories, library spaces, magical workrooms, kitchens, portal expertise, and protected crisis space. Under normal conditions it functions as a place of training, study, and controlled access to world-travel systems.
 
-Its best-known staff include [Lady Penny Hathaway](../people/lady-penny-hathaway.md), [Professor Hazard](../people/professor-hazard.md), and later the diminished but still influential [Maeve, the Schoolmistress](../people/mave.md).
+Its best-known staff include [Lady Penny Hathaway](../people/lady-penny-hathaway.md), [Professor Herbert Hazard McNichol](../people/professor-hazard.md), [Gaston](../people/gaston.md), and later the diminished but still influential [Maeve, the Schoolmistress](../people/mave.md). Lady Penny also has two older male library assistants whose names have not yet been confirmed.
 
 ## War of the Gods Role
 
@@ -30,6 +30,9 @@ Penny Hathaway's school belongs to the late [Sixth Age](../concepts/sixth-age.md
 
 - [Lady Penny Hathaway](../people/lady-penny-hathaway.md)
 - [Professor Hazard](../people/professor-hazard.md)
+- [Gaston](../people/gaston.md)
+- [Monic](../people/monic.md)
+- [Jeffrey Wilson](../people/jeffrey-wilson.md)
 - [Radiant Citadel](radiant-citadel.md)
 - [Moon Stone Collectors, Part 4](../sessions/moon-stone-collectors-part-4.md)
 - [Moon Stone Collectors, Part 5](../sessions/moon-stone-collectors-part-5.md)

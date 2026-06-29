@@ -42,7 +42,7 @@ That work is important because it frames Zen not as a passive scholar, but as th
 
 Zen remains central once the campaign shifts to the [Radiant Citadel](../places/radiant-citadel.md).
 
-She helps navigate the move through [Arthur Saran](arthur-saran.md), [Lady Penny Hathaway](lady-penny-hathaway.md), and the school-side response to the collapsing divine order. During the dragon-egg rescue and Hell assault fallout, Zen is one of the characters most consistently focused on what the party is actually responsible for after the fighting stops.
+She helps navigate the move through [Arthur Sarlamin](arthur-sarlamin.md), [Lady Penny Hathaway](lady-penny-hathaway.md), and the school-side response to the collapsing divine order. During the dragon-egg rescue and Hell assault fallout, Zen is one of the characters most consistently focused on what the party is actually responsible for after the fighting stops.
 
 That becomes clearest in the [Elisia](elisia.md) material.
 

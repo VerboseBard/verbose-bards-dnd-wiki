@@ -1,6 +1,6 @@
-# Professor Hazard
+# Professor Herbert Hazard McNichol
 
-Professor Hazard is a dwarf artificer and scholar at [Lady Penny Hathaway's School](../places/lady-penny-hathaways-school.md).
+Professor Herbert Hazard McNichol, usually called Professor Hazard, is a dwarven professor of artificed invention, enchantment, and magical engineering at [Lady Penny Hathaway's School](../places/lady-penny-hathaways-school.md).
 
 ## Role
 

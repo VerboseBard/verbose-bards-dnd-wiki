@@ -1,10 +1,12 @@
 ﻿# Lady Penny Hathaway
 
-Lady Penny Hathaway is the school librarian who later becomes the acting head of [Lady Penny Hathaway's School](../places/lady-penny-hathaways-school.md) on the [Radiant Citadel](../places/radiant-citadel.md), as well as one of the setting's most practical portal and crisis coordinators.
+Lady Penny Hathaway is the head school librarian who later becomes the acting head of [Lady Penny Hathaway's School](../places/lady-penny-hathaways-school.md) on the [Radiant Citadel](../places/radiant-citadel.md), as well as one of the setting's most practical portal and crisis coordinators.
 
 ## Early School Role
 
 Penny first appears in the dated [War of the Gods / New Beginning Campaign](../campaign/war-of-the-gods.md) material as the librarian at the school rather than its unquestioned top administrator. In [War of the Gods, Session 2](../sessions/war-of-the-gods-session-2.md), she is already part of the institutional backbone of the school, even while the students are still only learning how awakening and training work.
+
+She has two older male assistants in the library. Their names have not yet been confirmed in the wiki.
 
 By [War of the Gods, Session 10](../sessions/war-of-the-gods-session-10.md), Penny is one of the first people to receive the group when they come spilling back through the library after the Emerald Palace attack. That scene makes her role clearer: she is not only a bookkeeper, but one of the adults who immediately shifts from information intake to containment.
 

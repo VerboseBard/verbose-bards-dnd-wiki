@@ -11,7 +11,7 @@ The third session is where the campaign starts feeling more personal. While the 
 - [Greg](../people/greg-p-smith.md) cannot be woken normally and is taken to the healers, adding early mystery to his condition.
 - Professor Costner explains the three broad kinds of awakened power: innate magic, channeled magic, and inner strength.
 - The party learns a meditation technique that can mask magical signatures and effectively function as a short-rest discipline.
-- [Kestrel](../people/kestrel.md) continues rapier practice with Gaston.
+- [Kestrel](../people/kestrel.md) continues rapier practice with [Gaston](../people/gaston.md).
 - A visit to [Professor Hazard](../people/professor-hazard.md)'s work exposes [Kestrel](../people/kestrel.md) to beautiful layered runic architecture and inspires the beginning of a major song.
 - The party keeps pushing individual training goals while [Greg](../people/greg-p-smith.md), [Junvara](../people/junvara.md), and Molokan pursue more obsessive side paths.
 - [Kestrel](../people/kestrel.md) eventually finds the right emotional space for composition and fully locks in a bardic identity through song.

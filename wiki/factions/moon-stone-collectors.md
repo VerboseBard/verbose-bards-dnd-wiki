@@ -40,7 +40,7 @@ Their rescue destabilized [Julia](../people/julia-julisia.md)'s long revenge. On
 
 Later Moon Stone Collectors sessions move the party through the [Radiant Citadel](../places/radiant-citadel.md), [Glacier's Edge Theater](../places/glaciers-edge-theater.md), [Frozenheart University](../places/frozenheart-university.md), [Lady Penny Hathaway's School](../places/lady-penny-hathaways-school.md), and the [First National Bank of the GIF](../places/first-national-bank-of-the-gif.md).
 
-[Arthur Saran](../people/arthur-saran.md), [Lady Penny Hathaway](../people/lady-penny-hathaway.md), [Kendrick](../people/kendrick.md), and other [Citadel](../places/radiant-citadel.md)-side figures become important as the group moves from tavern investigation into travel permissions, school access, and family negotiations.
+[Arthur Sarlamin](../people/arthur-sarlamin.md), [Lady Penny Hathaway](../people/lady-penny-hathaway.md), [Kendrick](../people/kendrick.md), and other [Citadel](../places/radiant-citadel.md)-side figures become important as the group moves from tavern investigation into travel permissions, school access, and family negotiations.
 
 [Zen](../people/zen.md) is one of the clearest through-lines in this phase, handling disguise work, infernal artifact analysis, and later the moral and practical burden of [Elisia](../people/elisia.md)'s restraint.
 

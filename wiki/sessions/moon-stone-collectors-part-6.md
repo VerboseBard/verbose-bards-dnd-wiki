@@ -48,7 +48,7 @@ That night, [Paul](../people/paul.md) wakes with the ritual components laid out 
 
 ## The Hell Assault
 
-By morning, the school is full of allies preparing for war: dragons, werewolves, Arnold's orcs, Gaston's duelists, [Nicole](../people/nicole.md)'s side, and the remaining [Hell's Bane](../factions/hells-bane-heroes.md) allies.
+By morning, the school is full of allies preparing for war: dragons, werewolves, Arnold's orcs, [Gaston](../people/gaston.md)'s duelists, [Nicole Sarlamin](../people/nicole.md)'s side, and the remaining [Hell's Bane](../factions/hells-bane-heroes.md) allies.
 
 [Maeve](../people/mave.md), now in a weakened mortal body, explains that [Belle](../people/belle.md) and [Greg](../people/greg-p-smith.md) have opened the way and that roughly thirty thousand demons remain. Constance opens a massive portal, and several dragons enter first.
 

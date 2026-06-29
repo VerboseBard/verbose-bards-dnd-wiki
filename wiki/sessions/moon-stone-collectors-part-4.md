@@ -8,9 +8,9 @@ Part 4 carries the [Moon Stone Collectors](../factions/moon-stone-collectors.md)
 
 He cannot recover the stolen travelers, but he can help the party move faster by arranging access to the [Radiant Citadel](../places/radiant-citadel.md) and its portal network.
 
-## Arthur Saran's Request
+## Arthur Sarlamin's Request
 
-[Arthur Saran](../people/arthur-saran.md) approaches the group with a private problem: his daughter [Nicole](../people/nicole.md) has gone off on a music-and-pub crawl and needs to be brought home.
+[Arthur Sarlamin](../people/arthur-sarlamin.md) approaches the group with a private problem: his daughter [Nicole Sarlamin](../people/nicole.md) has gone off on a music-and-pub crawl and needs to be brought home.
 
 Arthur offers a letter of introduction and uses the request as a bargaining chip for faster access to [Citadel](../places/radiant-citadel.md) experts.
 
@@ -47,7 +47,7 @@ The scene reinforces that the [Divine Gate](../concepts/divine-gate.md) is also 
 ## Important People
 
 - [Bishop Octavian Ironheart](../people/bishop-octavian-ironheart.md)
-- [Arthur Saran](../people/arthur-saran.md)
+- [Arthur Sarlamin](../people/arthur-sarlamin.md)
 - [Nicole](../people/nicole.md)
 - [Kendrick](../people/kendrick.md)
 - [Lady Penny Hathaway](../people/lady-penny-hathaway.md)

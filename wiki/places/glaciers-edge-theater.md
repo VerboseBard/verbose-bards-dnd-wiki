@@ -14,5 +14,5 @@ The [Moon Stone Collectors](../factions/moon-stone-collectors.md) find [Nicole](
 
 - [Nicole](../people/nicole.md)
 - [Kendrick](../people/kendrick.md)
-- [Arthur Saran](../people/arthur-saran.md)
+- [Arthur Sarlamin](../people/arthur-sarlamin.md)
 - [Moon Stone Collectors, Part 4](../sessions/moon-stone-collectors-part-4.md)

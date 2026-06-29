@@ -9,7 +9,7 @@ The first half of the session is beautiful and almost calm: a musical duet, [Mae
 ## Key Events
 
 - [Kestrel](../people/kestrel.md) meets [Nicole](../people/nicole.md) in a powerful shared performance scene.
-- [Maeve](../people/mave.md) and Arthur Sarlamin witness the duet and mark it as a meaningful act of worship through music.
+- [Maeve](../people/mave.md) and [Arthur Sarlamin](../people/arthur-sarlamin.md) witness the duet and mark it as a meaningful act of worship through music.
 - Dual-wield training continues.
 - A major council convenes at the Emerald Palace.
 - [Aylinn](../people/aylinn.md)'s memories are displayed as evidence.

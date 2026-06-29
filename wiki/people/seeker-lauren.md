@@ -8,7 +8,7 @@ Lauren rebels against being indistinguishable from her sisters. She dyes her hai
 
 ## Known Assignments
 
-Lauren found Jeffrey and Anton. She was later sent to pick up Zach's character.
+Lauren found [Jeffrey Wilson](jeffrey-wilson.md) and Anton. She was later sent to pick up Zach's character.
 
 ## Related
 

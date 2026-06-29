@@ -459,3 +459,8 @@ This page is the campaign-level hub for those scenes. The quick review index giv
 - [Sovereignty](../people/sovereignty.md)
 - [Viscus](../people/viscus.md)
 - [Commodore Prophecy and Legend-Fed Rebirth](../concepts/commodore-prophecy.md)
+- [Divine Soul Anchoring](../concepts/divine-soul-anchoring.md)
+- [Belle](../people/belle.md)
+- [Eve](../people/eve.md)
+- [Lilith](../people/lilith.md)
+- [Constance and Zuk](../people/constance-l-coggeshall.md)

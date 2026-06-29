@@ -41,3 +41,6 @@ That timing means the seals are failing and the old one is close to stirring aga
 - [Opaal](../places/opaal.md)
 - [Straka](../people/straka.md)
 - [Divine Gate](divine-gate.md)
+- [War of the Gods / New Beginning Campaign](../campaign/war-of-the-gods.md)
+- [Moon Stone Collectors Elsewares](../campaign/moonstone-collectors-elsewares.md)
+- [The Hunt for Black Vipers](../campaign/hunt-for-black-vipers.md)

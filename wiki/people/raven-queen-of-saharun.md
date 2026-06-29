@@ -30,8 +30,12 @@ The [Conclave of Churches](../factions/conclave-of-churches.md) refused to recog
 
 ## Related
 
+- [Alen](alen.md)
 - [Saharun](../places/saharun.md)
 - [Dragonborn of Saharun](../concepts/dragonborn-of-saharun.md)
 - [Divine Soul Anchoring](../concepts/divine-soul-anchoring.md)
+- [Belle](belle.md)
+- [Lilith](lilith.md)
+- [Gregario / Shaq](gregario-shaq.md)
 - [Session 2](../sessions/session-2.md)
 - [The Hunt for Black Vipers, Part 4](../sessions/hunt-for-black-vipers-part-4.md)

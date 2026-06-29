@@ -31,6 +31,8 @@ The Quartet are four identical sisters who all belong to the Seeker order:
 
 Known wiki-linked pickup details currently include [Seeker Linda](../people/seeker-linda.md) finding [Constance and Zuk](../people/constance-l-coggeshall.md), and [Seeker Lindsey](../people/seeker-lindsey.md) finding [Mulligan / Molokan](../people/mulligan.md) after he washes ashore on [Opaal](../places/opaal.md).
 
+These pickups make the Seekers one of the main connective tissues of the early school era. Their holy-book directions move people from separate worlds into one campaign space before those worlds are later unified by the [Concurrence](../concepts/the-concurrence.md).
+
 ## Name Caution
 
 The word "seeker" is also used generically in some communities, such as [Kuran Grove](../places/kuran-grove.md), for people who travel outward and bring knowledge back. Those local roles should not automatically be treated as the same faction unless later notes connect them.
@@ -43,6 +45,12 @@ The word "seeker" is also used generically in some communities, such as [Kuran G
 - [Seeker Lindsey](../people/seeker-lindsey.md)
 - [Seeker Lucia](../people/seeker-lucia.md)
 - [Seeker Linda](../people/seeker-linda.md)
+- [Qinlee Triplets](../people/qinlee-triplets.md)
+- [Jeffrey Wilson](../people/jeffrey-wilson.md)
+- [Constance and Zuk](../people/constance-l-coggeshall.md)
+- [Mulligan](../people/mulligan.md)
+- [Elven Lands](../places/elven-lands.md)
+- [Opaal](../places/opaal.md)
 - [Council of Gods of the Fifth Age](../concepts/council-of-gods-of-the-fifth-age.md)
 - [Lady Penny Hathaway's School](../places/lady-penny-hathaways-school.md)
 - [War of the Gods / New Beginning Campaign](../campaign/war-of-the-gods.md)

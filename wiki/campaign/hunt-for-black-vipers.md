@@ -10,6 +10,16 @@ As the arc unfolds, the party follows the trail across [Saharun](../places/sahar
 
 The middle and late stages widen from street-level hunting into full-scale assaults: the cave hideout, the factory strike, the island purge, the jungle facility, and finally the high temple and soul ritual. The campaign ends with [Lucius](../people/lucius.md)'s final fall and [Maeve, the Schoolmistress](../people/mave.md)'s ascension, closing the Viper thread while leaving behind a world shaped by the aftermath of those choices.
 
+## Continuity Web
+
+This arc is where several older threads stop being background lore and become immediate problems.
+
+- [Lilith](../people/lilith.md) and [Eve](../people/eve.md) carry the consequences of [Belle](../people/belle.md)'s core-and-consumption plan from the [War of the Gods / New Beginning Campaign](war-of-the-gods.md).
+- [Mulligan](../people/mulligan.md)'s later Commodore return links the Black Viper hunt back to [Opaal](../places/opaal.md), [Aurora](../people/aurora-queen-beneath-waves.md), and the [Commodore Prophecy](../concepts/commodore-prophecy.md).
+- [Kestrel](../people/kestrel.md)'s ancient blades become one of the party's cleanest answers to [Lucius](../people/lucius.md)'s soul anchors.
+- [Constance and Zuk](../people/constance-l-coggeshall.md)'s dragon school turns the campaign's family, dragon, and child-protection threads into a strategic refuge.
+- The final ritual chain is another expression of [Divine Soul Anchoring](../concepts/divine-soul-anchoring.md): stolen souls, hidden fragments, anchor blades, and ritual lattices are all part of the same old technique returning in a modern crisis.
+
 ## Extracted Sessions
 
 - [Assassination of Jimbo and Charlie](../sessions/assassination-of-jimbo-and-charlie.md)
@@ -47,4 +57,10 @@ The one exception is the prelude session, [Assassination of Jimbo and Charlie](.
 - [The Hunt for Black Vipers, Part 12](../sessions/hunt-for-black-vipers-part-12.md)
 - [Black Vipers](../factions/black-vipers.md)
 - [Cobra Cult of Rax'al Karath](../factions/cobra-cult-of-raxal-karath.md)
+- [Belle](../people/belle.md)
+- [Eve](../people/eve.md)
+- [Lilith](../people/lilith.md)
+- [Mulligan](../people/mulligan.md)
+- [Commodore Prophecy and Legend-Fed Rebirth](../concepts/commodore-prophecy.md)
+- [Divine Soul Anchoring](../concepts/divine-soul-anchoring.md)
 

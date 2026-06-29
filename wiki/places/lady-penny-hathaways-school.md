@@ -12,6 +12,8 @@ Its best-known staff include [Lady Penny Hathaway](../people/lady-penny-hathaway
 
 In the early New Beginning material, newly awakened characters are gathered by Seekers and brought to this school through giant crystal transit systems. The school becomes the party's first shared home, the place where teachers, librarians, duelists, artificers, and divine politics all start to overlap.
 
+The [Seekers](../factions/seekers.md) are therefore not just a recruitment detail. They are the mechanism that brings unrelated lives into the same story: [Jeffrey Wilson](../people/jeffrey-wilson.md), [Mulligan / Molokan](../people/mulligan.md), [Constance and Zuk](../people/constance-l-coggeshall.md), the [Qinlee Triplets](../people/qinlee-triplets.md), and other awakened figures all become reachable to the school because the divination order acts on instructions from its holy book.
+
 As the campaign escalates, the school shifts from orientation site to sanctuary, then from sanctuary to battlefield. It absorbs the fallout from the Emerald Palace disaster, shelters survivors, stages reinforcements, and eventually takes direct hits during the [Radiant Citadel](radiant-citadel.md) crisis. By the time of the [Citadel](radiant-citadel.md) siege, its protections are weakening and its staff are functioning as emergency coordinators as much as educators.
 
 ## Moon Stone Collectors Role
@@ -33,6 +35,10 @@ Penny Hathaway's school belongs to the late [Sixth Age](../concepts/sixth-age.md
 - [Gaston](../people/gaston.md)
 - [Monic](../people/monic.md)
 - [Jeffrey Wilson](../people/jeffrey-wilson.md)
+- [Seekers](../factions/seekers.md)
+- [Qinlee Triplets](../people/qinlee-triplets.md)
+- [Constance and Zuk](../people/constance-l-coggeshall.md)
+- [Mulligan](../people/mulligan.md)
 - [Radiant Citadel](radiant-citadel.md)
 - [Moon Stone Collectors, Part 4](../sessions/moon-stone-collectors-part-4.md)
 - [Moon Stone Collectors, Part 5](../sessions/moon-stone-collectors-part-5.md)

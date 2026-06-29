@@ -22,6 +22,15 @@ The Elven Lands and [Driftvale](../places/driftvale.md) are separate worlds. Con
 
 [Greg](../people/greg-p-smith.md) was transported to the Elven Lands, not Driftvale. After arriving there, he was captured by isolated tribal goblins cut off from the Gobfolk Alliance since [the Breaking](../concepts/the-breaking.md). A Seeker who had already found Constance and Zuk rescued him before bringing them through the crystal transport network to the [Radiant Citadel](../places/radiant-citadel.md).
 
+## Continuity Bridges
+
+Several later campaign threads are rooted here even when they do not fully pay off until [Moon Stone Collectors](moonstone-collectors.md), [The Hunt for Black Vipers](hunt-for-black-vipers.md), or the [Seventh Age](../concepts/seventh-age.md).
+
+- The [Seekers](../factions/seekers.md) and the Quartet provide the early gathering structure: [Seeker Lauren](../people/seeker-lauren.md), [Seeker Lindsey](../people/seeker-lindsey.md), [Seeker Lucia](../people/seeker-lucia.md), and [Seeker Linda](../people/seeker-linda.md) connect the school opening to [Jeffrey Wilson](../people/jeffrey-wilson.md), [Mulligan / Molokan](../people/mulligan.md), [Constance and Zuk](../people/constance-l-coggeshall.md), and the [Qinlee Triplets](../people/qinlee-triplets.md).
+- [Belle](../people/belle.md)'s grooming of [Experiment 69](../people/experiment-69.md) and [Mummy](../people/mummy.md) becomes the origin point for [Eve](../people/eve.md) and [Lilith](../people/lilith.md), which later drives major Black Viper and Raven Queen inheritance threads.
+- [Mulligan](../people/mulligan.md)'s return as an amnesiac corpse on [Opaal](../places/opaal.md), his mistaken belief in [Straka](../people/straka.md), and [Maeve, the Schoolmistress](../people/mave.md)'s later memory gift explain why the later Commodore is not merely a returning NPC but a legend-fed force no longer easy for gods or devils to steer.
+- The campaign is also where [Divine Soul Anchoring](../concepts/divine-soul-anchoring.md) becomes visible as a recurring pattern behind [Belle](../people/belle.md), [Alen](../people/alen.md), [Lucius](../people/lucius.md), and later divine-fragment stories.
+
 ## Roster Snapshot
 
 These levels and class mixes are a reference snapshot from uploaded roster information. Because builds shifted during play, the exact level and class state should not override session lore when a specific scene says otherwise.
@@ -103,5 +112,12 @@ If more dated notes from other players contradict that alignment, this page shou
 - [Sixth Age](../concepts/sixth-age.md)
 - [Seventh Age](../concepts/seventh-age.md)
 - [Fifth Age](../concepts/fifth-age.md)
+- [Seekers](../factions/seekers.md)
+- [Divine Soul Anchoring](../concepts/divine-soul-anchoring.md)
+- [Commodore Prophecy and Legend-Fed Rebirth](../concepts/commodore-prophecy.md)
+- [Belle](../people/belle.md)
+- [Alen](../people/alen.md)
+- [Constance and Zuk](../people/constance-l-coggeshall.md)
+- [Kestrel](../people/kestrel.md)
 - [Logan's First Campaign](logans-first-campaign.md)
 

@@ -16,6 +16,8 @@ The campaign Elseware hub collects those scenes in one place, with a quick revie
 
 - [Moon Stone Collectors Elsewares](moonstone-collectors-elsewares.md)
 
+Those Elsewares are the cleanest bridge between the previous age and this campaign's active story. They show [Greg](../people/greg-p-smith.md)'s world-repair, [Constance and Zuk](../people/constance-l-coggeshall.md)'s dragon-egg crisis, the return of the [Commodore](../concepts/commodore-prophecy.md), [Belle](../people/belle.md)'s punishment of [Wendell](../people/wendell.md), and the sister-fragment path that later becomes [Sovereignty](../people/sovereignty.md).
+
 ## Player Roster
 
 The core player roster includes:
@@ -87,6 +89,7 @@ The cleanest currently supported date chain is:
 
 - The emissary escort attempt on [Norvindr](../places/norvindr.md) becomes an assassination defense.
 - [The Concurrence](../concepts/the-concurrence.md) begins and redefines travel, divine authority, and the world's structure.
+- The Elseware scenes expose off-screen consequences from [War of the Gods / New Beginning Campaign](war-of-the-gods.md), including [Eve](../people/eve.md), [Lilith](../people/lilith.md), [Mulligan](../people/mulligan.md), [Belle](../people/belle.md), and the final world-repair machinery.
 - [Ice Watch](../places/ice-watch.md), the [Citadel](../places/radiant-citadel.md), and the thawing north become linked pieces of one changing world.
 - The party survives the move into the post-[Concurrence](../concepts/the-concurrence.md) landscape and discovers deeper northern consequences.
 - [Kuran Grove](../places/kuran-grove.md), [Fey](../concepts/fey.md) bargains, and the final [Viscus](../people/viscus.md) confrontation bring the arc to a close.
@@ -106,5 +109,12 @@ The cleanest currently supported date chain is:
 - [Moon Stone Collectors, Part 1](../sessions/moon-stone-collectors-part-1.md)
 - [Moon Stone Collectors, Part 17](../sessions/moon-stone-collectors-part-17.md)
 - [Moon Stone Collectors Elsewares](moonstone-collectors-elsewares.md)
+- [War of the Gods / New Beginning Campaign](war-of-the-gods.md)
+- [The Hunt for Black Vipers](hunt-for-black-vipers.md)
+- [Belle](../people/belle.md)
+- [Eve](../people/eve.md)
+- [Lilith](../people/lilith.md)
+- [Mulligan](../people/mulligan.md)
+- [Divine Soul Anchoring](../concepts/divine-soul-anchoring.md)
 - [Concurrence](../concepts/the-concurrence.md)
 - [Age of Heroes](../concepts/age-of-heroes.md)

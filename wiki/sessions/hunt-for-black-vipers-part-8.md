@@ -60,7 +60,7 @@ Constance, Zuk, [Eve](../people/eve.md), and [Gregario](../people/gregario-shaq.
 
 The faction explains that they are not trying to preserve theocracy forever. Their stated aim is to stabilize worlds raised under divine rule, gradually move power into secular hands, and reduce the unchecked influence of the young gods.
 
-They also reveal that some factions allowed or assisted [Lucius](../people/lucius.md)'s return because fully gathering his soul into one place may be the only way to destroy him forever. They identify [Julia](../people/julia-julisia.md), the Conquer / Power fragment later involved in the Julisia merger, as the one who set much of the resurrection game in motion.
+They also reveal that some factions allowed or assisted [Lucius](../people/lucius.md)'s return because fully gathering his soul into one place may be the only way to destroy him forever. They identify [Julia](../people/julia-julisia.md), later involved in the Julisia merger, as the one who set much of the resurrection game in motion.
 
 ## Arbiter Offer
 

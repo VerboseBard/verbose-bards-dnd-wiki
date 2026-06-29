@@ -46,9 +46,9 @@ The bargain is sealed through a small circle made with demonic pepper powder. A 
 
 [Elisia](../people/elisia.md) explains more about herself and her sisters.
 
-[Lucius](../people/lucius.md) once used a stolen divine artifact against a powerful demon. Instead of simply destroying the being, the artifact split its nature into purified and corrupted aspects, creating six sisters: demonic and celestial fragments of one original whole.
+[Lucius](../people/lucius.md) once used a stolen divine artifact against a powerful demon. Instead of simply destroying the being, the artifact split her nature into six sisters: demonic and celestial fragments of one original whole.
 
-[Elisia](../people/elisia.md) believes she is justice and protection. [Julara](../people/julara.md) is tied to knowledge. Other sisters are associated with power, carnal desire, love, wisdom, and related paired aspects. Some may want reunion; others may fear what reunion would erase.
+[Elisia](../people/elisia.md) names herself as one of those sisters, and [Julara](../people/julara.md) is already known to the party through Paul. The other sisters are later identified as [Julia](../people/julia-julisia.md), [Alura](../people/alura.md), [Julessa](../people/julessa.md), and [Sophia](../people/wisdom.md). Some may want reunion; others may fear what reunion would erase.
 
 ## Maeve's Warning
 

@@ -29,17 +29,17 @@ This page is the campaign-level hub for those scenes. The quick review index giv
 - [Entry 20 Phlukks Restoration by Viscus](#entry-20-phlukks-restoration-by-viscus): [Phlukk](../people/phlukk.md) is restored through [Viscus](../people/viscus.md)'s memory and fungal ritual.
 - [Entry 21 Session 14 Elseware Rolls Pending](#entry-21-session-14-elseware-rolls-pending): A mechanical Elseware tracker marks unresolved off-screen events.
 - [Entry 22 Paul Belle and the Crown of Fools](#entry-22-paul-belle-and-the-crown-of-fools): [Paul](../people/paul.md) is judged by Belle's Fey aspects and marked with the [Crown of Fools](../items/crown-of-fools.md).
-- [Entry 23 Conquer Love and Justice Merge](#entry-23-conquer-love-and-justice-merge): Sister-fragments merge under Conquer's dominance and begin becoming [Sovereignty](../people/sovereignty.md).
+- [Entry 23 Julia Alura and Elisia Merge](#entry-23-julia-alura-and-elisia-merge): Sister-fragments merge under Julia's dominance and begin becoming [Sovereignty](../people/sovereignty.md).
 - [Entry 24 Viscus Shows Phlukk the Wound](#entry-24-viscus-shows-phlukk-the-wound): Viscus shows Phlukk the damaged mushroom-circle network feeding the grove.
-- [Entry 25 Knowledge Offers Paul Four Paths](#entry-25-knowledge-offers-paul-four-paths): [Julara](../people/julara.md) offers Paul ways around his stolen lifespan and Belle's curse.
+- [Entry 25 Julara Offers Paul Four Paths](#entry-25-julara-offers-paul-four-paths): [Julara](../people/julara.md) offers Paul ways around his stolen lifespan and Belle's curse.
 - [Entry 26 Luka and Junvara Receive the Church Mission](#entry-26-luka-and-junvara-receive-the-church-mission): [Luka](../people/luka.md) and Junvara are tasked with stopping the sister-fragments.
 - [Entry 27 Dwarven Commander and the Goo Control Room](#entry-27-dwarven-commander-and-the-goo-control-room): Juan sees the old dwarven control room and learns how the goo network can be reached.
 - [Entry 28 Sorrels Summer Court Summons](#entry-28-sorrels-summer-court-summons): [Sorrel](../people/sorrel.md) is recalled into the Summer Court just before the party arrives.
-- [Entry 29 Lust Returns to Sovereignty](#entry-29-lust-returns-to-sovereignty): Lust is absorbed into Sovereignty, raising the merger to four aspects.
+- [Entry 29 Julessa Returns to Sovereignty](#entry-29-julessa-returns-to-sovereignty): [Julessa](../people/julessa.md) is absorbed into Sovereignty, raising the merger to four sisters.
 - [Entry 30 Junvaras Judgment of Sovereignty](#entry-30-junvaras-judgment-of-sovereignty): Junvara chooses not to fight Sovereignty yet after hearing her argument.
-- [Entry 31 Knowledge Returns to Sovereignty](#entry-31-knowledge-returns-to-sovereignty): Julara is taken into Sovereignty despite Paul's attempt to protect her.
+- [Entry 31 Julara Returns to Sovereignty](#entry-31-julara-returns-to-sovereignty): Julara is taken into Sovereignty despite Paul's attempt to protect her.
 - [Entry 32 Viscus Takes the Goo Network](#entry-32-viscus-takes-the-goo-network): Viscus claims the master goo and becomes a geopolitical power.
-- [Entry 33 Wisdom Merges and Sovereignty Becomes Whole](#entry-33-wisdom-merges-and-sovereignty-becomes-whole): Wisdom joins the restored sister-being, ending the campaign with Sovereignty whole.
+- [Entry 33 Sophia Merges and Sovereignty Becomes Whole](#entry-33-sophia-merges-and-sovereignty-becomes-whole): [Sophia](../people/wisdom.md) joins the restored sister-being, ending the campaign with Sovereignty whole.
 
 ## Entry 0 Campaign Prologue Fall of the Sixth Age
 
@@ -317,17 +317,17 @@ This page is the campaign-level hub for those scenes. The quick review index giv
 
 **Detailed breakdown:** Paul is marked with faerie fire and a visible mushroom-crown sign. Julara later explains that he survived because Belle's Mischief aspect enjoyed the chaos, but the broken Fey bond still demands repair.
 
-## Entry 23 Conquer Love and Justice Merge
+## Entry 23 Julia Alura and Elisia Merge
 
 **Source:** [Moon Stone Collectors, Part 16](../sessions/moon-stone-collectors-part-16.md)
 
 **Type:** Major Elseware.
 
-**Review:** In the celestial prison-area beneath Hell, [Julia](../people/julia-julisia.md), Power / Conquer, reaches [Alura](../people/alura.md), Love, and tries to merge with her. [Elisia](../people/elisia.md), Justice, intervenes from within the mindscape, warning that Conquer means to consume Love.
+**Review:** In the celestial prison-area beneath Hell, [Julia](../people/julia-julisia.md) reaches [Alura](../people/alura.md) and tries to merge with her. [Elisia](../people/elisia.md) intervenes from within the mindscape, warning that Julia means to consume Alura.
 
 **Campaign tie:** This is the first clear formation stage of [Sovereignty](../people/sovereignty.md).
 
-**Detailed breakdown:** Justice cannot defeat Conquer alone, so she asks Love to accept a union. Love agrees. Conquer still wins dominance, but the victory changes her because two other aspects now live inside the merged being.
+**Detailed breakdown:** Elisia cannot defeat Julia alone, so she asks Alura to accept a union. Alura agrees. Julia still wins dominance, but the victory changes her because two other sisters now live inside the merged being.
 
 ## Entry 24 Viscus Shows Phlukk the Wound
 
@@ -341,13 +341,13 @@ This page is the campaign-level hub for those scenes. The quick review index giv
 
 **Detailed breakdown:** Phlukk sees seven functioning mushroom circles and the destroyed eighth circle as a wound. Viscus feeds on those Fey portals and directs him toward the portal the party can use.
 
-## Entry 25 Knowledge Offers Paul Four Paths
+## Entry 25 Julara Offers Paul Four Paths
 
 **Source:** [Moon Stone Collectors, Part 16](../sessions/moon-stone-collectors-part-16.md)
 
 **Type:** Personal dream Elseware.
 
-**Review:** [Julara](../people/julara.md), the knowledge aspect, gives Paul a cold-iron amulet that can suppress the Crown of Fools. She explains that the Fey gatekeeper stole sixty-four years from him.
+**Review:** [Julara](../people/julara.md) gives Paul a cold-iron amulet that can suppress the Crown of Fools. She explains that the Fey gatekeeper stole sixty-four years from him.
 
 **Campaign tie:** This becomes the turning point that pushes Paul away from the Moon Stone Collectors.
 
@@ -363,7 +363,7 @@ This page is the campaign-level hub for those scenes. The quick review index giv
 
 **Campaign tie:** This turns the sister-fragment plot into an official [Conclave of Churches](../factions/conclave-of-churches.md) mission and makes Paul a target because of his link to Julara.
 
-**Detailed breakdown:** Luka is ordered to find Paul and free him from Julara or kill Julara through the connection. Junvara is pointed toward another fragment, Lust, but the mission becomes more complicated once Sovereignty begins forming.
+**Detailed breakdown:** Luka is ordered to find Paul and free him from Julara or kill Julara through the connection. Junvara is pointed toward [Julessa](../people/julessa.md), but the mission becomes more complicated once Sovereignty begins forming.
 
 ## Entry 27 Dwarven Commander and the Goo Control Room
 
@@ -389,17 +389,17 @@ This page is the campaign-level hub for those scenes. The quick review index giv
 
 **Detailed breakdown:** Sorrel expects routine court duty but is told that mortal visitors have asked for her. She hears the familiar hum of bees, opens the door, and finds the party.
 
-## Entry 29 Lust Returns to Sovereignty
+## Entry 29 Julessa Returns to Sovereignty
 
 **Source:** [Moon Stone Collectors, Part 16](../sessions/moon-stone-collectors-part-16.md)
 
 **Type:** Major Elseware.
 
-**Review:** In a heavenly labyrinth, Lust hears armored footsteps and encounters the merged Conquer-Love-Justice being.
+**Review:** In a heavenly labyrinth, [Julessa](../people/julessa.md) hears armored footsteps and encounters the merged Julia-Alura-Elisia being.
 
-**Campaign tie:** This raises [Sovereignty](../people/sovereignty.md) from three aspects to four and makes the church mission far more dangerous.
+**Campaign tie:** This raises [Sovereignty](../people/sovereignty.md) from three sisters to four and makes the church mission far more dangerous.
 
-**Detailed breakdown:** [Julessa](../people/julessa.md), Lust for Carnal Pleasures, recognizes herself in the being before her. Sovereignty touches her forehead and tells her to return. Julessa is absorbed, and the merged being now carries Julia, Alura, Elisia, and Julessa.
+**Detailed breakdown:** [Julessa](../people/julessa.md) recognizes herself in the being before her. Sovereignty touches her forehead and tells her to return. Julessa is absorbed, and the merged being now carries Julia, Alura, Elisia, and Julessa.
 
 ## Entry 30 Junvaras Judgment of Sovereignty
 
@@ -407,13 +407,13 @@ This page is the campaign-level hub for those scenes. The quick review index giv
 
 **Type:** Major Elseware.
 
-**Review:** Junvara arrives expecting one fragment and instead finds Sovereignty. She argues that Conquer's crimes were the acts of a severed fragment, not necessarily the whole restored being.
+**Review:** Junvara arrives expecting one fragment and instead finds Sovereignty. She argues that Julia's crimes were the acts of a severed fragment, not necessarily the whole restored being.
 
 **Campaign tie:** This is the moral center of the sister-fragment plot: whether restoration is justice, danger, or both.
 
 **Detailed breakdown:** Sovereignty compares herself to Junvara's echo and asks whether a separated part's actions should condemn the whole. Junvara recognizes that she is dangerous but chooses not to fight her that day, warning that another conversation will be necessary if she becomes whole.
 
-## Entry 31 Knowledge Returns to Sovereignty
+## Entry 31 Julara Returns to Sovereignty
 
 **Source:** [Moon Stone Collectors, Part 17](../sessions/moon-stone-collectors-part-17.md)
 
@@ -423,7 +423,7 @@ This page is the campaign-level hub for those scenes. The quick review index giv
 
 **Campaign tie:** Paul's departure cannot prevent Julara's return to the whole, but it defines his personal loyalty and the cost of the sister-fragment story.
 
-**Detailed breakdown:** Knowledge is absorbed into Sovereignty, leaving the merged being with five of the six aspects: Conquer, Love, Justice, Lust, and Knowledge. Paul survives, but the bond that shaped him is severed.
+**Detailed breakdown:** Julara is absorbed into Sovereignty, leaving the merged being with five of the six sisters: Julia, Alura, Elisia, Julessa, and Julara. Paul survives, but the bond that shaped him is severed.
 
 ## Entry 32 Viscus Takes the Goo Network
 
@@ -437,17 +437,17 @@ This page is the campaign-level hub for those scenes. The quick review index giv
 
 **Detailed breakdown:** The master goo, hidden tunnels, infected bodies, undead soldiers, and remnants of the plague fall under Viscus's influence. The mass-infection threat is neutralized, but Viscus now controls power on the scale of nations.
 
-## Entry 33 Wisdom Merges and Sovereignty Becomes Whole
+## Entry 33 Sophia Merges and Sovereignty Becomes Whole
 
 **Source:** [Moon Stone Collectors, Part 17](../sessions/moon-stone-collectors-part-17.md)
 
 **Type:** Final major Elseware.
 
-**Review:** After the goo crisis resolves, the camera turns to the [Summer Court](../places/summer-court.md). The Green Man's old bargain is fulfilled, and [Wisdom](../people/wisdom.md) is brought safely to [Sovereignty](../people/sovereignty.md).
+**Review:** After the goo crisis resolves, the camera turns to the [Summer Court](../places/summer-court.md). The Green Man's old bargain is fulfilled, and [Sophia](../people/wisdom.md) is brought safely to [Sovereignty](../people/sovereignty.md).
 
 **Campaign tie:** This closes the Six Sisters thread for the campaign by undoing [Lucius](../people/lucius.md)'s ancient division.
 
-**Detailed breakdown:** Wisdom joins her sisters, completing Sovereignty as a new whole. The church's attempt to prevent the reunion fails, but the result is not framed as simple conquest. The final Elseware closes with transformation: Viscus is a power among nations, and Sovereignty is whole in the Feywild.
+**Detailed breakdown:** Sophia joins her sisters, completing Sovereignty as a new whole. The church's attempt to prevent the reunion fails, but the result is not framed as simple conquest. The final Elseware closes with transformation: Viscus is a power among nations, and Sovereignty is whole in the Feywild.
 
 ## Related
 

@@ -1,14 +1,14 @@
-# Moon Stone Collectors, Part 16: Wisdom, Sovereignty, and the Control Room
+# Moon Stone Collectors, Part 16: Sophia, Sovereignty, and the Control Room
 
 Part 16 follows the aftermath of the mated hydra fight. The party learns how far the sister-fragments have merged, repairs the [Kuran Grove](../places/kuran-grove.md)'s [Fey](../concepts/fey.md) connection through the [Summer Court](../places/summer-court.md), loses [Paul](../people/paul.md) from the group, and opens the old dwarven path toward the goo control room.
 
 ## Sovereignty Forms
 
-In the celestial refuge beneath Hell, [Julia](../people/julia-julisia.md), Power or Conquer, reaches [Alura](../people/alura.md), Love, and begins to merge with her. [Elisia](../people/elisia.md), Justice, resists from within the merged body, warning Alura that Conquer means to consume her.
+In the celestial refuge beneath Hell, [Julia](../people/julia-julisia.md) reaches [Alura](../people/alura.md) and begins to merge with her. [Elisia](../people/elisia.md) resists from within the merged body, warning Alura that Julia means to consume her.
 
-The struggle becomes a three-way mental battle. Love and Justice briefly merge, but Conquer wins dominance. The victory backfires in part: the fused being now contains Conquer, Justice, and Love, leaving Conquer outnumbered by more divine-aligned aspects than she expected.
+The struggle becomes a three-way mental battle. Alura and Elisia briefly merge, but Julia wins dominance. The victory backfires in part: the fused being now contains Julia, Elisia, and Alura, leaving Julia outnumbered by more divine-aligned sisters than she expected.
 
-Later, in the second layer of Heaven, the merged being finds [Julessa](../people/julessa.md), Lust for Carnal Pleasures, imprisoned in a labyrinth. Julessa is absorbed willingly or with little resistance, creating a four-aspect being now called [Sovereignty](../people/sovereignty.md).
+Later, in the second layer of Heaven, the merged being finds [Julessa](../people/julessa.md) imprisoned in a labyrinth. Julessa is absorbed willingly or with little resistance, creating a four-sister being now called [Sovereignty](../people/sovereignty.md).
 
 ## Amulet and Juan's Choice
 
@@ -42,27 +42,27 @@ On the [Radiant Citadel](../places/radiant-citadel.md), [Luka](../people/luka.md
 
 Following [Viscus](../people/viscus.md)'s guidance, the party enters the [Feywild](../places/feywild.md) again and reaches the [Summer Court](../places/summer-court.md). There they reunite with [Sorrel](../people/sorrel.md), who has been recalled to the court and is now serving under her grandfather, the Brownie adviser to the Green Man.
 
-[Sorrel](../people/sorrel.md) leads them through court rules and warnings, then brings them to [Wisdom](../people/wisdom.md), the blindfolded sister-fragment hidden in the [Summer Court](../places/summer-court.md).
+[Sorrel](../people/sorrel.md) leads them through court rules and warnings, then brings them to [Sophia](../people/wisdom.md), the blindfolded sister-fragment hidden in the [Summer Court](../places/summer-court.md).
 
-[Wisdom](../people/wisdom.md) recognizes [Juan](../people/juan.md) as one marked by her nemesis, [The Weaver](../concepts/the-weaver.md). She says the Weaver may call himself fate, but did not give a true name. When she asks whether [Juan](../people/juan.md) still remembers the adulthood oath all [Fey](../concepts/fey.md) take after learning the secret of their realm, he does not.
+[Sophia](../people/wisdom.md) recognizes [Juan](../people/juan.md) as one marked by her nemesis, [The Weaver](../concepts/the-weaver.md). She says the Weaver may call himself fate, but did not give a true name. When she asks whether [Juan](../people/juan.md) still remembers the adulthood oath all [Fey](../concepts/fey.md) take after learning the secret of their realm, he does not.
 
-Because she is not [Fey](../concepts/fey.md), [Wisdom](../people/wisdom.md) can speak of the hidden cornerstone spellwork that holds the [Feywild](../places/feywild.md) together and of the Wild Hunt's role enforcing Fey oaths. This reframes [Juan](../people/juan.md)'s stolen destiny as part of a deeper Weaver intrusion involving family duty, erased oath-memory, and fate manipulation.
+Because she is not [Fey](../concepts/fey.md), [Sophia](../people/wisdom.md) can speak of the hidden cornerstone spellwork that holds the [Feywild](../places/feywild.md) together and of the Wild Hunt's role enforcing Fey oaths. This reframes [Juan](../people/juan.md)'s stolen destiny as part of a deeper Weaver intrusion involving family duty, erased oath-memory, and fate manipulation.
 
-[Wisdom](../people/wisdom.md) explains that [Viscus](../people/viscus.md) began as a unique offshoot of the demonic dwarven goo altered by [Fey](../concepts/fey.md) magic. The [Fey](../concepts/fey.md) courts tied circles to [Viscus](../people/viscus.md) after the [Breaking](../concepts/the-breaking.md), feeding and receiving power through him. The destroyed Spring Court circle weakens both [Viscus](../people/viscus.md) and the Spring Court.
+[Sophia](../people/wisdom.md) explains that [Viscus](../people/viscus.md) began as a unique offshoot of the demonic dwarven goo altered by [Fey](../concepts/fey.md) magic. The [Fey](../concepts/fey.md) courts tied circles to [Viscus](../people/viscus.md) after the [Breaking](../concepts/the-breaking.md), feeding and receiving power through him. The destroyed Spring Court circle weakens both [Viscus](../people/viscus.md) and the Spring Court.
 
 The party chooses to ask the Green Man and [Summer Court](../places/summer-court.md) to create a replacement link rather than seek [Belle](../people/belle.md)'s Spring Court directly. The Green Man accepts, amused at putting one over on his stepdaughter. On a powerful success, he also removes [Paul](../people/paul.md)'s [Crown of Fools](../items/crown-of-fools.md) and restores the years taken by the [Fey](../concepts/fey.md) curse.
 
 ## The Sisters Question
 
-[Wisdom](../people/wisdom.md) lays out the moral problem of the sisters: splitting a merged being would kill the new whole, while allowing all fragments to merge may restore the original being. Destroying one fragment prevents the original from ever returning.
+[Sophia](../people/wisdom.md) lays out the moral problem of the sisters: splitting a merged being would kill the new whole, while allowing all fragments to merge may restore the original being. Destroying one fragment prevents the original from ever returning.
 
-The party debates whether to allow [Wisdom](../people/wisdom.md) to merge with [Julara](../people/julara.md) in order to use the celestial artifact to split or save Justice. [Zen](../people/zen.md) objects that doing the wrong thing for a good reason still feels wrong. [Vylra](../people/vylra.md) worries that waiting will close their chance.
+The party debates whether to allow [Sophia](../people/wisdom.md) to merge with [Julara](../people/julara.md) in order to use the celestial artifact to split or save Elisia. [Zen](../people/zen.md) objects that doing the wrong thing for a good reason still feels wrong. [Vylra](../people/vylra.md) worries that waiting will close their chance.
 
 The decision is interrupted by [Sovereignty](../people/sovereignty.md)'s progress and by the more immediate threat of the goo.
 
 ## Sovereignty and Junvara
 
-[Junvara](../people/junvara.md) finds [Sovereignty](../people/sovereignty.md) after she absorbs [Julessa](../people/julessa.md). They discuss whether she is responsible for Conquer's actions, whether [Lucius](../people/lucius.md) feared what he accidentally created, and what she might become if made whole.
+[Junvara](../people/junvara.md) finds [Sovereignty](../people/sovereignty.md) after she absorbs [Julessa](../people/julessa.md). They discuss whether she is responsible for Julia's actions, whether [Lucius](../people/lucius.md) feared what he accidentally created, and what she might become if made whole.
 
 [Sovereignty](../people/sovereignty.md) argues that [Lucius](../people/lucius.md) split her with an artifact he did not understand and that she only seeks to know herself again. She says she does not wish to conquer mortal realms, though if she sought dominion she would more likely go home to Hell or ascend to the heavens to learn why the artifact was cast down.
 
@@ -105,7 +105,7 @@ The session ends as the party prepares to descend into the dwarven facility lead
 - [Sovereignty](../people/sovereignty.md)
 - [The Weaver](../concepts/the-weaver.md)
 - [Viscus](../people/viscus.md)
-- [Wisdom](../people/wisdom.md)
+- [Sophia](../people/wisdom.md)
 
 ## Important Places
 
@@ -121,5 +121,5 @@ The session ends as the party prepares to descend into the dwarven facility lead
 
 ## Source Notes
 
-Derived from the uploaded [Moon Stone Collectors](../factions/moon-stone-collectors.md) [Wisdom](../people/wisdom.md) and control-room transcript. See also the [Moon Stone Collectors Finale Transcript Reference](../campaign/moonstone-collectors-finale-reference.md).
+Derived from the uploaded [Moon Stone Collectors](../factions/moon-stone-collectors.md) [Sophia](../people/wisdom.md) and control-room transcript. See also the [Moon Stone Collectors Finale Transcript Reference](../campaign/moonstone-collectors-finale-reference.md).
 

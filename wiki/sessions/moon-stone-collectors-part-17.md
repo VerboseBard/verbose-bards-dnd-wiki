@@ -70,11 +70,11 @@ The immediate mass-infection threat to [Norvindr](../places/norvindr.md) and the
 
 ## Sovereignty Made Whole
 
-After the control-room victory, the scene shifts to the [Summer Court](../places/summer-court.md). The Green Man confirms that he has fulfilled an old bargain and kept [Wisdom](../people/wisdom.md) safe for roughly a thousand years.
+After the control-room victory, the scene shifts to the [Summer Court](../places/summer-court.md). The Green Man confirms that he has fulfilled an old bargain and kept [Sophia](../people/wisdom.md) safe for roughly a thousand years.
 
-[Wisdom](../people/wisdom.md), also known as Sophia, meets the demonic knowledge fragment [Julara](../people/julara.md). [Sovereignty](../people/sovereignty.md) thanks [Wisdom](../people/wisdom.md) for the insight that made this possible, and the remaining fragments merge.
+[Sophia](../people/wisdom.md) meets [Julara](../people/julara.md). [Sovereignty](../people/sovereignty.md) thanks Sophia for the insight that made this possible, and the remaining fragments merge.
 
-[Sovereignty](../people/sovereignty.md) becomes a new whole: not merely Conquer, not merely Justice, and not simply any single sister restored. Because the merger occurs in the [Feywild](../places/feywild.md), she is too powerful to enter the mortal realm and does not ascend into the heavens.
+[Sovereignty](../people/sovereignty.md) becomes a new whole: not merely Julia, not merely Elisia, and not simply any single sister restored. Because the merger occurs in the [Feywild](../places/feywild.md), she is too powerful to enter the mortal realm and does not ascend into the heavens.
 
 ## Ending
 
@@ -91,7 +91,7 @@ The ending also explicitly frames the early [Seventh Age](../concepts/seventh-ag
 - [Phlukk](../people/phlukk.md)
 - [Sovereignty](../people/sovereignty.md)
 - [Viscus](../people/viscus.md)
-- [Wisdom](../people/wisdom.md)
+- [Sophia](../people/wisdom.md)
 
 ## Important Places
 

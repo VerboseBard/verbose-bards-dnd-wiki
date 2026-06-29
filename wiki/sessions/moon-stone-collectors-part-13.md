@@ -16,7 +16,7 @@ His anger ignites as fire. He burns the foreign presence out of his soul, leavin
 
 ## Awake Again
 
-[Juan](../people/juan.md) wakes at the familiar inn on [Norvindr](../places/norvindr.md). The others explain what happened while he was out: [Elisia](../people/elisia.md) was consumed or overtaken by [Julia / Julisia](../people/julia-julisia.md), the party fled the [Radiant Citadel](../places/radiant-citadel.md), and they are taking [Phlukk](../people/phlukk.md) to the [Kuran Grove](../places/kuran-grove.md).
+[Juan](../people/juan.md) wakes at the familiar inn on [Norvindr](../places/norvindr.md). The others explain what happened while he was out: [Elisia](../people/elisia.md) was consumed or overtaken by [Julia](../people/julia-julisia.md), creating [Julisia](../people/julia-julisia.md), the party fled the [Radiant Citadel](../places/radiant-citadel.md), and they are taking [Phlukk](../people/phlukk.md) to the [Kuran Grove](../places/kuran-grove.md).
 
 For the next part of the journey, [Juan](../people/juan.md) keeps mostly to himself, healing from the revelations about luck, fate, and accountability.
 
@@ -102,7 +102,7 @@ The session ends with [Juan](../people/juan.md) using the [Amulet of Lost Memori
 
 - [Julara](../people/julara.md)
 - [Phlukk](../people/phlukk.md)
-- [Julia / Julisia](../people/julia-julisia.md)
+- [Julia and Julisia](../people/julia-julisia.md)
 - [Kaithra Mally](../people/kaithra-mally.md)
 - [Perrian Halfstar](../people/perrian-halfstar.md)
 - [Viscus](../people/viscus.md)

@@ -16,7 +16,7 @@ The work is elegant, expensive, and far beyond most modern craftsmanship. [Paul]
 
 ## Celestial Demon Responsibility
 
-[Vylra](../people/vylra.md) returns [Paul](../people/paul.md)'s stolen summoning salt and raises another concern: [Elisia](../people/elisia.md)'s fate after [Julia / Julisia](../people/julia-julisia.md) consumed or overtook her.
+[Vylra](../people/vylra.md) returns [Paul](../people/paul.md)'s stolen summoning salt and raises another concern: [Elisia](../people/elisia.md)'s fate after [Julia](../people/julia-julisia.md) consumed or overtook her, creating [Julisia](../people/julia-julisia.md).
 
 [Paul](../people/paul.md), [Zen](../people/zen.md), and [Vylra](../people/vylra.md) discuss whether the party has a duty to try to restore [Elisia](../people/elisia.md) or separate the fused celestial demons. They recall that the artifact in Hell that originally split the sisters may be one possible path, though reaching it would mean returning to very dangerous ground.
 

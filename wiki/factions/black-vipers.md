@@ -4,7 +4,7 @@ The Black Vipers were a sleeper cell deep within the [Citadel](../places/radiant
 
 ## Manipulation
 
-The Vipers believed they were acting in [Lucius](../people/lucius.md)'s will, striking out through vengeance, old grudges, and personal debts. In truth, [Julia / Julisia](../people/julia-julisia.md) used them as a match meant to draw fire: a distraction placed where [Lucius](../people/lucius.md) would never look, but a beacon to his enemies.
+The Vipers believed they were acting in [Lucius](../people/lucius.md)'s will, striking out through vengeance, old grudges, and personal debts. In truth, [Julia](../people/julia-julisia.md) used them as a match meant to draw fire: a distraction placed where [Lucius](../people/lucius.md) would never look, but a beacon to his enemies.
 
 Their older history also reaches back to [Mulligan](../people/mulligan.md)'s Commodore life on [Opaal](../places/opaal.md). When the Commodore began uniting Opaal against the [Opaal Old One](../concepts/opaal-old-one.md), Viper-linked forces helped disrupt that unity by taking [Aurora, Queen Beneath the Waves](../people/aurora-queen-beneath-waves.md). The Commodore's off-world retaliation destroyed large portions of vampire and Viper operations, with quiet help from elite [442nd](442nd.md) members.
 
@@ -36,7 +36,7 @@ At the [Jungle Ley-Line Facility](../places/jungle-ley-line-facility.md), Black 
 
 ## Related
 
-- [Julia / Julisia](../people/julia-julisia.md)
+- [Julia and Julisia](../people/julia-julisia.md)
 - [Hell's Bane Heroes](hells-bane-heroes.md)
 - [Assassination of Jimbo and Charlie](../sessions/assassination-of-jimbo-and-charlie.md)
 - [Central Toge](../people/central-toge.md)

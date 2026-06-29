@@ -6,10 +6,10 @@ Sovereignty is the current name for the merged sister-being formed from several 
 
 In [Moon Stone Collectors, Part 16](../sessions/moon-stone-collectors-part-16.md), Sovereignty first contains four known aspects:
 
-- Conquer, also called Power.
-- Justice, formerly associated with [Elisia](elisia.md).
-- Love.
-- Lust.
+- [Julia](julia-julisia.md), Conquer / Power.
+- [Elisia](elisia.md), Justice / Protection.
+- [Alura](alura.md), Love.
+- [Julessa](julessa.md), Lust for Carnal Pleasures.
 
 Conquer wins the first struggle for dominance, but the merger also changes her. Justice and Love outnumber her within the whole, and the resulting being is not simply Conquer wearing the others.
 
@@ -18,20 +18,23 @@ In [Moon Stone Collectors, Part 17](../sessions/moon-stone-collectors-part-17.md
 Known fragment names and aspects include:
 
 - [Julara](julara.md), the demonic lust for knowledge.
-- [Julia](julia-julisia.md) or [Julisia](julia-julisia.md), the demonic lust for power.
+- [Julia](julia-julisia.md), the demonic lust for power, also tracked as Conquer / Power.
+- [Julisia](julia-julisia.md), the merged Julia-plus-Elisia state after Julia absorbed or merged with Elisia.
 - [Elisia](elisia.md), the celestial justice and protection.
+- [Alura](alura.md), love.
+- [Julessa](julessa.md), lust for carnal pleasures.
 - Sophia or [Wisdom](wisdom.md), the celestial wisdom and knowledge.
-
-The love and lust fragments are currently tracked by aspect label rather than by separate confirmed names.
 
 ## Aspect Mapping
 
-- Power / Conquer = [Julia / Julisia](julia-julisia.md)
+- Power / Conquer = [Julia](julia-julisia.md)
 - Justice / Protection = [Elisia](elisia.md)
+- Love = [Alura](alura.md)
+- Lust for Carnal Pleasures = [Julessa](julessa.md)
 - Knowledge = [Julara](julara.md)
 - [Wisdom](wisdom.md) = Sophia / [Wisdom](wisdom.md)
-- Love = aspect label, not yet confirmed as a distinct named fragment
-- Lust = aspect label, not yet confirmed as a distinct named fragment
+
+Julisia is the transitional merged name used after Julia absorbed or merged with Elisia. It is not simply a misspelling of Julia.
 
 ## Goals
 
@@ -50,7 +53,10 @@ The finale explicitly leaves this as one possible ending rather than a simple vi
 ## Related
 
 - [Elisia](elisia.md)
+- [Alura](alura.md)
+- [Julessa](julessa.md)
 - [Julara](julara.md)
+- [Julia and Julisia](julia-julisia.md)
 - [Junvara](junvara.md)
 - [Lucius](lucius.md)
 - [Moon Stone Collectors, Part 16](../sessions/moon-stone-collectors-part-16.md)

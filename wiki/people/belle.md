@@ -36,7 +36,7 @@ This became one of the accusations against Belle in divine politics. Her enemies
 
 When [Wendell](wendell.md), one of [Lucius](lucius.md)'s trusted agents, orchestrated [Maeve, the Schoolmistress](mave.md)'s fall from divinity, Belle launched an unsanctioned strike. She vented divine fire against [Wendell](wendell.md)'s stronghold, destroying his empire in a single night and erasing the fortress rather than merely conquering it.
 
-Hundreds of thousands of devils were caught in the firestorm. The chaos created an opening for the [Moon Stone Collectors](../factions/moon-stone-collectors.md), who launched a rescue and freed [Gillesa](gillesa.md), a lost sister-fragment of [Julia / Julisia](julia-julisia.md).
+Hundreds of thousands of devils were caught in the firestorm. The chaos created an opening for the [Moon Stone Collectors](../factions/moon-stone-collectors.md), who launched a rescue and freed [Gillesa](gillesa.md), a lost sister-fragment of [Julia](julia-julisia.md).
 
 ## Belle and Mulligan
 

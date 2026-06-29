@@ -1,6 +1,6 @@
 ﻿# Gillesa
 
-Gillesa is one of the six fractured aspects of the rival devil shattered by [Lucius](lucius.md). She is a sister-fragment of [Julia / Julisia](julia-julisia.md).
+Gillesa is one of the six fractured aspects of the rival celestial-demonic being shattered by [Lucius](lucius.md). She is a sister-fragment of [Julia](julia-julisia.md).
 
 ## Imprisonment and Rescue
 
@@ -12,7 +12,7 @@ Gillesa's survival changed [Julia](julia-julisia.md)'s priorities. [Julia](julia
 
 ## Related
 
-- [Julia / Julisia](julia-julisia.md)
+- [Julia and Julisia](julia-julisia.md)
 - [Belle](belle.md)
 - [Moon Stone Collectors](../factions/moon-stone-collectors.md)
 - [The Long Shadow Rises](../concepts/the-long-shadow-rises.md)

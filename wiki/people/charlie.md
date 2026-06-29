@@ -26,7 +26,7 @@ In [War of the Gods, Session 20](../sessions/war-of-the-gods-session-20.md), Cha
 
 ## Death
 
-During the Vipers' strike against the [Hell's Bane Heroes](../factions/hells-bane-heroes.md), Charlie was slain beside [Jimbo](jimbo.md) after the attackers first stole [Lucius](lucius.md)'s old weapons from Hell. The attack formed part of [Julia / Julisia](julia-julisia.md)'s attempt to disrupt [Lucius](lucius.md)'s resurrection.
+During the Vipers' strike against the [Hell's Bane Heroes](../factions/hells-bane-heroes.md), Charlie was slain beside [Jimbo](jimbo.md) after the attackers first stole [Lucius](lucius.md)'s old weapons from Hell. The attack formed part of [Julia](julia-julisia.md)'s attempt to disrupt [Lucius](lucius.md)'s resurrection.
 
 ## Soul Prison
 

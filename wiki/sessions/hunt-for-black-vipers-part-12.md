@@ -72,7 +72,7 @@ The final legend remembers the kill as [Maeve](../people/mave.md)'s: the fallen 
 
 The tale of the [Hell's Bane Heroes](../factions/hells-bane-heroes.md) reaches its close. [Lucius](../people/lucius.md) is finally destroyed, [Jimbo](../people/jimbo.md)'s full soul has been recovered, [Tiamat](../people/tiamat.md) is free, and [Maeve](../people/mave.md)'s divinity is framed as returning through the act of the kill and the need for someone to take [Bridget](../people/bridget.md)'s hand.
 
-Elsewhere in the Hells, a celestial gate opens. A loyal guardian sacrifices himself to unlock it for one of [Julia / Julisia](../people/julia-julisia.md)'s sister-fragments. She walks through divine fire toward the artifact that once split her and toward another trapped sister.
+Elsewhere in the Hells, a celestial gate opens. A loyal guardian sacrifices himself to unlock it for one of [Julia](../people/julia-julisia.md)'s sister-fragments. She walks through divine fire toward the artifact that once split her and toward another trapped sister.
 
 The [Lucius](../people/lucius.md) war is over, but [Julia](../people/julia-julisia.md)'s fractured story now has three pieces in motion.
 

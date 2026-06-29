@@ -30,7 +30,7 @@ The party also learns the names and pressure points of the local infernal networ
 
 ## Rescue
 
-They launched a daring strike that was not merely an attack, but a rescue. Among those freed was [Gillesa](../people/gillesa.md), a fragment of the shattered devil soul from which [Julia / Julisia](../people/julia-julisia.md) was born.
+They launched a daring strike that was not merely an attack, but a rescue. Among those freed was [Gillesa](../people/gillesa.md), a fragment of the shattered celestial-demonic soul from which [Julia](../people/julia-julisia.md) was born.
 
 ## Importance
 
@@ -68,7 +68,7 @@ The same downtime reveals deeper dangers: [Julara](../people/julara.md) bargains
 
 The reconstructed next session confirms that the trap becomes a full battle against more than twenty demons. The party prevents the Deceiver-linked enemy from escaping, but [Vaelith the Whisperer](../people/vaelith-the-whisperer.md) escapes and [Juan](../people/juan.md) is left compromised enough to attack [June](../people/june.md).
 
-The manor victory triggers the Deceiver's sleeper contingencies across the [Citadel](../places/radiant-citadel.md). The party returns to [Lady Penny Hathaway's School](../places/lady-penny-hathaways-school.md) and finds [Elisia](../people/elisia.md) overtaken by [Julia / Julisia](../people/julia-julisia.md), the school devastated, and [Phlukk](../people/phlukk.md) still protected in stasis.
+The manor victory triggers the Deceiver's sleeper contingencies across the [Citadel](../places/radiant-citadel.md). The party returns to [Lady Penny Hathaway's School](../places/lady-penny-hathaways-school.md) and finds [Elisia](../people/elisia.md) overtaken by [Julia](../people/julia-julisia.md), creating the merged Julisia state, with the school devastated and [Phlukk](../people/phlukk.md) still protected in stasis.
 
 The group flees to [Norvindr](../places/norvindr.md), regroups at the [Chuckling Gecko](../places/chuckling-gecko.md), and begins the thawing road north toward the [Kuran Grove](../places/kuran-grove.md).
 
@@ -92,7 +92,7 @@ The same ending sees [Sovereignty](../people/sovereignty.md) made whole in the [
 
 - [Belle](../people/belle.md)
 - [Gillesa](../people/gillesa.md)
-- [Julia / Julisia](../people/julia-julisia.md)
+- [Julia and Julisia](../people/julia-julisia.md)
 - [Norvindr](../places/norvindr.md)
 - [Moon Stone Collectors, Part 1](../sessions/moon-stone-collectors-part-1.md)
 - [Moon Stone Collectors, Part 2](../sessions/moon-stone-collectors-part-2.md)

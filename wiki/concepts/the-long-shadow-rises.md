@@ -10,7 +10,7 @@ At the beginning of the [Seventh Age](seventh-age.md), the age of the gods has e
 
 ## Julia's Revenge
 
-[Julia / Julisia](../people/julia-julisia.md), one fractured aspect of a devil [Lucius](../people/lucius.md) shattered, spent a thousand years waiting. When [Lucius](../people/lucius.md)'s resurrection neared, she triggered the [Black Vipers](../factions/black-vipers.md), drawing the [Hell's Bane Heroes](../factions/hells-bane-heroes.md) back into the conflict.
+[Julia](../people/julia-julisia.md), one fractured aspect of a celestial-demonic being [Lucius](../people/lucius.md) shattered, spent a thousand years waiting. When [Lucius](../people/lucius.md)'s resurrection neared, she triggered the [Black Vipers](../factions/black-vipers.md), drawing the [Hell's Bane Heroes](../factions/hells-bane-heroes.md) back into the conflict.
 
 The attack killed [Charlie](../people/charlie.md) and [Jimbo](../people/jimbo.md), and [Jimbo](../people/jimbo.md)'s soul was claimed as a resurrection component.
 

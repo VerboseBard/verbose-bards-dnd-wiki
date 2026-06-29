@@ -1,6 +1,6 @@
 # Moon Stone Collectors, Part 11: Flight from the Citadel
 
-Part 11 is reconstructed from the recap at the start of the following recording. It covers the aftermath of [Ebonwing Manor](../places/ebonwing-manor.md): the Deceiver's contingencies erupt across the [Radiant Citadel](../places/radiant-citadel.md), [Elisia](../people/elisia.md) is overtaken by [Julia / Julisia](../people/julia-julisia.md), and the party flees to [Norvindr](../places/norvindr.md).
+Part 11 is reconstructed from the recap at the start of the following recording. It covers the aftermath of [Ebonwing Manor](../places/ebonwing-manor.md): the Deceiver's contingencies erupt across the [Radiant Citadel](../places/radiant-citadel.md), [Elisia](../people/elisia.md) is overtaken by [Julia](../people/julia-julisia.md), creating the merged identity [Julisia](../people/julia-julisia.md), and the party flees to [Norvindr](../places/norvindr.md).
 
 ## After the Manor
 
@@ -36,7 +36,7 @@ The controller for [Elisia](../people/elisia.md)'s [Collar of Demon Subjugation]
 
 The party finds [Elisia](../people/elisia.md) standing over [Phlukk](../people/phlukk.md)'s stasis pod. A second face is superimposed over hers, and her collar is damaged or burned away.
 
-She identifies herself as [Julia / Julisia](../people/julia-julisia.md). [Julara](../people/julara.md) warns the party not to approach. [Julisia](../people/julia-julisia.md) thanks them, says that their people cared for her and that she cared for [Phlukk](../people/phlukk.md), then vanishes through darkness.
+She identifies herself as [Julisia](../people/julia-julisia.md), the merged Julia-plus-Elisia state. [Julara](../people/julara.md) warns the party not to approach. [Julisia](../people/julia-julisia.md) thanks them, says that their people cared for her and that she cared for [Phlukk](../people/phlukk.md), then vanishes through darkness.
 
 The stasis shield over [Phlukk](../people/phlukk.md) remains intact. Blood has run down the outside of the barrier, implying that [Elisia](../people/elisia.md) or [Julisia](../people/julia-julisia.md) protected him while the school fell.
 
@@ -60,7 +60,7 @@ They reach [Ice Watch](../places/ice-watch.md), then the [Chuckling Gecko](../pl
 
 - [Big Bart](../items/big-bart.md)
 - [Elisia](../people/elisia.md)
-- [Julia / Julisia](../people/julia-julisia.md)
+- [Julia and Julisia](../people/julia-julisia.md)
 - [Luka](../people/luka.md)
 - [Maeve](../people/mave.md)
 - [Phlukk](../people/phlukk.md)

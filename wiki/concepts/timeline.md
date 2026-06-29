@@ -54,7 +54,7 @@ The [Seventh Age](seventh-age.md) begins with the [Concurrence](the-concurrence.
 
 This is not an age of peace but of transition. The worlds are linked, magic is changing, [dungeons](dungeons.md) are more widely understood, and the aftermath of [the Kreen War](kreen-war.md) shapes politics.
 
-[Lucius](../people/lucius.md)'s contingencies continue to move after his death. [Julia / Julisia](../people/julia-julisia.md), [Wendell](../people/wendell.md), the [Black Vipers](../factions/black-vipers.md), and the [Moon Stone Collectors](../factions/moon-stone-collectors.md) all belong to this long shadow.
+[Lucius](../people/lucius.md)'s contingencies continue to move after his death. [Julia](../people/julia-julisia.md), later complicated by the Julisia merger, [Wendell](../people/wendell.md), the [Black Vipers](../factions/black-vipers.md), and the [Moon Stone Collectors](../factions/moon-stone-collectors.md) all belong to this long shadow.
 
 ## Campaign Sessions
 

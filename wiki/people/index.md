@@ -146,8 +146,10 @@ People are grouped by campaign, faction, and divine family so related figures st
 
 ## The Six Sisters
 
+- [Alura](alura.md)
 - [Gillesa](gillesa.md)
-- [Julia / Julisia](julia-julisia.md)
+- [Julia and Julisia](julia-julisia.md)
+- [Julessa](julessa.md)
 - [Julara](julara.md)
 - [Elisia](elisia.md)
 - [Wisdom](wisdom.md)

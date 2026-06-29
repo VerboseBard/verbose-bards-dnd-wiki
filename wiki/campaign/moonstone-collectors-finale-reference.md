@@ -11,9 +11,9 @@ The existing session pages remain the playable summaries. This page keeps the hi
 
 ## Part 16 Summary
 
-The finale opens with the six sister-fragments being tracked by aspect: justice, conquer or power, love, lust, knowledge, and wisdom.
+The finale opens with the six sister-fragments being tracked by aspect: justice, conquer or power, love, lust, knowledge, and wisdom. Their known names are [Elisia](../people/elisia.md), [Julia](../people/julia-julisia.md), [Alura](../people/alura.md), [Julessa](../people/julessa.md), [Julara](../people/julara.md), and Sophia / [Wisdom](../people/wisdom.md). The name Julisia is used for the merged Julia-plus-Elisia state after Julia absorbs or merges with Elisia.
 
-In the celestial refuge beneath Hell, Power / Conquer finds Love. Justice warns Love that Conquer intends to consume her, and the scene becomes a three-way mental struggle. Love and Justice merge to resist, but Conquer wins dominance. The victory changes her anyway: the resulting being is now outnumbered internally by divine-aligned aspects and later takes the name [Sovereignty](../people/sovereignty.md). Afterward, Sovereignty absorbs Lust and becomes four parts of the original whole.
+In the celestial refuge beneath Hell, [Julia](../people/julia-julisia.md), Power / Conquer, finds [Alura](../people/alura.md), Love. [Elisia](../people/elisia.md), Justice, warns Alura that Conquer intends to consume her, and the scene becomes a three-way mental struggle. Love and Justice merge to resist, but Conquer wins dominance. The victory changes her anyway: the resulting being is now outnumbered internally by divine-aligned aspects and later takes the name [Sovereignty](../people/sovereignty.md). Afterward, Sovereignty absorbs [Julessa](../people/julessa.md), Lust for Carnal Pleasures, and becomes four parts of the original whole.
 
 Back at the cabin after the hydra fight, [Juan](../people/juan.md) shares the [Amulet of Lost Memories](../items/amulet-of-lost-memories.md). The amulet is identified as a rare pre-Breaking dwarven runecraft artifact using divination and memory-copying magic. It does not require a normal attunement slot, but sleeping with it can reveal lost memories from the wearer or previous users. A failed Constitution save causes exhaustion and prevents the benefits of a long rest.
 

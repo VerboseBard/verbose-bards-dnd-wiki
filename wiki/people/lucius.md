@@ -42,7 +42,7 @@ In [The Hunt for Black Vipers](../campaign/hunt-for-black-vipers.md), Lucius bec
 
 ## Contingencies
 
-Even after death, Lucius's influence endured through cults, artifacts, rituals, agents, and sleeper cells. His resurrection later became possible, but that inevitability was disrupted by [Julia / Julisia](julia-julisia.md), the fractured devil aspect he had once underestimated.
+Even after death, Lucius's influence endured through cults, artifacts, rituals, agents, and sleeper cells. His resurrection later became possible, but that inevitability was disrupted by [Julia](julia-julisia.md), the fractured Power aspect he had once underestimated.
 
 In [War of the Gods, Session 23](../sessions/war-of-the-gods-session-23.md), Lucius acts much more directly. He appears over the first [Citadel](../places/radiant-citadel.md) siege portals, kills [Alen](alen.md)'s manifested form with the god-killing blade and hourglass combination, and openly frames the crisis in soul-economy terms: if death collapses wrong and the worlds follow, he intends to claim what spills loose.
 

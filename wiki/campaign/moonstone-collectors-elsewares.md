@@ -255,7 +255,7 @@ This page is the campaign-level hub for those scenes. The quick review index giv
 
 **Campaign tie:** This scene pushes the party out of the school and deepens the [Six Sisters](../people/index.md#the-six-sisters) thread.
 
-**Detailed breakdown:** A celestial-demonic sister-being associated with [Julia / Julisia](../people/julia-julisia.md) appears near Phlukk. The scene suggests one sister-fragment has consumed or merged with another, foreshadowing [Sovereignty](../people/sovereignty.md).
+**Detailed breakdown:** A celestial-demonic sister-being associated with [Julia and Julisia](../people/julia-julisia.md) appears near Phlukk. The scene suggests Julia has consumed or merged with [Elisia](../people/elisia.md), creating the transitional Julisia identity and foreshadowing [Sovereignty](../people/sovereignty.md).
 
 ## Entry 18 Juans Soul Dream
 
@@ -323,7 +323,7 @@ This page is the campaign-level hub for those scenes. The quick review index giv
 
 **Type:** Major Elseware.
 
-**Review:** In the celestial prison-area beneath Hell, Power / Conquer reaches Love and tries to merge with her. Justice intervenes from within the mindscape, warning that Conquer means to consume Love.
+**Review:** In the celestial prison-area beneath Hell, [Julia](../people/julia-julisia.md), Power / Conquer, reaches [Alura](../people/alura.md), Love, and tries to merge with her. [Elisia](../people/elisia.md), Justice, intervenes from within the mindscape, warning that Conquer means to consume Love.
 
 **Campaign tie:** This is the first clear formation stage of [Sovereignty](../people/sovereignty.md).
 
@@ -399,7 +399,7 @@ This page is the campaign-level hub for those scenes. The quick review index giv
 
 **Campaign tie:** This raises [Sovereignty](../people/sovereignty.md) from three aspects to four and makes the church mission far more dangerous.
 
-**Detailed breakdown:** Lust recognizes herself in the being before her. Sovereignty touches her forehead and tells her to return. Lust is absorbed, and the merged being now carries Conquer, Love, Justice, and Lust.
+**Detailed breakdown:** [Julessa](../people/julessa.md), Lust for Carnal Pleasures, recognizes herself in the being before her. Sovereignty touches her forehead and tells her to return. Julessa is absorbed, and the merged being now carries Julia, Alura, Elisia, and Julessa.
 
 ## Entry 30 Junvaras Judgment of Sovereignty
 

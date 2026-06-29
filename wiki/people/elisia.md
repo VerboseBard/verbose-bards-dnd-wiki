@@ -32,18 +32,20 @@ She rejects false disguise as a long-term solution, arguing that justice require
 
 ## Julisia's Takeover
 
-In the reconstructed [Moon Stone Collectors, Part 11](../sessions/moon-stone-collectors-part-11.md), the party returns to the school after the manor battle and finds Elisia changed. Her collar has failed, a second face is superimposed over hers, and [Julia / Julisia](julia-julisia.md) appears to have merged with or overtaken her.
+In the reconstructed [Moon Stone Collectors, Part 11](../sessions/moon-stone-collectors-part-11.md), the party returns to the school after the manor battle and finds Elisia changed. Her collar has failed, a second face is superimposed over hers, and [Julia](julia-julisia.md) appears to have merged with or overtaken her, creating the transitional identity [Julisia](julia-julisia.md).
 
 [Julisia](julia-julisia.md) thanks the party for caring for Elisia and says she cared for [Phlukk](phlukk.md), whose stasis shield remains intact despite the massacre around him.
 
-In [Moon Stone Collectors, Part 16](../sessions/moon-stone-collectors-part-16.md), Justice resists Conquer's attempt to absorb Love. Justice and Love merge, but Conquer wins dominance over the resulting struggle. The being later absorbs Lust and takes the name [Sovereignty](sovereignty.md).
+In [Moon Stone Collectors, Part 16](../sessions/moon-stone-collectors-part-16.md), Justice resists [Julia](julia-julisia.md)'s attempt to absorb [Alura](alura.md), the Love fragment. Justice and Love merge, but Conquer wins dominance over the resulting struggle. The being later absorbs [Julessa](julessa.md), the Lust for Carnal Pleasures fragment, and takes the name [Sovereignty](sovereignty.md).
 
 In [Moon Stone Collectors, Part 17](../sessions/moon-stone-collectors-part-17.md), the remaining knowledge and wisdom fragments merge into [Sovereignty](sovereignty.md) in the [Summer Court](../places/summer-court.md), completing the sister-being as a new whole.
 
 ## Related
 
 - [Julara](julara.md)
-- [Julia / Julisia](julia-julisia.md)
+- [Julia and Julisia](julia-julisia.md)
+- [Alura](alura.md)
+- [Julessa](julessa.md)
 - [Sovereignty](sovereignty.md)
 - [Phlukk](phlukk.md)
 - [Moon Stone Collectors, Part 8](../sessions/moon-stone-collectors-part-8.md)

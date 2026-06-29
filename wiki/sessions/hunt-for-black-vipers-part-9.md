@@ -6,7 +6,7 @@ Part 9 begins the direct assault on [Lucius](../people/lucius.md)'s resurrection
 
 The session reframes [Lucius](../people/lucius.md)'s long victory: his real triumph was not survival, but the sealing of the [Divine Gate](../concepts/divine-gate.md). Even dead, his contingencies, soul anchors, sleeper cells, and divine loopholes continued moving.
 
-[Julia / Julisia](../people/julia-julisia.md)'s revenge is also clarified. She is one of six fractured aspects of the devil [Lucius](../people/lucius.md) shattered long ago. By triggering the [Black Vipers](../factions/black-vipers.md), she created a lure that [Lucius](../people/lucius.md) would not notice quickly enough, drawing the [Hell's Bane Heroes](../factions/hells-bane-heroes.md) and their allies toward the resurrection before it became inevitable.
+[Julia](../people/julia-julisia.md)'s revenge is also clarified. She is one of six fractured aspects of the celestial-demonic being [Lucius](../people/lucius.md) shattered long ago. By triggering the [Black Vipers](../factions/black-vipers.md), she created a lure that [Lucius](../people/lucius.md) would not notice quickly enough, drawing the [Hell's Bane Heroes](../factions/hells-bane-heroes.md) and their allies toward the resurrection before it became inevitable.
 
 ## Departures and Warnings
 

@@ -24,7 +24,7 @@ In [Moon Stone Collectors, Part 16](../sessions/moon-stone-collectors-part-16.md
 
 During the Black Viper hunt, a private faction within the Conclave meets with [Junvara](../people/junvara.md) and [Kestrel](../people/kestrel.md). They claim that much of the Conclave is not trying to preserve theocracy forever, but to stabilize formerly theocratic worlds long enough for secular law and authority to take over.
 
-They also reveal that some Conclave factions allowed or assisted [Lucius](../people/lucius.md)'s return because gathering all of [Lucius](../people/lucius.md)'s soul into one place may be the only way to destroy him permanently. They identify [Julia / Julisia](../people/julia-julisia.md) as the hidden player who began pushing the resurrection game.
+They also reveal that some Conclave factions allowed or assisted [Lucius](../people/lucius.md)'s return because gathering all of [Lucius](../people/lucius.md)'s soul into one place may be the only way to destroy him permanently. They identify [Julia](../people/julia-julisia.md) as the hidden player who began pushing the resurrection game.
 
 The faction offers [Junvara](../people/junvara.md) the proposed role of [Arbiter of the Conclave](../concepts/arbiter-of-the-conclave.md), but [Junvara](../people/junvara.md) refuses divine empowerment and asks instead for a broader adjudicator structure.
 

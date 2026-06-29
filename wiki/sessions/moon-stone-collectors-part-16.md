@@ -4,11 +4,11 @@ Part 16 follows the aftermath of the mated hydra fight. The party learns how far
 
 ## Sovereignty Forms
 
-In the celestial refuge beneath Hell, Power or Conquer reaches Love and begins to merge with her. Justice resists from within the merged body, warning Love that Conquer means to consume her.
+In the celestial refuge beneath Hell, [Julia](../people/julia-julisia.md), Power or Conquer, reaches [Alura](../people/alura.md), Love, and begins to merge with her. [Elisia](../people/elisia.md), Justice, resists from within the merged body, warning Alura that Conquer means to consume her.
 
 The struggle becomes a three-way mental battle. Love and Justice briefly merge, but Conquer wins dominance. The victory backfires in part: the fused being now contains Conquer, Justice, and Love, leaving Conquer outnumbered by more divine-aligned aspects than she expected.
 
-Later, in the second layer of Heaven, the merged being finds Lust imprisoned in a labyrinth. Lust is absorbed willingly or with little resistance, creating a four-aspect being now called [Sovereignty](../people/sovereignty.md).
+Later, in the second layer of Heaven, the merged being finds [Julessa](../people/julessa.md), Lust for Carnal Pleasures, imprisoned in a labyrinth. Julessa is absorbed willingly or with little resistance, creating a four-aspect being now called [Sovereignty](../people/sovereignty.md).
 
 ## Amulet and Juan's Choice
 
@@ -62,7 +62,7 @@ The decision is interrupted by [Sovereignty](../people/sovereignty.md)'s progres
 
 ## Sovereignty and Junvara
 
-[Junvara](../people/junvara.md) finds [Sovereignty](../people/sovereignty.md) after she absorbs Lust. They discuss whether she is responsible for Conquer's actions, whether [Lucius](../people/lucius.md) feared what he accidentally created, and what she might become if made whole.
+[Junvara](../people/junvara.md) finds [Sovereignty](../people/sovereignty.md) after she absorbs [Julessa](../people/julessa.md). They discuss whether she is responsible for Conquer's actions, whether [Lucius](../people/lucius.md) feared what he accidentally created, and what she might become if made whole.
 
 [Sovereignty](../people/sovereignty.md) argues that [Lucius](../people/lucius.md) split her with an artifact he did not understand and that she only seeks to know herself again. She says she does not wish to conquer mortal realms, though if she sought dominion she would more likely go home to Hell or ascend to the heavens to learn why the artifact was cast down.
 

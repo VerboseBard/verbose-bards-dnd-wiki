@@ -20,7 +20,7 @@ As the campaign escalates, the school shifts from orientation site to sanctuary,
 
 During the [Moon Stone Collectors](../campaign/moonstone-collectors.md) arc, the school is where the party receives rooms after portal lag, meets [Lady Penny Hathaway](../people/lady-penny-hathaway.md), consults [Professor Hazard](../people/professor-hazard.md), stores wounded allies, and uses [Citadel](radiant-citadel.md)-side institutional support to prepare for the Hell assault.
 
-It later becomes the place where [Phlukk](../people/phlukk.md) is kept in magical medical stasis, [Elisia](../people/elisia.md) is temporarily sheltered, and the aftermath of the [Ebonwing Manor](ebonwing-manor.md) trap turns catastrophic. When the party returns, the school has been attacked, defenders are dead, and [Julia / Julisia](../people/julia-julisia.md)'s contingencies are already in motion.
+It later becomes the place where [Phlukk](../people/phlukk.md) is kept in magical medical stasis, [Elisia](../people/elisia.md) is temporarily sheltered, and the aftermath of the [Ebonwing Manor](ebonwing-manor.md) trap turns catastrophic. When the party returns, the school has been attacked, defenders are dead, and [Julia](../people/julia-julisia.md)'s contingencies have produced the merged Julisia state.
 
 ## Distinction
 

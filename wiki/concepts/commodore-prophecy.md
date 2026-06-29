@@ -24,6 +24,8 @@ During the [War of the Gods / New Beginning Campaign](../campaign/war-of-the-god
 
 The truth is stranger: Straka recognized him from his prior life but did not resurrect him. The actual return had been forced early by meddling around pantheons and old enemies.
 
+Straka then tapped into the Commodore's rebirth power. This gave the elemental sentience and growing divine potential, but it also reduced Mulligan's own available power and helped suppress his memories. The forces that brought him back early benefited from that siphon, because a weaker, amnesiac Commodore could be steered before he remembered his old vendettas.
+
 ## True Return
 
 When the Commodore returns again during the later [Moon Stone Collectors](../campaign/moonstone-collectors.md) / [The Hunt for Black Vipers](../campaign/hunt-for-black-vipers.md) period, that is the return the prophecy was originally pointing toward.

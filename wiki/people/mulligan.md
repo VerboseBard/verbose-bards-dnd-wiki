@@ -21,9 +21,13 @@ In his ancient life, the Commodore was a pirate king and naval warlord whose hat
 
 That vengeance made him a terror of the seas, especially to merfolk and sea elves. He was not a clean hero. He was a wounded and brutal man shaped by trauma, hatred, and the certainty that some enemies simply needed killing.
 
-When the [Opaal Old One](../concepts/opaal-old-one.md) rose from the deep, the Commodore first considered letting it destroy the merfolk. Once he understood that the old one could destroy the entire world, he changed course and helped unite humans, merfolk, sea elves, and other peoples against it.
+As part of that reign of terror, he stole [Aurora, Queen Beneath the Waves](aurora-queen-beneath-waves.md), from the merfolk. She did not begin as his willing ally or lover. She was a captive taken in war.
 
-His relationship with [Aurora, Queen Beneath the Waves](aurora-queen-beneath-waves.md), began in violence and politics. The [Black Vipers](../factions/black-vipers.md) and vampire-linked enemies used her as leverage against him, and the meddling around that crisis helped create a blood binding between them. Over time, enemy, captive, ally, and queen became something deeper: lover, wife-figure, soul-bonded partner, and the mother of [Mira of Opaal](mira-of-opaal.md).
+Shortly after he kidnapped her, the [Opaal Old One](../concepts/opaal-old-one.md) first appeared. Aurora's family was killed, making her queen at the same moment the world crisis forced her and the Commodore to work together. Fighting side by side against something worse than either of them changed the relationship. Enemy and captive became ally, then lover, wife-figure, soul-bonded partner, and eventually the mother of [Mira of Opaal](mira-of-opaal.md).
+
+When the Commodore began uniting the world too quickly against the old one, other powers intervened. [Lucius](lucius.md), [Alen](alen.md), and forces tied to the [Black Vipers](../factions/black-vipers.md) had a vested interest in a more broken, less unified world. They kidnapped Aurora to derail the coalition, forcing the Commodore off-world for the first time.
+
+In the bloody rage that followed, the Commodore destroyed vast portions of Black Viper and vampire operations. Members of the elite [442nd](../factions/442nd.md) of the Gobfolk Alliance aided him because they also wanted to hurt those enemies despite the supposed peace of the era. [Belle](belle.md) took interest in him then and offered minor assistance, delighting in the chaos of one man ruining the careful plans of powers who believed themselves untouchable.
 
 ## Blood Binding with Aurora
 
@@ -55,7 +59,21 @@ That belief is wrong.
 
 Straka began as an air elemental that had watched Mulligan in his previous life and recognized him when he returned. It did not resurrect him. Mulligan had been forced back prematurely by meddling around the pantheons and his enemies.
 
+The stranger truth is that Straka accidentally became a limiter. By touching Mulligan's returned power, the elemental began siphoning off the legend-fed force attached to the Commodore. That was not worship. It was parasitic access to Mulligan's own rebirth power. As the Commodore's power grew, Straka gained sentience and strength while Mulligan remained weaker and remembered less.
+
+This suited the court and pantheon forces around the school. Mulligan had been brought back early so he would not remember that many of them were enemies from his prior life. As long as Straka kept draining part of his power, Mulligan stayed easier to guide.
+
 Because Mulligan believed Straka saved him, he began working to raise the air elemental into a minor god. He eventually bargained with [Bridget](bridget.md) to have Straka accepted into Bridget and [Belle](belle.md)'s pantheon structure. After [Bridget](bridget.md) was killed and [Belle](belle.md) became the effective head of that pantheon structure, Straka's later divine identity became part of the tangled aftermath.
+
+## Belle's Manipulation and the Break from Straka
+
+Mulligan and [Belle](belle.md) had been allies in his previous life, but Belle did not tell him that when he reached the school. She obeyed the limits imposed by her pantheon while still building an odd, playful relationship with him through the school and its statue imagery.
+
+Belle later used that relationship to force him toward freedom through anger. In the Elven Lands, [Wendell](wendell.md) seized Constance and lost a power struggle with Belle, but Belle allowed him to pull memories from her mind and throw her from a church steeple. Mulligan's rage over the fall overlaid the memory of his sister's death from his past life. That fury let him break many of the restraints on him, fly up, and save Belle.
+
+With enough memory restored to make him dangerous, Belle then pushed him again. She ordered Straka to appear in a vision in a way designed to make Mulligan believe Belle had turned his freedom-god into a kept, humiliated pleasure-god. The outrage drove Mulligan to reject feeding or helping Straka, and then to try to claim power for himself alone.
+
+That attempt nearly killed him when he broke free from his godly connection, but it also severed one of the main systems keeping the Commodore limited.
 
 ## Maeve's Ascension
 
@@ -71,7 +89,11 @@ Mulligan was manipulated and mind-controlled by [Wendell](wendell.md), but he wa
 
 Mulligan began playing factions against one another. His enemies from his Commodore life included [Alen](alen.md), the vampire queen who later claimed the [Raven Queen of Saharun](raven-queen-of-saharun.md) mantle; [Lucius](lucius.md); and [Sedna](sedna.md), the goddess of sea and sky tied to the sea-folk divine structure.
 
-One of Mulligan's subtler victories was helping arrange circumstances so [Lucius](lucius.md) destroyed [Alen](alen.md)'s manifested Raven Queen form, fulfilling an old promise from his prior life.
+After breaking from Straka, Mulligan contacted Wendell rather than simply fighting him. Mulligan wanted help killing Belle, believing that doing so would free Straka. Wendell's condition centered on Alen: Mulligan would help set the board so the vampire queen could be killed.
+
+Wendell also gave Mulligan a crown he claimed would protect Mulligan from mind control and allow secure communication. That was a lie. The crown became the backdoor Wendell and Lucius used to enter Mulligan's mind and break through the [Citadel](../places/radiant-citadel.md)'s defenses.
+
+One of Mulligan's subtler victories was still helping arrange circumstances so [Lucius](lucius.md) destroyed [Alen](alen.md)'s manifested Raven Queen form, fulfilling an old promise from his prior life.
 
 ## Fall at the Citadel
 
@@ -79,9 +101,11 @@ In [War of the Gods, Session 23](../sessions/war-of-the-gods-session-23.md), Mul
 
 [Maeve](mave.md) confronts him, reveals more of his old sailor-king memories, and makes clear that the school cannot keep him on its grounds after his bargain with [Wendell](wendell.md). When the party follows him out, [Junvara](junvara.md) correctly identifies Wendell's crown as the immediate control mechanism distorting his choices.
 
-The crown is removed, but too late to stop the contingency built into it. Infernal portals open around the group, Wendell's dragon appears, and Mulligan is driven into direct combat against his own companions. He is eventually killed in the fighting by his own teammates.
+The crown is removed, but too late to stop the contingency built into it. Infernal portals open around the group, Wendell's dragon appears, and Mulligan is driven into direct combat against his own companions.
 
-Publicly, this turns Mulligan into the Judas or Benedict Arnold of the war. Most people never learn that the betrayer was also the Commodore reborn.
+After he breaks free of the mind control, Mulligan chooses to keep fighting on anyway. By then [Maeve](mave.md) has restored his memories, he understands that some of his old enemies are being positioned to die, and he knows death is not the end of the Commodore. He is eventually killed in the fighting by his own teammates.
+
+Publicly, this turns Mulligan into the Judas or Benedict Arnold of the war. Most people never learn that the betrayer was also the Commodore reborn. He dies with a smile because vengeance against Alen, the enemy who helped destroy and weaponize his queen, is finally taken through the consequences of his actions.
 
 ## Maeve's Memory Gift
 
@@ -109,6 +133,7 @@ After the final phase of the [Concurrence](../concepts/the-concurrence.md), the 
 - [Straka](straka.md)
 - [Wendell](wendell.md)
 - [Alen](alen.md)
+- [442nd](../factions/442nd.md)
 - [Maeve, the Schoolmistress](mave.md)
 - [Belle](belle.md)
 - [Bridget](bridget.md)

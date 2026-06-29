@@ -10,6 +10,8 @@ The Opaal Old One is a Cthulhu-like deep horror whose rise once threatened all o
 
 At first, the ancient Commodore considered letting it destroy the peoples he hated. Once he realized it could destroy the entire world, he helped unite humans, merfolk, sea elves, and others against it.
 
+This unification happened faster than outside powers wanted. [Lucius](../people/lucius.md), [Alen](../people/alen.md), and Black Viper-linked forces had reasons to prefer a broken world. Their interference around [Aurora](../people/aurora-queen-beneath-waves.md) helped push the Commodore off-world and turned his anti-vampire, anti-Viper campaign into part of the old one's wider history.
+
 ## The Wounded Seal
 
 In the final ancient battle, the Commodore used a god-killing knife to strike the old one. Because the plan failed and the creature had bound him, he had to stab through himself to wound it.
@@ -26,4 +28,5 @@ When the old one begins to stir again, the [Commodore Prophecy](commodore-prophe
 - [Mulligan](../people/mulligan.md)
 - [Aurora, Queen Beneath the Waves](../people/aurora-queen-beneath-waves.md)
 - [Mira of Opaal](../people/mira-of-opaal.md)
+- [Black Vipers](../factions/black-vipers.md)
 - [Opaal](../places/opaal.md)

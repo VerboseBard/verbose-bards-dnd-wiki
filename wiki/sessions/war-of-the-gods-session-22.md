@@ -29,8 +29,8 @@ It is also the session where [Mulligan](../people/mulligan.md)'s story sharply c
 - Instead of letting him escape cleanly, [Mulligan](../people/mulligan.md) secretly stows away on [Wendell](../people/wendell.md)'s dragon and rides with him long enough for a private negotiation.
 - In that conversation, [Wendell](../people/wendell.md) claims the dragon eggs were taken to restore dragons to their ancient guardian role rather than simply to harvest them.
 - He also says the mass-sacrifice phase of his work is over because one nexus is now active and the rest can be powered from it.
-- [Wendell](../people/wendell.md) gives [Mulligan](../people/mulligan.md) a crown that blocks gods and other powers from reading his mind.
-- [Mulligan](../people/mulligan.md) then swears a binding ley-line oath: [Wendell](../people/wendell.md) will aid him in killing [Belle](../people/belle.md), and [Mulligan](../people/mulligan.md) will aid [Wendell](../people/wendell.md) against the Gate. The deal is magically locked and cannot be fully disclosed afterward.
+- [Wendell](../people/wendell.md) gives [Mulligan](../people/mulligan.md) a crown he claims will block mind control and allow secure communication.
+- [Mulligan](../people/mulligan.md) then enters the core betrayal bargain: [Wendell](../people/wendell.md) will help him kill [Belle](../people/belle.md) to free [Straka](../people/straka.md), and Mulligan will help create the circumstances for [Alen](../people/alen.md)'s death. The deal is magically locked and cannot be fully disclosed afterward.
 - Back at the hatchery, the party finds Constance's mother's body and the full scale of the loss, but the session does not stay entirely in despair.
 - A new ally, [Jimbo](../people/jimbo.md), helps resurrect the five fallen dragons and also brings Constance's mother back, dramatically improving Constance's standing with the surviving dragons even while much of her blood family remains hostile.
 - When the party returns to the [Radiant Citadel](../places/radiant-citadel.md), Constance's father loudly repeats the hateful prophecy behind her, making clear that reconciliation with her family is not coming soon.
@@ -68,5 +68,5 @@ It also radically changes the personal map of the party. Constance finally gets 
 
 ## Source Notes
 
-Derived from the uploaded Session 22 transcript fragment for Hellsbane's heroes at the end of the [Sixth Age](../concepts/sixth-age.md), in the [War of the Gods / New Beginning Campaign](../campaign/war-of-the-gods.md). The session covers the double prophecy around Constance, the dragon hatchery raid, the activation of the first ley-line gate nexus, Rose's death, [Mulligan](../people/mulligan.md)'s private oath with [Wendell](../people/wendell.md), the resurrection of the fallen dragons, and the party's first use of [Wendell](../people/wendell.md)'s own library-search history as intelligence.
+Derived from the uploaded Session 22 transcript fragment for Hellsbane's heroes at the end of the [Sixth Age](../concepts/sixth-age.md), in the [War of the Gods / New Beginning Campaign](../campaign/war-of-the-gods.md). The session covers the double prophecy around Constance, the dragon hatchery raid, the activation of the first ley-line gate nexus, Rose's death, [Mulligan](../people/mulligan.md)'s private oath with [Wendell](../people/wendell.md), the false promise of the crown, the resurrection of the fallen dragons, and the party's first use of [Wendell](../people/wendell.md)'s own library-search history as intelligence.
 

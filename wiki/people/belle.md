@@ -38,6 +38,16 @@ When [Wendell](wendell.md), one of [Lucius](lucius.md)'s trusted agents, orchest
 
 Hundreds of thousands of devils were caught in the firestorm. The chaos created an opening for the [Moon Stone Collectors](../factions/moon-stone-collectors.md), who launched a rescue and freed [Gillesa](gillesa.md), a lost sister-fragment of [Julia / Julisia](julia-julisia.md).
 
+## Belle and Mulligan
+
+Belle took interest in [Mulligan](mulligan.md) during his ancient Commodore life, after the kidnapping of [Aurora](aurora-queen-beneath-waves.md) sent him off-world in a rage against vampire and [Black Viper](../factions/black-vipers.md) holdings. She offered minor assistance because the chaos amused her and because his rampage disrupted the careful plans of [Lucius](lucius.md), [Alen](alen.md), and their allies.
+
+When Mulligan returned without memory in the [War of the Gods / New Beginning Campaign](../campaign/war-of-the-gods.md), Belle did not tell him they had once been allies. She stayed inside the limits imposed by her pantheon, but built an odd, playful relationship with him through school interactions and her statue.
+
+Belle later used herself as the center of his anger to force him out of the systems binding him. In the Elven Lands, she allowed [Wendell](wendell.md) to pull memories from her mind and throw her from a church steeple. Mulligan's fury over seeing her fall echoed the death of his sister in his past life, helping him break restraints and save her.
+
+Afterward, Belle manipulated [Straka](straka.md)'s appearance in a vision so Mulligan would believe she had reduced the freedom-god into her kept, humiliated pleasure-god. The outrage pushed Mulligan to reject Straka, stop feeding the siphon on his Commodore power, and nearly kill himself reclaiming power directly.
+
 ## Conclave Controversy
 
 The Conclave attempted to exclude or de-canonize her because she could still manifest on the mortal side of the [Divine Gate](../concepts/divine-gate.md). Belle personally appeared before the council and made her displeasure clear.
@@ -111,6 +121,7 @@ Together they mark [Paul](paul.md) with the [Crown of Fools](../items/crown-of-f
 - [Eve](eve.md)
 - [Lilith](lilith.md)
 - [Mulligan](mulligan.md)
+- [Straka](straka.md)
 - [The Potato King](potato-king.md)
 - [Divine Soul Anchoring](../concepts/divine-soul-anchoring.md)
 - [Crown of Fools](../items/crown-of-fools.md)

@@ -23,6 +23,10 @@ In [War of the Gods, Session 23](../sessions/war-of-the-gods-session-23.md) and 
 
 Mulligan is not simply Wendell's puppet in this arc. Wendell manipulates and mind-controls him, but Mulligan also agrees with part of the Divine Gate objective: gods and other overwhelming powers should no longer be able to walk back into mortal reality and rule directly. That overlap lets Mulligan play both sides while still pursuing his own Commodore-era vendettas.
 
+Their private bargain begins when Mulligan contacts Wendell about killing [Belle](belle.md), believing that doing so will free [Straka](straka.md). Wendell's condition centers on [Alen](alen.md): Mulligan must help create the circumstances for the vampire queen's death.
+
+Wendell gives Mulligan a crown he claims will protect him from mind control and allow secure communication. In truth, the crown is a backdoor. It lets Wendell and [Lucius](lucius.md) breach Mulligan's mind and helps them break through the [Citadel](../places/radiant-citadel.md)'s defenses when the invasion begins.
+
 ## Sixth-Layer Rule
 
 By the time of [Moon Stone Collectors, Part 5](../sessions/moon-stone-collectors-part-5.md), Wendell controls the sixth layer of Hell from [Wendell's Sixth-Layer Fortress](../places/wendells-sixth-layer-fortress.md).
@@ -56,6 +60,9 @@ The session-17 interpretation of Wendell's project is effectively a proto-[Divin
 - [Lucius](lucius.md)
 - [Belle](belle.md)
 - [Maeve](mave.md)
+- [Mulligan](mulligan.md)
+- [Alen](alen.md)
+- [Straka](straka.md)
 - [Divine Gate](../concepts/divine-gate.md)
 - [Moon Stone Collectors](../factions/moon-stone-collectors.md)
 - [War of the Gods, Session 17](../sessions/war-of-the-gods-session-17.md)

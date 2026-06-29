@@ -48,6 +48,10 @@ Opaal is also the world tied to [Mulligan](../people/mulligan.md)'s ancient Comm
 
 The deeper truth connects Opaal to [Aurora, Queen Beneath the Waves](../people/aurora-queen-beneath-waves.md), [Mira of Opaal](../people/mira-of-opaal.md), the [Opaal Old One](../concepts/opaal-old-one.md), and the [Commodore Prophecy](../concepts/commodore-prophecy.md). The Commodore returns when the old sea horror begins to stir again.
 
+In the ancient version of that story, Mulligan stole Aurora during his reign of terror against the merfolk. After the old one appeared and Aurora's family was killed, she became queen and was forced to work with him. Their love grew out of that alliance, not before it.
+
+When Lucius, Alen, and Black Viper-linked forces disrupted the world coalition by kidnapping Aurora again, the Commodore left Opaal for the first time and devastated vampire and Viper operations with help from elite [442nd](../factions/442nd.md) members.
+
 In the [Black Vipers](../factions/black-vipers.md) side arc, [Eve](../people/eve.md) is attacked on Opaal by mercenaries hired through Viper-linked money. She destroys the pursuing ships with a meteor shower, while the [442nd](../factions/442nd.md) is directed to trace the payments.
 
 [Jack Kenway](../people/jack-kenway.md) later reflects aboard his Opaal ship before returning to aid the assault on [Jimbo's Soul Ritual](../concepts/jimbo-soul-ritual.md). The decision reconnects the Opaal shipboard thread to the old debt against [Lucius](../people/lucius.md).
@@ -68,5 +72,6 @@ In the [Black Vipers](../factions/black-vipers.md) side arc, [Eve](../people/eve
 - [Aurora, Queen Beneath the Waves](../people/aurora-queen-beneath-waves.md)
 - [Mira of Opaal](../people/mira-of-opaal.md)
 - [Commodore Prophecy and Legend-Fed Rebirth](../concepts/commodore-prophecy.md)
+- [442nd](../factions/442nd.md)
 - [The Hunt for Black Vipers, Part 9](../sessions/hunt-for-black-vipers-part-9.md)
 

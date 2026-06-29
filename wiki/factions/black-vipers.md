@@ -6,6 +6,8 @@ The Black Vipers were a sleeper cell deep within the [Citadel](../places/radiant
 
 The Vipers believed they were acting in [Lucius](../people/lucius.md)'s will, striking out through vengeance, old grudges, and personal debts. In truth, [Julia / Julisia](../people/julia-julisia.md) used them as a match meant to draw fire: a distraction placed where [Lucius](../people/lucius.md) would never look, but a beacon to his enemies.
 
+Their older history also reaches back to [Mulligan](../people/mulligan.md)'s Commodore life on [Opaal](../places/opaal.md). When the Commodore began uniting Opaal against the [Opaal Old One](../concepts/opaal-old-one.md), Viper-linked forces helped disrupt that unity by taking [Aurora, Queen Beneath the Waves](../people/aurora-queen-beneath-waves.md). The Commodore's off-world retaliation destroyed large portions of vampire and Viper operations, with quiet help from elite [442nd](442nd.md) members.
+
 ## Attack on Hell's Bane
 
 Their target was the [Hell's Bane Heroes](hells-bane-heroes.md). The attack was sudden and brutal. [Charlie](../people/charlie.md) and [Jimbo](../people/jimbo.md) were slain, and [Jimbo](../people/jimbo.md)'s soul was claimed as a possible resurrection component.
@@ -40,6 +42,7 @@ At the [Jungle Ley-Line Facility](../places/jungle-ley-line-facility.md), Black 
 - [Central Toge](../people/central-toge.md)
 - [Cobra Cult of Rax'al Karath](cobra-cult-of-raxal-karath.md)
 - [The Long Shadow Rises](../concepts/the-long-shadow-rises.md)
+- [Commodore Prophecy and Legend-Fed Rebirth](../concepts/commodore-prophecy.md)
 - [The Hunt for Black Vipers, Part 2](../sessions/hunt-for-black-vipers-part-2.md)
 - [The Hunt for Black Vipers, Part 3](../sessions/hunt-for-black-vipers-part-3.md)
 - [The Hunt for Black Vipers, Part 4](../sessions/hunt-for-black-vipers-part-4.md)

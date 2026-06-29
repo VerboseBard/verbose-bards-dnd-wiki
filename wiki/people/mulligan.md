@@ -1,6 +1,6 @@
 # Mulligan
 
-Mulligan is the reborn identity of [The Commodore](../concepts/commodore-prophecy.md), the legendary Pirate King also remembered through the names [Molokan / Moloan](molokan.md).
+Mulligan is the reborn identity of [The Commodore](../concepts/commodore-prophecy.md), the legendary Pirate King also remembered through the name [Molokan](molokan.md).
 
 Most of the world remembers Mulligan as the betrayer of the [Hell's Bane Heroes](../factions/hells-bane-heroes.md). Very few people know that he was the Commodore reborn, or that the same legend that once saved [Opaal](../places/opaal.md) also fed his later return.
 
@@ -9,11 +9,11 @@ Most of the world remembers Mulligan as the betrayer of the [Hell's Bane Heroes]
 - Mulligan
 - The Commodore
 - The Pirate King
-- Molokan / Moloan
+- Molokan
 - The Commodore Reborn
 - The Betrayer
 
-The spelling "Moloan" appears in some early session material, while "Molokan" appears in later [Opaal](../places/opaal.md) and Coral Palace material. Both names point back to the same layered figure rather than separate characters.
+Molokan is the correct spelling for this identity.
 
 ## Ancient Commodore Life
 
@@ -45,7 +45,7 @@ In [War of the Gods, Session 1](../sessions/war-of-the-gods-session-1.md), Mulli
 
 He wakes on [Opaal](../places/opaal.md), washed ashore near a cliff edge as a corpse. Children help haul him out with ropes. A wind-like spirit or air elemental hovers near him, and Mulligan awakens with no memory of who he was or what happened before.
 
-[Seeker Lindsey](seeker-lindsey.md) finds him and brings him to [Lady Penny Hathaway's School](../places/lady-penny-hathaways-school.md). Early notes identify this arrival through the Molokan / Moloan name; the beach corpse is Mulligan, the Commodore reborn without memory.
+[Seeker Lindsey](seeker-lindsey.md) finds him and brings him to [Lady Penny Hathaway's School](../places/lady-penny-hathaways-school.md). Early notes identify this arrival through the Molokan name; the beach corpse is Mulligan, the Commodore reborn without memory.
 
 ## Straka Misunderstanding
 

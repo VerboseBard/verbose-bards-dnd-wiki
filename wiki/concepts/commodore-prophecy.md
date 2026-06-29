@@ -1,6 +1,6 @@
 # Commodore Prophecy and Legend-Fed Rebirth
 
-The Commodore Prophecy is the belief that [Mulligan](../people/mulligan.md), the ancient Pirate King also remembered as [Molokan / Moloan](../people/molokan.md), returns when the [Opaal Old One](opaal-old-one.md) stirs.
+The Commodore Prophecy is the belief that [Mulligan](../people/mulligan.md), the ancient Pirate King also remembered as [Molokan](../people/molokan.md), returns when the [Opaal Old One](opaal-old-one.md) stirs.
 
 ## Legend-Fed Power
 

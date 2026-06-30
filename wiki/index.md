@@ -14,6 +14,8 @@ The current campaign is set in [Year 11](concepts/timeline.md) of the [Seventh A
 
 The active story now turns on the valley's exposed route, its massive [Ether Crystals](items/ether-crystals.md), the divided [Sunhollow Council](factions/sunhollow-council.md), the blighted [Dead Lands](places/dead-lands.md), the forbidden [Ssar'Velyn Temple](places/ssar-velyn-temple.md), the approaching [Inquisition](factions/inquisition.md), and [Rurik Valdren](people/rurik-valdren.md)'s possible intervention.
 
+For a compact setting overview, see the [Seventh Age Setting Bible](concepts/seventh-age-setting-bible.md).
+
 ## Core Campaign Threads
 
 - [After the War Campaign](campaign/after-the-war-campaign.md)

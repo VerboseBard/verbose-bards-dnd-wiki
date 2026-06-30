@@ -10,6 +10,7 @@
 - [Council of Gods of the Fifth Age](council-of-gods-of-the-fifth-age.md)
 - [Age of Heroes](age-of-heroes.md)
 - [Seventh Age](seventh-age.md)
+- [Seventh Age Setting Bible](seventh-age-setting-bible.md)
 - [Sixth Age](sixth-age.md)
 - [Sixth Age World Outline](sixth-age-world-outline.md)
 - [Eighth Age](eighth-age.md)

@@ -16,7 +16,7 @@ Unity is the central political and logistical hub of the known worlds after [the
 
 Unity is not merely a capital world. It is the only known world with true dungeons rather than only dungeon-like breaks or magical wounds. It also contains strange internal geography, including a hollow-world structure, the [Aether Sea](../concepts/aether-sea.md), and the inverted realm commonly called the [Underdark / Upside-Down](underdark-upside-down.md).
 
-Unity is politically dense. The [Unified Armed Forces](../factions/unified-armed-forces.md), the [Conclave of Churches](../factions/conclave-of-churches.md), guilds, lords, and shipping interests all operate through it.
+Unity is politically dense. The [Unified Armed Forces](../factions/unified-armed-forces.md), the [Conclave of Churches](../factions/conclave-of-churches.md), guilds, lords, and shipping interests all operate through it. Major military sites such as [Fort Liberty](fort-liberty.md) show the polished side of that system: training grounds, research facilities, and command structures built to turn wartime chaos into doctrine.
 
 On Topside, the surface is badly scarred by magical war. Entire regions were warped, poisoned, erased, or made uninhabitable. In the aftermath, surviving powers have shifted into competition rather than peace.
 
@@ -33,6 +33,7 @@ Unity is also where the larger postwar consequences settle: surrendered [Kreen](
 ## Related
 
 - [Radiant Citadel](radiant-citadel.md)
+- [Fort Liberty](fort-liberty.md)
 - [The Concurrence](../concepts/the-concurrence.md)
 - [Dungeons](../concepts/dungeons.md)
 - [Unified Armed Forces](../factions/unified-armed-forces.md)

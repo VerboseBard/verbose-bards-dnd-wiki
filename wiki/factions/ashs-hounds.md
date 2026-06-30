@@ -8,7 +8,7 @@ Their formal spoken name in [Session 2](../sessions/session-2.md) is `Unified Co
 
 The Hounds are organized into wolf packs: small, highly capable squads trusted with missions too sensitive, ugly, or politically volatile for regular troops. The player party is one such pack.
 
-The first members are selected from surviving [Bloody Fifth](bloody-fifth.md) soldiers after the Driftvale battle. Promotions are immediate: corporals become sergeants, sergeants become lieutenants, and privates become corporals. [Colonel Gandor](../people/colonel-gandor.md), an orc officer whose exact name spelling remains provisional, is assigned as the unit's direct supervisor.
+The first members are selected from surviving [Bloody Fifth](bloody-fifth.md) soldiers after the Driftvale battle and transferred to [Fort Liberty](../places/fort-liberty.md) on [Unity](../places/unity.md). Promotions are immediate: corporals become sergeants, sergeants become lieutenants, and privates become corporals. [Colonel Gandor](../people/colonel-gandor.md), an orc officer whose exact name spelling remains provisional, is assigned as the unit's direct supervisor.
 
 ## Duties
 
@@ -24,6 +24,7 @@ After the [Norinar](../places/norinar.md) mission, the Hounds are shut down and 
 
 - [General Ash](../people/general-ash.md)
 - [Colonel Gandor](../people/colonel-gandor.md)
+- [Fort Liberty](../places/fort-liberty.md)
 - [Kreen Surrender and Collars](../concepts/kreen-surrender-and-collars.md)
 - [Session 2](../sessions/session-2.md)
 - [Session 3](../sessions/session-3.md)

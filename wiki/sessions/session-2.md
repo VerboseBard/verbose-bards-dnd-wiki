@@ -8,7 +8,7 @@ The session begins as a special-operations power shift and ends as a moral wound
 
 ## Key Events
 
-- The party is pulled from the devastated Fifth and transferred to a better-equipped base on [Unity](../places/unity.md).
+- The party is pulled from the devastated Fifth and transferred to [Fort Liberty](../places/fort-liberty.md), a better-equipped base on [Unity](../places/unity.md).
 - [General Ash](../people/general-ash.md) forms [Ash's Hounds](../factions/ashs-hounds.md), promoting survivors and organizing them into packs.
 - The organization's spoken formal name is `Unified Counter-Kreen Suppression and Rogue Hive Special Operations Group`.
 - [Colonel Gandor](../people/colonel-gandor.md), an orc officer whose exact spelling remains provisional, becomes the Hounds' direct supervisor.
@@ -39,6 +39,7 @@ The session begins as a special-operations power shift and ends as a moral wound
 ## Important Places
 
 - [Unity](../places/unity.md)
+- [Fort Liberty](../places/fort-liberty.md)
 - [Radiant Citadel](../places/radiant-citadel.md)
 - [Norvindr](../places/norvindr.md)
 - [Opaal](../places/opaal.md)

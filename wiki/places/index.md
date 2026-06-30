@@ -4,6 +4,7 @@
 
 - [Unity](unity.md)
 - [Radiant Citadel](radiant-citadel.md)
+- [Fort Liberty](fort-liberty.md)
 - [Caldrith's Gate](caldriths-gate.md)
 - [Brindle Hollow](brindle-hollow.md)
 - [Duskwatch](duskwatch.md)

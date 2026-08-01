@@ -28,11 +28,11 @@ In [Moon Stone Collectors, Part 17](../sessions/moon-stone-collectors-part-17.md
 
 ## Juan's Fey Memories
 
-[Juan](../people/juan.md) later uses the amulet to pursue memories of the [Weaver](../concepts/the-weaver.md). He sees a past version of himself returning home to guard a forbidden [Fey](../concepts/fey.md) secret, only for his brother to betray the family duty and give the [Weaver](../concepts/the-weaver.md) access.
+[Juan](../people/juan.md) later uses the amulet to pursue memories of the [Weaver](../concepts/the-weaver.md). He sees a past version of himself returning home to fulfill his family's sacred duty: guarding access to the forbidden cornerstone magic sustaining [Fey](../concepts/fey.md) reality. His brother betrays that duty, completes a bargain with the Weaver, and grants him access.
 
-[The Weaver](../concepts/the-weaver.md) uses the [Feywild](../places/feywild.md)'s reality-shaping power to rewrite fate and exchange the brothers' fortunes. In context with [Juan](../people/juan.md)'s earlier soul-dreams, the vision implies that the [Weaver](../concepts/the-weaver.md) can move through or alongside a person's dreams, memories, and fate-line rather than acting only from a distance.
+[The Weaver](../concepts/the-weaver.md) uses the breach to rewrite history and remove Juan's heroic destiny and legacy. The cornerstone will not allow so great an absence to remain unbalanced. It forces distorted luck and probability into the place of the future that was taken.
 
-That makes the amulet one of the clearest late-campaign sources for the idea that the [Weaver](../concepts/the-weaver.md) can manipulate personal destiny itself.
+The replacement is not a gift from the Weaver. It is a price imposed by the magic he accessed, demonstrating that even his fate manipulation remains subject to the cornerstone's laws. The amulet is therefore one of the clearest late-campaign sources for both the Weaver's reach and the limits upon it. His reason for seeking the cornerstone remains unknown.
 
 ## Related
 

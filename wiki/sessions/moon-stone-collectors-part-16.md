@@ -78,6 +78,14 @@ When the party returns from the [Summer Court](../places/summer-court.md), three
 
 [Paul](../people/paul.md) slips away during the celebration. [Phlukk](../people/phlukk.md) notices and follows. [Paul](../people/paul.md) says he cannot let the party kill [Julara](../people/julara.md) and that he no longer fits with the group. [Phlukk](../people/phlukk.md) lets him go after a farewell embrace.
 
+## Juan's Recovered Fey Memory
+
+[Juan](../people/juan.md) uses the [Amulet of Lost Memories](../items/amulet-of-lost-memories.md) to pursue the truth of his encounters with [the Weaver](../concepts/the-weaver.md). He recovers a history in which he returned home as a hero because his father called him back to fulfill the family's sacred duty: guarding access to the cornerstone magic sustaining [Fey](../concepts/fey.md) reality.
+
+Juan's brother betrays that duty, completes a bargain with the Weaver, and grants him access. The Weaver uses the breach to remove Juan's heroic destiny and legacy from history. However, the cornerstone itself enforces balance and will not permit the loss to remain empty. It replaces the stolen legacy with distorted luck and probability.
+
+The exchange shows that even the Weaver is constrained by the foundational magic he uses. The luck is not his gift to Juan; it is compensation forced by the cornerstone. The memory does not reveal why the Weaver sought access to the foundation of Fey reality.
+
 ## Viscus Plan
 
 The party decides to confront the dwarven goo at its source rather than delay for outside armies.

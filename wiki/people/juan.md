@@ -30,13 +30,15 @@ In [Moon Stone Collectors, Part 9](../sessions/moon-stone-collectors-part-9.md),
 
 He lost destiny and legacy.
 
-That revelation suggests that in another timeline or version of events, Juan left Feyland as a Fey-touched hero, moved in the orbit of the [Hell's Bane Heroes](../factions/hells-bane-heroes.md), and was the one who killed [Lucius](../people/lucius.md) with the dagger on the crystal. That path was diverted or stolen through a deal involving his brother, leaving Juan with probability-bending luck but stripped of the larger fate that should have been his.
+That revelation suggests that in another timeline or version of events, Juan left Feyland as a Fey-touched hero, moved in the orbit of the [Hell's Bane Heroes](../factions/hells-bane-heroes.md), and was the one who killed [Lucius](../people/lucius.md) with the dagger on the crystal. That path was diverted or stolen through a deal involving his brother. The cornerstone magic would not permit Juan's legacy to be erased without replacement, so it forced distorted luck and probability into the place of the heroic future taken from him.
 
 ## Weaver Connection
 
 Later material ties that theft of destiny to [The Weaver](../concepts/the-weaver.md).
 
-In the deeper memory shown through the [Amulet of Lost Memories](../items/amulet-of-lost-memories.md), Juan sees a past version of himself returning home to guard a forbidden [Fey](../concepts/fey.md) secret. His brother betrays that family duty and gives the [Weaver](../concepts/the-weaver.md) access. [The Weaver](../concepts/the-weaver.md) then uses the [Feywild](../places/feywild.md)'s reality-shaping power to rewrite fate and exchange the brothers' fortunes.
+In the deeper memory shown through the [Amulet of Lost Memories](../items/amulet-of-lost-memories.md), Juan sees a past version of himself returning home to guard his family's access to the forbidden cornerstone magic sustaining [Fey](../concepts/fey.md) reality. His brother betrays that family duty and gives the [Weaver](../concepts/the-weaver.md) access. The Weaver then uses the breach to remove Juan's heroic destiny and legacy from history.
+
+Even the Weaver is constrained by the power he accesses. The cornerstone imposes balance on the rewrite and replaces what was removed with distorted luck and probability. Juan's extraordinary fortune is therefore neither a gift nor adequate restitution. It is the magically required counterweight to a stolen life-path. Why the Weaver sought access to the cornerstone remains unknown.
 
 [Wisdom](wisdom.md) later confirms the shape of that wound from another angle. In the [Summer Court](../places/summer-court.md), she recognizes Juan as marked by her nemesis, the Weaver, and asks whether he still remembers the adulthood oath every Fey makes after learning the secret of the realm's cornerstone spellwork. Juan does not. Her explanation implies that his stolen destiny is tied not only to luck and dreams, but to a suppressed Fey oath and the Wild Hunt's enforcement of that hidden law.
 

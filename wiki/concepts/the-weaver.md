@@ -16,15 +16,27 @@ Later [Moon Stone Collectors](../campaign/moonstone-collectors.md) material sugg
 
 Wisdom says the Weaver may style himself as fate, but true names matter among the [Fey](fey.md), and the Weaver did not give a true name. She also asks whether [Juan](../people/juan.md) still remembers the adulthood oath every Fey takes after learning the hidden secret of their realm. He does not.
 
-Because Wisdom is not Fey, she can speak more freely. She explains that the [Feywild](../places/feywild.md) rests on protected cornerstone spellwork tied to the survival of that reality, and that the Wild Hunt enforces the oaths that prevent Fey from speaking of it. This makes [Juan](../people/juan.md)'s missing memory more than ordinary amnesia: the Weaver's mark appears tied to a stolen Fey oath, a family betrayal, and the later fate-rewrite that exchanged [Juan](../people/juan.md)'s heroic destiny for distorted luck.
+Because Wisdom is not Fey, she can speak more freely. She explains that the [Feywild](../places/feywild.md) rests on protected cornerstone spellwork tied to the survival of that reality, and that the Wild Hunt enforces the oaths that prevent Fey from speaking of it. [Juan](../people/juan.md)'s missing memory is evidence that his brother betrayed the family's hereditary duty and granted the Weaver access to this protected power.
 
 The exact nature of Wisdom's rivalry with the Weaver is still unresolved, but the transcript establishes that she knows him, opposes him, and understands enough of his methods to identify his work on Juan.
+
+## The Cornerstone Breach
+
+Juan's family carried a sacred duty to guard access to the cornerstone magic sustaining Fey reality. In Juan's recovered memory, his brother bargains with the Weaver, fulfills his part of the deal, and gives the Weaver access through that betrayed family trust.
+
+The Weaver uses the breach to remove Juan's heroic destiny and legacy from history. Yet even the Weaver cannot make that erasure without consequence. The cornerstone magic enforces balance: what is removed from a life must be replaced. Juan therefore receives distorted luck and probability in place of the meaningful legacy taken from him.
+
+This luck is not mercy, generosity, or a freely chosen gift from the Weaver. It is the compensation the cornerstone itself forces upon the rewrite. The exchange preserves balance without preserving justice, leaving Juan extraordinarily fortunate while depriving that fortune of the heroic future it once served.
+
+The event establishes a limit on the Weaver's power. He can gain access to foundational magic and manipulate fate through it, but he remains subject to the governing laws of the power he uses.
+
+No surviving account explains why the Weaver wanted access to the cornerstone of Fey reality. Juan's altered fate is the clearest known result of the breach, but whether it was the Weaver's true objective or only one part of a larger design remains unknown.
 
 ## Themes
 
 The Weaver appears to operate through sequence, causality, and manipulated variables. The crashed ship's intelligence believes that killing "pieces" or removing "variables" prevents the Weaver from winning.
 
-[Juan](../people/juan.md)'s late Sixth-Age material sharpens that theme. In the [Blackthorn trap](../sessions/moon-stone-collectors-part-9.md), a truth at the high table reveals that he lost more than luck: he lost destiny and legacy. In the [Kuran Grove](../sessions/moon-stone-collectors-part-13.md) arc, his dreams and soul-space are shown as a place where outside forces can shape memory and possibility. By the time the [Amulet of Lost Memories](../items/amulet-of-lost-memories.md) shows him the deeper [Fey](fey.md) memory, the implication is that the Weaver used [Fey](fey.md) reality-shaping power to exchange the fortunes of [Juan](../people/juan.md) and his brother, leaving [Juan](../people/juan.md) with luck while stealing the heroic fate that should have been his.
+[Juan](../people/juan.md)'s late Sixth-Age material sharpens that theme. In the [Blackthorn trap](../sessions/moon-stone-collectors-part-9.md), a truth at the high table reveals that he lost more than luck: he lost destiny and legacy. In the [Kuran Grove](../sessions/moon-stone-collectors-part-13.md) arc, his dreams and soul-space are shown as a place where outside forces can shape memory and possibility. By the time the [Amulet of Lost Memories](../items/amulet-of-lost-memories.md) shows him the deeper [Fey](fey.md) memory, the Weaver's method is clearer: he used the betrayed access to remove Juan's heroic future, while the cornerstone forced distorted luck and probability into the space that future had occupied.
 
 That is stronger than ordinary prophecy tampering. It implies the Weaver can manipulate fate itself, not merely predict it.
 

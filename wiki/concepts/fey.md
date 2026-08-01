@@ -91,6 +91,12 @@ At the heart of the Feywild is cornerstone spellwork that helps hold the realm t
 
 The Wild Hunt exists to enforce those oaths. Wisdom frames this as a core Fey principle: if a Fey breaks a small promise, they may break all promises. This is why [Juan](../people/juan.md)'s missing oath-memory matters. His connection to [The Weaver](the-weaver.md) is not only about stolen luck, but about a suppressed duty tied to one of the Feywild's deepest protections.
 
+### Balance Within the Cornerstone
+
+The cornerstone does more than sustain the realm. Its magic preserves balance even when used by an intruder. [The Weaver](the-weaver.md) gained access through the betrayal of [Juan](../people/juan.md)'s family, but he could not simply erase Juan's heroic destiny and legacy. The magic forced the missing legacy to be replaced with distorted luck and probability.
+
+This was not justice and did not restore the future Juan lost. It was an imposed equivalence: something removed, something returned. The breach demonstrates that even a power capable of rewriting fate remains bound by the foundational laws of Fey reality while using the cornerstone. Why the Weaver sought access at that depth remains unknown.
+
 ## Bargains and Survival
 
 Because the [Divine Gate](divine-gate.md) restricts direct access to the [Feywild](../places/feywild.md), powerful Fey survive in the mortal realm by feeding on mortal life and feeling. This is not just greed. It is often a practical necessity.

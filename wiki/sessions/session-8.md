@@ -84,3 +84,5 @@ By the end of the session, [Bevar Lurton](../people/bevar-lurton.md) and Gwen re
 ## Source Notes
 
 Derived from the pasted transcript summary at `campaign/session-8/actual-summary.md`, with player-to-character mapping supplied on June 8, 2026.
+
+- Corrected transcript-flow reference: [Session 8 corrected transcript](../campaign/after-the-war-corrected-transcript-flow.md#session-8-ssarvelyn-temple-and-bartholomew-hildebrant)

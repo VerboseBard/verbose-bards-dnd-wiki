@@ -2,6 +2,10 @@
 
 The goblin quartermaster assistant is a small green goblin who effectively takes over quartermaster duties after the head quartermaster at [Fort Victory](../places/fort-victory.md) is arrested.
 
+## Identity
+
+Per GM ruling (2026-07-31), this goblin is **Josh's surviving Session 1 character** — one of the level-zero goblins from the Bloody Fifth meat grinder who lived through the war and ended up running a quartermaster counter on [Driftvale](../places/driftvale.md). His Session 1 name, if spoken on the recording, has not yet been recovered. He is **not** related to [Sergeant Weaver](sergeant-weaver.md), the fat goblin sergeant at Fort Victory, and neither goblin has any connection to [the Weaver](../concepts/the-weaver.md).
+
 ## Role
 
 He provides supplies, including magical paper and ink, and offers strange barter deals.

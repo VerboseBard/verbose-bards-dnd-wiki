@@ -80,3 +80,4 @@ Session 2 transforms the campaign from war survival into postwar moral consequen
 - Canon check: `campaign/session-2/canon-check.md`
 - Mechanics: `campaign/session-2/mechanics-notes.md`
 - Cast: `npcs/session-2-actual-cast.md`
+- Corrected transcript-flow reference: [Session 2 corrected transcript](../campaign/after-the-war-corrected-transcript-flow.md#session-2-ashs-hounds-and-norinar)

@@ -12,8 +12,10 @@ Session 6 pushes the [After the War Campaign](../campaign/after-the-war-campaign
 - [Sgt. Jefferson Stone](../people/sergeant-jefferson-stone.md) studies the ship's logical internal layout and watches the nanite-driven hull-repair process closely enough to understand how much damage the [Kex](../places/kex.md) actually took.
 - After disguising part of their route back from the ship, the party resumes the [Lost Homeland Mission](../concepts/lost-homeland-mission.md) and starts making real trail choices for a wagon-capable expedition.
 - A rare magical lightning storm catches the group in exposed high terrain and drives them into a ravine fight with a mutated displacer beast.
-- The party kills the beast, survives its mind-warping poison, and [Bevar Lurton](../people/bevar-lurton.md) harvests several vials of its neurotoxic secretion for later experimentation.
+- The beast's mind-warping neurotoxin sends half the party into hallucinations, and **[Jose](../people/jose.md) briefly dies in its jaws** — the campaign's first party death — before his nanites revive him. The trauma costs him a point of [Sanity](../concepts/sanity.md) (11 → 10) and a permanent mental scar; the sanity system debuts here. Jose still lands the killing blow, a hallucinating haymaker that shatters the beast's skull.
+- [Bevar Lurton](../people/bevar-lurton.md) harvests several vials of the beast's neurotoxic secretion for later experimentation. (Bevar himself is later dropped by the chimera's fire cone, failing two death saves before stabilizing, and loses a sanity point through his bond when [Gwen](../people/gwen.md) is downed beside him.)
 - In a set of old ruins lit by ambient magic, the party encounters spinning rune mechanisms, spectral inhabitants visible through truesight, and evidence that the site still holds active older-world power.
+- [Bevar Lurton](../people/bevar-lurton.md) stays behind at one ring mechanism, quietly solves it, and **pockets something without telling the party** — only [Alistair Hooley](../people/alistair-hooley.md)'s nat-20 investigation catches him closing the device and hiding the item. Bevar flatly denies having opened anything when questioned. (The item is revealed as a book at the Session 7 council.)
 - A chimera attacks in the ruins, forcing the party into a second desperate fight before they are ready.
 - [Jose](../people/jose.md) uses the [Music Box Anomaly](../items/music-box-anomaly.md) as a portal-prison, banishing the chimera into whatever lies beyond the box instead of defeating it conventionally.
 - The box resists closing, begins drawing local spirits into itself, and exposes [Sgt. Jefferson Stone](../people/sergeant-jefferson-stone.md) to a terrifying malevolent presence on the far side.
@@ -29,7 +31,7 @@ Session 6 pushes the [After the War Campaign](../campaign/after-the-war-campaign
 - The party's immediate reaction after the chimera banishment turns the [Music Box Anomaly](../items/music-box-anomaly.md) from a strange curiosity into a locked-down danger that should not be opened casually again.
 - [Sgt. Jefferson Stone](../people/sergeant-jefferson-stone.md)'s encounter with [Hestia](../people/hestia.md) reframes the ruins as a place of imprisonment, sanctuary, and very old divine memory rather than just another puzzle site.
 - The freed Hestia fragment suggests a wider hidden network of sealed divine remnants tied to older temple wars rather than a one-off miracle.
-- Jose calling Kubix or the ship interface `Alexa` appears here as a nickname / possible rename joke, but not yet a stable replacement for the canon names [Kubix](../people/kubix.md) and [Kex](../places/kex.md).
+- Jose's `Alexa` naming carries over from Session 5, where the AI **formally registered the rename** ("The ship has been reclassified as Alexa"). The canon names remain [Kubix](../people/kubix.md) (the AI) and the [Kex](../places/kex.md) (the ship); `Alexa` is the captain's registered alias for both.
 - The final approach to [Sunhollow Valley](../places/sunhollow-valley.md) confirms that the old family stories behind the [Lost Homeland Mission](../concepts/lost-homeland-mission.md) were not just myths.
 
 ## Important People
@@ -77,6 +79,7 @@ Session 6 working notes:
 - `campaign/session-6/mechanics-notes.md`
 - `campaign/session-6/character-highlights.md`
 - `campaign/session-6/canon-check.md`
+- Corrected transcript-flow reference: [Session 6 corrected transcript](../campaign/after-the-war-corrected-transcript-flow.md#session-6-the-storm-the-music-box-and-sunhollow-valley)
 
 
 

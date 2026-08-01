@@ -52,5 +52,6 @@
 - [Rite of Faded Remembrance](rite-of-faded-remembrance.md)
 - [Fog Whales](fog-whales.md)
 - [Sanctuary City](sanctuary-city.md)
+- [Sanity](sanity.md)
 - [Dragonborn of Saharun](dragonborn-of-saharun.md)
 

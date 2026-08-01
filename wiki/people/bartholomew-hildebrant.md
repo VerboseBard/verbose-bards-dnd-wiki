@@ -12,6 +12,14 @@ After Katrina is killed by an invisible assassin, Bartholomew fights through the
 
 Session 8 later reveals that his assault was part of a much larger Fourth-Age strike: roughly ten teams, about forty people total, including his cleric, wizard, and a small goblin. The assault nearly brought the temple down and left very few guardians behind.
 
+## Former Service
+
+Before the temple assault, **Captain Bartholomew Hildebrant** served under Colonel [Rurik Valdren](rurik-valdren.md) at [Dragon Watch](../places/dragon-watch.md), roughly 3,800 years before the Seventh Age. Before his selection as a Demon Hunter, he was a [Sentinel of the Veil](../factions/sentinels-of-the-veil.md).
+
+As a member of a Fourth-Age **Slayer Team**, Bartholomew held the historical title **Warden**. Slayer Teams were small, mixed-race special-forces formations of elite Demon Hunters used against demons, devils, powerful undead, summoned creatures, and related supernatural threats. He was also a **Champion of Hestia**, his sacred standing as a Warden rather than a conventional military rank. `Warden` is distinct from modern Conclave titles such as Justicar, Templar, and Inquisitor. His particular Slayer Team has not yet been named.
+
+The clean formal style is: *Captain Bartholomew Hildebrant, Warden of the Slayer Teams, Champion of Hestia.* His current character class is mechanically separate from this historical title.
+
 ## Session 8 Recovery
 
 Centuries later, [Captain Sgt. Jose](jose.md) and [Alistair Hooley](alistair-hooley.md) find Bartholomew still preserved in the pod exactly as he entered it: poisoned, bleeding, full of broken arrows, and with ruined knees.

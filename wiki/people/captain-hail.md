@@ -12,7 +12,7 @@ Hail interviews the party after they declare the murdered fog-team bodies. He is
 - Asks whether the bag of holding contains anything explosive or dangerous before ordering it emptied.
 - Orders the bodies inspected.
 - Interviews the party about their patrol and evidence.
-- Is present when [Lord Inquisitor Boss](lord-inquisitor-boss.md) confirms their truthfulness with the [Truth Lantern](../items/truth-lantern.md).
+- Is present when [Lord Inquisitor Amir Voss](amir-voss.md) confirms their truthfulness with the [Truth Lantern](../items/truth-lantern.md).
 - Thanks the party for their useful report.
 
 ## Related

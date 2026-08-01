@@ -34,6 +34,14 @@ She calls the room her mother's office and claims that the temple was dedicated 
 
 Her statements should be handled cautiously. Jefferson's insight suggests she is mixing truth, omissions, and likely lies. Her promise that the valley's blood oath can be `released` is especially dangerous because [Rurik Valdren](rurik-valdren.md) later warns that release language in blood magic can mean more than safe liberation.
 
+## Her Brother and the Penitent
+
+Selyra has a **brother** active in the Sunhollow operation. He cannot enter [Ssar'Velyn Temple](../places/ssar-velyn-temple.md) — the temple bars males — but he spent years hunting its location alongside her.
+
+Per GM ruling (2026-07-31): the church's dead scout in the valley was a **penitent** — one of the faithful damned, sent to chase the imprisoned demon's emanations with old artifacts. **Selyra's brother trailed the penitent down and killed him.** The fourteen arrows in the scout's back — which the valley patrol truthfully denied firing — were the drow's work. Jefferson followed the dead man's beacon without knowing any of this.
+
+She also mentions in Session 9 that the party failed to "return my notes" ⚠ — an unexplained grievance, possibly referring to the book [Bevar Lurton](bevar-lurton.md) took from the ruins, or to her murdered team's effects from Session 3.
+
 ## Related
 
 - [The Silk Parlor](../places/silk-parlor.md)

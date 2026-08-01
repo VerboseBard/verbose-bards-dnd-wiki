@@ -40,6 +40,12 @@ The first proof of that connection comes at the end of Session 6: the party reac
 
 Session 7 sharpens the family problem. Rabbit elders suggest that Alistair's father's line is not the only relevant branch and that his mother's line may also matter. The missing old rabbit heir vanished with the last outward expedition, key responsibilities were never passed down, and the rabbit seat collapsed into Burrowroot afterward.
 
+## Known Family
+
+From the Burrowroot matron's genealogy interview (Session 7 audio): Alistair's father is **Orson Hooley**, his mother is **Clementine**, and his great-great-grandfather was **Mumford** — enough for the matron to place herself as a great-great-great-great-grandmother twice removed of that line and begin a marriage campaign on his behalf (fourteen nieces produced on the road out, "forty by the time you get back"). Alistair has **multiple siblings** and is "fairly down the line" of inheritance; his family are Driftvale fog-walkers descended from the trading branch that left the valley and never returned. One patrol reaction on first contact was heard as "the **Chosen** Hooli" ⚠ — possibly a title or prophecy attached to the returning line, unconfirmed.
+
+He also openly recovered an **old blood-magic spellbook** from the Session 6 ruins (a nat-20 find, separate from the book [Bevar Lurton](bevar-lurton.md) concealed) and studied it overnight in Burrowroot: humanoid-sacrifice empowerment, Feywild spider/drider summoning, and blood-link life-steal — the same school of magic the temple guardian later used to heal the party.
+
 ## Ssar'Velyn Temple
 
 In [Session 8](../sessions/session-8.md), Alistair enters the [Dead Lands](../places/dead-lands.md) and [Ssar'Velyn Temple](../places/ssar-velyn-temple.md) with the party.

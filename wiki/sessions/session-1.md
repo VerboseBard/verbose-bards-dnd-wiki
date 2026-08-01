@@ -64,3 +64,4 @@ The party survives a battle that should have killed them. Their actions help ena
 - Raw extraction: `campaign/session-1/summary.md`
 - Mechanics: `campaign/session-1/mechanics-notes.md`
 - Canon check: `campaign/session-1/canon-check.md`
+- Corrected transcript-flow reference: [Session 1 corrected transcript](../campaign/after-the-war-corrected-transcript-flow.md#session-1-the-bloody-fifth)

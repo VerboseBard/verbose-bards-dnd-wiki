@@ -6,6 +6,10 @@ Sanctuary City refers to one of the ancient surviving cities or protected enclav
 
 The [Second Age Bound Spirit](../people/second-age-bound-spirit.md) suggests that only a few sanctuary cities may have survived the ancient catastrophes. The exact identities, locations, and continuity of these places remain unresolved.
 
+[Rurik Valdren](../people/rurik-valdren.md)'s Session 9 account makes the dwarven version concrete: there are **four Sanctuary Cities**, self-contained refuges engineered to withstand a **2,000-year siege**. When the world broke, the dwarves — cut out of the dragon-core sanctuary arrangements made by others — were supposed to shelter in them, and Rurik's family line was tasked with one day returning to open them. Only about 1,200 years have passed, so the cities should still be intact and functional.
+
+Rurik has searched for them for those 1,200 years. He now holds an active **tracking device**, recovered from a hidden wall cache at [Khaz-Tharol Garrison](../places/khaz-tharol-garrison.md), and believes at least one city lies in the in-between zone separating [Unity](../places/unity.md)'s surface from the [Upside Down](../places/underdark-upside-down.md) — the same layer that holds the Underdark. He has asked the party to carry the artifact and find it once the [Sunhollow Valley](../places/sunhollow-valley.md) crisis resolves. The 8–16 million feral duergar of the Underdeep (see [Demonic Dwarven Goo](demonic-dwarven-goo.md)) are the cautionary tale for what became of dwarves who were cut off without sanctuary.
+
 ## Campaign Role
 
 Sanctuary City lore helps frame the difference between the [Second Age](second-age.md) world and the [Seventh Age](seventh-age.md) world. It is a thread for future archaeology, ancient history, and divine mystery.

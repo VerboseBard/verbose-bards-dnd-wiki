@@ -68,3 +68,4 @@ Session 5 continues the party's first major contractor mission into [Driftvale](
 - Canon check: `campaign/session-5/canon-check.md`
 - Character highlights: `campaign/session-5/character-highlights.md`
 - Mechanics: `campaign/session-5/mechanics-notes.md`
+- Corrected transcript-flow reference: [Session 5 corrected transcript](../campaign/after-the-war-corrected-transcript-flow.md#session-5-kubix-and-the-kex)

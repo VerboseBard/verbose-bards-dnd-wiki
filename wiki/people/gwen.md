@@ -6,7 +6,7 @@ Gwen is the surviving alien spider specimen recovered from the [Crashed Ship](..
 
 Gwen is a small spider from the ship's preserved research stock, apparently from another world or dimensional background rather than normal [Driftvale](../places/driftvale.md) wildlife.
 
-In the Session 5 transcript, she is recovered from stasis as a viable tarantula-sized female specimen with yellow, red, and black coloration. Kubix describes the ship's research as involving spiders, uplift, and a spinner collective or similar line. The name `Gwen` comes from later continuity; the first scene only establishes the surviving spider and her initial connection to [Bevar Lurton](bevar-lurton.md).
+In the Session 5 transcript, she is recovered from stasis as a viable tarantula-sized female specimen with yellow, red, and black coloration, visibly nanite-injected and mid-uplift. Kubix identifies her as **the only survivor of the Spinner Collective**, the spider line the ship's uplift research was studying. The name `Gwen` comes from later continuity; the first scene establishes the surviving spider and the eye-to-eye jolt that begins her connection to [Bevar Lurton](bevar-lurton.md).
 
 By the start of [Session 6](../sessions/session-6.md), she:
 

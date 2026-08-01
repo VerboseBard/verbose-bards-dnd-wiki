@@ -22,6 +22,8 @@ Tavero is formal, paternal, patient in public, and quietly controlling in privat
 
 By [Session 7](../sessions/session-7.md), that instinct hardens into a visible attempt to contain both [Alistair Hooley](alistair-hooley.md)'s return and the old-law leverage wielded by [Walter Wifflewick](walter-wifflewick.md).
 
+At the council itself, the Cervan head dismisses the spider question outright — *"I do not believe the spider is important; what is important is that they say what is in the valley will be taken from us"* — and is among the unhappy faces when [Gwen](gwen.md)'s emissary status carries the 3–2 vote.
+
 ## Related
 
 - [Burrowroot](../factions/burrowroot.md)

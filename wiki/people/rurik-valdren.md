@@ -8,9 +8,13 @@ Rurik Valdren is an extremely old dwarf associated with [Calvin's Curios](../pla
 
 Rurik helped develop the [Fog-Containment Artifacts](../items/fog-containment-artifacts.md) that pushed back [Driftvale](../places/driftvale.md)'s fog. His work made him rich and indirectly enabled discovery of the [Kreen](../factions/kreen.md) gate, though he says he warned others not to touch it.
 
+Long before Driftvale, Rurik was a colonel of the Fourth-Age dwarven military, commanding a section of [the Dragon Watch](../places/dragon-watch.md) — the great wall that held back the undead wastes — for some two hundred years. [Bartholomew Hildebrant](bartholomew-hildebrant.md) served under him there roughly 3,800 years ago. Their [Session 9](../sessions/session-9.md) reunion ("just call me Rick now") is the first time either has seen a free dwarf of the old world since the Breaking cut Rurik off from his people 1,200 years ago.
+
 ## Goal
 
-Rurik seeks [Sanctuary City](../concepts/sanctuary-city.md) or a key/path to it. He believes the answer lies somewhere in [Driftvale](../places/driftvale.md).
+Rurik seeks the [Sanctuary Cities](../concepts/sanctuary-city.md) or a key/path to them. He believes the answer lies somewhere in [Driftvale](../places/driftvale.md).
+
+As of [Session 9](../sessions/session-9.md) he holds the tracking device recovered from [Khaz-Tharol Garrison](../places/khaz-tharol-garrison.md) — retrieved by another crew after the party declined the job — and it is active. He believes at least one Sanctuary City lies in the in-between zone separating [Unity](../places/unity.md)'s surface from the [Upside Down](../places/underdark-upside-down.md), and he wants the party to carry the artifact and find it once the Sunhollow crisis resolves.
 
 ## Deal with the Party
 
@@ -29,6 +33,8 @@ In Session 4, [Colonel Core](colonel-core.md) treats Rurik as a dangerous politi
 In Session 7, [Sgt. Jefferson Stone](sergeant-jefferson-stone.md) considers contacting Rurik as a possible way to create a legal-commercial shield around [Sunhollow Valley](../places/sunhollow-valley.md) before the military, churches, or state powers seize the valley's ether wealth. This is only a plan at that point; the transcript says temple-related events must happen before Jefferson can send that message.
 
 In [Session 9](../sessions/session-9.md), Jefferson follows through and contacts Rurik after leaving [Ssar'Velyn Temple](../places/ssar-velyn-temple.md). Rurik becomes actively involved in the Sunhollow crisis once he hears about the valley's ether wealth, the approaching [Inquisition](../factions/inquisition.md), the old blood oath, [Mistress Selyra Vex'ryn](mistress-selyra-vexryn.md)'s temple activity, and the presence of [Bartholomew Hildebrant](bartholomew-hildebrant.md), an ancient dwarf who can still speak Dwarven.
+
+He then teleports to the party in person with mercenary guards and his sorlock aide [Eric Vossel](eric-vossel.md), establishes a teleportation foothold outside the [Dead Lands](../places/dead-lands.md), and commits to the purchase plan: "If I own the valley, the Inquisition can't take it by force." His contingency if things go poorly is colder — when the Inquisition enters the valley there is no communication, so "there won't be a war with the Inquisition."
 
 Rurik warns that Vex'ryn's promise to `release` the people from the blood oath is dangerously ambiguous. In blood magic, release may mean freedom, but it may also mean death, severance, or fulfillment of the oath in a lethal form.
 

@@ -18,9 +18,14 @@ Her mate is Wade Mercer, a male Mapach storehouse master with a reputation for h
 
 June is warm on the surface, unsentimental underneath, and politically slippery when she needs to be. She is better described as neutral toward outsiders than friendly toward them.
 
+## Session 7 Council
+
+At the [Session 7](../sessions/session-7.md) council, the Mapach elder is the one who names [Bevar Lurton](bevar-lurton.md) **the emissary** and presses him on whether he knows what the spiders mean — and when [Gwen](gwen.md) makes her formal gestures to each seat in turn, the Mapach representative is visibly excited and **bows to the spider**. She also delivers the blunt assessment of outside power: "They can kill us, but they can't make us leave."
+
 ## Related
 
 - [Briarstep](../factions/briarstep.md)
 - [Sunhollow Council](../factions/sunhollow-council.md)
 - [Open Trail](../factions/open-trail.md)
+- [Session 7](../sessions/session-7.md)
 

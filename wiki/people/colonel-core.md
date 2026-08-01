@@ -20,6 +20,6 @@ He should stay distinct from [Colonel Gandor](colonel-gandor.md), the earlier or
 
 ## Related
 
-- [Lord Inquisitor Boss](lord-inquisitor-boss.md)
+- [Lord Inquisitor Amir Voss](amir-voss.md)
 - [Fort Victory](../places/fort-victory.md)
 - [Session 4](../sessions/session-4.md)

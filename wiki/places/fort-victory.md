@@ -20,7 +20,7 @@ Before the [Inquisition](../factions/inquisition.md) arrives, Fort Victory runs 
 
 The [Session 3](../sessions/session-3.md) material shows this rot in detail. New arrivals are immediately taught which rules matter, which rules are only tools for extortion, and which officers expect a cut of any interesting discovery. Fog teams die, evidence disappears, and even official postings are shaped by political favors and what commanders think they can get away with.
 
-The arrival of [Colonel Core](../people/colonel-core.md), [Captain Hail](../people/captain-hail.md), and [Lord Inquisitor Boss](../people/lord-inquisitor-boss.md) radically changes the fort's atmosphere. The old command staff is publicly executed, passes to town are revoked, and the base is forced back into military discipline.
+The arrival of [Colonel Core](../people/colonel-core.md), [Captain Hail](../people/captain-hail.md), and [Lord Inquisitor Amir Voss](../people/amir-voss.md) radically changes the fort's atmosphere. The old command staff is publicly executed, passes to town are revoked, and the base is forced back into military discipline.
 
 In [Session 4](../sessions/session-4.md), Fort Victory becomes the setting for the public purge that ends the worst of the corruption ring. The fort's parade-ground executions, truth-lantern interviews, and contractor transition turn it from a rotten backwater into the place where the party's military lives formally end and their contractor-era autonomy begins.
 

@@ -96,5 +96,6 @@ Session 7 working notes:
 - `campaign/session-7/mechanics-notes.md`
 - `campaign/session-7/character-highlights.md`
 - `campaign/session-7/canon-check.md`
+- Corrected transcript-flow reference: [Session 7 corrected transcript](../campaign/after-the-war-corrected-transcript-flow.md#session-7-sunhollow-valley-first-contact)
 
 

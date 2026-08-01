@@ -8,18 +8,20 @@ Session 4 resolves the immediate [Fort Victory](../places/fort-victory.md) corru
 
 - The party declares the murdered bodies at [Fort Victory](../places/fort-victory.md) but conceals the hidden ship.
 - [Captain Hail](../people/captain-hail.md) interviews them for the [Inquisition](../factions/inquisition.md).
-- [Lord Inquisitor Boss](../people/lord-inquisitor-boss.md) uses a [Truth Lantern](../items/truth-lantern.md). The party's careful truth passes.
+- [Lord Inquisitor Amir Voss](../people/amir-voss.md) uses a [Truth Lantern](../items/truth-lantern.md). The party's careful truth passes.
 - The party discovers their barracks and lockers were searched, but their hidden money bag was not found.
-- At reveille, [Colonel Marrow Vance](../people/colonel-marrow-vance.md) and several corrupt officers/non-coms are publicly executed by [Inquisition](../factions/inquisition.md) magic.
+- At reveille, [Colonel Marrow Vance](../people/colonel-marrow-vance.md) and several corrupt officers/non-coms are publicly executed by [Inquisition](../factions/inquisition.md) magic. The condemned: Vance, four lieutenants — **Pike** and **[Garrick Hume](../people/lieutenant-garrick-hume.md)** confirmed; the other two names are unclear on both recordings (caption forms `Doom`, `Boss/Bos` and Whisper forms `Noon`, `Voss` are likely mishearings of Hume and of the presiding [Lord Inquisitor Amir Voss](../people/amir-voss.md), who conducted the execution and was not among the condemned) — and two corrupt sergeants (Whisper hears **Holt**, the Session 3 card-player, and ⚠`Kargo`).
 - [Colonel Core](../people/colonel-core.md) becomes [Fort Victory](../places/fort-victory.md)'s lawful commander.
 - Core interviews the party, clears them formally, and offers post-discharge [Contractor Status](../concepts/contractor-status.md).
 - The party receives [Priority Teleport Tokens](../items/priority-teleport-tokens.md).
 - The [Goblin Quartermaster Assistant](../people/goblin-quartermaster-assistant.md) asks the party to clear a ghost and bring him a large spoon.
 - In the back room, the party destroys a hostile guardian ghost and meets the [Second Age Bound Spirit](../people/second-age-bound-spirit.md).
+- Jefferson's search of the storeroom also finds a **deliberately sealed, collapsed tunnel leading down** beneath the spirit's chamber — unopened and unexplored, a dangling hook beneath [Fort Victory](../places/fort-victory.md).
 - The bound spirit names [The Weaver](../concepts/the-weaver.md) and remembers old creator-gods, including [The Big Shad](../concepts/big-shad.md).
 - The party finds the [Music Box Anomaly](../items/music-box-anomaly.md).
 - The party formally leaves the military and signs contractor paperwork.
 - Their first contract is the [Lost Homeland Mission](../concepts/lost-homeland-mission.md), pathfinding toward a fog-hidden valley tied to the [Driftvale](../places/driftvale.md)-native character's people.
+- The follow-force's command structure has three legs: the military under [Colonel Core](../people/colonel-core.md), the church under a **Justicar** (the [Inquisition](../factions/inquisition.md)'s stated rule of engagement: "anything is acceptable if the Justicar approves"), and a political delegate — **Delegate Thompson of the newly established House of Lords** ⚠. The party's contract loopholes (subsection 613: authorized handling, no military turn-in obligation, and an NDA that bars anyone below colonel from asking what is in the bag) make them legally untouchable salvagers.
 - Before pursuing the route fully, the party detours to [The Crashed Ship](../places/crashed-ship.md).
 - The ship's damaged intelligence speaks of [The Weaver](../concepts/the-weaver.md), variables, pieces, and temporal distortion.
 - The ship traps the party inside and deploys drones/robotic defenders.
@@ -29,7 +31,7 @@ Session 4 resolves the immediate [Fort Victory](../places/fort-victory.md) corru
 ## Important People
 
 - [Captain Hail](../people/captain-hail.md)
-- [Lord Inquisitor Boss](../people/lord-inquisitor-boss.md)
+- [Lord Inquisitor Amir Voss](../people/amir-voss.md)
 - [Colonel Core](../people/colonel-core.md)
 - [Colonel Marrow Vance](../people/colonel-marrow-vance.md)
 - [Lieutenant Garrick Hume](../people/lieutenant-garrick-hume.md)
@@ -69,7 +71,7 @@ The party exits the army but does not escape history. [The Weaver](../concepts/t
 
 ## Important Conversations
 
-- [Captain Hail](../people/captain-hail.md) and [Lord Inquisitor Boss](../people/lord-inquisitor-boss.md) make the truth-lantern interview feel like a legal trap, but the party's careful honesty proves they can survive the system if they choose their words well.
+- [Captain Hail](../people/captain-hail.md) and [Lord Inquisitor Amir Voss](../people/amir-voss.md) make the truth-lantern interview feel like a legal trap, but the party's careful honesty proves they can survive the system if they choose their words well.
 - [Colonel Core](../people/colonel-core.md)'s offer of contractor status turns discharge into a real political choice rather than a simple paperwork moment, and it gives the party a future outside the army.
 - The goblin quartermaster assistant's request for a spoon and a ghost-clearing job is funny on the surface, but it opens the door to the old spirit, the music box, and the deeper history buried in the fort.
 - The bound spirit's conversation about the [Weaver](../concepts/the-weaver.md), creator-gods, and ancient pain ties the campaign to a cosmology much older than the current war.
@@ -84,4 +86,5 @@ The party exits the army but does not escape history. [The Weaver](../concepts/t
 - Character highlights: `campaign/session-4/character-highlights.md`
 - Mechanics: `campaign/session-4/mechanics-notes.md`
 - Cast: `npcs/session-4-actual-cast.md`
+- Corrected transcript-flow reference: [Session 4 corrected transcript](../campaign/after-the-war-corrected-transcript-flow.md#session-4-inquisition-contractor-status-and-the-crashed-ship)
 

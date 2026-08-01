@@ -6,6 +6,7 @@
 - [Kreen](kreen.md)
 - [Conclave of Churches](conclave-of-churches.md)
 - [Seekers](seekers.md)
+- [Sentinels of the Veil](sentinels-of-the-veil.md)
 - [The Ecclesiastical Order](ecclesiastical-order.md)
 - [Godfolk Alliance](godfolk-alliance.md)
 - [Inquisition](inquisition.md)

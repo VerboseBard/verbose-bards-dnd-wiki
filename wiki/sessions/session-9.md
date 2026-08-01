@@ -22,10 +22,18 @@ The party leaves the temple without [Bevar Lurton](../people/bevar-lurton.md), w
 - The party is returned outside the temple in the clear stone area near the entrance, but Bevar is not with them.
 - Around camp, the party discusses the temple, Bevar's absence, the blood oath, Hestia, Lolth, recovered potions, and magically sealed jewelry boxes.
 - Bartholomew reacts strongly to Hestia's name. The pain in the dark place inside him fades, and the hearth presence near the amulets feels like a campfire rather than a candle.
-- Jefferson contacts an Inquisition figure captioned as `Air Voss`, who says the force is about two days out from the party's last marker.
+- Jefferson contacts [Lord Inquisitor Amir Voss](../people/amir-voss.md) (earlier captioned as `Air Voss`), who says the force is about two days out from the party's last marker.
 - Jefferson gives the Inquisition careful partial truths: the locals are not immediately hostile, the situation is complicated, and the far side of the valley may be more questionable.
 - Jefferson then contacts Rurik Valdren, pitching the valley as an enormous opportunity and possible crisis around ether wealth, hidden people, drow secrets, divine fragments, and the approaching Church.
 - Rurik speaks with Bartholomew, recognizes signs of old dwarven military history, and warns that `release` is dangerous wording in blood magic.
+- Rurik then **teleports directly to the party** with mercenary guards and his sorlock right hand [Eric Vossel](../people/eric-vossel.md), using the sending stone and five ether crystals as a beacon.
+- The reunion lands: **Bartholomew served under Colonel Rurik Valdren roughly 3,800 years ago** at [the Dragon Watch](../places/dragon-watch.md). Rurik embraces him ("call me Rick now"), and flashbacks of the wall, the hordes, and his reassignment against the cult of [Lolth](../people/lolth.md) begin returning.
+- Rurik's fireside history reframes the deep past: [the first dragon](../people/first-dragon.md) and [Tiamat](../people/tiamat.md)'s succession, the coordinated Fourth-Age strikes on Lolth's power centers, the duergar of the Underdeep, the four [Sanctuary Cities](../concepts/sanctuary-city.md), and the beastfolk's true purpose as divine-to-arcane mana converters for the valley.
+- Rurik reveals the tracking device from [Khaz-Tharol Garrison](../places/khaz-tharol-garrison.md) is active — and that the valley crisis erupting now, just as he finally holds it, strikes him as more than coincidence.
+- His most ominous assurance about the coming collision: *"There won't be a war with the Inquisition… when they enter the valley, there's no communication."* He rates the expedition's Justicar as decent and [Amir Voss](../people/amir-voss.md) as a zealot.
+- Per GM clarification: the dead church scout was a **penitent** chasing the demon's emanations — and **Selyra Vex'ryn's brother tracked him down and killed him** (the source of the fourteen arrows the valley patrol denied). Her brother remains nearby but cannot enter the temple, which bars males.
+- [Eric Vossel](../people/eric-vossel.md) keeps the party hasted and casts rounds of greater restoration, enabling a force-march back toward [Hollowmere](../places/hollowmere.md); Rurik's mercenaries begin establishing a teleportation foothold outside the Dead Lands.
+- Bartholomew's trained head-count on the march: roughly **30,000 beastfolk — about 20,000 of them children — on the sparse side of the valley alone**, far above the council's stated population.
 - The party chooses not to rush directly to the cave source. Jefferson argues that the immediate priority is returning to the council and building a political shield before the Inquisition arrives.
 - The group reconnects with its Sunhollow escort and returns toward the council site.
 - The session ends before the council meeting, with the party fed, briefly rested, and only a short time left before the Inquisition reaches the valley gate.
@@ -52,7 +60,8 @@ Jefferson's contact with the Inquisition creates the hard countdown. The Inquisi
 - [Rurik Valdren](../people/rurik-valdren.md)
 - [Hestia](../people/hestia.md)
 - [Lolth](../people/lolth.md)
-- Inquisition contact captioned as `Air Voss`
+- [Lord Inquisitor Amir Voss](../people/amir-voss.md)
+- [Eric Vossel](../people/eric-vossel.md)
 - [Captain Havlin](../people/captain-havlin.md)
 - [Penelope Puckle](../people/penelope-puckle.md)
 - [Voss](../people/voss-kenku.md)
@@ -88,6 +97,8 @@ Jefferson's contact with the Inquisition creates the hard countdown. The Inquisi
 
 ## Source Notes
 
-Derived from the YouTube auto-caption transcript preserved locally at `campaign/session-9/raw-transcript.txt`, cross-checked against the uploaded ChatGPT review and normalized through `campaign/session-9/summary-audit.md` and `campaign/session-9/canon-check.md`.
+Derived from the local Session 9 transcript and the July 31 True Chronicle audit. Names and retrospective corrections follow the explicit GM changelog in `WIKI-CHANGELOG-2026-07-31.md`; auto-caption forms such as `Air Voss` are retained only where useful for source tracing.
 
 The transcript is complete enough for event order but unreliable for proper nouns. Corrected forms include Bevar Lurton, Mistress Selyra Vex'ryn, Lolth, Hestia, Bartholomew Hildebrant, Rurik Valdren, Ssar'Velyn Temple, and Sunhollow Valley.
+
+- Corrected transcript-flow reference: [Session 9 corrected transcript](../campaign/after-the-war-corrected-transcript-flow.md#session-9-vexryns-warning-and-the-inquisition-countdown)

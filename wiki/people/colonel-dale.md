@@ -1,6 +1,6 @@
 # Colonel Dale
 
-Colonel Dale is a fit orc officer commanding the professional outpost near the old [Driftvale](../places/driftvale.md) gate-region.
+Colonel Dale is a fit orc officer commanding [Khaz-Tharol Garrison](../places/khaz-tharol-garrison.md), the professional outpost in the old dwarven ruins of [Driftvale](../places/driftvale.md)'s gate-region, where the [Kreen](../factions/kreen.md) gate was destroyed.
 
 ## Role
 

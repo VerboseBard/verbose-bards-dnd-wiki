@@ -112,6 +112,7 @@ This guide is organized by age first, then by campaign in chronological order in
 
 ### [After the War Campaign](../campaign/after-the-war-campaign.md)
 
+- Corrected transcript hub: [After the War Corrected Transcript Flow](../campaign/after-the-war-corrected-transcript-flow.md)
 - [Session 1: The Bloody Fifth](session-1.md)
 - [Session 2: Ash's Hounds and Norinar](session-2.md)
 - [Session 3: Fort Victory and Sin](session-3.md)

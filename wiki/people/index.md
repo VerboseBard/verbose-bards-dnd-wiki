@@ -18,8 +18,10 @@ People are grouped by campaign, faction, and divine family so related figures st
 - [Lieutenant Garrick Hume](lieutenant-garrick-hume.md)
 - [Captain Donner](captain-donner.md)
 - [Captain Hail](captain-hail.md)
-- [Lord Inquisitor Boss](lord-inquisitor-boss.md)
+- [Lord Inquisitor Amir Voss](amir-voss.md)
+- [Eric Vossel](eric-vossel.md)
 - [Sergeant Halric Voss](sergeant-halric-voss.md)
+- [Sergeant Weaver](sergeant-weaver.md)
 - [Sergeant Feder](sergeant-feder.md)
 - [Sergeant Mireya Kest](sergeant-mireya-kest.md)
 - [Sergeant Quill](sergeant-quill.md)
@@ -92,6 +94,7 @@ People are grouped by campaign, faction, and divine family so related figures st
 
 - [Rurik Valdren](rurik-valdren.md)
 - [Mistress Selyra Vex'ryn](mistress-selyra-vexryn.md)
+- [The Silk Parlor Companions](silk-parlor-companions.md)
 - [Vaelis Brighttongue](vaelis-brighttongue.md)
 - [Granny](granny.md)
 - [Jeffree](jeffree.md)
@@ -286,6 +289,7 @@ People are grouped by campaign, faction, and divine family so related figures st
 - [Lolth](lolth.md)
 - [The Raven Queen of Saharun](raven-queen-of-saharun.md)
 - [Tiamat](tiamat.md)
+- [The First Dragon (the Destroyer)](first-dragon.md)
 
 ## Ancient / Supernatural
 

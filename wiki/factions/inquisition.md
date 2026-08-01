@@ -10,7 +10,7 @@ Within the wider [Ecclesiastical Order](ecclesiastical-order.md), Inquisitors ar
 
 ## Fort Victory Purge
 
-[Lord Inquisitor Boss](../people/lord-inquisitor-boss.md), [Captain Hail](../people/captain-hail.md), and supporting troops participate in the purge of [Fort Victory](../places/fort-victory.md). The old command staff is tried, convicted, and publicly executed by magical strangulation during morning formation.
+[Lord Inquisitor Amir Voss](../people/amir-voss.md), [Captain Hail](../people/captain-hail.md), and supporting troops participate in the purge of [Fort Victory](../places/fort-victory.md). The old command staff is tried, convicted, and publicly executed by magical strangulation during morning formation.
 
 ## Tension with Military Command
 
@@ -18,7 +18,7 @@ Within the wider [Ecclesiastical Order](ecclesiastical-order.md), Inquisitors ar
 
 ## Sunhollow Pursuit
 
-During the [Lost Homeland Mission](../concepts/lost-homeland-mission.md), an Inquisition-linked force follows the party's route toward [Sunhollow Valley](../places/sunhollow-valley.md). In [Session 9](../sessions/session-9.md), [Sgt. Jefferson Stone](../people/sergeant-jefferson-stone.md) contacts an Inquisition figure captioned as `Air Voss`, who reports that the force is about two days out from the party's last marker.
+During the [Lost Homeland Mission](../concepts/lost-homeland-mission.md), an Inquisition-linked force follows the party's route toward [Sunhollow Valley](../places/sunhollow-valley.md). In [Session 9](../sessions/session-9.md), [Sgt. Jefferson Stone](../people/sergeant-jefferson-stone.md) contacts [Lord Inquisitor Amir Voss](../people/amir-voss.md), captioned as `Air Voss`, who reports that the force is about two days out from the party's last marker.
 
 Jefferson gives careful partial truths rather than exposing [Ssar'Velyn Temple](../places/ssar-velyn-temple.md) outright. The Inquisition believes it may be approaching corruption, heresy, or a great evil in the valley, which makes its arrival dangerous even if its stated purpose is investigation and cleansing.
 

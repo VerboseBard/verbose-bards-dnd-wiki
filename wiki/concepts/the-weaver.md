@@ -2,6 +2,8 @@
 
 The Weaver is an ancient force associated with fate, threads, time, and reality manipulation.
 
+*(Not to be confused with [Sergeant Weaver](../people/sergeant-weaver.md), an unrelated goblin NCO at Fort Victory — the shared name is coincidence per GM ruling.)*
+
 ## Description
 
 The Weaver is referenced by the [Second Age Bound Spirit](../people/second-age-bound-spirit.md) as the one who bound her. The voice aboard [the crashed ship](../places/crashed-ship.md) is terrified of the Weaver and claims the ship was pulled into [Driftvale](../places/driftvale.md) as part of the Weaver's game.

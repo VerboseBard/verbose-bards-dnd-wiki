@@ -32,6 +32,8 @@ She:
 
 The pendant's visible symbol is an old kitchen with a fire, table, and bread. The blessing is also called Hest's blessing, tying it directly to Hestia's hearth-fragment power.
 
+Per GM ruling (2026-07-31): the hearth amulets are **manifested by the goddess's own power**. They are a representation of **people who have assisted her greatly** — not necessarily champions, though that is what they were once used to symbolize. Bearers of such marks have historically been able to call upon her power and wield divine magic. (In the Fourth Age, the Wardens of the [Slayer Teams](../factions/sentinels-of-the-veil.md) held exactly that standing — see [Bartholomew Hildebrant](bartholomew-hildebrant.md), champion of Hestia.)
+
 Known blessing mechanics include turning a natural 1 into a 20 proficiency times per day and a backswing-as-bonus-action style benefit. The exact item text should still be checked against Jefferson's live character sheet.
 
 ## Significance

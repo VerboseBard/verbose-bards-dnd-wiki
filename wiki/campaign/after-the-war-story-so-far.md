@@ -40,7 +40,7 @@ By the end of the session, the party knows three things for certain: [Fort Victo
 
 ## Session 4: Inquisition, Contractor Status, and the Crashed Ship
 
-Session 4 is the cleanest break in the campaign's history and the most important transition point. The [Inquisition](../factions/inquisition.md) arrives at [Fort Victory](../places/fort-victory.md), and the old chain of command collapses under scrutiny. The party declares the murdered bodies, keeps the ship hidden, and survives a truth-lantern interview with [Captain Hail](../people/captain-hail.md) and [Lord Inquisitor Boss](../people/lord-inquisitor-boss.md).
+Session 4 is the cleanest break in the campaign's history and the most important transition point. The [Inquisition](../factions/inquisition.md) arrives at [Fort Victory](../places/fort-victory.md), and the old chain of command collapses under scrutiny. The party declares the murdered bodies, keeps the ship hidden, and survives a truth-lantern interview with [Captain Hail](../people/captain-hail.md) and [Lord Inquisitor Amir Voss](../people/amir-voss.md).
 
 The public reckoning is brutal. [Colonel Marrow Vance](../people/colonel-marrow-vance.md) and other corrupt officers are executed, [Colonel Core](../people/colonel-core.md) takes lawful command, and the whole structure of the fort is rewritten in a matter of hours. The party is cleared, but not absorbed back into the military. Instead, Core offers [Contractor Status](../concepts/contractor-status.md), [Priority Teleport Tokens](../items/priority-teleport-tokens.md), and a future that is technically legal and emotionally very different from soldiering.
 
@@ -126,7 +126,7 @@ By the end of the campaign so far, they are no longer just members of the [Blood
 - [Vaelis Brighttongue](../people/vaelis-brighttongue.md)
 - [Granny](../people/granny.md)
 - [Captain Hail](../people/captain-hail.md)
-- [Lord Inquisitor Boss](../people/lord-inquisitor-boss.md)
+- [Lord Inquisitor Amir Voss](../people/amir-voss.md)
 - [Colonel Core](../people/colonel-core.md)
 - [Goblin Quartermaster Assistant](../people/goblin-quartermaster-assistant.md)
 - [Second Age Bound Spirit](../people/second-age-bound-spirit.md)

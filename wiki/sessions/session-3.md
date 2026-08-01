@@ -14,6 +14,7 @@ Session 3 shifts the campaign into postwar [Driftvale](../places/driftvale.md), 
 - The party sees a [Fog Whale](../concepts/fog-whales.md), read by [Driftvale](../places/driftvale.md) lore as a good omen.
 - The party humiliates [Lieutenant Garrick Hume](../people/lieutenant-garrick-hume.md) by waking him with salt water after he delays the convoy.
 - The party sees the fog containment network and the normalized fine system for unauthorized scavengers.
+- The party travels by convoy to [Khaz-Tharol Garrison](../places/khaz-tharol-garrison.md), the professional outpost in the dwarven ruins where the gate was destroyed — their originally intended cushy posting.
 - [Colonel Dale](../people/colonel-dale.md) explains that politics tied to [Kreen](../factions/kreen.md) experimentation changed their orders.
 - The party is reassigned to [Fort Victory](../places/fort-victory.md) fog-scavenging / punishment duty.
 - [Colonel Marrow Vance](../people/colonel-marrow-vance.md) explains the legal corruption of fog-resource extraction and tells the party not to rock the boat.
@@ -32,6 +33,7 @@ Session 3 shifts the campaign into postwar [Driftvale](../places/driftvale.md), 
 - [Colonel Marrow Vance](../people/colonel-marrow-vance.md)
 - [Rurik Valdren](../people/rurik-valdren.md)
 - [Mistress Selyra Vex'ryn](../people/mistress-selyra-vexryn.md)
+- [The Silk Parlor Companions](../people/silk-parlor-companions.md)
 - [Vaelis Brighttongue](../people/vaelis-brighttongue.md)
 - [Granny](../people/granny.md)
 - [Jeffree](../people/jeffree.md)
@@ -44,6 +46,7 @@ Session 3 shifts the campaign into postwar [Driftvale](../places/driftvale.md), 
 - [The Singing Sword](../places/singing-sword.md)
 - [Calvin's Curios](../places/calvins-curios.md)
 - [The Silk Parlor](../places/silk-parlor.md)
+- [Khaz-Tharol Garrison](../places/khaz-tharol-garrison.md)
 - [The Crashed Ship](../places/crashed-ship.md)
 
 ## Important Factions
@@ -81,3 +84,4 @@ Session 3 puts the party in the middle of a three-way power struggle between cor
 - Canon check: `campaign/session-3/canon-check.md`
 - Mechanics: `campaign/session-3/mechanics-notes.md`
 - Cast: `npcs/session-3-actual-cast.md`
+- Corrected transcript-flow reference: [Session 3 corrected transcript](../campaign/after-the-war-corrected-transcript-flow.md#session-3-fort-victory-and-sin)

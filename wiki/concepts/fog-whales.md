@@ -14,6 +14,12 @@ A Fog Whale later appears near the party as they debate investigating [the crash
 
 The omen repeats later in the After the War material. In [Session 6](../sessions/session-6.md), a whale appears overhead as the party nears the final approach to [Sunhollow Valley](../places/sunhollow-valley.md). The party gains inspiration again, and [Alistair Hooley](../people/alistair-hooley.md) soon recognizes the landmark from his family's stories.
 
+## Why Sunhollow Has Never Seen One
+
+Fog Whales live in and swim through the fog itself. [Sunhollow Valley](../places/sunhollow-valley.md) is entirely fog-free — open sky by day, stars and even other worlds visible at night — so **the whales never pass over the valley**, and its people have never seen anything in their sky but birds. Per GM ruling: this is a hard consequence of the fog's absence, not a perception effect.
+
+Not everyone can perceive a Fog Whale even inside the fog; the Session 3 sighting over Sin was visible to some onlookers and not others.
+
 ## Related
 
 - [Driftvale](../places/driftvale.md)

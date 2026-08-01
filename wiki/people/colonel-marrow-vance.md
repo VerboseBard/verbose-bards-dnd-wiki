@@ -19,7 +19,7 @@ Vance benefits from:
 
 ## Death
 
-In [Session 4](../sessions/session-4.md), Vance is publicly executed by [Lord Inquisitor Boss](lord-inquisitor-boss.md) during reveille.
+In [Session 4](../sessions/session-4.md), Vance is publicly executed by [Lord Inquisitor Amir Voss](amir-voss.md) during reveille.
 
 The same transcript clarifies why the party is not treated as part of his corruption ring: Vance's system was corrupt, but much of the party's pay and finder-fee paperwork was still documented well enough for [Colonel Core](colonel-core.md) to accept it as legal.
 

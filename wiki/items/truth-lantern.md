@@ -1,6 +1,6 @@
 # Truth Lantern
 
-The Truth Lantern is a magical item used by [Lord Inquisitor Boss](../people/lord-inquisitor-boss.md) during interviews at [Fort Victory](../places/fort-victory.md).
+The Truth Lantern is a magical item used by [Lord Inquisitor Amir Voss](../people/amir-voss.md) during interviews at [Fort Victory](../places/fort-victory.md).
 
 ## Function
 

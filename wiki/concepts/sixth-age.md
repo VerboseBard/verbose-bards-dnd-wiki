@@ -8,6 +8,8 @@ The current main campaign does not begin here; it begins in Year 11 of the [Seve
 
 This is the age of shattered worlds, open divine intervention, and the final crises that lead to the [Divine Gate](divine-gate.md). By the end of the age, divine power is sealed back, the old world structure is remade, and the [Seventh Age](seventh-age.md) begins.
 
+The [Kreen War](kreen-war.md) is **not** a Sixth-Age event. It begins later, during the Seventh Age, after the Concurrence.
+
 ## World Outline
 
 The [Sixth Age World Outline](sixth-age-world-outline.md) preserves the visual reference for how the major worlds or realms were understood before the [Concurrence](the-concurrence.md). It should be treated as a structural map, not a finalized political map, until the individual nodes are confirmed.

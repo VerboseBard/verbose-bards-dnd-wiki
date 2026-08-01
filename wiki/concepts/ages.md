@@ -20,7 +20,7 @@ This page is a quick entry point for the first through tenth ages. If an age has
 ## Fourth Age
 
 - [Fourth Age](fourth-age.md)
-- No information has been added at this time.
+- Summary: The age of the dwarven hegemony, the Dragon Watch, Lolth's rise and fall, Hestia's death and surviving fragments, and the coordinated strikes against Lolth's cult.
 
 ## Fifth Age
 
@@ -30,12 +30,12 @@ This page is a quick entry point for the first through tenth ages. If an age has
 ## Sixth Age
 
 - [Sixth Age](sixth-age.md)
-- Summary: The era immediately before the [Concurrence](the-concurrence.md), including the [Kreen War](kreen-war.md)'s exhaustion, modern divine politics, the leadup to the [Divine Gate](divine-gate.md), and the pre-Concurrence [Sixth Age World Outline](sixth-age-world-outline.md).
+- Summary: The era immediately before the [Concurrence](the-concurrence.md), including modern divine politics, the leadup to the [Divine Gate](divine-gate.md), and the pre-Concurrence [Sixth Age World Outline](sixth-age-world-outline.md).
 
 ## Seventh Age
 
 - [Seventh Age](seventh-age.md)
-- Summary: The age that begins with the [Concurrence](the-concurrence.md), when the worlds are linked and divine power is sealed back.
+- Summary: The age that begins with the [Concurrence](the-concurrence.md), when the worlds are linked and divine power is sealed back; the [Kreen War](kreen-war.md) and its aftermath belong to this age.
 
 ## Eighth Age
 

@@ -30,7 +30,7 @@ She:
 - leaves him with a blessing tied to hearth, home, and sanctuary
 - leaves a physical [Hestia's Hearth Pendant](../items/hestias-hearth-pendant.md) around Jefferson's throat
 
-The pendant's visible symbol is an old kitchen with a fire, table, and bread. The blessing is also called Hest's blessing, tying it directly to Hestia's hearth-fragment power.
+The pendant's visible symbol is an old kitchen with a fire, table, and bread. The blessing bears her proper name — **Hestia's Blessing** (caption-era notes shortened it to `Hest's blessing`; that form is retired). The pendant's official five-property item card lives on [Hestia's Hearth Pendant](../items/hestias-hearth-pendant.md).
 
 Per GM ruling (2026-07-31): the hearth amulets are **manifested by the goddess's own power**. They are a representation of **people who have assisted her greatly** — not necessarily champions, though that is what they were once used to symbolize. Bearers of such marks have historically been able to call upon her power and wield divine magic. (In the Fourth Age, the Wardens of the [Slayer Teams](../factions/sentinels-of-the-veil.md) held exactly that standing — see [Bartholomew Hildebrant](bartholomew-hildebrant.md), champion of Hestia.)
 

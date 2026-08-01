@@ -14,7 +14,7 @@ The medallion suggests that Bartholomew's Fourth-Age assault team and Jefferson'
 
 In [Session 9](../sessions/session-9.md), the medallion's significance becomes more than visual. When Hestia's name is spoken, Bartholomew's soul-pain fades, and the hearth presence near his medallion and Jefferson's pendant feels like a campfire in the void. Bartholomew later prays and receives warmth, comfort, and physical strengthening.
 
-Per GM ruling (2026-07-31): like [Hestia's Hearth Pendant](hestias-hearth-pendant.md), the medallion is **manifested by the goddess's power** — a mark of one who assisted her greatly. As a Warden of the Fourth-Age [Slayer Teams](../factions/sentinels-of-the-veil.md), Bartholomew held the standing of a **champion of Hestia**; bearers of her mark have historically been able to call on her power and wield divine magic. On the medallion's own record so far: it grants a backswing-as-bonus-action benefit, and its full mechanics are still not fully written.
+Per GM ruling (2026-07-31): like [Hestia's Hearth Pendant](hestias-hearth-pendant.md), the medallion is **manifested by the goddess's power** — a mark of one who assisted her greatly. As a Warden of the Fourth-Age [Slayer Teams](../factions/sentinels-of-the-veil.md), Bartholomew held the standing of a **champion of Hestia**; bearers of her mark have historically been able to call on her power and wield divine magic. On the medallion's own record so far: it grants a backswing-as-bonus-action benefit. The official hearth-mark item card now lives on [Hestia's Hearth Pendant](hestias-hearth-pendant.md); whether the medallion carries the identical card — including its sealed properties — awaits GM confirmation.
 
 ## Related
 

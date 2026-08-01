@@ -14,16 +14,23 @@ In the rune-ruins on the route to [Sunhollow Valley](../places/sunhollow-valley.
 
 Jefferson resists that presence, bleeds onto the altar, and activates a hidden fragment of Hestia. After the fragment thanks him and burns away the old binding runes, the pendant is simply there around his throat.
 
-## Known Mechanics
+## Item Card (official, GM-issued 2026-08-01)
 
-The live item text should be checked against the character sheet, but the Session 6 transcript confirms these working mechanics:
+*Wondrous item, unique — a divine manifestation, not a crafted thing. The pendant is manifested by [Hestia](../people/hestia.md)'s own power as the mark of one who has greatly assisted her. It cannot be bought, forged, or replicated.*
 
-- while wearing the pendant, Jefferson can use the goddess's blessing to turn a natural 1 into a 20
-- this blessing can be used proficiency bonus times per day
-- the blessing can apply to travel or routefinding checks
-- the pendant grants a backswing-as-bonus-action style benefit
+The pendant has five properties. Two are awake; **three are sealed**, and will become available as the goddess grows in power.
 
-Session 7's recap is the source that sharpens the natural-1 effect from `change a natural 1` to `turn a natural 1 into a 20`. The exact live item text should still be checked before play.
+**1. Hestia's Blessing.** A number of times per day equal to your proficiency bonus, when you roll a natural 1 on a d20, you may change it into a natural 20. This applies to any d20 roll — attacks, saves, checks, even travel and routefinding.
+
+**2. Backswing.** After making the Attack action, you may use your bonus action to make one additional attack as a backswing. The backswing is calculated in the same way as a standard attack.
+
+**3. 🔒 (sealed) Rekindling.** Once per long rest, you may call on the goddess to regain all expended uses of your limited-use abilities — once-per-day action, reaction, and bonus-action effects.
+
+**4. 🔒 (sealed) The Hearthfire's Embrace.** You instantly regain 200 hit points. If this is higher than your hit point maximum, you gain the additional amount as temporary hit points; if you are at full health, you gain the entire amount as temporary hit points.
+
+**5. 🔒 (sealed) Rest at Her Hearth.** You may gain the benefit of a long rest in the length of time of a short rest.
+
+*(Activation costs and frequencies for sealed properties are set when they awaken. The sealed-property names are working labels and can be changed.)*
 
 ## Session 8 Resonance
 
@@ -37,9 +44,9 @@ In [Session 9](../sessions/session-9.md), [Mistress Selyra Vex'ryn](../people/mi
 
 Bartholomew senses the combined presence of his medallion and Jefferson's pendant as a campfire in the void rather than only a distant candle. This confirms that the pendant is part of an active and growing divine-fragment pattern, not only a static blessing.
 
-## Hest's Blessing
+## Naming
 
-The blessing is also called Hest's blessing, tying the pendant directly to [Hestia](../people/hestia.md)'s hearth-fragment power.
+The blessing bears the goddess's proper name: **Hestia's Blessing**. Earlier caption-era notes shortened it to `Hest's blessing`; that form is retired.
 
 ## Related
 

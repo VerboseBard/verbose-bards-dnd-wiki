@@ -16,13 +16,13 @@ By the end of the [Second Age](second-age.md), most of the supreme creators had 
 
 The [Second Age](second-age.md) was an age of world-shaping war.
 
-The [Second Age Bound Spirit](../people/second-age-bound-spirit.md) dates from this era. She remembers a world with only four known gods and direct conflict between ancient peoples.
-
 During this age, the fey creatures were at war with the giants. The war lasted for several hundred years, and the giants were winning in many ways. In desperation or triumph, the fey folk used ancient magic to transform all giants into dwarves.
 
 The dwarves answered by breaking the world and bringing the first dragon into it. These dragons devastated large portions of the world, destroying both fey and now-dwarven peoples.
 
 During the chaos of the war, a minor devil or perhaps demon named [Lucius](../people/lucius.md) exploited the conflict. When the serpent god [Rexel Kar](../people/rexel-kar.md) was slain, [Lucius](../people/lucius.md) stood victorious, stealing the god's mantle and the worship of his people.
+
+The [Second Age Bound Spirit](../people/second-age-bound-spirit.md) dates from this era. She remembers a world with only four known gods and direct conflict between ancient peoples.
 
 By the end of the [Second Age](second-age.md), most of the original supreme creators had moved on from the world, leaving one caretaker behind.
 

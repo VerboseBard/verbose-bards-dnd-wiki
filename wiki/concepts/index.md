@@ -20,6 +20,7 @@
 - [The Concurrence](the-concurrence.md)
 - [Greg's Concurrence Proposal](gregs-concurrence-proposal.md)
 - [Divine Gate](divine-gate.md)
+- [Dragon Guardians and Succession](dragon-guardians.md)
 - [Divine Soul Anchoring](divine-soul-anchoring.md)
 - [Commodore Prophecy and Legend-Fed Rebirth](commodore-prophecy.md)
 - [Opaal Old One](opaal-old-one.md)
@@ -54,4 +55,3 @@
 - [Sanctuary City](sanctuary-city.md)
 - [Sanity](sanity.md)
 - [Dragonborn of Saharun](dragonborn-of-saharun.md)
-

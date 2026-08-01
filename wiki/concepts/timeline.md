@@ -16,11 +16,13 @@ By the end of the [Second Age](second-age.md), most of the supreme creators had 
 
 The [Second Age](second-age.md) was an age of world-shaping war.
 
-During this age, the fey creatures were at war with the giants. The war lasted for several hundred years, and the giants were winning in many ways. In desperation or triumph, the fey folk used ancient magic to transform all giants into dwarves.
+During this age, the Fey were at war with the giants. The war lasted for several hundred years, and the giants were winning in many ways. In desperation or triumph, the Fey used ancient magic to transform all giants into dwarves.
 
-The dwarves answered by breaking the world and bringing the first dragon into it. These dragons devastated large portions of the world, destroying both fey and now-dwarven peoples.
+The dwarves answered by creating the first known breach in reality and pulling [the First Dragon](../people/first-dragon.md) into the material world. The dragon devastated both Fey and now-dwarven peoples.
 
 During the chaos of the war, a minor devil or perhaps demon named [Lucius](../people/lucius.md) exploited the conflict. When the serpent god [Rexel Kar](../people/rexel-kar.md) was slain, [Lucius](../people/lucius.md) stood victorious, stealing the god's mantle and the worship of his people.
+
+At the end of the age, the Fey withdrew from the material world to survive the dragon. Their passage into the [Feywild](../places/feywild.md) and related Fey realms became the second known breach in reality and opened the transition into the Third Age.
 
 The [Second Age Bound Spirit](../people/second-age-bound-spirit.md) dates from this era. She remembers a world with only four known gods and direct conflict between ancient peoples.
 
@@ -28,7 +30,13 @@ By the end of the [Second Age](second-age.md), most of the original supreme crea
 
 ## Third Age
 
-Details pending.
+The dwarves attempted to kill the First Dragon and failed. Its answering rampage lasted nearly fifty years, killed millions, and created the vast [Dead Lands](../places/dead-lands.md). Uncontrolled eleventh- and twelfth-stage magic worsened the destruction.
+
+After the dragon returned to its mountain, undead armies rose from the ruins. Over roughly 180 years, dwarves, elves, humans, and other peoples stabilized a connected defensive line using mountain walls, divine forest defenses, the sea, and a surviving coastal corridor. The dwarven portion became the foundation of [the Dragon Watch](../places/dragon-watch.md).
+
+During the age's famines, [Big Shad](big-shad.md) willingly died to feed the starving elves, the first remembered voluntary death of a divinity for its worshipers.
+
+An unknown rewriter then harnessed the era's death energy to alter the laws of reality. Dragon lives became anchors for the world's stability and divine barrier; ascension was restricted; dragon numbers were fixed by race or color; and replacement eggs remained in stasis until a guardian died and conditions allowed a successor to hatch. [Tiamat](../people/tiamat.md) became Mother of Dragons and her brother their protector. [The Weaver](the-weaver.md) is suspected of manipulating or instructing the rewriter, but that remains unconfirmed.
 
 ## Fourth Age
 

@@ -4,6 +4,14 @@ The Feywild is a bright, dangerous plane of beauty, bargains, tricks, and unstab
 
 See also: [Fey](../concepts/fey.md).
 
+## Ancient Separation
+
+The Fey did not always exist apart from the material world. At the end of the [Second Age](../concepts/second-age.md), they withdrew as a people to escape [the First Dragon](../people/first-dragon.md) and the catastrophe caused by its arrival.
+
+The dragon's entry into the world was the first known breach in reality. The Fey withdrawal into the Feywild and related Fey realms was the second. The full method is no longer known. [Wisdom](../people/wisdom.md)'s Moon Stone Collectors account confirms that protected cornerstone spellwork helps hold this reality together and that Fey adulthood oaths conceal its deepest structure.
+
+This separation marks the transition into the [Third Age](../concepts/third-age.md).
+
 ## Fifth Age
 
 No [Fifth Age](../concepts/fifth-age.md) material has been added for the Feywild yet.
@@ -39,3 +47,7 @@ In [Moon Stone Collectors, Part 16](../sessions/moon-stone-collectors-part-16.md
 - [Moon Stone Collectors, Part 14](../sessions/moon-stone-collectors-part-14.md)
 - [Moon Stone Collectors, Part 15](../sessions/moon-stone-collectors-part-15.md)
 - [Moon Stone Collectors, Part 16](../sessions/moon-stone-collectors-part-16.md)
+- [Second Age](../concepts/second-age.md)
+- [Third Age](../concepts/third-age.md)
+- [The First Dragon](../people/first-dragon.md)
+- [Wisdom](../people/wisdom.md)

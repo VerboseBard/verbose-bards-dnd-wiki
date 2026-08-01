@@ -17,7 +17,7 @@ Fourth-Age dwarven arcane arts included **full-body spellcasting tattoos** — B
 Assembled from the druid's account, the temple mosaics, and Rurik's history:
 
 - A luxury-born drow rejected the elven conclave's beauty as a lie, embraced the doctrine that *"peace is a lie — pain is the truest form of existence,"* found her model in the spider, and bred, studied, and interbred with them.
-- She allied with [the First Dragon](../people/first-dragon.md) — with, per the mosaics ⚠, a betrayer possessing *foresight* ([the Weaver](the-weaver.md)) behind the arrangement — and **killed a god and stole its power: the first mortal deicide.** Other divinities died in her era, among them a goddess of nature and [Hestia](../people/hestia.md) (see below); the death of the elven god of the valley ⚠ is told two ways (Rurik: self-sacrifice at the end of the Third Age; the druid groups him with the killed — unresolved).
+- She allied with [the First Dragon](../people/first-dragon.md) — with, per the mosaics ⚠, a betrayer possessing *foresight* ([the Weaver](the-weaver.md)) behind the arrangement — and **killed a god and stole its power: the first mortal deicide.** Other divinities died in her era, among them a goddess of nature and [Hestia](../people/hestia.md) (see below). [Big Shad](big-shad.md), the elven divinity sometimes grouped with these losses in later testimony, had instead willingly sacrificed himself during the Third-Age famine.
 - With stolen divine power she walked into the halls of all the elves — sacred ground where violence was impossible — **betrayed them, seized the holy valley (the Veil), drove the other elves out, and corrupted its temples** into [Ssar'Velyn Temple](../places/ssar-velyn-temple.md)'s cult complex.
 - **The Great Crusade** answered the deicide and drove her from the valley. Many drow fought *against* her.
 - When her cult later turned to **summoning demons and devils**, the gods pressed for her destruction: **coordinated, simultaneous strikes on all her places of power**. The [Ssar'Velyn Temple](../places/ssar-velyn-temple.md) assault — ten mixed teams, roughly forty soldiers, Bartholomew's among them — was one arm of that operation. The cult was mostly wiped out; Lolth vanished and was believed dead, as was Hestia.
@@ -40,7 +40,7 @@ Assembled from the druid's account, the temple mosaics, and Rurik's history:
 - **The Great Crusade** — deserves its own page (participants, dates, relation to the later coordinated strikes; the Session 3 crusader-priest in Sin claims that heritage).
 - The proper operational name of the **coordinated strikes** and of Bartholomew's **Slayer Team** (GM still owes both).
 - **Beast-folk enslavement chronology** ⚠ — the humans' island enslavement and the failed leonin revolt (Session 7 council history) versus the end-of-Fifth-Age sale to the drow: pin which parts are Fourth Age.
-- The **elven god of the valley's death** ⚠ (self-sacrifice vs killed — see above) and the full list of divinities lost in the age.
+- The full list of divinities killed during Lolth's rise and the coordinated strikes.
 - **Fourth-Age dwarven society** beyond the military: the thousand-mile mountain realm, its cities (the [Khaz-Tharol](../places/khaz-tharol-garrison.md) ruins on Driftvale are dated at least this old), and the sanctuary-city obligations ([Sanctuary City](sanctuary-city.md)).
 - Fourth-Age **arcane tattoo craft** as its own entry if it recurs.
 

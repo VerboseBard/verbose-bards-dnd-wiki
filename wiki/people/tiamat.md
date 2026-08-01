@@ -1,6 +1,6 @@
 # Tiamat
 
-Tiamat is the mother of dragons, a primordial dragon legend, and one of the first two dragons alongside Bahamut.
+Tiamat is the Mother of Dragons, a primordial dragon legend, and one of the two principal children of [the First Dragon](first-dragon.md). Her brother, remembered as Bahamut, became the protector of dragons.
 
 ## Legend, Not God
 
@@ -8,7 +8,11 @@ Tiamat explains that she is not a god. She is a legend: a being whose story, bel
 
 ## Dragon Guardians
 
-Tiamat says dragons once held the ley lines, dungeon-core power, and reality lattice before dungeons replaced them in that role. When [Lucius](lucius.md) and others convinced heroes to kill the dragon guardians and consume their power, they broke the world while believing they were saving it.
+Tiamat says dragons once held the ley lines, dungeon-core power, and reality lattice before dungeons replaced them in that role. This function came from a Third-Age rewriting that tied dragon lives to reality and limited the number of dragons that could live at one time.
+
+One guardian place existed for each established draconic race or color. When a dragon died, a replacement egg could hatch; otherwise the eggs remained in stasis. Hatching still required suitable conditions. If those conditions were absent, the missing dragon left the barrier weakened until a replacement could emerge.
+
+When [Lucius](lucius.md) and others convinced heroes to kill the dragon guardians and consume their power, they broke the world while believing they were saving it.
 
 ## Imprisonment
 
@@ -29,6 +33,8 @@ Her fivefold roar empowers the party for the final hour of battle. She attacks [
 - [Flight of the Ancients](../factions/flight-of-the-ancients.md)
 - [Constance and Zuk](constance-l-coggeshall.md)
 - [Lucius](lucius.md)
+- [The First Dragon](first-dragon.md)
+- [Dragon Guardians and Succession](../concepts/dragon-guardians.md)
 - [The Hunt for Black Vipers, Part 8](../sessions/hunt-for-black-vipers-part-8.md)
 - [The Hunt for Black Vipers, Part 9](../sessions/hunt-for-black-vipers-part-9.md)
 - [The Hunt for Black Vipers, Part 12](../sessions/hunt-for-black-vipers-part-12.md)

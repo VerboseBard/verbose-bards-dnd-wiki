@@ -14,6 +14,8 @@ In [Moon Stone Collectors, Part 16](../sessions/moon-stone-collectors-part-16.md
 
 She explains that the Weaver may call himself fate, but that true names have power among the [Fey](../concepts/fey.md). Because Wisdom is not Fey, she can speak about the hidden Fey oath that binds those who learn the secret cornerstone spellwork holding the [Feywild](../places/feywild.md) together. Her explanation connects [Juan](juan.md)'s missing memories, the Wild Hunt's oath enforcement, and the Weaver's later fate-rewrite into one larger thread.
 
+Her account also preserves the ancient reason for the separation of the realms. The Fey withdrew from the material world at the end of the [Second Age](../concepts/second-age.md) to survive [the First Dragon](first-dragon.md). The dragon's arrival was the first known breach in reality; the Fey departure into the Feywild and related realms was the second. The hidden cornerstone spellwork and adulthood oath preserve the reality created by that withdrawal.
+
 ## Counsel
 
 In [Moon Stone Collectors, Part 16](../sessions/moon-stone-collectors-part-16.md), Wisdom explains several major truths:
@@ -40,4 +42,7 @@ Wisdom and [Julara](julara.md) merge as the last pieces of [Sovereignty](soverei
 - [Viscus](viscus.md)
 - [Moon Stone Collectors, Part 16](../sessions/moon-stone-collectors-part-16.md)
 - [Moon Stone Collectors, Part 17](../sessions/moon-stone-collectors-part-17.md)
+- [Second Age](../concepts/second-age.md)
+- [Third Age](../concepts/third-age.md)
+- [The First Dragon](first-dragon.md)
 

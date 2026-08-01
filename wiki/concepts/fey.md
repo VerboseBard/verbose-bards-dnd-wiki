@@ -83,7 +83,11 @@ Fey rituals and identities often move in threes because that structure reflects 
 
 In [Moon Stone Collectors, Part 16](../sessions/moon-stone-collectors-part-16.md), [Wisdom](../people/wisdom.md) explains a guarded Fey secret because she is not herself Fey and is not bound by the same oath.
 
-According to Wisdom, the Fey fled into the [Feywild](../places/feywild.md) after the Second-Age war with the giants and the arrival of the first dragon. At the heart of that reality is cornerstone spellwork that helps hold the realm together. Fey who come of age and learn this secret swear not to speak of it, tying their magic to that oath.
+According to Wisdom, the Fey fled into the [Feywild](../places/feywild.md) after the Second-Age war with the giants and the arrival of [the First Dragon](../people/first-dragon.md). The Fey withdrew as a people at the **end of the Second Age**, abandoning the material world to survive the dragon and remove themselves from the catastrophe.
+
+The First Dragon's arrival was the first known breach in reality. The Fey departure and separation into the Feywild and related Fey realms was the second. Little is known about the complete process, but it marks the transition into the [Third Age](third-age.md).
+
+At the heart of the Feywild is cornerstone spellwork that helps hold the realm together. Fey who come of age and learn this secret swear not to speak of it, tying their magic to that oath.
 
 The Wild Hunt exists to enforce those oaths. Wisdom frames this as a core Fey principle: if a Fey breaks a small promise, they may break all promises. This is why [Juan](../people/juan.md)'s missing oath-memory matters. His connection to [The Weaver](the-weaver.md) is not only about stolen luck, but about a suppressed duty tied to one of the Feywild's deepest protections.
 
@@ -155,3 +159,6 @@ If you deal with a Fey, be careful with your words. A promise can feed them. Gra
 - [Julara](../people/julara.md)
 - [Sovereignty](../people/sovereignty.md)
 - [The Weaver](the-weaver.md)
+- [Second Age](second-age.md)
+- [Third Age](third-age.md)
+- [The First Dragon](../people/first-dragon.md)

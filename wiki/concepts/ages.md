@@ -10,12 +10,12 @@ This page is a quick entry point for the first through tenth ages. If an age has
 ## Second Age
 
 - [Second Age](second-age.md)
-- Summary: An age of world-shaping war, the transformation of giants into dwarves, and the rise of [Lucius](../people/lucius.md) through the death of [Rexel Kar](../people/rexel-kar.md).
+- Summary: An age of world-shaping war, the transformation of giants into dwarves, the arrival of the First Dragon, and the Fey withdrawal into their own realms.
 
 ## Third Age
 
 - [Third Age](third-age.md)
-- No information has been added at this time.
+- Summary: The First Dragon's fifty-year rampage creates the Dead Lands; the surviving peoples establish the great defensive lines, Big Shad sacrifices himself for the starving elves, and an unknown rewriter binds dragonkind to the laws protecting reality.
 
 ## Fourth Age
 

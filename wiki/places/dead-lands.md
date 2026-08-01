@@ -1,10 +1,16 @@
 ﻿# Dead Lands
 
-The Dead Lands are the blighted forbidden quarter of [Sunhollow Valley](sunhollow-valley.md), lying toward the valley's southern and southeastern approach to [Ssar'Velyn Temple](ssar-velyn-temple.md).
+The Dead Lands originated as the vast continental region destroyed by [the First Dragon](../people/first-dragon.md) during the [Third Age](../concepts/third-age.md). The blighted forbidden quarter of [Sunhollow Valley](sunhollow-valley.md), lying toward the valley's southern and southeastern approach to [Ssar'Velyn Temple](ssar-velyn-temple.md), is one surviving edge of that much older catastrophe.
+
+## Third-Age Origin
+
+The dwarves attempted to kill the First Dragon and failed. Its answering rampage lasted nearly fifty years, killed millions, and devastated a massive section of the continent. Uncontrolled eleventh- and twelfth-stage magic contributed to the destruction.
+
+When the dragon returned to its mountain, undead armies began rising from the ruined territory. Dwarves, elves, humans, and other peoples spent roughly 180 years establishing connected defensive lines around the surviving land. The dwarven section became [the Dragon Watch](dragon-watch.md).
 
 ## Description
 
-The Dead Lands mark the visible surface spread of the corruption tied to the temple's buried divine fragment. A village and working farmland were lost there, and the ground is now associated with death, blight, and old taboo.
+Within Sunhollow, the Dead Lands also mark the visible surface spread of a newer corruption tied to the temple's buried divine fragment. A village and working farmland were lost there, and the ground is now associated with death, blight, and old taboo. The present Lolth-linked blight is therefore active corruption spreading across land already shaped by the ancient Deadlands, not the origin of the entire historical region.
 
 The blight did not stop where people expected it to stop. By [Session 7](../sessions/session-7.md), it is still spreading outward, reportedly by roughly a wingspan per week.
 
@@ -39,4 +45,7 @@ Jefferson's [Demonic Ichor Vial](../items/demonic-ichor-vial.md), collected from
 - [Session 7](../sessions/session-7.md)
 - [Session 8](../sessions/session-8.md)
 - [Session 9](../sessions/session-9.md)
+- [Third Age](../concepts/third-age.md)
+- [The First Dragon](../people/first-dragon.md)
+- [The Dragon Watch](dragon-watch.md)
 

@@ -40,6 +40,12 @@ The [Moon Stone Collectors](../campaign/moonstone-collectors.md) arc adds anothe
 
 In that account, Lolth gains help from the Weaver and the first dragon before killing a god, stealing divine power, and corrupting the all-elven holy ground that later becomes Ssar'Velyn Temple.
 
+## Suspected Third-Age Rewrite
+
+The identity of the person who rewrote reality during the [Third Age](third-age.md) is unknown. That rewrite bound dragon lives to the world's defenses, restricted ascension, fixed the number of dragons, and reinforced the ancient Divine Gate.
+
+The Weaver is suspected of manipulating the unknown rewriter or showing them the path to perform it. This fits the Weaver's established association with fate, foresight, and reality-shaping, but it remains an in-world suspicion rather than confirmed identity or authorship.
+
 ## Related
 
 - [The Crashed Ship](../places/crashed-ship.md)
@@ -54,3 +60,5 @@ In that account, Lolth gains help from the Weaver and the first dragon before ki
 - [Moon Stone Collectors, Part 9](../sessions/moon-stone-collectors-part-9.md)
 - [Moon Stone Collectors, Part 13](../sessions/moon-stone-collectors-part-13.md)
 - [Moon Stone Collectors, Part 16](../sessions/moon-stone-collectors-part-16.md)
+- [Third Age](third-age.md)
+- [Dragon Guardians and Succession](dragon-guardians.md)

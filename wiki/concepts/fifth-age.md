@@ -12,6 +12,12 @@ The imported archives currently include [Logan's First Campaign](../campaign/log
 
 Partial archival notes also survive for earlier divine politics, including a named [Council of Gods of the Fifth Age](council-of-gods-of-the-fifth-age.md) and regional worldbuilding for places such as [Opaal](../places/opaal.md).
 
+## Lucius and the Dragon Guardians
+
+The age ends when [Lucius](../people/lucius.md) exploits a law written into reality during the [Third Age](third-age.md). Dragon lives had been made anchors for the world's stability, the Divine Gate, and the restrictions on ascension.
+
+Lucius worked with lesser beings who wished to become gods and manipulated great heroes into killing the [dragon guardians](dragon-guardians.md). With the anchors removed, the old Divine Gate failed, the laws limiting ascension could be challenged, and the world shattered in [the Breaking](the-breaking.md).
+
 ## Related
 
 - [Council of Gods of the Fifth Age](council-of-gods-of-the-fifth-age.md)
@@ -21,3 +27,5 @@ Partial archival notes also survive for earlier divine politics, including a nam
 - [The Breaking](the-breaking.md)
 - [Timeline](timeline.md)
 - [War of the Gods / New Beginning Campaign](../campaign/war-of-the-gods.md)
+- [Dragon Guardians and Succession](dragon-guardians.md)
+- [Divine Gate](divine-gate.md)

@@ -26,6 +26,8 @@ Lucius did not rediscover that lost divine technique on his own. [Belle](belle.m
 
 Lucius's lies helped set up [The Breaking](../concepts/the-breaking.md), the [War of the Gods](../concepts/war-of-the-gods.md), and ultimately the [Divine Gate](../concepts/divine-gate.md). He convinced minor gods, demigods, powerful mortals, and eventually great heroes that the world was already dying and that the dragon guardians had to be sacrificed to save what could be saved.
 
+The plan exploited a Third-Age rewriting of reality. Dragon lives had become anchors for the world's stability, the old Divine Gate, and the rules preventing ordinary beings from ascending to godhood. By recruiting lesser powers that wanted to ascend and arranging the deaths of every dragon guardian, Lucius could break all three systems at once.
+
 The heroes killed the last dragon guardians with hope in their hearts and lies in their ears. The world shattered according to Lucius's design.
 
 At the apex of his power, Lucius was struck down by the [Hell's Bane Heroes](../factions/hells-bane-heroes.md), but his death was not the end of his plan. His true victory was the sealing of the [Divine Gate](../concepts/divine-gate.md), which exiled the gods from the world they once ruled.
@@ -103,3 +105,5 @@ At the school, Lucius tries to exploit the children as a divine shield while cla
 - [War of the Gods, Session 23](../sessions/war-of-the-gods-session-23.md)
 - [War of the Gods, Session 24](../sessions/war-of-the-gods-session-24.md)
 - [The Hunt for Black Vipers, Part 12](../sessions/hunt-for-black-vipers-part-12.md)
+- [Third Age](../concepts/third-age.md)
+- [Dragon Guardians and Succession](../concepts/dragon-guardians.md)

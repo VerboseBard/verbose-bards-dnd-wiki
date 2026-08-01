@@ -1,12 +1,20 @@
 # Divine Gate
 
-The Divine Gate is the barrier or structure that pushed the gods out and changed the distribution of magic.
+The Divine Gate is the divine boundary that limits direct intervention in the material world. The setting has had more than one form of this protection: an ancient dragon-bound structure established in the Third Age, its destruction during the Breaking, and the later Gate rebuilt or rewritten at the end of the Sixth Age.
+
+## Third-Age Foundation
+
+During the [Third Age](third-age.md), an unknown rewriter harnessed the death energy left by [the First Dragon](../people/first-dragon.md)'s rampage and altered the laws of reality. The rewrite tied dragon lives to the world's stability and reinforced an early Divine Gate that prevented gods from intervening freely.
+
+The same law restricted true ascension to existing gods, their children, or beings already possessing equivalent power. It also established one active guardian place for each draconic race or color and placed replacement eggs into stasis. See [Dragon Guardians and Succession](dragon-guardians.md).
+
+This ancient Gate or boundary endured until [Lucius](../people/lucius.md) exploited the dragon anchors at the end of the Fifth Age. The killing of the guardians weakened and ultimately broke the old defense, helping cause [the Breaking](the-breaking.md). Its loss is why divine beings could intervene so directly during the Sixth Age.
 
 ## Description
 
-After the Divine Gate went up, the gods were sealed rather than destroyed. Their voices became distant, their direct reach was blunted, and divine power receded into echoes.
+When the later Divine Gate went up at the end of the Sixth Age, the gods were sealed rather than destroyed. Their voices became distant, their direct reach was blunted, and divine power receded into echoes.
 
-The Gate was the final lockout created in the aftermath of [Lucius](../people/lucius.md)'s defeat. Though [Lucius](../people/lucius.md) died, many scholars argue that the Gate was his true victory: the gods were exiled from the world they once ruled, while his contingencies and influence continued to echo inside it.
+This later Gate was the final lockout created in the aftermath of [Lucius](../people/lucius.md)'s defeat and the reconstruction surrounding [the Concurrence](the-concurrence.md). Though Lucius died, many scholars argue that the Gate was his true victory: the gods were again exiled from direct mortal reality while his contingencies and influence continued to echo inside it.
 
 In the extracted [War of the Gods, Session 17](../sessions/war-of-the-gods-session-17.md), [Greg](../people/greg-p-smith.md)'s reconstruction of [Wendell](../people/wendell.md)'s plan describes a similar pressure-based logic before the Gate formally exists. In that model, if a world's magical density drops far enough, gods and other overpowered beings are forced one step farther away from the mortal plane. They can still act, but less directly and at greater cost.
 
@@ -46,4 +54,7 @@ Session-17 discussion also frames this in terms of magical "pressure." Mortals a
 - [War of the Gods, Session 24](../sessions/war-of-the-gods-session-24.md)
 - [The Hunt for Black Vipers, Part 8](../sessions/hunt-for-black-vipers-part-8.md)
 - [The Hunt for Black Vipers, Part 9](../sessions/hunt-for-black-vipers-part-9.md)
+- [Third Age](third-age.md)
+- [Dragon Guardians and Succession](dragon-guardians.md)
+- [The First Dragon](../people/first-dragon.md)
 

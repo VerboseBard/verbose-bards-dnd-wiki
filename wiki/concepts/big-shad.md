@@ -1,12 +1,18 @@
 # Big Shad
 
-Big Shad is an ancient lesser-god figure from the earliest mythology of the setting, remembered with deep reverence by at least some [Second Age](second-age.md) elves.
+Big Shad, also honored as **the Great Shad**, is an ancient lesser-god figure from the earliest mythology of the setting, remembered with deep reverence by the elves.
 
 ## Description
 
 The name sounds ridiculous to modern ears, but it is sacred in its original context. In the oldest structure of the setting, the supreme creator deities built the world as a game and created lesser gods within it. Big Shad belongs to that lesser divine order remembered by people inside the world, not necessarily to the unknown supreme creator layer beyond it.
 
 When the party jokes about the name in front of the [Second Age Bound Spirit](../people/second-age-bound-spirit.md), she reacts with fury and manifests freezing power across the room.
+
+## Third-Age Sacrifice
+
+During the famines of the [Third Age](third-age.md), mass starvation threatened the elven people. When conditions became extreme, Big Shad willingly sacrificed himself to feed and preserve them.
+
+This is remembered as the first time a divinity, even a lesser divinity, willingly died to rescue the people who worshiped him. His death was not defeat in battle or stolen power; it was deliberate self-sacrifice.
 
 ## Campaign Role
 
@@ -20,3 +26,4 @@ Later [After the War Campaign](../campaign/after-the-war-campaign.md) material c
 - [Second Age Bound Spirit](../people/second-age-bound-spirit.md)
 - [Session 4](../sessions/session-4.md)
 - [Session 7](../sessions/session-7.md)
+- [Third Age](third-age.md)

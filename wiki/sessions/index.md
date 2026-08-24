@@ -122,5 +122,7 @@ This guide is organized by age first, then by campaign in chronological order in
 - [Session 7: Sunhollow Valley First Contact](session-7.md)
 - [Session 8: Ssar'Velyn Temple and Bartholomew Hildebrant](session-8.md)
 - [Session 9: Vex'ryn's Warning and the Inquisition Countdown](session-9.md)
+- [Session 10: The Council, the Contract, and the Justicar's Writ](session-10.md)
+- [Session 11: The Truth-Lantern, the Leonin Plan, and the March to the Demon](session-11.md)
 - Exact real-world play dates have not yet been recovered from the currently uploaded notes and transcript-support files.
 

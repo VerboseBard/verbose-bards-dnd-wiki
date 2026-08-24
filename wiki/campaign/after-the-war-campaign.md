@@ -8,7 +8,7 @@ The campaign begins with the party still serving in the [Bloody Fifth](../factio
 
 From there the arc becomes a chain of aftermath problems. The party learns what [Kreen](../factions/kreen.md) surrender means in practice, sees the cost of military experimentation, and is pushed into [Driftvale](../places/driftvale.md) and [Fort Victory](../places/fort-victory.md), where corruption, salvage rights, and [Inquisition](../factions/inquisition.md) pressure collide. [Sin](../places/sin.md), the [Silk Parlor](../places/silk-parlor.md), [Calvin's Curios](../places/calvins-curios.md), and the fog economy all become part of the same tangled system.
 
-The final movement of the campaign turns on the crackdown: the [Inquisition](../factions/inquisition.md) exposes the old rot at [Fort Victory](../places/fort-victory.md), the party is discharged into contractor status, and the hidden ship in the fog becomes their first true off-book prize. From there the story widens again into the [Lost Homeland Mission](../concepts/lost-homeland-mission.md), where contractor pathfinding, older divine remnants, and a hidden sunlit valley prove that [Driftvale](../places/driftvale.md) is still holding back far older secrets than the war ever touched.
+The next movement turns on the crackdown: the [Inquisition](../factions/inquisition.md) exposes the old rot at [Fort Victory](../places/fort-victory.md), the party is discharged into contractor status, and the hidden ship in the fog becomes their first true off-book prize. From there the story widens into the [Lost Homeland Mission](../concepts/lost-homeland-mission.md), where contractor pathfinding, older divine remnants, and a hidden sunlit valley prove that [Driftvale](../places/driftvale.md) is still holding back far older secrets than the war ever touched. By [Session 11](../sessions/session-11.md), the Church has entered [Sunhollow Valley](../places/sunhollow-valley.md), the party has fractured over testimony and trust, the Ashmane have disclosed a dangerous plan to break the valley's blood curse, and the coalition has reached the demon complex after killing its Hadozee contingent.
 
 ## Story So Far
 
@@ -27,6 +27,8 @@ It currently includes:
 - [Session 7: Sunhollow Valley First Contact](../sessions/session-7.md)
 - [Session 8: Ssar'Velyn Temple and Bartholomew Hildebrant](../sessions/session-8.md)
 - [Session 9: Vex'ryn's Warning and the Inquisition Countdown](../sessions/session-9.md)
+- [Session 10: The Council, the Contract, and the Justicar's Writ](../sessions/session-10.md)
+- [Session 11: The Truth-Lantern, the Leonin Plan, and the March to the Demon](../sessions/session-11.md)
 
 ## Sequence Notes
 

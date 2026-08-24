@@ -90,13 +90,27 @@ The trials reveal the temple's hardest moral turn: the valley's oath-bound inhab
 
 ## Session 9: Vex'ryn's Warning and the Inquisition Countdown
 
-Session 9 resolves Jefferson's missing side of the temple split. Instead of simply falling through the intended route, he uses the [Plasma Greatblade](../items/two-handed-plasma-blade.md) to cut his way into hidden temple spaces: shattered eggs, unreadable archives, broken spider mechanisms, and a vat system full of demonic ichor. He collects a [Demonic Ichor Vial](../items/demonic-ichor-vial.md), giving the party its first portable sample of the temple's corrupted blood-like substance.
+Session 9 resolves Jefferson's missing side of the temple split. Instead of falling to the bottom of the shaft, he uses the [Plasma Greatblade](../items/two-handed-plasma-blade.md) to cut his way into hidden temple spaces: shattered eggs, unreadable archives, broken spider mechanisms, and a vat system full of demonic ichor. He collects a [Demonic Ichor Vial](../items/demonic-ichor-vial.md), giving the party its first portable sample of the temple's corrupted blood-like substance.
 
 The real turn is his conversation with [Mistress Selyra Vex'ryn](../people/mistress-selyra-vexryn.md). She claims that the immediate corruption source is a cave south along the wall, that she needs one to two weeks to complete work tied to the temple and blood oath, and that [Hestia](../people/hestia.md)'s survival is tied to hearth, home, welcome, and motherhood. Her claims may be useful, but Jefferson can tell she is hiding motives and may be lying.
 
 The party leaves without [Bevar Lurton](../people/bevar-lurton.md), who remains missing after following [Gwen](../people/gwen.md)'s emissary path. Jefferson contacts the [Inquisition](../factions/inquisition.md), learns it is about two days out from the last marker, and then brings [Rurik Valdren](../people/rurik-valdren.md) into the crisis. Rurik's warning about blood magic reframes Vex'ryn's promise to `release` the oath as potentially lethal rather than automatically liberating.
 
 By the end of the session, the campaign has become a political race. The party returns toward the [Sunhollow Council](../factions/sunhollow-council.md), knowing that the valley's old elven defenses, the approaching Inquisition, Rurik's possible intervention, the temple oath, and the claimed demon source may all collide before anyone has enough time.
+
+## Session 10: The Council, the Contract, and the Justicar's Writ
+
+The party brings Rurik into Hollowmere's truth-runed council chamber and helps secure exclusive mining rights as a legal barrier against seizure. Walter Wifflewick negotiates a separate evacuation compact for roughly 80,000 harengon. At the valley gate, the Church expedition enters under guest-right rather than by force.
+
+Bartholomew's returning memories and the nameless Justicar's private counsel widen the crisis. Lolth survives, the valley's blood curse may be breakable, the old defense grid still functions, and the Justicar gives Bartholomew a conditional execution writ against Amir if greed becomes evil. Reggie and Jose secretly breach the tent's wards and hear the exchange.
+
+## Session 11: The Truth-Lantern, the Leonin Plan, and the March to the Demon
+
+Bartholomew gives Amir complete signed testimony under the Truth Lantern, breaking the party's wider trust in him and enabling legal action against Rurik. Warned in time, Rurik gives Jefferson a protected memory route to Sanctuary City, moves the teleportation circle for the Burrowroot evacuation, and learns the hidden price of the Ashmane plan.
+
+The secret leonin council intends to seize the valley defense matrix and hijack the drow ritual to free every bound people. Interruption may kill everyone, half the valley, or chiefly the initiating leonin, and every connected ether crystal will be consumed. The march then turns on the Hadozee: Amir proposes killing the sixty-person contingent before its expected compelled attack, Jefferson agrees, and Church forces and mercenaries fire before the Hadozee act.
+
+Inside the demon complex, the Justicar and party take the stronger of two demons while Amir and five Inquisitors take the lesser. Alistair sees thousands of bound souls in an ancient demon-draining engine, loses one sanity, and becomes tethered to a forty-foot demon as the recording ends.
 
 ## The Overall Story
 
@@ -106,7 +120,7 @@ The war itself is never really the point. It is the crucible.
 
 The real story is what happens after the army discovers that victory does not clean up the world. Some enemies surrender. Some civilians shelter them. Some officers profit. Some commanders lie. Some ancient systems wake up. Some ships fall out of the sky with answers no one expected. Some lost homelands turn out to be real. The party survives all of it by becoming adaptable enough to outlast the institutions trying to use them.
 
-Sessions 8 and 9 push that transformation into old divine law and crisis politics. The party is no longer merely discovering secrets; it is being asked to decide whether exposing, redirecting, bargaining over, or destroying those secrets will save Sunhollow or condemn it.
+Sessions 8 through 11 push that transformation into old divine law and crisis politics. The party is no longer merely discovering secrets; it is deciding whether exposing, redirecting, bargaining over, or destroying those secrets will save Sunhollow or condemn it. The Hadozee killing proves that the party and its allies can reproduce the same preemptive logic they once survived as expendable soldiers.
 
 By the end of the campaign so far, they are no longer just members of the [Bloody Fifth](../factions/bloody-fifth.md). They are no longer just [Ash's Hounds](../factions/ashs-hounds.md). They are contractor survivors carrying [Contractor Medallions](../items/contractor-medallions.md), [Priority Teleport Tokens](../items/priority-teleport-tokens.md), [Kreen Control Collars](../items/kreen-control-collars.md), nanite upgrades, a hidden route into the fog, a newly recovered homeland trail, and a ship-level mystery tied to [The Weaver](../concepts/the-weaver.md).
 
@@ -142,7 +156,11 @@ By the end of the campaign so far, they are no longer just members of the [Blood
 - [Bartholomew Hildebrant](../people/bartholomew-hildebrant.md)
 - [Dead Lands Ghost Druid](../people/dead-lands-ghost-druid.md)
 - [Ssar'Velyn Temple Guardian](../people/ssar-velyn-temple-guardian.md)
-- [Rurik Valdren](../people/rurik-valdren.md)
+- [The Justicar](../people/the-justicar.md)
+- [Reggie Norin](../people/reggie-norin.md)
+- [Penelope Puckle](../people/penelope-puckle.md)
+- [Lycus](../people/lycus.md)
+- [Rose](../people/rose.md)
 
 ## Major Places
 
@@ -159,6 +177,9 @@ By the end of the campaign so far, they are no longer just members of the [Blood
 - [Sunhollow Valley](../places/sunhollow-valley.md)
 - [Dead Lands](../places/dead-lands.md)
 - [Ssar'Velyn Temple](../places/ssar-velyn-temple.md)
+- [Hollowmere](../places/hollowmere.md)
+- [Windcrest Roost](../places/windcrest-roost.md)
+- [Sanctuary City](../concepts/sanctuary-city.md)
 
 ## Major Gear and Rewards
 
@@ -183,6 +204,8 @@ By the end of the campaign so far, they are no longer just members of the [Blood
 - [Shield of the Lost Hearth](../items/shield-of-the-lost-hearth.md)
 - [Armor of the Last Vow](../items/armor-of-the-last-vow.md)
 - [Demonic Ichor Vial](../items/demonic-ichor-vial.md)
+- [Amir Voss's Execution Writ](../items/amir-voss-execution-writ.md)
+- [Squad Bag of Holding](../items/squad-bag-of-holding.md)
 
 ## Major Concepts
 
@@ -194,5 +217,6 @@ By the end of the campaign so far, they are no longer just members of the [Blood
 - [Lost Homeland Mission](../concepts/lost-homeland-mission.md)
 - [Post-Concurrence Magic Theory](../concepts/post-concurrence-magic.md)
 - [The Weaver](../concepts/the-weaver.md)
-
-
+- [Leonin Curse-Breaking Ritual](../concepts/leonin-curse-breaking-ritual.md)
+- [Demon-Draining Engine](../concepts/demon-draining-engine.md)
+- [Sanity](../concepts/sanity.md)

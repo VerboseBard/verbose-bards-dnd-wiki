@@ -40,7 +40,7 @@ An unknown rewriter then harnessed the era's death energy to alter the laws of r
 
 ## Fourth Age
 
-The [Fourth Age](fourth-age.md) is marked by the dwarven hegemony, the long defense of the [Dragon Watch](../places/dragon-watch.md), and the war against [Lolth](../people/lolth.md) and her cult. It ends in the coordinated strikes against Lolth's power centers, including the assault that leaves [Bartholomew Hildebrant](../people/bartholomew-hildebrant.md) in stasis and the destruction of the First Dragon.
+The [Fourth Age](fourth-age.md) is marked by the dwarven hegemony, the long defense of the [Dragon Watch](../places/dragon-watch.md), and [Lolth's rise and the Great Crusade](lolths-rise-and-the-great-crusade.md), including drow who resisted her cult. It ends in coordinated strikes against Lolth's power centers, including the assault that leaves [Bartholomew Hildebrant](../people/bartholomew-hildebrant.md) in stasis and the destruction of the First Dragon.
 
 ## Fifth Age
 

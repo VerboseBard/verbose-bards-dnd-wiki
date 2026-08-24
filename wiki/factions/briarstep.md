@@ -32,10 +32,15 @@ Known race speakers include:
 
 Briarstep often aligns with [the Open Trail](open-trail.md), though individual speakers vary. The clan is cautious rather than idealistic and tends to support whatever keeps it adaptable.
 
+In [Session 10](../sessions/session-10.md), Briarstep's smaller predator peoples support the mining agreement but believe the council should have negotiated a stronger bargain. In [Session 11](../sessions/session-11.md), [Reggie Norin](../people/reggie-norin.md) becomes the party's link to the secret Ashmane council and helps move Burrowroot personnel clear before the preemptive attack on the Hadozee contingent.
+
 ## Related
 
 - [Sunhollow Council](sunhollow-council.md)
 - [June Mercer](../people/june-mercer.md)
 - [The Open Trail](open-trail.md)
 - [Briarstep Cross](../places/briarstep-cross.md)
+- [Reggie Norin](../people/reggie-norin.md)
+- [Session 10](../sessions/session-10.md)
+- [Session 11](../sessions/session-11.md)
 

@@ -40,11 +40,17 @@ That does not mean other figures are unimportant. [Walter Wifflewick](../people/
 
 Walter's public invocation of the emissary clause changes the council's options: because [Gwen](../people/gwen.md) qualifies as a sentient spider emissary, the party can legally approach forbidden sacred lands the valley's oath-bound locals cannot freely enter.
 
-## Session 9 Crisis
+## Sessions 9-11 Crisis
 
 By [Session 9](../sessions/session-9.md), the council is about to face the consequences of the party's temple return. [Bevar Lurton](../people/bevar-lurton.md) remains missing inside or with the temple work, the [Inquisition](inquisition.md) is approaching the valley, and [Mistress Selyra Vex'ryn](../people/mistress-selyra-vexryn.md) claims she needs one to two weeks before the blood oath problem can be resolved.
 
 [Sgt. Jefferson Stone](../people/sergeant-jefferson-stone.md) also realizes that the council site is the old elven conclave and may still be tied to valley defenses meant to admit elves rather than outsiders. The next council meeting therefore has to handle the temple oath, the Inquisition countdown, Rurik Valdren's possible intervention, and the risk that old defensive systems could kill the very people the council is trying to protect.
+
+In [Session 10](../sessions/session-10.md), that meeting produces an exclusive mining agreement with [Rurik Valdren](../people/rurik-valdren.md). The party discloses the demon and the outsiders' arrival but withholds the living drow and the most dangerous interpretation of the blood oath's promised release. Ashmane is most reluctant, Burrowroot's leadership is displeased, Briarstep wanted a stronger bargain, and Windcrest remains comparatively neutral. The contract establishes transport access, a two-thirds/one-third value split, and Citadel registration as a legal obstacle against simple Church seizure while exposing the valley to long-term outside commerce.
+
+The gate delegation includes [Sabine Voss](../people/sabine-voss.md), [June Mercer](../people/june-mercer.md), [Matthias Duren](../people/matthias-duren.md) with a sixty-person Hadozee escort, and a substantial leonin guard. The council accepts the arriving Church expedition under Owlin guest-right. This prevents immediate invasion but does not settle control of the temple, crystals, or blood curse.
+
+In [Session 11](../sessions/session-11.md), twelve Ashmane leonin reveal that they kept their [curse-breaking plan](../concepts/leonin-curse-breaking-ritual.md) from the seated council because disclosure would have caused immediate civil war. Their plan depends on seizing the same surviving defense matrix tied to the council hall. The deaths of the expedition's unnamed Hadozee council head and sixty-person contingent create a new Longbough crisis that the seated council has not yet been shown resolving.
 
 ## Internal Currents
 
@@ -67,4 +73,6 @@ Three political currents matter most inside and around the council:
 - [Longbough](longbough.md)
 - [Session 7](../sessions/session-7.md)
 - [Session 9](../sessions/session-9.md)
+- [Session 10](../sessions/session-10.md)
+- [Session 11](../sessions/session-11.md)
 

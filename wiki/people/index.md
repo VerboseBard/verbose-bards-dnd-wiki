@@ -19,6 +19,9 @@ People are grouped by campaign, faction, and divine family so related figures st
 - [Captain Donner](captain-donner.md)
 - [Captain Hail](captain-hail.md)
 - [Lord Inquisitor Amir Voss](amir-voss.md)
+- [The Justicar](the-justicar.md)
+- [Lycus](lycus.md)
+- [Rose](rose.md)
 - [Eric Vossel](eric-vossel.md)
 - [Sergeant Halric Voss](sergeant-halric-voss.md)
 - [Sergeant Weaver](sergeant-weaver.md)
@@ -211,6 +214,11 @@ People are grouped by campaign, faction, and divine family so related figures st
 - [Professor Hazard](professor-hazard.md)
 - [Nicole Sarlamin](nicole.md)
 - [Rose Qinlee](rose-qinlee.md)
+- [Gwyne](gwyne.md)
+- [Jarth](jarth.md)
+- [Molokan](molokan.md)
+- [Timothy Clarence](timothy-clarence.md)
+- [Lord Inquisitor Boss (legacy name)](lord-inquisitor-boss.md)
 - [Veil, Guardian of the Citadel](veil-guardian-of-the-citadel.md)
 - [Mulligan](mulligan.md)
 - [Seeker Lauren](seeker-lauren.md)
@@ -345,4 +353,3 @@ People are grouped by campaign, faction, and divine family so related figures st
 ## Shipboard AIs
 
 - [Kubix](kubix.md)
-

@@ -52,6 +52,10 @@ Older rabbit memory also preserves the fact that Harengon caravans once left the
 
 Burrowroot is publicly communal and stabilizing, but internally divided. It contains hard isolationists, cautious pragmatists, and rabbit families who still remember what was taken from them.
 
+In [Session 10](../sessions/session-10.md), Burrowroot's formal leadership is displeased with the mining agreement, while [Walter Wifflewick](../people/walter-wifflewick.md) separately secures Rurik's promise of an evacuation route for roughly 80,000 harengon. The harengon have stockpiled crystal since learning its outside value and are less fully bound than the other clans.
+
+By [Session 11](../sessions/session-11.md), Rurik's people are moving the teleportation circle toward the valley edge, although no evacuation transport has yet been completed. Jefferson and Reggie move the Burrowroot element clear of the Hadozee formation immediately before the preemptive strike.
+
 ## Related
 
 - [Sunhollow Council](sunhollow-council.md)
@@ -60,4 +64,6 @@ Burrowroot is publicly communal and stabilizing, but internally divided. It cont
 - [Walter Wifflewick](../people/walter-wifflewick.md)
 - [The Sixth Seat](sixth-seat.md)
 - [Burrowroot Warren](../places/burrowroot-warren.md)
+- [Session 10](../sessions/session-10.md)
+- [Session 11](../sessions/session-11.md)
 

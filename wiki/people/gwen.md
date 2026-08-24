@@ -34,6 +34,8 @@ This makes Gwen one of the central keys to [Ssar'Velyn Temple](../places/ssar-ve
 
 In [Session 9](../sessions/session-9.md), Bevar remains absent after the rest of the party leaves the temple. Gwen's exact status is still unknown, but her emissary role is now tied to one of the campaign's most dangerous unresolved questions: whether she is opening a way to fix the temple, enabling Lolth-linked work, or moving according to a logic the party does not yet understand.
 
+Sessions 10 and 11 do not confirm Gwen's return, location, or intent. The coalition turns away from the temple toward the demon complex without resolving her emissary work.
+
 ## Related
 
 - [Bevar Lurton](bevar-lurton.md)
@@ -45,4 +47,5 @@ In [Session 9](../sessions/session-9.md), Bevar remains absent after the rest of
 - [Session 7](../sessions/session-7.md)
 - [Session 8](../sessions/session-8.md)
 - [Session 9](../sessions/session-9.md)
-
+- [Session 10](../sessions/session-10.md)
+- [Session 11](../sessions/session-11.md)

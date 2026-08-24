@@ -20,8 +20,13 @@ The Upside-Down contextualizes later drow references on [Driftvale](driftvale.md
 
 It also explains why trade, piracy, and military logistics in [Unity](unity.md) are so tightly connected: whoever controls the route controls the future.
 
+## Session 11 Contingency Route
+
+[Rurik Valdren](../people/rurik-valdren.md) implants [Sgt. Jefferson Stone](../people/sergeant-jefferson-stone.md) with a protected sequence of memories containing a route through the Underdark to [Sanctuary City](../concepts/sanctuary-city.md). The memories can be recalled only in order and are fogged against mental probing.
+
 ## Related
 
 - [Unity](unity.md)
 - [The Silk Parlor](silk-parlor.md)
 - [Silk Parlor Network](../factions/silk-parlor-network.md)
+- [Session 11](../sessions/session-11.md)

@@ -14,6 +14,8 @@ Lolth was targeted in part because she betrayed the other gods while grasping fo
 
 [Session 8](../sessions/session-8.md) adds temple-side evidence that the valley was not originally a Lolth-only site. The [Dead Lands Ghost Druid](dead-lands-ghost-druid.md) describes it as an all-elven holy ground and treaty place before Lolth's corruption. In that account, Lolth allied with the first dragon and [the Weaver](../concepts/the-weaver.md), killed a god, stole divine power, and corrupted the temple system.
 
+Many drow resisted Lolth rather than following her. Their opposition formed part of the wider [Great Crusade](../concepts/lolths-rise-and-the-great-crusade.md) that drove her from the elven holy valley and later struck her places of power. The surviving record confirms the resistance but does not yet preserve a formal rebel organization or leader.
+
 ## Fragment Survival
 
 Lolth survived destruction through scattered fragments of spirit and divinity, making her an ancient example of [Divine Soul Anchoring](../concepts/divine-soul-anchoring.md). One of those remnants lies inside [Ssar'Velyn Temple](../places/ssar-velyn-temple.md), where it has remained sealed for so long that its growing power is now poisoning the area around it.
@@ -26,6 +28,12 @@ In [Session 9](../sessions/session-9.md), [Mistress Selyra Vex'ryn](mistress-sel
 
 This remains dangerous and unresolved. Vex'ryn also claims that the immediate corruption source is an imprisoned entity south along the wall rather than the temple itself, but that should be treated as her claim or a partial truth until the party confirms it.
 
+## Church Confirmation
+
+In [Session 10](../sessions/session-10.md), [Bartholomew Hildebrant](bartholomew-hildebrant.md) tells [the Justicar](the-justicar.md) that Lolth is alive. The Justicar accepts that she is weakened but surviving and judges the released demon to be the more immediate threat. He also links Lolth's system to Hestia fragments from eight destroyed temples and to demons used as divine-power converters.
+
+[Session 11](../sessions/session-11.md) adds Bartholomew's memory of thirteen assigned temple sites. Nine were reported destroyed and two unaccounted for; once Sunhollow is included, one site remains missing from the spoken total. The living fragment, surviving cult infrastructure, and incomplete site ledger explain how Lolth's Fourth-Age defeat could remain unfinished.
+
 ## Related
 
 - [Hestia](hestia.md)
@@ -37,4 +45,8 @@ This remains dangerous and unresolved. Vex'ryn also claims that the immediate co
 - [Dead Lands Ghost Druid](dead-lands-ghost-druid.md)
 - [Session 8](../sessions/session-8.md)
 - [Session 9](../sessions/session-9.md)
+- [Lolth's Rise and the Great Crusade](../concepts/lolths-rise-and-the-great-crusade.md)
+- [Demon-Draining Engine](../concepts/demon-draining-engine.md)
+- [Session 10](../sessions/session-10.md)
+- [Session 11](../sessions/session-11.md)
 

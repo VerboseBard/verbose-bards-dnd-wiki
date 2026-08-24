@@ -38,6 +38,14 @@ He then teleports to the party in person with mercenary guards and his sorlock a
 
 Rurik warns that Vex'ryn's promise to `release` the people from the blood oath is dangerously ambiguous. In blood magic, release may mean freedom, but it may also mean death, severance, or fulfillment of the oath in a lethal form.
 
+## Sunhollow Contract and Contingency
+
+In [Session 10](../sessions/session-10.md), Rurik negotiates exclusive mining rights rather than purchasing the valley outright. He offers transport, a two-thirds/one-third value split, and registration at the [Radiant Citadel](../places/radiant-citadel.md) as a legal obstacle to Church seizure. The council signs. He also makes a separate evacuation compact with [Walter Wifflewick](walter-wifflewick.md) for roughly 80,000 harengon.
+
+In [Session 11](../sessions/session-11.md), the party warns Rurik that Amir has Bartholomew's testimony and is moving against his outside assets and contract. Rurik sends most of his people to relocate the teleportation circle for the harengon evacuation. He places a protected sequence of memories inside Jefferson: an Underdark route to a [Sanctuary City](../concepts/sanctuary-city.md), a Citadel safe combination, and emergency contacts. The sequence can only be recalled in order and resists mental probing.
+
+Rurik is also told that the [Leonin Curse-Breaking Ritual](../concepts/leonin-curse-breaking-ritual.md) will consume every ether crystal connected to the valley. He remains responsible for balancing that material loss, the evacuation, and his older promise to reach the dwarves inside the Sanctuary City.
+
 ## Related
 
 - [Calvin's Curios](../places/calvins-curios.md)
@@ -47,3 +55,7 @@ Rurik warns that Vex'ryn's promise to `release` the people from the blood oath i
 - [Bartholomew Hildebrant](bartholomew-hildebrant.md)
 - [Inquisition](../factions/inquisition.md)
 - [Session 9](../sessions/session-9.md)
+- [Walter Wifflewick](walter-wifflewick.md)
+- [Leonin Curse-Breaking Ritual](../concepts/leonin-curse-breaking-ritual.md)
+- [Session 10](../sessions/session-10.md)
+- [Session 11](../sessions/session-11.md)

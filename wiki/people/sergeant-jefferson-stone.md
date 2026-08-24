@@ -94,6 +94,14 @@ Jefferson then reaches an office where [Mistress Selyra Vex'ryn](mistress-selyra
 
 After leaving the temple without [Bevar Lurton](bevar-lurton.md), Jefferson contacts the [Inquisition](../factions/inquisition.md) with careful partial truths and then contacts [Rurik Valdren](rurik-valdren.md). This turns his earlier Session 7 idea of using Rurik as a shield for [Sunhollow Valley](../places/sunhollow-valley.md) into an active plan.
 
+## Sessions 10-11: Strategy and Cost
+
+In [Session 10](../sessions/session-10.md), Jefferson helps select the mining-rights strategy, closes the truth-runed council discussion, and helps restage the dead Penitent's route so the Church will not immediately know what happened inside the valley. His concern for Sunhollow helps produce a signed legal shield rather than an outright sale.
+
+In [Session 11](../sessions/session-11.md), Jefferson tells Bartholomew that complete testimony to Amir has broken the party's trust outside the demon-and-drow mission. Rurik then places a protected Sanctuary City route, safe combination, and contact sequence in Jefferson's memory, making him the contingency carrier for the surviving dwarves.
+
+Jefferson also accepts Amir's proposal to strike the Hadozee contingent before its expected compelled attack and helps move Burrowroot clear. Church forces and mercenaries kill the Hadozee before they act. The decision places Jefferson's responsibility theme in direct conflict with the preemptive military logic he has spent the campaign surviving.
+
 ## Related
 
 - [After the War Campaign](../campaign/after-the-war-campaign.md)
@@ -112,4 +120,6 @@ After leaving the temple without [Bevar Lurton](bevar-lurton.md), Jefferson cont
 - [Session 6](../sessions/session-6.md)
 - [Session 8](../sessions/session-8.md)
 - [Session 9](../sessions/session-9.md)
+- [Session 10](../sessions/session-10.md)
+- [Session 11](../sessions/session-11.md)
 

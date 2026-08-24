@@ -53,7 +53,12 @@ The wielder can replace the aether crystal during a short rest. Installing a new
 - Hit damage: 3d10 fire damage.
 - Charges: 6.
 
+## Session 11 Risk
+
+The leonin curse-breaking ritual is expected to consume every connected ether crystal in Sunhollow Valley. It is not yet known whether an active Aether Conductor loses its crystal immediately, only when the ritual reaches a later stage, or at the ritual's completion.
+
 ## Related
 
 - [Arcane Conductor](arcane-conductor.md)
 - [Ether Crystals](ether-crystals.md)
+- [Session 11](../sessions/session-11.md)

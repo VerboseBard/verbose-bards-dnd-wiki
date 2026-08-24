@@ -22,10 +22,14 @@ Siv is deliberate, proud, restrained, and accustomed to being obeyed without rai
 
 At the [Session 7](../sessions/session-7.md) council, the Ashmane head delivers the valley's enslavement-and-revolt history — rising to full height as a descendant of the revolt's leonin leader — and is visibly displeased when [Gwen](gwen.md) is recognized as an emissary. The council votes 3–2 to send the party into the forbidden lands after the blight.
 
+## Session 10
+
+Siv leads the council's questioning when the party returns without the emissary or Bevar. Ashmane's leonin are the most reluctant faction to accept Rurik's mining agreement, but the council ultimately signs. A substantial leonin force then accompanies the delegation to the Church gate as a visible guarantee that negotiation is backed by valley strength.
+
 ## Related
 
 - [Ashmane](../factions/ashmane.md)
 - [Sunhollow Council](../factions/sunhollow-council.md)
 - [Old Charge](../factions/old-charge.md)
 - [Session 7](../sessions/session-7.md)
-
+- [Session 10](../sessions/session-10.md)

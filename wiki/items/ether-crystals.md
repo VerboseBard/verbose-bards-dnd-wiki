@@ -72,6 +72,12 @@ This is not normal ley-line crystal growth. Session 7 states that [Driftvale](..
 
 The party also confirms that outside ether weapons still function in the valley, making the discovery strategically dangerous.
 
+## Session 11 Consumption Risk
+
+The secret [leonin curse-breaking ritual](../concepts/leonin-curse-breaking-ritual.md) is expected to consume every ether crystal connected to Sunhollow Valley. Rurik is told this price; Amir and the Justicar are not.
+
+The party discusses storing reserve crystals in its [Bag of Holding](squad-bag-of-holding.md). The extradimensional space may protect them, but the outcome is not confirmed. The exact moment at which active conductors, firearms, the Plasma Greatblade, and the weapons loaned to leonin champions lose power is also unresolved.
+
 ## Related
 
 - [Ether Dust](ether-dust.md)
@@ -80,3 +86,5 @@ The party also confirms that outside ether weapons still function in the valley,
 - [Radiant Citadel](../places/radiant-citadel.md)
 - [Sunhollow Valley](../places/sunhollow-valley.md)
 - [Lake of Glass](../places/lake-of-glass.md)
+- [Leonin Curse-Breaking Ritual](../concepts/leonin-curse-breaking-ritual.md)
+- [Session 11](../sessions/session-11.md)

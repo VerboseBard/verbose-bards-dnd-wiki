@@ -15,11 +15,15 @@ A separate strike-team branch specialized in the undead proper; the Slayer Teams
 ## Known Members
 
 - **Colonel [Rurik Valdren](../people/rurik-valdren.md)** — commanded a section of the Dragon Watch for some two hundred years; was on the wall when the Breaking came.
-- **Captain [Bartholomew Hildebrant](../people/bartholomew-hildebrant.md)** — Warden of the Slayer Teams and Champion of Hestia; served under Rurik roughly 3,800 years ago before his reassignment against the cult of [Lolth](../people/lolth.md) and the assault on [Ssar'Velyn Temple](../places/ssar-velyn-temple.md).
+- **Captain [Bartholomew Hildebrant](../people/bartholomew-hildebrant.md)** — Warden of the Veil and Champion of Hestia; served under Rurik roughly 3,800 years ago before his reassignment against the cult of [Lolth](../people/lolth.md) and the assault on [Ssar'Velyn Temple](../places/ssar-velyn-temple.md).
 
 ## Naming Note
 
 The order's name was locked in during later worldbuilding discussion rather than spoken in the original transcripts; an earlier draft term, "the Vindicators," is superseded by **Sentinels of the Veil**. The proper name of Bartholomew's individual Slayer Team was lost from the notes and is still owed by the record.
+
+## Session 10 Confirmation
+
+[Session 10](../sessions/session-10.md) states the hierarchy on-stream: Dragon Watch posting, Sentinel of the Veil, selection and specialized Demon Hunter training, assignment to a Slayer Team, and the member title **Warden**. The modern Justicars were modeled in part on these old units, although [Rurik Valdren](../people/rurik-valdren.md) considers the imitation incomplete.
 
 ## Related
 
@@ -29,3 +33,6 @@ The order's name was locked in during later worldbuilding discussion rather than
 - [Hestia](../people/hestia.md)
 - [Third Age](../concepts/third-age.md)
 - [Fourth Age](../concepts/fourth-age.md)
+- [Lolth's Rise and the Great Crusade](../concepts/lolths-rise-and-the-great-crusade.md)
+- [Session 10](../sessions/session-10.md)
+- [Session 11](../sessions/session-11.md)

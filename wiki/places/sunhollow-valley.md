@@ -34,6 +34,10 @@ Sunhollow is governed through five major clan groupings:
 
 These clans together form [the Sunhollow Council](../factions/sunhollow-council.md).
 
+The GM-confirmed species roster draws on the Humblewood peoples: Cervan, Corvum, Gallus, Hedge, Jerbeen, Luma, Mapach, Raptor, Strig, and Vulpin. Those peoples live alongside the established harengon, Hadozee, leonin, kenku, and Owlin populations. The clan groupings above are political coalitions rather than a claim that each clan contains only one species.
+
+The sixty Hadozee who accompanied the Session 10 gate delegation were all observed to be spellcasters. That capability is confirmed for the escort group; it should not be generalized to every Hadozee in the valley without further evidence.
+
 ## Major Settlements
 
 The current mapped settlements of Sunhollow include:
@@ -77,6 +81,10 @@ In [Session 9](../sessions/session-9.md), the threat becomes immediate. The [Inq
 
 By the end of the session, the party has returned to the old elven conclave site where the council meets. Jefferson recognizes that the surviving elven architecture may still be tied to old defensive systems, which matters because tens of thousands of animalfolk live in the valley and a large portion of the population appears to be children.
 
+In [Session 10](../sessions/session-10.md), Sunhollow becomes legally connected to the outside world. The council signs Rurik's exclusive mining contract, Walter Wifflewick secures a separate evacuation compact for roughly 80,000 harengon, and the Church expedition enters under Owlin guest-right. Windcrest's chroniclers reveal an 800-year effort to understand or escape the blood curse.
+
+In [Session 11](../sessions/session-11.md), the valley's older enslavement history becomes operational. A secret Ashmane group plans to seize the defense matrix and perform the [Leonin Curse-Breaking Ritual](../concepts/leonin-curse-breaking-ritual.md), risking mass death if interrupted and consuming every connected ether crystal. The party and coalition march into the Dead Lands, where Church forces and mercenaries kill the sixty-person Hadozee contingent before it acts. The session ends beneath the valley at the [Demon-Draining Engine](../concepts/demon-draining-engine.md).
+
 ## Hidden Political Currents
 
 Three currents matter most inside Sunhollow politics:
@@ -112,3 +120,5 @@ The route takes roughly a month of scouting, dead ends, bridge checks, mountain 
 - [Session 7](../sessions/session-7.md)
 - [Session 8](../sessions/session-8.md)
 - [Session 9](../sessions/session-9.md)
+- [Session 10](../sessions/session-10.md)
+- [Session 11](../sessions/session-11.md)

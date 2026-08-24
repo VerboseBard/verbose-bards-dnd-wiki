@@ -41,6 +41,8 @@ Two major arms reflect the split inside church power:
 
 The gods are sealed, not dead. That distinction matters everywhere.
 
+The Church's investigation at [Sunhollow Valley](../places/sunhollow-valley.md) also shows why that distinction is dangerous. Records concerning [Lolth](../people/lolth.md), [Hestia](../people/hestia.md), the [Great Crusade](lolths-rise-and-the-great-crusade.md), and the destroyed Fourth-Age temples survive only in partial ledgers, divine fragments, recovered testimony, and contested institutional archives. The Conclave can uncover lost history, but it does not automatically agree on what that history means or what authority it grants.
+
 ## The Kreen War
 
 The [Kreen War](kreen-war.md) breaks the hope of the early Seventh Age. What begins as a crisis centered on [Driftvale](../places/driftvale.md) becomes a multi-world war of extinction.
@@ -61,7 +63,9 @@ After the war, military authority increasingly monopolizes artifact recovery. Ci
 
 The [After the War Campaign](../campaign/after-the-war-campaign.md) begins in Year 11 of the [Seventh Age](seventh-age.md), when the war is ending but its consequences are still raw.
 
-The party starts as ordinary soldiers in the [Bloody Fifth](../factions/bloody-fifth.md), becomes part of [Ash's Hounds](../factions/ashs-hounds.md), survives moral and political fallout, receives [Contractor Status](contractor-status.md), finds the [Kex](../places/kex.md), and eventually reaches [Sunhollow Valley](../places/sunhollow-valley.md).
+The party starts as ordinary soldiers in the [Bloody Fifth](../factions/bloody-fifth.md), becomes part of [Ash's Hounds](../factions/ashs-hounds.md), survives moral and political fallout, receives [Contractor Status](contractor-status.md), finds the [Kex](../places/kex.md), and reaches [Sunhollow Valley](../places/sunhollow-valley.md). There, a legal mining contract, a Church expedition, the recovery of Fourth-Age records, the secret [leonin curse-breaking ritual](leonin-curse-breaking-ritual.md), and the discovery of a [demon-draining engine](demon-draining-engine.md) turn the lost-homeland mission into a religious, political, and historical crisis.
+
+By the end of Session 11, the squad has survived the ritual site's outer defenses and reached the engine complex, but the curse, the missing thirteenth Fourth-Age site, [Alistair Hooley's](../people/alistair-hooley.md) supernatural tether, and the consequences of the Hadozee deaths remain unresolved.
 
 The campaign's central question is not whether the war can be won. It is what happens when survivors inherit secrets, weapons, debts, and old powers that the institutions around them cannot safely control.
 
@@ -75,3 +79,6 @@ The campaign's central question is not whether the war can be won. It is what ha
 - [Unity](../places/unity.md)
 - [Driftvale](../places/driftvale.md)
 - [The Kreen War](kreen-war.md)
+- [Lolth's Rise and the Great Crusade](lolths-rise-and-the-great-crusade.md)
+- [Leonin Curse-Breaking Ritual](leonin-curse-breaking-ritual.md)
+- [Demon-Draining Engine](demon-draining-engine.md)

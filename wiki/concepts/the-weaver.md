@@ -58,6 +58,12 @@ The identity of the person who rewrote reality during the [Third Age](third-age.
 
 The Weaver is suspected of manipulating the unknown rewriter or showing them the path to perform it. This fits the Weaver's established association with fate, foresight, and reality-shaping, but it remains an in-world suspicion rather than confirmed identity or authorship.
 
+## Church Research
+
+In [Session 10](../sessions/session-10.md), [the Justicar](../people/the-justicar.md) reports Church traditions that connect the Weaver to Lolth, to knowledge used when the giants broke the world, and possibly to techniques later exploited by [Lucius](../people/lucius.md). He also says [Dione](../people/dione.md)'s oracles have personally opposed the Weaver. These are Church and oracle claims rather than omniscient confirmation, but they widen the pattern across the Second through Fourth Ages and the later divine wars.
+
+The same discussion says the Weaver did not ascend when the [Divine Gate](divine-gate.md) rose. That leaves his nature unresolved and argues against treating him as an ordinary member of the current pantheon.
+
 ## Related
 
 - [The Crashed Ship](../places/crashed-ship.md)
@@ -74,3 +80,4 @@ The Weaver is suspected of manipulating the unknown rewriter or showing them the
 - [Moon Stone Collectors, Part 16](../sessions/moon-stone-collectors-part-16.md)
 - [Third Age](third-age.md)
 - [Dragon Guardians and Succession](dragon-guardians.md)
+- [Session 10](../sessions/session-10.md)

@@ -61,11 +61,13 @@ At the temple entrance, Bevar kneels before the ghost priestess and frames the p
 
 By the end of the session, Bevar and Gwen remain with or inside the temple for unresolved emissary work. His status after Session 8 is therefore separated from the main party pending the outcome of the temple sequence.
 
-## Session 9 Status
+## Status Through Session 11
 
 In [Session 9](../sessions/session-9.md), the rest of the party is returned outside [Ssar'Velyn Temple](../places/ssar-velyn-temple.md), but Bevar is still missing.
 
 The party discusses his increasingly strange behavior and treats his absence as dangerous. It remains unclear whether Bevar is acting under Gwen's influence, the temple's influence, his own choices, or some mixture of all three.
+
+Sessions 10 and 11 do not establish Bevar's return or condition. He remains separated from the party while the council, Church expedition, and demon operation proceed.
 
 ## Related
 
@@ -79,4 +81,6 @@ The party discusses his increasingly strange behavior and treats his absence as 
 - [Session 7](../sessions/session-7.md)
 - [Session 8](../sessions/session-8.md)
 - [Session 9](../sessions/session-9.md)
+- [Session 10](../sessions/session-10.md)
+- [Session 11](../sessions/session-11.md)
 

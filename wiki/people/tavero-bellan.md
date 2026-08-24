@@ -24,6 +24,10 @@ By [Session 7](../sessions/session-7.md), that instinct hardens into a visible a
 
 At the council itself, the Cervan head dismisses the spider question outright — *"I do not believe the spider is important; what is important is that they say what is in the valley will be taken from us"* — and is among the unhappy faces when [Gwen](gwen.md)'s emissary status carries the 3–2 vote.
 
+## Session 10
+
+Tavero represents the strongest visible council resistance to Rurik's mining contract. Burrowroot fears outside change and is displeased with the bargain even after the council signs it. [Walter Wifflewick](walter-wifflewick.md)'s separate harengon evacuation compact also bypasses Tavero and sharpens the old conflict over the erased rabbit seat.
+
 ## Related
 
 - [Burrowroot](../factions/burrowroot.md)
@@ -31,4 +35,4 @@ At the council itself, the Cervan head dismisses the spider question outright �
 - [Old Charge](../factions/old-charge.md)
 - [Mireya Bellan](mireya-bellan.md)
 - [Walter Wifflewick](walter-wifflewick.md)
-
+- [Session 10](../sessions/session-10.md)

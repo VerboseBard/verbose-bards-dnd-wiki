@@ -22,6 +22,10 @@ Dione's claim on [the Potato King](potato-king.md)'s soul became part of the div
 
 This links Dione's prophecy domain to the larger divine-law distinction between killing, preventing death, and allowing death.
 
+## Conflict with the Weaver
+
+In [Session 10](../sessions/session-10.md), [the Justicar](the-justicar.md) says Dione's oracles have personally dueled [the Weaver](../concepts/the-weaver.md). The statement is Church-preserved testimony rather than a complete account of those encounters, but it establishes active opposition between Dione's prophetic order and the Weaver's fate manipulation.
+
 ## Related
 
 - [Savras](savras.md)
@@ -32,3 +36,5 @@ This links Dione's prophecy domain to the larger divine-law distinction between 
 - [Logan's First Campaign](../campaign/logans-first-campaign.md)
 - [Logan's Second Campaign](../campaign/logans-second-campaign.md)
 - [Council of Gods of the Fifth Age](../concepts/council-of-gods-of-the-fifth-age.md)
+- [The Weaver](../concepts/the-weaver.md)
+- [Session 10](../sessions/session-10.md)

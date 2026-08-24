@@ -12,9 +12,14 @@ His reactions help establish the Longbough style of first contact: disciplined, 
 
 During the next-morning escort to [Hollowmere](../places/hollowmere.md), Talin watches [Gwen](gwen.md) and the party's behavior as part of Longbough's temple-protocol caution.
 
+## Session 11 Name Hold
+
+[Captain Havlin](captain-havlin.md) carries a fallen escort member named Darien or Darian after the Hadozee contingent is killed. The record does not establish that this person is Talin Duren. The two identities remain separate unless a GM ruling connects them.
+
 ## Related
 
 - [Longbough](../factions/longbough.md)
 - [Hollowmere](../places/hollowmere.md)
 - [Gwen](gwen.md)
 - [Session 7](../sessions/session-7.md)
+- [Session 11](../sessions/session-11.md)

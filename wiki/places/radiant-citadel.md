@@ -30,6 +30,10 @@ In [War of the Gods, Session 24](../sessions/war-of-the-gods-session-24.md), the
 
 During the final hours before the [Concurrence](../concepts/the-concurrence.md), the [Shippers and Delivery Guild Warehouse](shippers-and-delivery-guild-warehouse.md) becomes the staging ground for [Annabelle](../people/annabelle.md) and Constance's rescue operation into the [Dwarven Egg Fortress](dwarven-egg-fortress.md).
 
+## Session 11 Contingency
+
+Rurik's Sunhollow contract is registered in triplicate at the Radiant Citadel. When the Inquisition moves against his outside assets, he places the combination to his Citadel safe and trusted contacts into Jefferson's protected memory sequence. Those instructions are meant to survive a freeze on Rurik's bank access and support the route to the isolated dwarven sanctuary.
+
 ## Related
 
 - [Unity](unity.md)
@@ -46,4 +50,5 @@ During the final hours before the [Concurrence](../concepts/the-concurrence.md),
 - [War of the Gods, Session 24](../sessions/war-of-the-gods-session-24.md)
 - [Moon Stone Collectors, Part 4](../sessions/moon-stone-collectors-part-4.md)
 - [Moon Stone Collectors, Part 5](../sessions/moon-stone-collectors-part-5.md)
+- [Session 11](../sessions/session-11.md)
 

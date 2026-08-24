@@ -39,6 +39,12 @@ Walter also suggests that Alistair's mother's line may matter, not only his fath
 
 Walter is likely to listen closely for Hooley, Riddle, Puckle, and Sandwich ancestry in Alistair's account.
 
+## Evacuation Compact
+
+In [Session 10](../sessions/session-10.md), Walter uses the council negotiations to make a separate bargain with [Rurik Valdren](rurik-valdren.md). If the valley crisis worsens, Rurik will provide an evacuation route for the harengon, whose population he estimates at roughly 80,000. The rabbits have stockpiled crystal since learning its outside value and are not fully bound by the same blood oath as the other clans.
+
+Walter's warning that other bargains will follow proves accurate. By [Session 11](../sessions/session-11.md), Rurik's people are moving the teleportation circle to the valley edge, although no evacuation transport has yet occurred.
+
 ## Related
 
 - [Burrowroot](../factions/burrowroot.md)
@@ -47,4 +53,7 @@ Walter is likely to listen closely for Hooley, Riddle, Puckle, and Sandwich ance
 - [Cedric Moonhare](cedric-moonhare.md)
 - [Quentin Riddle](quentin-riddle.md)
 - [Session 7](../sessions/session-7.md)
+- [Rurik Valdren](rurik-valdren.md)
+- [Session 10](../sessions/session-10.md)
+- [Session 11](../sessions/session-11.md)
 

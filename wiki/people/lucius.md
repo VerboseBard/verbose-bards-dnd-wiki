@@ -86,6 +86,12 @@ At the school, Lucius tries to exploit the children as a divine shield while cla
 
 [Maeve](mave.md) then appears through a tear in reality and drives her reforged god-killing blades into Lucius's back, ending him at last.
 
+## Fourth-Age Dwarven Aftermath
+
+[Session 10](../sessions/session-10.md) adds an older chapter through a dwarf-skin journal held in the Church library. According to [the Justicar](the-justicar.md), Lucius waited until the war against Lolth and the First Dragon had ended, then took the transformed survivors of the dwarven capital as duergar shock troops.
+
+The account helps connect the fall of the old dwarven realm to the later duergar history represented by [Demonic Dwarven Goo](../concepts/demonic-dwarven-goo.md) and [Julara](julara.md). It is a Church-preserved historical witness, not yet an independently complete record of the capital's fall.
+
 ## Related
 
 - [Bridget](bridget.md)
@@ -107,3 +113,4 @@ At the school, Lucius tries to exploit the children as a divine shield while cla
 - [The Hunt for Black Vipers, Part 12](../sessions/hunt-for-black-vipers-part-12.md)
 - [Third Age](../concepts/third-age.md)
 - [Dragon Guardians and Succession](../concepts/dragon-guardians.md)
+- [Session 10](../sessions/session-10.md)

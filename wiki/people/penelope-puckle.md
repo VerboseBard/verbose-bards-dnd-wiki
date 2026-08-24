@@ -14,6 +14,8 @@ During the next-morning escort to [Hollowmere](../places/hollowmere.md), Penelop
 
 In [Session 8](../sessions/session-8.md), Penelope remains part of the escort to the edge of the [Dead Lands](../places/dead-lands.md), where the party moves beyond the locals' permitted path into the forbidden temple approach.
 
+In [Session 11](../sessions/session-11.md), Penelope joins the coalition's march into the Dead Lands. After the Hadozee contingent is killed before acting, she tearfully recovers the unnamed council head's staff and office trappings. The items leave her carrying evidence and political responsibility for a death she did not choose.
+
 ## Related
 
 - [Burrowroot](../factions/burrowroot.md)
@@ -22,3 +24,4 @@ In [Session 8](../sessions/session-8.md), Penelope remains part of the escort to
 - [Dead Lands](../places/dead-lands.md)
 - [Session 7](../sessions/session-7.md)
 - [Session 8](../sessions/session-8.md)
+- [Session 11](../sessions/session-11.md)

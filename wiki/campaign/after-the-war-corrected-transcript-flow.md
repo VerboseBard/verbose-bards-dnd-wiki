@@ -9,6 +9,8 @@ It does not replace or rewrite any raw transcript. Treat it as a readable transc
 Primary sources:
 
 - `campaign/session-1/raw-transcript.txt` through `campaign/session-9/raw-transcript.txt`
+- the audited Session 10 combined transcript and summary in `true-chronicle-audit`
+- the Session 11 large-v3 transcript, comparison ledger, and adjudicated publication record in `campaign/session-11`
 - the matching `actual-summary.md`, `summary.md`, `canon-check.md`, `character-highlights.md`, and `mechanics-notes.md` files in each session folder
 - `wiki/campaign/after-the-war-campaign.md`
 - `wiki/campaign/after-the-war-story-so-far.md`
@@ -65,7 +67,7 @@ After Ash's Hounds are shut down, the party spends its last months of service on
 
 The Inquisition purge of Fort Victory gives the party legal clearance and contractor status. That status lets them take the Lost Homeland Mission, but also lets them detour to the hidden crashed ship. The Kex and Kubix raise the campaign ceiling from postwar salvage to deep-time technology, nanites, artificial intelligence, and the Weaver's game-board logic.
 
-The homeland mission then opens into Sunhollow Valley, a living fog-hidden basin full of ether wealth, oath-bound beastfolk, lost rabbit politics, and the old drow temple of Ssar'Velyn. By Session 9, the party's main problem is no longer how to survive a dungeon. It is how to protect tens of thousands of people from Vex'ryn, Lolth's fragment, the Inquisition, blood oath law, and outside seizure before the countdown expires.
+The homeland mission then opens into Sunhollow Valley, a living fog-hidden basin full of ether wealth, oath-bound beastfolk, lost rabbit politics, and the old drow temple of Ssar'Velyn. By Session 11, the approaching threat has become an internal coalition crisis: the Church is inside the valley, Rurik's contract and evacuation plan are active, the Ashmane have revealed a lethal curse-breaking plan, the Hadozee contingent has been killed before acting, and the party has reached the ancient demon-draining engine.
 
 ## Session 1: The Bloody Fifth
 
@@ -418,11 +420,49 @@ Key exports from Session 9:
 - Bartholomew's Hestia link becomes active and restorative.
 - The campaign becomes a political countdown.
 
+## Session 10: The Council, the Contract, and the Justicar's Writ
+
+Session 10 pays off the countdown at Hollowmere. The party and Rurik select exclusive mining rights as a legal middle path: the valley keeps ownership, Rurik receives the exclusive extraction arrangement, and a Citadel-registered contract is meant to obstruct simple Church seizure. The council signs after a divided debate. Walter Wifflewick separately secures a contingency route for roughly 80,000 harengon, who are less completely caught by the old blood oath.
+
+The party restages the dead Penitent's route after confirming that a stasis poison preserved the body and that fifteen black arrows came from one maker tied to Bartholomew's era. On the return march, Bartholomew sees Selyra Vex'ryn's brother observing from the cliffs, but the watcher escapes.
+
+The arriving expedition includes Bloody Fifth survivors Lycus and Rose, Church personnel, mercenaries, and a nameless Justicar who accepts Sunhollow guest-right and restrains Amir's confrontation with Rurik. At Windcrest Roost, Owlin chroniclers reveal their long study of the blood curse and the changing pantheon.
+
+In the Justicar's warded tent, Bartholomew learns that the Church has researched Hestia's fragments, Lolth's conversion system, Lucius's use of transformed dwarves, and the Weaver's possible role in several ancient catastrophes. The Justicar wants the demon destroyed before the temple is judged and gives Bartholomew Amir's signed conditional execution writ.
+
+Key exports from Session 10:
+
+- Rurik's mining contract and Walter's harengon evacuation compact are active.
+- The Church expedition enters Sunhollow as guests rather than conquerors.
+- The Owlin are identified as long-term chroniclers and blood-curse researchers.
+- Lolth's survival is disclosed to the Justicar.
+- Bartholomew receives Amir Voss's conditional execution writ.
+- Church research links eight destroyed temples, Hestia fragments, demons, and Lolth's power-conversion system.
+
+## Session 11: The Truth-Lantern, the Leonin Plan, and the March to the Demon
+
+Session 11 turns private safeguards into open fractures. Bartholomew gives Amir complete signed testimony under the Truth Lantern. The party learns enough to understand that Rurik's assets and contract will be targeted, and Jefferson tells Bartholomew that trust is broken outside the immediate demon-and-drow mission. Lycus quietly removes the party-specific material from the dispatch before it leaves the valley, but the Church records the group as unreliable.
+
+Rurik responds by moving the harengon evacuation circle and placing a protected sequence of Sanctuary City memories inside Jefferson. Reggie then brings the party to a secret council of twelve Ashmane leonin. Their history confirms a failed anti-slavery uprising, abandonment by promised allies, sale to a drow purchaser, and the origin of their inherited curse. Their plan is to hijack the surviving valley defense matrix and use it to break every bound lineage free. Interruption could kill the entire valley, roughly half, or chiefly the initiating leonin depending on timing, and all connected ether crystals will be consumed.
+
+The coalition marches into the Dead Lands. Near the demon complex, Amir proposes killing the sixty Hadozee in the column before their expected compelled attack. Jefferson agrees and helps move Burrowroot clear. Church forces and mercenaries kill the Hadozee contingent and its unnamed council head before they act. The Justicar's prior knowledge or approval is not established.
+
+Inside the complex, the Justicar identifies two demons. The party follows him toward the greater one and discovers an ancient demon-draining engine layered with thousands of bound souls. Alistair loses one sanity while reading the installation and becomes tethered to the roughly forty-foot demon as the recording ends.
+
+Key exports from Session 11:
+
+- Bartholomew's testimony fractures party trust and exposes Rurik to legal seizure.
+- Jefferson carries a protected route-and-contact memory sequence for Sanctuary City.
+- The Ashmane curse-breaking ritual and its interruption ladder are known to the party.
+- The expedition's Hadozee contingent is killed before taking hostile action.
+- The original Fourth-Age operation involved thirteen assigned temple sites, with one site still missing from the spoken accounting.
+- Alistair loses one sanity and becomes tethered to the greater demon.
+
 ## Cross-Session Character Flow
 
 ### Jefferson Stone
 
-Jefferson begins as one of the veteran soldiers who can survive the Bloody Fifth and remains the party's strongest responsibility anchor. He helps carry the group through the legal/moral mess of Ash's Hounds, Fort Victory, and contractor status. The Kex gives him the plasma greatblade and a major nanite intellect/force-of-personality upgrade. Hestia then gives him a spiritual counterweight to the Music Box's horror. By Session 9, Jefferson is the person who turns Sunhollow from a doomed first-contact situation into a political strategy by contacting both the Inquisition and Rurik with careful partial truths.
+Jefferson begins as one of the veteran soldiers who can survive the Bloody Fifth and remains the party's strongest responsibility anchor. He helps carry the group through the legal/moral mess of Ash's Hounds, Fort Victory, and contractor status. The Kex gives him the plasma greatblade and a major nanite intellect/force-of-personality upgrade. Hestia then gives him a spiritual counterweight to the Music Box's horror. By Session 11, he has helped build Sunhollow's political shield, received Rurik's protected Sanctuary City contingency, and accepted responsibility for Amir's preemptive killing of the Hadozee contingent.
 
 Core tags: discipline, fairness, soldier responsibility, Hestia, plasma greatblade, Rurik strategy, demonic ichor, truth under pressure.
 
@@ -434,7 +474,7 @@ Core tags: Kex captain, Kubix, Arcstrike War Gauntlets, Elvish bridge, Music Box
 
 ### Alistair Hooley
 
-Alistair's main arc is from veteran harengon survivor to living proof of Sunhollow's lost outward line. He is practical and cautious with ship tech, eventually gaining enough enhancement to approach the ship sniper rifle's requirements. His family stories lead the party to the valley, and his name destabilizes old rabbit politics. He also becomes one of the party's best readers of temple language, old spider/blood magic, and Sunhollow's hidden legal structure.
+Alistair's main arc is from veteran harengon survivor to living proof of Sunhollow's lost outward line. He is practical and cautious with ship tech, eventually gaining enough enhancement to approach the ship sniper rifle's requirements. His family stories lead the party to the valley, and his name destabilizes old rabbit politics. By Session 11, harengon are raising altars in his name while his ability to read ancient systems costs him sanity and tethers him to the greater demon.
 
 Core tags: Moonhare/Hooley line, Sunhollow proof, routefinding, truesight, old book recognition, rabbit politics.
 
@@ -452,7 +492,7 @@ Core tags: uplifted spider, Kex specimen, sentient emissary, old law, Bevar sepa
 
 ### Bartholomew Hildebrant
 
-Bartholomew enters late but rewrites the party's historical depth. He is a Fourth-Age dwarf assault survivor, a former **Captain** and **Warden** of a mixed-race **Slayer Team** among the elite **Demon Hunters**, preserved in the temple with ruined knees, rage, and a Hestia-linked medallion. As a Warden, he was also a **Champion of Hestia**. Colonel Rurik Valdren commanded him at Dragon Watch before the specialist transfer. His Hestia connection softens the void inside him and may restore more than his body.
+Bartholomew enters late but rewrites the party's historical depth. He is a Fourth-Age dwarf assault survivor, a former **Captain** and **Warden** of a mixed-race **Slayer Team** among the elite **Demon Hunters**, preserved in the temple with ruined knees, rage, and a Hestia-linked medallion. As a Warden, he was also a **Champion of Hestia**. Colonel Rurik Valdren commanded him at Dragon Watch before the specialist transfer. His Hestia connection softens the void inside him, but his complete Truth-Lantern testimony to Amir fractures his standing with the party.
 
 Core tags: Fourth Age survivor, Captain, Warden, Slayer Team, Demon Hunter, Champion of Hestia, Hestia medallion, ruined knees, mounted combat with Jose, old dwarf identity, Rurik interest.
 
@@ -497,12 +537,15 @@ Core tags: Fourth Age survivor, Captain, Warden, Slayer Team, Demon Hunter, Cham
 - Is Selyra's cave-source claim true, partial truth, or misdirection?
 - What does "release" from the blood oath actually mean?
 - What is Bevar's status, and is Gwen acting independently, through old law, through Lolth-linked systems, or through another intelligence?
-- Can Rurik create a legal, commercial, or military shield before the Inquisition reaches Sunhollow?
-- How much do the Sunhollow Council members know about the old elven defenses and oath triggers?
+- Can Rurik's signed contract survive the Inquisition's legal seizure effort, and can the harengon evacuation begin before access closes?
+- Who can safely control Hollowmere's defense matrix, and can the Ashmane ritual complete without catastrophic interruption?
+- What institutional consequences follow the killing of the Hadozee contingent before it acted?
+- What does Alistair's tether to the greater demon transfer or permit?
+- Where is the missing thirteenth Fourth-Age temple site?
 - Can Hestia's surviving hearth power become a counterweight to Lolth's fragment without feeding Lolth's ascension system?
 
 ## ChatGPT Reference Use
 
 When feeding this document to ChatGPT for future worldbuilding, use this framing:
 
-> This is a corrected transcript-flow reference for the After the War Campaign in the Seventh Age setting. Treat it as the current campaign continuity unless a later note explicitly overrides it. Use wiki-standard spellings. Separate transcript fact from character claims. Be especially cautious with Selyra Vex'ryn's statements, the blood oath, the temple corruption source, and unresolved identities. The campaign's central current is the transformation from postwar military survival to contractor first-contact politics around Sunhollow Valley, with the Kex, Hestia, Lolth, and the Weaver opening deeper mythic and technological stakes.
+> This is a corrected transcript-flow reference for the After the War Campaign through Session 11 in the Seventh Age setting. Treat it as the current campaign continuity unless a later note explicitly overrides it. Use wiki-standard spellings. Separate transcript fact from character claims. Preserve the unresolved identity of the Hadozee council head, the missing thirteenth temple site, the Justicar's knowledge of Amir's plan, and the exact mechanics of the Ashmane ritual and Alistair's tether. The campaign's central current is the transformation from postwar military survival to contractor first-contact politics and then to a divided Church-and-valley coalition confronting Fourth-Age systems beneath Sunhollow.

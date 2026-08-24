@@ -22,6 +22,14 @@ During the [Lost Homeland Mission](../concepts/lost-homeland-mission.md), an Inq
 
 Jefferson gives careful partial truths rather than exposing [Ssar'Velyn Temple](../places/ssar-velyn-temple.md) outright. The Inquisition believes it may be approaching corruption, heresy, or a great evil in the valley, which makes its arrival dangerous even if its stated purpose is investigation and cleansing.
 
+## Sunhollow Expedition
+
+In [Session 10](../sessions/session-10.md), the roughly five-hundred-person expedition reaches the valley with Church personnel, mercenaries under [Lycus](../people/lycus.md) and [Rose](../people/rose.md), and [the Justicar](../people/the-justicar.md). The Justicar accepts Owlin guest-right, recognizes [Rurik Valdren](../people/rurik-valdren.md)'s legal standing, and prevents Amir's feud with Rurik from controlling the entry.
+
+In [Session 11](../sessions/session-11.md), Amir explains the Inquisition's internal accountability system under the [Truth Lantern](../items/truth-lantern.md): Inquisitors investigate corruption inside righteous institutions, Justicars watch the Inquisition, and senior watchers sign conditional [execution writs](../items/amir-voss-execution-writ.md) against themselves. Bartholomew's testimony nevertheless enables action against Rurik and fractures the party's trust.
+
+The expedition then becomes a combat coalition against the demons. Before entering the complex, Amir proposes a preemptive strike against the sixty Hadozee expected to be compelled by the blood curse. Church forces and mercenaries kill the contingent before it acts. The Justicar's prior knowledge or approval is not established. The event leaves the Inquisition's claimed mission of exposing evil inside righteous systems under direct moral pressure.
+
 ## Related
 
 - [Truth Lantern](../items/truth-lantern.md)
@@ -30,3 +38,5 @@ Jefferson gives careful partial truths rather than exposing [Ssar'Velyn Temple](
 - [Contractor Status](../concepts/contractor-status.md)
 - [Session 4](../sessions/session-4.md)
 - [Session 9](../sessions/session-9.md)
+- [Session 10](../sessions/session-10.md)
+- [Session 11](../sessions/session-11.md)

@@ -113,6 +113,12 @@ Known as "Voice of the Divine Servants," Envoys serve angels or divine intermedi
 
 ## Authority Flow
 
+### Reciprocal Watchers
+
+[Session 11](../sessions/session-11.md) shows that the order's internal safeguards do not follow a single top-down ladder. Inquisitors investigate evil hidden inside righteous institutions, while Justicars hold conditional warrants against senior Inquisitors. [Lord Inquisitor Amir Voss](../people/amir-voss.md) confirms that watchers sign such warrants against themselves and that the signature on [Bartholomew's writ](../items/amir-voss-execution-writ.md) is his.
+
+The system depends on judgment rather than automatic enforcement. Holding a writ does not prove its subject is already evil, and the Hadozee killing in the same session demonstrates that formal oversight can still fail or arrive too late.
+
 - Exemplar: doctrine and ideal.
 - Divine Bloodline / Adjudicator: interpretation, legitimacy, and power.
 - Inquisitor: investigation.
@@ -135,4 +141,6 @@ Known as "Voice of the Divine Servants," Envoys serve angels or divine intermedi
 - [Inquisition](inquisition.md)
 - [Crusaders](crusaders.md)
 - [Church of the Gods](../places/church-of-the-gods.md)
+- [Amir Voss's Execution Writ](../items/amir-voss-execution-writ.md)
+- [Session 11](../sessions/session-11.md)
 - [Arbiter of the Conclave](../concepts/arbiter-of-the-conclave.md)

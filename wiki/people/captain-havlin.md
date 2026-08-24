@@ -12,6 +12,8 @@ He leads the patrol that intercepts the party after they emerge from the fog int
 
 In [Session 8](../sessions/session-8.md), Havlin is part of the Sunhollow escort that brings the party from [Hollowmere](../places/hollowmere.md) toward the [Dead Lands](../places/dead-lands.md), stopping where local law and danger prevent the valley folk from continuing deeper.
 
+In [Session 11](../sessions/session-11.md), Havlin accompanies the larger coalition into the Dead Lands. After the Hadozee are killed, he carries out a fallen member of his own escort identified as Darien. Darien is not established as [Talin Duren](talin-duren.md), and the identities must remain separate.
+
 ## Related
 
 - [Sunhollow Valley](../places/sunhollow-valley.md)
@@ -20,4 +22,5 @@ In [Session 8](../sessions/session-8.md), Havlin is part of the Sunhollow escort
 - [Dead Lands](../places/dead-lands.md)
 - [Session 7](../sessions/session-7.md)
 - [Session 8](../sessions/session-8.md)
+- [Session 11](../sessions/session-11.md)
 

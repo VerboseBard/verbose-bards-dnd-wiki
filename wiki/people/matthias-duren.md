@@ -22,10 +22,15 @@ Matthias is intense, disciplined, severe, and deeply sincere. He is strongly ant
 
 At the [Session 7](../sessions/session-7.md) council, the Hadozee elder stays neutral when [Gwen](gwen.md)'s emissary status is polled — consistent with Longbough's refusal to share clan numbers with foreigners on the road in ("we do not speak on such matters"). It is a Hadozee elder who opens the session with the staff ritual that raises the chamber's truth-and-translation dome. He also heckles the Ashmane telling of the revolt: "You got eight-tenths of us killed."
 
+## Session 10 Delegation
+
+In [Session 10](../sessions/session-10.md), Matthias joins the delegation meeting the arriving Church expedition. A large Hadozee contingent accompanies him, and all sixty members of that escort are observed to be spellcasters. The Hadozee council head killed in [Session 11](../sessions/session-11.md) remains unnamed in the record and is not automatically identified as Matthias.
+
 ## Related
 
 - [Longbough](../factions/longbough.md)
 - [Sunhollow Council](../factions/sunhollow-council.md)
 - [Old Charge](../factions/old-charge.md)
 - [Session 7](../sessions/session-7.md)
-
+- [Session 10](../sessions/session-10.md)
+- [Session 11](../sessions/session-11.md)

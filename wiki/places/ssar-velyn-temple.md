@@ -44,6 +44,14 @@ Jefferson collects a [Demonic Ichor Vial](../items/demonic-ichor-vial.md) after 
 
 Vex'ryn also claims she needs one to two weeks to finish work connected to the temple and the valley's blood oath. If the [Inquisition](../factions/inquisition.md) threatens the temple before then, she warns that old oaths and old magics may kill many people.
 
+## Sessions 10-11 Network Revelations
+
+[Session 10](../sessions/session-10.md) places Ssar'Velyn inside a wider Lolth power network. Church research describes Hestia fragments taken from eight destroyed temples and demons used to convert divine power. The temple's damaged vats, oath system, defense matrix, and surviving fragment appear to be parts of that larger structure rather than isolated dungeon features.
+
+In [Session 11](../sessions/session-11.md), Bartholomew remembers thirteen planning tables assigned to temple strikes. The known accounting leaves one site unexplained. The session also distinguishes the temple road from the demon complex: the coalition turns away from Ssar'Velyn and follows the blight toward the [Demon-Draining Engine](../concepts/demon-draining-engine.md), while spider-bodied watchers withdraw into the webbing. The record does not establish that the observer reached or warned the temple.
+
+The secret [Leonin Curse-Breaking Ritual](../concepts/leonin-curse-breaking-ritual.md) intends to seize Hollowmere's surviving defense matrix and hijack the drow ritual binding the valley. That makes the temple's inherited oath architecture an active present-day system even while the coalition fights elsewhere.
+
 ## Unresolved Temple Loot
 
 Several Session 8 temple items still need final item cards before they should receive full mechanics pages:
@@ -71,5 +79,8 @@ The finalized Session 8 item pages currently include the dark drow assassin reli
 - [Dead Lands Ghost Druid](../people/dead-lands-ghost-druid.md)
 - [Session 8](../sessions/session-8.md)
 - [Session 9](../sessions/session-9.md)
+- [Lolth's Rise and the Great Crusade](../concepts/lolths-rise-and-the-great-crusade.md)
+- [Session 10](../sessions/session-10.md)
+- [Session 11](../sessions/session-11.md)
 - [Demonic Ichor Vial](../items/demonic-ichor-vial.md)
 

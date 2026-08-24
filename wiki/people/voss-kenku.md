@@ -16,6 +16,10 @@ During [Session 7](../sessions/session-7.md), Jefferson tries to teach Voss lang
 
 In [Session 8](../sessions/session-8.md), Voss is still with the escort as the party is led toward the [Dead Lands](../places/dead-lands.md), making the profanity lesson part of the continuing first-contact fallout rather than a one-scene joke.
 
+## Name Hold
+
+During [Session 11](../sessions/session-11.md), the table explicitly spells the bird's name as V-A-A-S while distinguishing it from Amir V-O-S-S. The established wiki spelling remains **Voss** until a GM ruling decides whether the spoken spelling is a correction or a different rendering. This Kenku must not be merged with [Amir Voss](amir-voss.md).
+
 ## Related
 
 - [Windcrest](../factions/windcrest.md)
@@ -24,3 +28,4 @@ In [Session 8](../sessions/session-8.md), Voss is still with the escort as the p
 - [Dead Lands](../places/dead-lands.md)
 - [Session 7](../sessions/session-7.md)
 - [Session 8](../sessions/session-8.md)
+- [Session 11](../sessions/session-11.md)

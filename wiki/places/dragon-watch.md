@@ -32,6 +32,10 @@ The order that manned it was [the Sentinels of the Veil](../factions/sentinels-o
 
 Rurik commanded a section of the wall for two hundred years and was standing on it when the Breaking came. With the world shattered and the defenders scattered, most believed the old Vale or Veil regions fell to the undead. What remains of the wall in the Seventh Age, and what still stalks the far side of it, is unknown.
 
+## Session 10 Confirmation
+
+The Session 10 recap confirms Dragon Watch as the first link in [Bartholomew Hildebrant](../people/bartholomew-hildebrant.md)'s service chain before the [Sentinels of the Veil](../factions/sentinels-of-the-veil.md), Demon Hunter selection, Slayer Teams, and the title Warden.
+
 ## Related
 
 - [The Sentinels of the Veil](../factions/sentinels-of-the-veil.md)
@@ -42,3 +46,5 @@ Rurik commanded a section of the wall for two hundred years and was standing on 
 - [Fourth Age](../concepts/fourth-age.md)
 - [Dead Lands](dead-lands.md)
 - [The Breaking](../concepts/the-breaking.md)
+- [Lolth's Rise and the Great Crusade](../concepts/lolths-rise-and-the-great-crusade.md)
+- [Session 10](../sessions/session-10.md)

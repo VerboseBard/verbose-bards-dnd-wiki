@@ -16,6 +16,10 @@ When Jefferson shows processed outside ether, Reggie can feel the difference bet
 
 In [Session 8](../sessions/session-8.md), Reggie accompanies the party toward the [Dead Lands](../places/dead-lands.md). At the edge of the forbidden approach, he warns them not to trust everything the dead say, then says goodbye using the profanity [Jose](jose.md) helped teach [Voss](voss-kenku.md).
 
+In [Session 10](../sessions/session-10.md), Reggie and Jose follow Hornet to the Justicar's warded tent. Reggie's magic breaches the ward, allowing both of them to hear the private discussion and learn about Amir's conditional execution writ.
+
+In [Session 11](../sessions/session-11.md), Reggie brings the party to the secret twelve-member Ashmane council that reveals the [Leonin Curse-Breaking Ritual](../concepts/leonin-curse-breaking-ritual.md). During the later march, he helps Jefferson move the Burrowroot contingent away from the Hadozee immediately before the preemptive strike.
+
 ## Related
 
 - [Briarstep](../factions/briarstep.md)
@@ -24,3 +28,5 @@ In [Session 8](../sessions/session-8.md), Reggie accompanies the party toward th
 - [Voss](voss-kenku.md)
 - [Session 7](../sessions/session-7.md)
 - [Session 8](../sessions/session-8.md)
+- [Session 10](../sessions/session-10.md)
+- [Session 11](../sessions/session-11.md)

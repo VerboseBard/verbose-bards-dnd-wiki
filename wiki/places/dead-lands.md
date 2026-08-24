@@ -26,13 +26,17 @@ The valley's people are not permitted to enter the deeper sacred or forbidden ar
 
 At the end of [Session 7](../sessions/session-7.md), the party is sent to the edge of the Dead Lands to investigate the blight, determine whether it can be stopped, and advance toward the temple zone.
 
-The escort brings them past Briarstep territory to the edge of the dead zone. From there, the next session is expected to enter the Dead Lands and move toward the forbidden temple area visible beyond it.
+The escort brings them past Briarstep territory to the edge of the dead zone. In Session 8, the party continues into the Dead Lands and reaches the forbidden temple area visible beyond it.
 
 In Session 8, the party follows that path to [Ssar'Velyn Temple](ssar-velyn-temple.md), guided partway by the ghost druid. The Dead Lands become the threshold between Sunhollow politics and the temple's older sacred/legal authority.
 
 In [Session 9](../sessions/session-9.md), Vex'ryn claims that the immediate source of the spreading corruption lies in a cave south along the wall rather than in the temple itself. This claim may explain some of the Dead Lands' active poisoning, but it should not replace the existing evidence that the blight also involves Lolth's fragment, damaged sacred land, and the corrupted forest bond.
 
 Jefferson's [Demonic Ichor Vial](../items/demonic-ichor-vial.md), collected from the temple vat system, may become important evidence if the party compares the temple liquid to the Dead Lands corruption or the claimed cave source.
+
+In [Session 11](../sessions/session-11.md), the coalition follows the corruption through the Dead Lands toward the cave source. [Amir Voss](../people/amir-voss.md)'s lantern burns back part of the blight. He releases the ghost druid from her suffering, and the march through tar and poisoned ground imposes Constitution and healing penalties on several characters.
+
+The cave complex contains two demons and the ancient [Demon-Draining Engine](../concepts/demon-draining-engine.md). This confirms that a demon-conversion installation lies south along the wall, but it does not erase the separate evidence that Lolth's fragment, the corrupted sacred forest, and Ssar'Velyn's damaged systems also contribute to the wider blight.
 
 ## Related
 
@@ -45,6 +49,8 @@ Jefferson's [Demonic Ichor Vial](../items/demonic-ichor-vial.md), collected from
 - [Session 7](../sessions/session-7.md)
 - [Session 8](../sessions/session-8.md)
 - [Session 9](../sessions/session-9.md)
+- [Session 11](../sessions/session-11.md)
+- [Demon-Draining Engine](../concepts/demon-draining-engine.md)
 - [Third Age](../concepts/third-age.md)
 - [The First Dragon](../people/first-dragon.md)
 - [The Dragon Watch](dragon-watch.md)

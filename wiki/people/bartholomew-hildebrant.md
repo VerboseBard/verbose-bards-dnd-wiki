@@ -18,7 +18,7 @@ Before the temple assault, **Captain Bartholomew Hildebrant** served under Colon
 
 As a member of a Fourth-Age **Slayer Team**, Bartholomew held the historical title **Warden**. Slayer Teams were small, mixed-race special-forces formations of elite Demon Hunters used against demons, devils, powerful undead, summoned creatures, and related supernatural threats. He was also a **Champion of Hestia**, his sacred standing as a Warden rather than a conventional military rank. `Warden` is distinct from modern Conclave titles such as Justicar, Templar, and Inquisitor. His particular Slayer Team has not yet been named.
 
-The clean formal style is: *Captain Bartholomew Hildebrant, Warden of the Slayer Teams, Champion of Hestia.* His current character class is mechanically separate from this historical title.
+The clean formal style is: *Captain Bartholomew Hildebrant, Warden of the Veil, Champion of Hestia.* His current character class is mechanically separate from this historical title.
 
 ## Session 8 Recovery
 
@@ -36,6 +36,14 @@ In [Session 9](../sessions/session-9.md), that link becomes personal rather than
 
 Bartholomew later prays to Hestia and receives warmth, comfort, and a physical strengthening of his body. The same session also connects him to [Rurik Valdren](rurik-valdren.md), who recognizes him as an ancient dwarven soldier and starts pressing for his house, tattoos, and old military identity.
 
+## Sessions 10-11: Warden, Witness, and Writ
+
+[Session 10](../sessions/session-10.md) confirms Bartholomew's title as a Warden of the Veil and a member of a Slayer Team selected through the Sentinels' Demon Hunters, as well as the nickname **Hilly the Kid**. His memories return in fragments: Hollowmere's last stand, a mine purge, an arrow-maker from his era, and the operation against Lolth's sites. At the Penitent's body, he identifies fifteen matching arrows as the work of a maker he knew and believed dead.
+
+[The Justicar](the-justicar.md), who studied the Wardens, calls Bartholomew an inspiration and entrusts him with [Amir Voss's conditional execution writ](../items/amir-voss-execution-writ.md). The same meeting gives Bartholomew Church evidence about Hestia, Lolth, Lucius, the Weaver, and the dwarven capital's fall. A dream of the transformed dwarven civilization ends with Bartholomew refusing to surrender either soul or honor to save his people; the voice answers that his path is set.
+
+In [Session 11](../sessions/session-11.md), Bartholomew gives Amir complete signed testimony under the [Truth Lantern](../items/truth-lantern.md), including information implicating Rurik, and asks about joining the Inquisition. Amir suggests that the Justicars, paladins, or another Church role may suit him better. Bartholomew later discloses most of the exchange to the party but conceals that he signed a complete statement and understates the consequences for Rurik. The party sees the testimony as a betrayal of Rurik and of information entrusted to the group, continuing to work with Bartholomew while withdrawing wider trust. His recovered operation memory also establishes thirteen assigned temple sites and exposes the missing thirteenth-site problem.
+
 ## Related
 
 - [After the War Campaign](../campaign/after-the-war-campaign.md)
@@ -50,3 +58,7 @@ Bartholomew later prays to Hestia and receives warmth, comfort, and a physical s
 - [Ssar'Velyn Temple Guardian](ssar-velyn-temple-guardian.md)
 - [Session 8](../sessions/session-8.md)
 - [Session 9](../sessions/session-9.md)
+- [Lolth's Rise and the Great Crusade](../concepts/lolths-rise-and-the-great-crusade.md)
+- [Amir Voss's Execution Writ](../items/amir-voss-execution-writ.md)
+- [Session 10](../sessions/session-10.md)
+- [Session 11](../sessions/session-11.md)

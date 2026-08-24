@@ -20,7 +20,8 @@ This page is a quick entry point for the first through tenth ages. If an age has
 ## Fourth Age
 
 - [Fourth Age](fourth-age.md)
-- Summary: The age of the dwarven hegemony, the Dragon Watch, Lolth's rise and fall, Hestia's death and surviving fragments, and the coordinated strikes against Lolth's cult.
+- [Lolth's Rise and the Great Crusade](lolths-rise-and-the-great-crusade.md)
+- Summary: The age of the dwarven hegemony, the Dragon Watch, Lolth's rise and fall, anti-Lolth drow resistance, Hestia's death and surviving fragments, and the coordinated strikes against Lolth's cult.
 
 ## Fifth Age
 

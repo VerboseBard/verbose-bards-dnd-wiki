@@ -16,6 +16,10 @@ The Conclave-aligned churches use an [Ecclesiastical Order](ecclesiastical-order
 
 The Conclave's influence appears through crusading forces, inquisitorial authority, and the mission to investigate [Sunhollow Valley](../places/sunhollow-valley.md). Its representatives are not always aligned with military priorities.
 
+In [Session 10](../sessions/session-10.md), that distinction becomes visible inside the Sunhollow expedition. [The Justicar](../people/the-justicar.md) restrains [Lord Inquisitor Amir Voss](../people/amir-voss.md), accepts local guest-right, and favors destroying the immediate demon before deciding whether the oath-bound population or temple should be purged. His Church research also preserves major evidence about [Hestia](../people/hestia.md), [Lolth](../people/lolth.md), [the Weaver](../concepts/the-weaver.md), and [Lucius](../people/lucius.md).
+
+In [Session 11](../sessions/session-11.md), Amir describes reciprocal execution writs as part of the Church's watcher system. The same session exposes the system's limits when Church forces and mercenaries kill the Hadozee contingent before it acts. The record does not establish the Justicar's prior knowledge or approval, so the act should not be attributed to the whole Conclave as a settled policy.
+
 In [Moon Stone Collectors, Part 1](../sessions/moon-stone-collectors-part-1.md), the [Moon Stone Collectors](moon-stone-collectors.md) protect a [Norvindr](../places/norvindr.md) emissary tied to this early Conclave effort.
 
 In [Moon Stone Collectors, Part 16](../sessions/moon-stone-collectors-part-16.md), Conclave-aligned church leaders brief [Luka](../people/luka.md) and [Junvara](../people/junvara.md) on the danger of the six sister-fragments recombining. They fear that a completed [Sovereignty](../people/sovereignty.md) could become an arch-demoness or arch-celestial-demon level threat, and they send Luka to free [Paul](../people/paul.md) from [Julara](../people/julara.md) or kill Julara through the connection if necessary.
@@ -48,6 +52,9 @@ In [Moon Stone Collectors, Part 12](../sessions/moon-stone-collectors-part-12.md
 - [Divine Champions and Patrons](../concepts/divine-champions-and-patrons.md)
 - [Divine Gate](../concepts/divine-gate.md)
 - [Lost Homeland Mission](../concepts/lost-homeland-mission.md)
+- [Amir Voss's Execution Writ](../items/amir-voss-execution-writ.md)
+- [Session 10](../sessions/session-10.md)
+- [Session 11](../sessions/session-11.md)
 - [Arbiter of the Conclave](../concepts/arbiter-of-the-conclave.md)
 - [Moon Stone Collectors, Part 1](../sessions/moon-stone-collectors-part-1.md)
 - [The Hunt for Black Vipers, Part 8](../sessions/hunt-for-black-vipers-part-8.md)

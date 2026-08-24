@@ -24,6 +24,10 @@ By [Session 8](../sessions/session-8.md), the mission is no longer only about fi
 
 By [Session 9](../sessions/session-9.md), the mission has become a countdown. The Inquisition is close behind, [Bevar Lurton](../people/bevar-lurton.md) remains missing after the temple emissary path, [Mistress Selyra Vex'ryn](../people/mistress-selyra-vexryn.md) claims the party should redirect the Church toward a demon source south along the wall, and [Rurik Valdren](../people/rurik-valdren.md) is contacted as a possible shield against seizure or purge. The party's immediate objective shifts to briefing the [Sunhollow Council](../factions/sunhollow-council.md) before the outside force reaches the gate.
 
+In [Session 10](../sessions/session-10.md), the original scouting contract becomes a sovereignty problem. The council signs an exclusive mining agreement with Rurik, Walter Wifflewick secures a separate harengon evacuation compact, and the roughly five-hundred-person Church expedition enters the valley under guest-right. The route has therefore done exactly what the mission required while also exposing Sunhollow to the outside institutions the party feared.
+
+By [Session 11](../sessions/session-11.md), the mission has become an emergency coalition operation. The party helps prepare Rurik's fallback plans, learns of the [Leonin Curse-Breaking Ritual](leonin-curse-breaking-ritual.md), accompanies the expedition into the [Dead Lands](../places/dead-lands.md), witnesses the preemptive killing of its Hadozee contingent, and reaches the [Demon-Draining Engine](demon-draining-engine.md). The unresolved objective is no longer finding Sunhollow; it is keeping the rediscovered homeland alive through the consequences of being found.
+
 ## Related
 
 - [Contractor Status](contractor-status.md)
@@ -35,4 +39,6 @@ By [Session 9](../sessions/session-9.md), the mission has become a countdown. Th
 - [Session 7](../sessions/session-7.md)
 - [Session 8](../sessions/session-8.md)
 - [Session 9](../sessions/session-9.md)
+- [Session 10](../sessions/session-10.md)
+- [Session 11](../sessions/session-11.md)
 

@@ -108,6 +108,12 @@ After [Paul](paul.md) destroys the mushroom circle connecting the [Kuran Grove](
 
 Together they mark [Paul](paul.md) with the [Crown of Fools](../items/crown-of-fools.md), demanding that the broken bond eventually be mended.
 
+## Current Pantheon Dispute
+
+In [Session 10](../sessions/session-10.md), Owlin chroniclers describe Belle as having come close to decanonization by the current pantheon. Her avatar answered in person with an ultimatum that she would either remain in the pantheon or oppose it. The resulting position is politically unstable: her formal recognition can wane even while growing worship increases her practical power.
+
+This is a report about present divine politics, not evidence that Belle has ceased to be divine or has been removed from every church tradition.
+
 ## Related
 
 - [Conclave of Churches](../factions/conclave-of-churches.md)
@@ -139,4 +145,5 @@ Together they mark [Paul](paul.md) with the [Crown of Fools](../items/crown-of-f
 - [The Hunt for Black Vipers, Part 9](../sessions/hunt-for-black-vipers-part-9.md)
 - [Moon Stone Collectors, Part 6](../sessions/moon-stone-collectors-part-6.md)
 - [Moon Stone Collectors, Part 15](../sessions/moon-stone-collectors-part-15.md)
+- [Session 10](../sessions/session-10.md)
 

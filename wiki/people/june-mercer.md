@@ -22,10 +22,14 @@ June is warm on the surface, unsentimental underneath, and politically slippery 
 
 At the [Session 7](../sessions/session-7.md) council, the Mapach elder is the one who names [Bevar Lurton](bevar-lurton.md) **the emissary** and presses him on whether he knows what the spiders mean — and when [Gwen](gwen.md) makes her formal gestures to each seat in turn, the Mapach representative is visibly excited and **bows to the spider**. She also delivers the blunt assessment of outside power: "They can kill us, but they can't make us leave."
 
+## Session 10 Delegation
+
+In [Session 10](../sessions/session-10.md), June takes part in the emergency council and the vote approving [Rurik Valdren](rurik-valdren.md)'s exclusive mining agreement. Briarstep's smaller-predator bloc wanted a harder bargain but was outvoted. June and [Sabine Voss](sabine-voss.md) are then selected for the gate delegation because they are viewed as the seated elders most receptive to outsiders and least likely to trigger an incident with the Church expedition.
+
 ## Related
 
 - [Briarstep](../factions/briarstep.md)
 - [Sunhollow Council](../factions/sunhollow-council.md)
 - [Open Trail](../factions/open-trail.md)
 - [Session 7](../sessions/session-7.md)
-
+- [Session 10](../sessions/session-10.md)

@@ -20,10 +20,13 @@ Big Shad becomes a perfect example of how ancient lore can be both funny at the 
 
 Later [After the War Campaign](../campaign/after-the-war-campaign.md) material confirms that the divine power tied to [Lake of Glass](../places/lake-of-glass.md) has an older connection to Big Shad tradition rather than ordinary ley-line crystal behavior. In Session 7, the party learns that Driftvale has no ley lines and that the enormous crystal growth in the lake comes from ancient divine power still carried through Big Shad's descendants.
 
+In [Session 10](../sessions/session-10.md), [the Justicar](../people/the-justicar.md) independently identifies Sunhollow as the valley of the Shad and connects its crystal saturation to that old divine presence. This corroborates the valley tradition without changing the earlier distinction: Big Shad sacrificed himself during the Third-Age famine and was not one of Lolth's Fourth-Age victims.
+
 ## Related
 
 - [Timeline](timeline.md)
 - [Second Age Bound Spirit](../people/second-age-bound-spirit.md)
 - [Session 4](../sessions/session-4.md)
 - [Session 7](../sessions/session-7.md)
+- [Session 10](../sessions/session-10.md)
 - [Third Age](third-age.md)

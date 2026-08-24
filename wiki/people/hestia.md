@@ -60,6 +60,12 @@ This also makes Hestia one of the setting's clearest examples of [Divine Soul An
 
 The claim is suspect because it comes from Vex'ryn, but the party sees confirming signs. When Hestia's name is spoken, Bartholomew's inner pain fades, and the presence near his medallion and Jefferson's pendant feels like a campfire in the void. Bartholomew later prays and receives warmth, comfort, and bodily strengthening.
 
+## Church Fragment Record
+
+In [Session 10](../sessions/session-10.md), [the Justicar](the-justicar.md) shares the Church's account of Hestia's survival. Her essence was tied to prepared hearth items and sustained by ordinary acts of refuge and care. The Church believes Lolth enslaved Hestia fragments recovered from eight destroyed temple sites and used demons to absorb divine power before ritual engines converted it into usable power.
+
+That account supports, but does not make identical, the older temple and Vex'ryn versions. It explains why Fourth-Age strikes could starve Lolth's system for two ages without erasing Hestia: home and hearth continued feeding her as long as mortal life continued. The [Demon-Draining Engine](../concepts/demon-draining-engine.md) found in [Session 11](../sessions/session-11.md) provides physical evidence for the conversion mechanism.
+
 ## Related
 
 - [Fourth Age](../concepts/fourth-age.md)
@@ -74,3 +80,7 @@ The claim is suspect because it comes from Vex'ryn, but the party sees confirmin
 - [Session 6](../sessions/session-6.md)
 - [Session 8](../sessions/session-8.md)
 - [Session 9](../sessions/session-9.md)
+- [Lolth's Rise and the Great Crusade](../concepts/lolths-rise-and-the-great-crusade.md)
+- [Demon-Draining Engine](../concepts/demon-draining-engine.md)
+- [Session 10](../sessions/session-10.md)
+- [Session 11](../sessions/session-11.md)

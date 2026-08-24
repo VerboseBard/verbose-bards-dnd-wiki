@@ -22,10 +22,14 @@ Sabine is observant, dry, careful, and politically difficult to read. She is cau
 
 At the [Session 7](../sessions/session-7.md) council, an Owlin elder — ⚠likely Sabine as the Windcrest seat — flies down to question [Alistair Hooley](alistair-hooley.md) directly: *"Did you know what you would find? Were you looking for us?"* and names him a returned lost one who brings "not joy, but possibly destruction."
 
+## Session 10 Delegation
+
+In [Session 10](../sessions/session-10.md), Sabine participates in the emergency council that approves [Rurik Valdren](rurik-valdren.md)'s mining contract. She and [June Mercer](june-mercer.md) are selected for the gate delegation because they are considered the seated elders least likely to provoke the arriving Church expedition and the most receptive to outsiders. Windcrest then extends guest-right and hosts the expedition at [Windcrest Roost](../places/windcrest-roost.md).
+
 ## Related
 
 - [Windcrest](../factions/windcrest.md)
 - [Sunhollow Council](../factions/sunhollow-council.md)
 - [Open Trail](../factions/open-trail.md)
 - [Session 7](../sessions/session-7.md)
-
+- [Session 10](../sessions/session-10.md)

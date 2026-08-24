@@ -27,6 +27,10 @@ After the trial, the guardian explains the moral problem beneath the blight:
 
 She also notices the matching significance of [Bartholomew Hildebrant](bartholomew-hildebrant.md)'s [Hearth Medallion](../items/bartholomews-hearth-medallion.md) and Jefferson's amulet.
 
+## Session 11 Observer
+
+A spider-bodied creature recognized as a champion the party fought before watches the Hadozee killing from the webbing and withdraws toward the temple. Context makes a drider reading strong, but the three automated witnesses do not clearly say the word, and the record does not conclusively prove that the observer is this specific guardian. Whether the observer reached or warned the temple is also unresolved.
+
 ## Related
 
 - [Ssar'Velyn Temple](../places/ssar-velyn-temple.md)
@@ -39,3 +43,4 @@ She also notices the matching significance of [Bartholomew Hildebrant](bartholom
 - [Bartholomew's Hearth Medallion](../items/bartholomews-hearth-medallion.md)
 - [Lolth](lolth.md)
 - [Session 8](../sessions/session-8.md)
+- [Session 11](../sessions/session-11.md)

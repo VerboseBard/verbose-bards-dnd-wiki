@@ -29,6 +29,7 @@
 - [Thri'Kreen Sentorium](thri-kreen-sentorium.md)
 - [Dargains Daggers](dargains-daggers.md)
 - [Gith'Charek](gith-charek.md)
+- [Flight of the Ancients](flight-of-the-ancients.md)
 
 ## Sunhollow Valley
 

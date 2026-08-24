@@ -24,6 +24,10 @@ Her account links:
 
 She fades before the final temple gate.
 
+## Session 11
+
+The spirit appears again when the coalition crosses the ruined village. [Amir Voss](amir-voss.md) uses the [Truth Lantern](../items/truth-lantern.md) to release her from the suffering that binds her to the corrupted forest. The Hadozee council head condemns the act because the spirit had also kept the path clear as a guardian.
+
 ## Related
 
 - [Dead Lands](../places/dead-lands.md)
@@ -32,3 +36,4 @@ She fades before the final temple gate.
 - [Hestia](hestia.md)
 - [The Weaver](../concepts/the-weaver.md)
 - [Session 8](../sessions/session-8.md)
+- [Session 11](../sessions/session-11.md)

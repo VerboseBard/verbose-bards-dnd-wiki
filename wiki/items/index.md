@@ -13,6 +13,8 @@
 - [Contractor Medallions](contractor-medallions.md)
 - [Fog Marker Tokens](fog-marker-tokens.md)
 - [Truth Lantern](truth-lantern.md)
+- [Amir Voss's Execution Writ](amir-voss-execution-writ.md)
+- [Squad Bag of Holding](squad-bag-of-holding.md)
 - [Granny's Teapot](grannys-teapot.md)
 - [Music Box Anomaly](music-box-anomaly.md)
 - [Healing Injectors](healing-injectors.md)

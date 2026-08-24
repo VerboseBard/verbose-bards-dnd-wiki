@@ -68,6 +68,12 @@ That choice saves the group and simultaneously turns the music box into one of t
 
 In [Session 7](../sessions/session-7.md), Jose's Elvish becomes unexpectedly important during first contact with [Sunhollow Valley](../places/sunhollow-valley.md). [Sgt. Jefferson Stone](sergeant-jefferson-stone.md) tries to teach [Voss](voss-kenku.md), but because Jefferson does not speak Elvish he has to work through Jose, turning the whole exchange into a team effort that still somehow produces profanity-heavy bad instruction.
 
+## Sessions 10-11
+
+In [Session 10](../sessions/session-10.md), Jose's blunt honesty becomes useful inside Hollowmere's truth-rune politics. When Bartholomew is summoned to the Justicar's warded tent, Jose sends silent [Hornet](../items/hornet-drone.md) to follow and trails it at a distance. The tent wards defeat Hornet's listening capability, but the post-session continuation later replayed at the start of Session 11 establishes that [Reggie Norin](reggie-norin.md) breaches the ward and both of them hear the conversation and the conditional writ.
+
+In [Session 11](../sessions/session-11.md), Jose strikes Bartholomew after learning that the dwarf gave Amir complete testimony and then joins the party's demand for an account. His earlier uncertainty about treating all drow as evil also helps prompt Reggie to seek counsel beyond the familiar valley leaders. Jose continues with the coalition toward the demon complex despite the broken trust.
+
 ## Related
 
 - [After the War Campaign](../campaign/after-the-war-campaign.md)
@@ -85,4 +91,6 @@ In [Session 7](../sessions/session-7.md), Jose's Elvish becomes unexpectedly imp
 - [Session 7](../sessions/session-7.md)
 - [Session 8](../sessions/session-8.md)
 - [Session 9](../sessions/session-9.md)
+- [Session 10](../sessions/session-10.md)
+- [Session 11](../sessions/session-11.md)
 

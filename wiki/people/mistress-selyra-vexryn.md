@@ -38,7 +38,9 @@ Her statements should be handled cautiously. Jefferson's insight suggests she is
 
 Selyra has a **brother** active in the Sunhollow operation. He cannot enter [Ssar'Velyn Temple](../places/ssar-velyn-temple.md) — the temple bars males — but he spent years hunting its location alongside her.
 
-Per GM ruling (2026-07-31): the church's dead scout in the valley was a **penitent** — one of the faithful damned, sent to chase the imprisoned demon's emanations with old artifacts. **Selyra's brother trailed the penitent down and killed him.** The fourteen arrows in the scout's back — which the valley patrol truthfully denied firing — were the drow's work. Jefferson followed the dead man's beacon without knowing any of this.
+Per GM ruling (2026-07-31): the church's dead scout in the valley was a **penitent** — one of the faithful damned, sent to chase the imprisoned demon's emanations with old artifacts. **Selyra's brother trailed the penitent down and killed him.** Session 10 counts fifteen black arrows in the scout's back; the valley patrol truthfully denied firing them. Jefferson followed the dead man's beacon without knowing any of this.
+
+In [Session 10](../sessions/session-10.md), Bartholomew identifies the arrows as the work of one maker from his own era and recognizes Selyra's brother watching from the cliffs after the party moves the body, removes the arrows, repositions the beacon, and erases its tracks. The brother's personal name remains undisclosed in player-facing canon.
 
 She also mentions in Session 9 that the party failed to "return my notes" ⚠ — an unexplained grievance, possibly referring to the book [Bevar Lurton](bevar-lurton.md) took from the ruins, or to her murdered team's effects from Session 3.
 
@@ -50,3 +52,4 @@ She also mentions in Session 9 that the party failed to "return my notes" ⚠ �
 - [Ssar'Velyn Ghost Priestess](ssar-velyn-ghost-priestess.md)
 - [Ssar'Velyn Temple](../places/ssar-velyn-temple.md)
 - [Session 9](../sessions/session-9.md)
+- [Session 10](../sessions/session-10.md)

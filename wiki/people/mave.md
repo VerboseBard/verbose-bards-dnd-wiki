@@ -80,6 +80,10 @@ She recognizes that the party now carries the last of her divine power after the
 
 Maeve also says the school may close now that so many of its protectors and leaders are gone or changed.
 
+## Current Pantheon Confirmation
+
+In [Session 10](../sessions/session-10.md), the Owlin chroniclers and table clarification confirm the longer arc: Maeve served [Bridget](bridget.md), became family-by-bond with [Belle](belle.md), surrendered divinity to protect Belle's daughters, killed [Lucius](lucius.md) in the final battle, and re-ascended as goddess of knowledge, arts, and beauty. The Conclave now leaves her position largely unchallenged.
+
 ## Related
 
 - [Belle](belle.md)
@@ -102,4 +106,5 @@ Maeve also says the school may close now that so many of its protectors and lead
 - [War of the Gods, Session 22](../sessions/war-of-the-gods-session-22.md)
 - [Moon Stone Collectors, Part 5](../sessions/moon-stone-collectors-part-5.md)
 - [Moon Stone Collectors, Part 9](../sessions/moon-stone-collectors-part-9.md)
+- [Session 10](../sessions/session-10.md)
 

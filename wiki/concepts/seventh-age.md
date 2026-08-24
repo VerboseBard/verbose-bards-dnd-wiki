@@ -4,7 +4,7 @@ The Seventh Age is the current era of the campaign, beginning with [the Concurre
 
 ## Defining Features
 
-The age is defined by linked worlds, changing magic, political consolidation, the aftermath of [the Kreen War](kreen-war.md), and a growing market for dungeon and fog artifacts.
+The age is defined by linked worlds, changing magic, political consolidation, the aftermath of [the Kreen War](kreen-war.md), a growing market for dungeon and fog artifacts, and the return of consequences left unresolved by earlier ages. The [After the War Campaign](../campaign/after-the-war-campaign.md) has made that last thread explicit through recovered evidence concerning [Lolth's rise and the Great Crusade](lolths-rise-and-the-great-crusade.md), the [leonin curse](leonin-curse-breaking-ritual.md), and surviving Fourth-Age divine machinery.
 
 The current main campaign sits in Year 11 of this age, not at its opening moment. That means the setting is still recognizably post-[Concurrence](the-concurrence.md), but no longer brand-new. Institutions, wars, and trade systems have had time to harden.
 
@@ -32,3 +32,5 @@ Within the currently tracked campaign material, the [Seventh Age](../concepts/se
 - [Post-Concurrence Magic Theory](post-concurrence-magic.md)
 - [Dungeons](dungeons.md)
 - [Contractor Status](contractor-status.md)
+- [Seventh Age Setting Bible](seventh-age-setting-bible.md)
+- [Lolth's Rise and the Great Crusade](lolths-rise-and-the-great-crusade.md)

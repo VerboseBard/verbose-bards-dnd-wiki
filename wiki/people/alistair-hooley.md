@@ -56,6 +56,14 @@ Alistair also recognizes the guardian's blood-magic healing as matching the old 
 
 In [Session 9](../sessions/session-9.md), Alistair helps turn the temple loot into usable information by identifying the recovered potions. His work clarifies the mana-restoration potions, the dangerous stat-boosting spider mutation potion, and the deadly green ingested poison, though final item-card naming and counts still need table confirmation before full item pages are created.
 
+## Sessions 10-11: Heir and Tether
+
+In [Session 10](../sessions/session-10.md), Alistair dreams of a burning thread over a void while a voice welcomes him back to his ancestral home and untaken choices burn away. The pattern eventually resembles his mother's weaving, but the sender remains deliberately unresolved. He helps secure [Walter Wifflewick](walter-wifflewick.md)'s evacuation arrangement and, at Windcrest Roost, overhears the Owlin chroniclers' discussion of the blood curse, older gods, and the changing pantheon.
+
+By [Session 11](../sessions/session-11.md), harengon are treating his return as the restoration of an old heir: altars are being raised in his name and competitions for his hand have begun. An Ashmane elder warns him to guard the image forming around him. The political elevation remains community response rather than a formally adjudicated council title.
+
+Inside the demon complex, Alistair uses an ether crystal for light and sees thousands of souls layered over the chamber before reading the [Demon-Draining Engine](../concepts/demon-draining-engine.md). Ancient knowledge locks into him, costs one [sanity](../concepts/sanity.md), and creates a cord between his chest and the roughly forty-foot greater demon. He wins the first contest of wills, but the tether's powers and damage flow remain unresolved.
+
 ## Related
 
 - [Sunhollow Valley](../places/sunhollow-valley.md)
@@ -70,3 +78,6 @@ In [Session 9](../sessions/session-9.md), Alistair helps turn the temple loot in
 - [Session 6](../sessions/session-6.md)
 - [Session 8](../sessions/session-8.md)
 - [Session 9](../sessions/session-9.md)
+- [Demon-Draining Engine](../concepts/demon-draining-engine.md)
+- [Session 10](../sessions/session-10.md)
+- [Session 11](../sessions/session-11.md)

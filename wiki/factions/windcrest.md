@@ -46,10 +46,24 @@ Known race speakers include:
 
 Windcrest is divided. Some of its speakers are isolationist, while others lean toward [the Open Trail](open-trail.md). The clan as a whole is better at gathering information than at acting as a unified bloc.
 
+## Chroniclers and Curse Research
+
+In [Session 10](../sessions/session-10.md), the Owlin identify Windcrest's hidden institutional role as the valley's chroniclers. Their retained history reaches through the end of the Fifth Age, and they have spent roughly eight hundred years studying whether the inherited blood curse can be broken through mass rededication to another god.
+
+The clan hosts the arriving Church expedition at [Windcrest Roost](../places/windcrest-roost.md). Its elders compare older gods with the present pantheon and brief senior Church figures while guest-right keeps the expedition inside local law.
+
+The Owlin provide the blood-curse diagram used by [the Justicar](../people/the-justicar.md). He interprets their research as opportunistic and focused on Windcrest survival; that judgment is his attributed assessment rather than an objective fact about the entire clan.
+
+## Session 11
+
+Windcrest scouts join the coalition's march into the [Dead Lands](../places/dead-lands.md), extending the clan's chronicler and reconnaissance role into the campaign's most dangerous approach. A spider-bodied observer watches the Hadozee killing and withdraws toward the temple, creating an immediate information contest even though the record does not confirm whether it reaches the temple.
+
 ## Related
 
 - [Sunhollow Council](sunhollow-council.md)
 - [Sabine Voss](../people/sabine-voss.md)
 - [The Open Trail](open-trail.md)
 - [Windcrest Roost](../places/windcrest-roost.md)
+- [Session 10](../sessions/session-10.md)
+- [Session 11](../sessions/session-11.md)
 

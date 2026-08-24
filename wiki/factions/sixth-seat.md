@@ -16,10 +16,15 @@ The old rabbit seat was lost when [Cedric Moonhare](../people/cedric-moonhare.md
 - younger rabbit families
 - a few sympathetic figures in [Windcrest](windcrest.md) and [Briarstep](briarstep.md)
 
+## Session 11 Momentum
+
+The Burrowroot evacuation and [Alistair Hooley](../people/alistair-hooley.md)'s growing status transform the Sixth Seat from inherited grievance into an immediate political possibility. Harengon now describe Alistair as an heir of the old line returned through the fog, build altars in his honor, and organize competitions for his hand. Whether he accepts, rejects, or reshapes that role remains open.
+
 ## Related
 
 - [Burrowroot](burrowroot.md)
 - [Beatrix Hooley](../people/beatrix-hooley.md)
 - [Cedric Moonhare](../people/cedric-moonhare.md)
 - [Edmund Moonhare](../people/edmund-moonhare.md)
-
+- [Alistair Hooley](../people/alistair-hooley.md)
+- [Session 11](../sessions/session-11.md)

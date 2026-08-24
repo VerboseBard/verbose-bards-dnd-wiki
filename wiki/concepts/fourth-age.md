@@ -14,6 +14,8 @@ Fourth-Age dwarven arcane arts included **full-body spellcasting tattoos** — B
 
 ## Lolth's Rise and Fall
 
+See [Lolth's Rise and the Great Crusade](lolths-rise-and-the-great-crusade.md) for the dedicated conflict history and the incomplete thirteen-temple ledger.
+
 Assembled from the druid's account, the temple mosaics, and Rurik's history:
 
 - A luxury-born drow rejected the elven conclave's beauty as a lie, embraced the doctrine that *"peace is a lie — pain is the truest form of existence,"* found her model in the spider, and bred, studied, and interbred with them.
@@ -30,14 +32,13 @@ Assembled from the druid's account, the temple mosaics, and Rurik's history:
 
 ## Living Sources
 
-- [Bartholomew Hildebrant](../people/bartholomew-hildebrant.md) — mid-Fourth-Age dwarf (~600 years into the age), Warden of the Slayer Teams, in stasis ~3,800 years.
+- [Bartholomew Hildebrant](../people/bartholomew-hildebrant.md) — mid-Fourth-Age dwarf (~600 years into the age), Warden of the Veil and Slayer Team member, in stasis ~3,800 years.
 - [Rurik Valdren](../people/rurik-valdren.md) — Fourth-Age colonel of the Dragon Watch, alive continuously since.
 - [Dead Lands Ghost Druid](../people/dead-lands-ghost-druid.md) — life-bound witness of the valley's fall; guided the assault teams.
 - The [Ssar'Velyn Ghost Priestess](../people/ssar-velyn-ghost-priestess.md) and [Temple Guardian](../people/ssar-velyn-temple-guardian.md) — the cult's own surviving authorities.
 
-## To Integrate (staging for the next wiki update)
+## Open Historical Questions
 
-- **The Great Crusade** — deserves its own page (participants, dates, relation to the later coordinated strikes; the Session 3 crusader-priest in Sin claims that heritage).
 - The proper operational name of the **coordinated strikes** and of Bartholomew's **Slayer Team** (GM still owes both).
 - **Beast-folk enslavement chronology** ⚠ — the humans' island enslavement and the failed leonin revolt (Session 7 council history) versus the end-of-Fifth-Age sale to the drow: pin which parts are Fourth Age.
 - The full list of divinities killed during Lolth's rise and the coordinated strikes.
@@ -54,5 +55,8 @@ Assembled from the druid's account, the temple mosaics, and Rurik's history:
 - [The Sentinels of the Veil](../factions/sentinels-of-the-veil.md)
 - [Bartholomew Hildebrant](../people/bartholomew-hildebrant.md)
 - [Ssar'Velyn Temple](../places/ssar-velyn-temple.md)
+- [Lolth's Rise and the Great Crusade](lolths-rise-and-the-great-crusade.md)
 - [Session 8](../sessions/session-8.md)
 - [Session 9](../sessions/session-9.md)
+- [Session 10](../sessions/session-10.md)
+- [Session 11](../sessions/session-11.md)

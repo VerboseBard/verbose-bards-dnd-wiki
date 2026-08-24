@@ -26,5 +26,6 @@ Several beings carry "Destroyer" titles in the record. This page is the **Second
 - [Second Age](../concepts/second-age.md)
 - [Third Age](../concepts/third-age.md)
 - [Fourth Age](../concepts/fourth-age.md)
+- [Lolth's Rise and the Great Crusade](../concepts/lolths-rise-and-the-great-crusade.md)
 - [Session 8](../sessions/session-8.md)
 - [Session 9](../sessions/session-9.md)

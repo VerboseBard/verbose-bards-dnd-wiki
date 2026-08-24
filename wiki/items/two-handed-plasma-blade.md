@@ -75,6 +75,10 @@ The weapon is strong, but gated by limited activation time and refined energy-di
 
 Session 4 and Session 5 discuss slightly different damage and slot values for this weapon. Session 6 confirms that [Sgt. Jefferson Stone](../people/sergeant-jefferson-stone.md) installs the first upgrade, improving the critical range to 18-20. The rest of the item card should still be checked against the live character sheet before play.
 
+## Session 11 Risk
+
+The leonin curse-breaking ritual is expected to consume every connected ether crystal in Sunhollow Valley. The Greatblade uses refined energy discs, but the table does not establish whether the ritual treats those discs as connected crystals or when an active blade would fail.
+
 ## Related
 
 - [The Crashed Ship](../places/crashed-ship.md)
@@ -83,3 +87,4 @@ Session 4 and Session 5 discuss slightly different damage and slot values for th
 - [Session 4](../sessions/session-4.md)
 - [Session 5](../sessions/session-5.md)
 - [Session 6](../sessions/session-6.md)
+- [Session 11](../sessions/session-11.md)

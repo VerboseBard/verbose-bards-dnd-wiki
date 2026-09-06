@@ -472,7 +472,7 @@ Source: [recording](https://www.youtube.com/watch?v=eqYr6r-jOVk), [reviewed tran
 - 4:26–4:39: an unnamed drow contact supplies a sending ring and helps recover Bevar's stored property. Rurik exits through his portal and consumes its available transport fuel.
 - 4:50–4:58: the travellers choose to rest and gather crystals. Identification reveals the ring's location ping and the recovered second bag's living nature. The Church's cleansing and valley curse-breaking outcome remain unfinished.
 
-Spelling and source holds from Session 11 remain unless explicitly resolved. Alistair's precise sanity score and required class choice are unclear in the recognition; neither is promoted into the wiki.
+Spelling and source holds from Session 11 remain unless explicitly resolved. Per the GM's September 6, 2026 clarification, Alistair lost several sanity points over the course of the battle with the demon.
 
 ## Cross-Session Character Flow
 

@@ -4,7 +4,7 @@
 
 The [Session 12 summary](wiki/sessions/session-12.md) covers the 4:58:14 [recording](https://www.youtube.com/watch?v=eqYr6r-jOVk). The [transcript page](wiki/sessions/session-12-transcript.md) provides reviewed timestamped TXT and SRT exports and documents their limits.
 
-The source is one locally generated Whisper large-v3 witness. A full text review, targeted re-decoding, two coherent-span repetition repairs, canonical spelling corrections, and explicit editorial notes produced the reviewed exports. They are not certified verbatim or reliably diarized. Unclear class, sanity, and minor battle bookkeeping are not promoted into settled statistics.
+The source is one locally generated Whisper large-v3 witness. A full text review, targeted re-decoding, two coherent-span repetition repairs, canonical spelling corrections, and explicit editorial notes produced the reviewed exports. They are not certified verbatim or reliably diarized. Minor unclear battle bookkeeping is not promoted into settled statistics. The GM's subsequent September 6, 2026 clarification establishes that Alistair lost several sanity points during the battle; the summary, related articles, and transcript's editorial notes have been updated accordingly.
 
 ## Consequences Reconciled
 

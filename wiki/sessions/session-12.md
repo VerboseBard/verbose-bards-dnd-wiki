@@ -8,7 +8,7 @@ Source: [Session 12 recording](https://www.youtube.com/watch?v=eqYr6r-jOVk), wit
 
 ## Between Two Realities
 
-Alistair's body stands defenseless inside the [demon-draining engine](../concepts/demon-draining-engine.md), while his awareness confronts the greater demon through the cord attached to his chest. The other combatants appear distant or ghostlike to him. Attempts to weaken the cord cause him pain and further strain his [sanity](../concepts/sanity.md); the connection loosens but does not break.
+Alistair's body stands defenseless inside the [demon-draining engine](../concepts/demon-draining-engine.md), while his awareness confronts the greater demon through the cord attached to his chest. The other combatants appear distant or ghostlike to him. Attempts to weaken the cord cause him pain; the connection loosens but does not break. Alistair loses several [sanity](../concepts/sanity.md) points over the course of the battle with the demon.
 
 The Justicar empowers allied weapons with radiant force and takes the greater demon head-on. Rurik is caught, bitten and thrown, but survives and returns to the fight. [Jefferson Stone](../people/sergeant-jefferson-stone.md), [Jose](../people/jose.md), Bartholomew and their allies fight through waves of lesser demons and corrupted spiders. [Reggie Norin](../people/reggie-norin.md) protects and heals Alistair's exposed body. [Penelope Puckle](../people/penelope-puckle.md) uses her gifted pistol despite her unfamiliarity with the weapon, and Jose's drone helps disrupt enemies preparing attacks.
 

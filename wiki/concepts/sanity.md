@@ -20,9 +20,9 @@ Sanity is a tracked score in the [After the War Campaign](../campaign/after-the-
 
 In [Session 12](../sessions/session-12.md), [Alistair Hooley](../people/alistair-hooley.md) suffers further strain while trying to loosen his connection to the greater demon in the [Demon-Draining Engine](demon-draining-engine.md). During a later attempt by the demon to force power through the tether, a successful sanity check allows Alistair to redirect the attack back toward it. This is an adjudicated use of the check within that encounter.
 
-After the battle, Alistair is visibly shaken and has dried blood around his eyes, whiskers, and ears. The table discusses additional sanity loss but recalls the total approximately. His exact current score, the session's complete loss, and any lasting mechanical change remain unconfirmed. The tether survives the demon's disintegration.
+Alistair loses several sanity points over the course of the battle with the demon, as clarified by the GM on September 6, 2026. After the battle, he is visibly shaken and has dried blood around his eyes, whiskers, and ears. The tether survives the demon's disintegration.
 
-Source: [Session 12 recording](https://www.youtube.com/watch?v=eqYr6r-jOVk), 2:49-2:53 for the sanity check and redirected attack, and 3:16-3:18 for the aftermath and provisional accounting.
+Source: [Session 12 recording](https://www.youtube.com/watch?v=eqYr6r-jOVk), 2:49-2:53 for the sanity check and redirected attack, and 3:16-3:18 for the aftermath; GM clarification, September 6, 2026.
 
 ## Related
 

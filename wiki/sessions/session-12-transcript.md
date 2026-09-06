@@ -14,7 +14,9 @@
 
 The audio was transcribed locally with Whisper large-v3. The full text was reviewed in three chronological sections against the established wiki spellings. Unclear passages received targeted re-decoding, and two recognition loops were replaced. Alternate formats and the targeted passes are derivatives of one model witness, not independent confirmation.
 
-This is a reviewed automated transcript, not a certified verbatim record. Bracketed review notes are editorial annotations, not spoken dialogue; timestamps mark recognition-segment boundaries. Overlapping voices, jokes, some damage arithmetic, an allied twenty-point resource, Alistair's exact sanity accounting and the class required by his level gain remain unclear. No reliable speaker attribution is invented. The raw recognition files and detailed correction ledger are retained in the private campaign archive.
+This is a reviewed automated transcript, not a certified verbatim record. Bracketed review notes are editorial annotations, not spoken dialogue; timestamps mark recognition-segment boundaries. Overlapping voices, jokes, some damage arithmetic and an allied twenty-point resource remain unclear. No reliable speaker attribution is invented. The raw recognition files and detailed correction ledger are retained in the private campaign archive.
+
+GM clarification, September 6, 2026: Alistair lost several sanity points over the course of the battle with the demon. The summary and related articles use this description.
 
 Table discussion includes hypothetical outcomes and character beliefs. The linked summary separates those from events that actually happened. GM rulings remain authoritative for current setting canon.
 

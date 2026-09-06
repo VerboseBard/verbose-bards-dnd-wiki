@@ -72,9 +72,11 @@ Alistair draws a chalk unicorn into the chamber's ancient spellwork, closing one
 
 [The Justicar](the-justicar.md) disintegrates the greater demon with a radiant attack, allowing Alistair to return to ordinary perception. The cord shrinks to roughly finger width but remains attached. Later, [Rurik Valdren](rurik-valdren.md) briefly reveals the otherwise invisible tether and warns that it may offer power or endanger Alistair's existence. Its destination and lasting effects remain unresolved.
 
-Alistair survives with dried blood around his eyes, whiskers, and ears, visibly shaken by the struggle. The table discusses additional sanity loss, but his exact current score and the full mechanical consequences still require confirmation.
+Alistair loses several sanity points over the course of the battle with the demon. He survives with dried blood around his eyes, whiskers, and ears, visibly shaken by the struggle.
 
 Source: [Session 12 recording](https://www.youtube.com/watch?v=eqYr6r-jOVk), especially 1:58-2:04 for the chalk alteration and tether damage, 2:58-3:00 for the demon's defeat and surviving cord, and 4:08-4:10 for Rurik's later reveal.
+
+The sanity-loss description follows the GM's September 6, 2026 clarification.
 
 ## Related
 

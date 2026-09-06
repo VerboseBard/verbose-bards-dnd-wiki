@@ -42,6 +42,8 @@ An unknown rewriter then harnessed the era's death energy to alter the laws of r
 
 The [Fourth Age](fourth-age.md) is marked by the dwarven hegemony, the long defense of the [Dragon Watch](../places/dragon-watch.md), and [Lolth's rise and the Great Crusade](lolths-rise-and-the-great-crusade.md), including drow who resisted her cult. It ends in coordinated strikes against Lolth's power centers, including the assault that leaves [Bartholomew Hildebrant](../people/bartholomew-hildebrant.md) in stasis and the destruction of the First Dragon.
 
+Before his mixed-race assignment and the temple assault, Bartholomew served in dwarven special forces hunting demons. His unit's raid on a demon-blood cult killed firstborn children of powerful families. Months later, political pressure and influential support for demonic power led to the team's reassignment to a special branch working with elves, halflings, and other peoples. These memories are recovered in [Session 12](../sessions/session-12.md); the [survivor's journal](../items/dwarven-survivors-journal.md) read afterward describes the faction's later rise in the Fifth Age.
+
 ## Fifth Age
 
 [The Breaking](the-breaking.md) ends the [Fifth Age](fifth-age.md) and shatters the world order. Later generations inherit fragments, myths, and broken geographies rather than a clean historical record.

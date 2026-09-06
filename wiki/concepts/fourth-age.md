@@ -47,7 +47,9 @@ Assembled from the druid's account, the temple mosaics, and Rurik's history:
 
 ## Bartholomew's Recovered Investigation
 
-[Session 12](../sessions/session-12.md) restores memories of an operation against a demonic blood cult in [Bartholomew Hildebrant](../people/bartholomew-hildebrant.md)'s earlier life. His superiors suspected that elite families had backed their children's involvement, but lacked proof; a military faction also advocated exploiting demonic and undead power. The [journal he later reads](../items/dwarven-survivors-journal.md) describes the connected faction's later rise. That later record must not be collapsed into the earlier memory or treated as proof of every suspicion voiced at the time.
+[Session 12](../sessions/session-12.md) restores memories of [Bartholomew Hildebrant](../people/bartholomew-hildebrant.md)'s dwarven special-forces service before his mixed-race assignment. His unit raided a cult that chained demons and consumed their blood; its dead included firstborn children of powerful families. Months later, his order's head praised the operation but suspected elite family backing that could not yet be proved. He also warned of a growing military faction advocating a demonic and undead army against the undead hordes.
+
+Political pressure led to Bartholomew's team being assigned to a special branch working with elves, halflings, and other peoples while continuing its demon-hunting work. The [journal he later reads](../items/dwarven-survivors-journal.md) describes the connected faction's later rise in the Fifth Age. Its writing is attached to the same older ritual book overlooked during his raid, but the volume's journey remains unknown. That later record must not be collapsed into the earlier memory or treated as proof of every suspicion voiced at the time.
 
 ## Related
 

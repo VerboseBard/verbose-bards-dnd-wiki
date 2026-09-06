@@ -48,7 +48,9 @@ At the portal, the travellers find the recovered bag and its contents. Jose sens
 
 ## Bartholomew's Unfinished History
 
-While the others travel, Bartholomew revisits an old operation against a demonic blood cult. His order's leaders believed that powerful families might have supported their children's involvement, but could not prove it. They also warned of a military faction seeking an army made through demonic and undead power. Political pressure led to Bartholomew's group being reassigned to work with other peoples.
+While the others travel, Bartholomew revisits his earlier service in dwarven special forces, before he worked with the mixed-race group. His unit brought down a cult that chained demons and consumed their blood, distorting its members and opening them to possession. Among the dead cultists were firstborn children of powerful dwarven families.
+
+In a meeting months later, the head of his order praises the raid but explains its political cost. He suspects that the families supplied the resources for their children's involvement, although he cannot prove it. Influential people favor pursuing refined demonic power, while a growing military faction wants to combine it with undead power to build an army against the undead hordes. To move Bartholomew's team out of that political pressure, the order reassigns them to a special branch working with elves, halflings, and other peoples. Their demon-hunting work continues; this is how his earlier dwarven service leads into the mixed-race assignment.
 
 He then reads the [dwarven survivor's journal](../items/dwarven-survivors-journal.md). Its narrator describes a dwarven pocket realm cut off from other worlds, shortages exploited by powerful families and a demonic military force called the Legion of the Dead or the Damned. The journal connects the faction opposed in Bartholomew's earlier life with a regime that rose in the Fifth Age. It recounts immense groups of civilians disappearing into rituals and a sacrifice involving approximately 250,000 people. The narrator survives a passage through reality because of her bloodline and reaches an unidentified world.
 

@@ -8,11 +8,11 @@ The journal describes poor people trapped when the dwarven lands become an isola
 
 The writer describes civilians being gathered and held at the edge of survival, then removed in groups that never return. She is among approximately 250,000 people taken for a mass sacrifice intended to generate enough power to pierce reality. In her account, her bloodline allows her to pass into a different world from those the ritual's operators intended. That destination is not named here.
 
-Reading the journal connects the faction opposed during Bartholomew's earlier service with its later rise in the Fifth Age. His old anti-cult operation and the later regime described by the survivor are separate events. The journal remains a survivor's account rather than an independently verified census or complete political history.
+Reading the journal connects the demonic-power faction opposed during Bartholomew's earlier dwarven special-forces service with its later rise in the Fifth Age. His unit's cult raid and the political pressure that led to his mixed-race assignment occurred in his earlier life; the regime described by the survivor belongs to the later history. The journal reveals that the pursuit of demonic power continued after his operation. It remains a survivor's account rather than an independently verified census or proof that every family suspected in the earlier memory was complicit.
 
 ## The Older Book Beneath It
 
-The survivor's writing is attached to an older leather book she says she held when the others died. Bartholomew recognizes that underlying book as one overlooked during a demonic operation in his recovered memory. When he opens it, a presence presses against his mind. He closes it; the presence's identity and purposes remain unknown.
+The survivor's writing is sewn onto an older leather ritual book she says she held when the others died. Bartholomew recognizes that underlying volume as the book discarded on the floor and overlooked during his unit's earlier raid on the dwarven demon-blood cult. This is the same object glimpsed in his recovered memory, although its route from the raid to the survivor and back to the present remains unknown. When he opens it, a presence presses against his mind. He closes it; the presence's identity and purposes remain unknown.
 
 This volume is separate from the [Underdark field treatise](underdark-field-treatise.md) recovered by Jose and the concealed book Rurik pockets in the complex.
 

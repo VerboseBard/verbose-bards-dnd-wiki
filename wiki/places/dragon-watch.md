@@ -36,6 +36,10 @@ Rurik commanded a section of the wall for two hundred years and was standing on 
 
 The Session 10 recap confirms Dragon Watch as the first link in [Bartholomew Hildebrant](../people/bartholomew-hildebrant.md)'s service chain before the [Sentinels of the Veil](../factions/sentinels-of-the-veil.md), Demon Hunter selection, Slayer Teams, and the title Warden.
 
+## Bartholomew's Later Service
+
+[Bartholomew](../people/bartholomew-hildebrant.md)'s Dragon Watch posting preceded his work in dwarven special forces hunting demons and his later mixed-race assignment. In [Session 12](../sessions/session-12.md), he recalls his unit's raid on a dwarven demon-blood cult and the political backlash from the deaths of powerful families' firstborn. Months later, the head of his order moved the team to a special branch cooperating with elves, halflings, and other peoples so that its demon-hunting work could continue away from that pressure.
+
 ## Related
 
 - [The Sentinels of the Veil](../factions/sentinels-of-the-veil.md)
@@ -48,3 +52,4 @@ The Session 10 recap confirms Dragon Watch as the first link in [Bartholomew Hil
 - [The Breaking](../concepts/the-breaking.md)
 - [Lolth's Rise and the Great Crusade](../concepts/lolths-rise-and-the-great-crusade.md)
 - [Session 10](../sessions/session-10.md)
+- [Session 12](../sessions/session-12.md)

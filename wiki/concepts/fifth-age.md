@@ -20,7 +20,7 @@ Lucius worked with lesser beings who wished to become gods and manipulated great
 
 ## Dwarven Journal Testimony
 
-In [Session 12](../sessions/session-12.md), Bartholomew reads a [survivor's journal](../items/dwarven-survivors-journal.md) connecting a faction opposed in his earlier life with a regime that rose in the Fifth Age. The account describes demonic modification of soldiers and immense civilian sacrifices in a dwarven realm isolated from other worlds. Its survivor reaches an unidentified world through a bloodline-linked passage. The date of that passage and the narrator's identity remain unknown. This is recovered testimony, not a fully reconstructed chronology.
+In [Session 12](../sessions/session-12.md), [Bartholomew](../people/bartholomew-hildebrant.md) reads a [survivor's journal](../items/dwarven-survivors-journal.md) connecting the pursuit of demonic power opposed during his earlier dwarven special-forces service with a regime that rose in the Fifth Age. His cult raid and politically motivated reassignment to work with other peoples belong to his earlier life; this is the later rise of the faction described in the journal. The account describes demonic modification of soldiers and immense civilian sacrifices in a dwarven realm isolated from other worlds. Its survivor reaches an unidentified world through a bloodline-linked passage. The date of that passage and the narrator's identity remain unknown. This is recovered testimony, not a fully reconstructed chronology.
 
 ## Related
 

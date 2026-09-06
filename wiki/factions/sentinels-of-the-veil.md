@@ -25,6 +25,14 @@ The order's name was locked in during later worldbuilding discussion rather than
 
 [Session 10](../sessions/session-10.md) states the hierarchy on-stream: Dragon Watch posting, Sentinel of the Veil, selection and specialized Demon Hunter training, assignment to a Slayer Team, and the member title **Warden**. The modern Justicars were modeled in part on these old units, although [Rurik Valdren](../people/rurik-valdren.md) considers the imitation incomplete.
 
+## Bartholomew's Earlier Service and Reassignment
+
+[Session 12](../sessions/session-12.md) recovers a stage of [Bartholomew Hildebrant](../people/bartholomew-hildebrant.md)'s service before his mixed-race assignment. He was already serving in dwarven special forces that hunted and killed demons. His unit raided a blood-consuming cult whose dead included firstborn children of powerful families.
+
+Months later, his order's head praised the raid but explained that influential families might have backed the cultists; proof was still lacking. He also warned of growing support for refined demonic power and a small but growing military faction seeking an army combining demonic and undead power. The political pressure prompted the team's reassignment to a special branch working with elves, halflings, and other peoples, where they could continue hunting demons while the controversy subsided.
+
+Sources: [the remembered raid and reassignment](https://www.youtube.com/watch?v=eqYr6r-jOVk&t=15166), 4:12:46–4:22:32; GM confirmation of the service sequence, September 6, 2026.
+
 ## Related
 
 - [The Dragon Watch](../places/dragon-watch.md)
@@ -36,3 +44,5 @@ The order's name was locked in during later worldbuilding discussion rather than
 - [Lolth's Rise and the Great Crusade](../concepts/lolths-rise-and-the-great-crusade.md)
 - [Session 10](../sessions/session-10.md)
 - [Session 11](../sessions/session-11.md)
+- [Session 12](../sessions/session-12.md)
+- [Dwarven Survivor's Journal](../items/dwarven-survivors-journal.md)

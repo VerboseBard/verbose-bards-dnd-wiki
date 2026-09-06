@@ -118,6 +118,8 @@ Alistair turns his metaphysical tether into an opening against the greater demon
 
 The aftermath separates the party. Bartholomew stays with the Church's cleansing and discovers a survivor's journal layered over an older demonic ritual book. Jefferson accepts continuing help from the hearth presence and recovers a dangerous refined blood mixture that changes his nanites. The others accompany Rurik to his portal; an unnamed drow supplies a sending ring with a location signal and arranges the return of the property left with Bevar. The returned second bag proves to be a living storage creature.
 
+Bartholomew also remembers his dwarven special-forces service before joining the mixed-race group. His unit raided a demon-blood cult whose dead included firstborn children of powerful families. Months later, political pressure and growing interest in a demonic and undead army led his order to reassign the team to work with elves, halflings, and other peoples. The later [survivor's journal](../items/dwarven-survivors-journal.md) reveals the faction's rise in the Fifth Age and is sewn onto the very ritual book overlooked during that earlier raid.
+
 Rurik departs, leaving his optional Sanctuary City mission and unresolved legal difficulties behind. The others choose rest and crystal gathering by the river. The victory clears a prerequisite for the leonin plan; it does not settle the curse, evacuation, crystal survival or valley concealment. Read the [full Session 12 summary](../sessions/session-12.md).
 
 ## The Overall Story

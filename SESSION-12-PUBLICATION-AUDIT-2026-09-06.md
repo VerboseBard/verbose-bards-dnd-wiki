@@ -32,6 +32,12 @@ Both Markdown reads in the builder now explicitly use UTF-8. This corrects punct
 
 The reusable structural check is `python tools/audit_wiki.py --wiki wiki --site wiki-site`. It checks local links and structure; it does not claim to adjudicate every historical statement. Factual review for this publication covers Session 12, affected continuity, protected current canon, and the identified historical provenance issues. External recording references were checked at source intake; arbitrary remote websites are outside the local-link check.
 
+## Bartholomew Continuity Follow-Up
+
+The GM's September 6 clarification makes Bartholomew's prior dwarven special-forces service explicit before his mixed-race assignment. The character, Sentinels, Dragon Watch, Fourth/Fifth Age, timeline, campaign narrative/flow, session summary, and journal pages now connect the demon-blood cult raid, deaths of elite firstborn, and politically motivated reassignment months later. The head of his order praises the raid, suspects family sponsorship without proof, and warns of a growing military faction advocating demonic and undead power. The later Fifth-Age journal remains a separate history, attached to the same older ritual book overlooked during the raid. The recording places the remembered meeting four months after the raid; the narrative uses "months later."
+
+The ten-page follow-up received a separate source review against the 4:12–4:22 and 4:42–4:49 passages and the GM clarification. No unsupported chronology, faction identification, or book identity was found. Unknown people and the book's mental presence remain unidentified.
+
 ## Publication
 
 This source is published through the repository's existing **Deploy Wikipedia** GitHub Pages workflow when merged/pushed to `main`. The canonical site is [Verbose Bard's D&D Wikipedia](https://verbosebard.github.io/verbose-bards-dnd-wiki/). The local campaign completion record retains the deployed commit, workflow result, production verification, and private comparison/worldbuilding links.

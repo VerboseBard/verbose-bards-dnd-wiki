@@ -26,6 +26,14 @@ The Justicar's private safeguards are placed within a larger reciprocal system: 
 
 At the demon complex, the Justicar identifies two demons and takes the stronger one while Amir and five Inquisitors turn toward the lesser. The Justicar manifests his wings as his power rises. The party follows him partly to prevent him from spending the divine spark that would kill him. The record does not establish whether he knew of or approved Amir's earlier plan to kill the Hadozee contingent.
 
+## Session 12
+
+In [Session 12](../sessions/session-12.md), the Justicar imbues the coalition's weapons with radiant power and fights the greater demon while [Alistair Hooley](alistair-hooley.md) struggles against it through the metaphysical tether. The demon is disintegrated, and the remaining enemies in the chamber are cleared by the end of the fourth round. The Justicar survives without having to burn himself out in the sacrificial release he had prepared as a last resort.
+
+He immediately rushes to the other battlefront. When party members follow him into that chamber, the lesser demon is dead and several Inquisitors are gravely wounded or awaiting revival. He uses his remaining power to bring fallen allies back. The battle leaves no additional permanent losses beyond the Hadozee contingent killed before the assault.
+
+The Justicar remains at the complex for the Church's purification work. Late in the session, he rises from meditation to begin another four or five hours of cleansing and asks [Bartholomew](bartholomew-hildebrant.md) to help watch the entrance. Defeating the demons has made purification possible; neither the cleansing nor the valley's separate [curse-breaking ritual](../concepts/leonin-curse-breaking-ritual.md) is established as complete at the session's end.
+
 ## Related
 
 - [Lord Inquisitor Amir Voss](amir-voss.md)
@@ -33,3 +41,4 @@ At the demon complex, the Justicar identifies two demons and takes the stronger 
 - [Ecclesiastical Order](../factions/ecclesiastical-order.md)
 - [Session 10](../sessions/session-10.md)
 - [Session 11](../sessions/session-11.md)
+- [Session 12](../sessions/session-12.md)

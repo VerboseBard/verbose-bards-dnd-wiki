@@ -45,6 +45,10 @@ Assembled from the druid's account, the temple mosaics, and Rurik's history:
 - **Fourth-Age dwarven society** beyond the military: the thousand-mile mountain realm, its cities (the [Khaz-Tharol](../places/khaz-tharol-garrison.md) ruins on Driftvale are dated at least this old), and the sanctuary-city obligations ([Sanctuary City](sanctuary-city.md)).
 - Fourth-Age **arcane tattoo craft** as its own entry if it recurs.
 
+## Bartholomew's Recovered Investigation
+
+[Session 12](../sessions/session-12.md) restores memories of an operation against a demonic blood cult in [Bartholomew Hildebrant](../people/bartholomew-hildebrant.md)'s earlier life. His superiors suspected that elite families had backed their children's involvement, but lacked proof; a military faction also advocated exploiting demonic and undead power. The [journal he later reads](../items/dwarven-survivors-journal.md) describes the connected faction's later rise. That later record must not be collapsed into the earlier memory or treated as proof of every suspicion voiced at the time.
+
 ## Related
 
 - [Hestia](../people/hestia.md)

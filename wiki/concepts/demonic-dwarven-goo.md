@@ -30,7 +30,11 @@ In [Moon Stone Collectors, Part 17](../sessions/moon-stone-collectors-part-17.md
 
 The result prevents the goo from remaining a free-spreading apocalyptic infection. It also places the old undead armies, infected bodies, and goo nodes under [Viscus](../people/viscus.md)'s control, including roughly 500,000 undead soldiers preserved in frozen lakes and old dwarven systems. This makes [Kuran Grove](../places/kuran-grove.md) an unexpectedly major power.
 
-## Related
+## Session 12 Evidence to Compare
+
+The [dwarven survivor's journal](../items/dwarven-survivors-journal.md) describes another record of demonic military modification, while Jefferson's [refined demon-blood mixture](../items/refined-demon-blood-mixture.md) produces a specific nanite reaction. These discoveries in [Session 12](../sessions/session-12.md) invite comparison with the older experiments, but the recording does not establish that the sample is this infection or that the journal's army is the same network controlled by Viscus.
+
+## Related Records
 
 - [Zarvok the Torturer](../people/zarvok-the-torturer.md)
 - [Viscus](../people/viscus.md)

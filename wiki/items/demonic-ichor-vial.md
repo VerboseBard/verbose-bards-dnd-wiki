@@ -14,10 +14,16 @@ The liquid burns through leather and gives off a sulfurous, branding-iron-like s
 
 No final mechanics have been established yet. Until studied by a qualified alchemist, artificer, priest, or arcane specialist, the vial should be treated as dangerous evidence rather than a normal consumable.
 
-## Related
+## Session 12 Comparison Sample
+
+Jefferson later collects a separate [refined demon-blood mixture](refined-demon-blood-mixture.md) from the demon complex in [Session 12](../sessions/session-12.md). Its stated divine/crystal composition and its interaction with his nanites do not establish identical properties for this earlier vial. Both samples remain distinct evidence.
+
+## Related Samples and Sources
 
 - [Sgt. Jefferson Stone](../people/sergeant-jefferson-stone.md)
 - [Ssar'Velyn Temple](../places/ssar-velyn-temple.md)
 - [Dead Lands](../places/dead-lands.md)
 - [Mistress Selyra Vex'ryn](../people/mistress-selyra-vexryn.md)
 - [Session 9](../sessions/session-9.md)
+- [Refined Demon-Blood Mixture](refined-demon-blood-mixture.md)
+- [Session 12](../sessions/session-12.md)

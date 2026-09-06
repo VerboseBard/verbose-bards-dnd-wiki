@@ -11,6 +11,7 @@ Primary sources:
 - `campaign/session-1/raw-transcript.txt` through `campaign/session-9/raw-transcript.txt`
 - the audited Session 10 combined transcript and summary in `true-chronicle-audit`
 - the Session 11 large-v3 transcript, comparison ledger, and adjudicated publication record in `campaign/session-11`
+- the [Session 12 reviewed automated transcript](../sessions/session-12-transcript.md), original large-v3 recognition, targeted re-decodes and correction ledger in `campaign/session-12`
 - the matching `actual-summary.md`, `summary.md`, `canon-check.md`, `character-highlights.md`, and `mechanics-notes.md` files in each session folder
 - `wiki/campaign/after-the-war-campaign.md`
 - `wiki/campaign/after-the-war-story-so-far.md`
@@ -378,7 +379,7 @@ Key exports from Session 8:
 
 ## Session 9: Vex'ryn's Warning And The Inquisition Countdown
 
-Session 9 resolves Jefferson's separated route. Instead of falling through the intended path, he activates the plasma greatblade, stabs it into the shaft wall, melts/slows his descent, and cuts into hidden temple spaces.
+Session 9 resolves Jefferson's separated route. He activates the plasma greatblade, stabs it into the shaft wall, slows his descent by melting the stone, and cuts into hidden temple spaces.
 
 Jefferson explores an abandoned route containing a broken spider plinth, shattered egg or crypt chamber, a mechanism with a missing lever/key/handle, a vast vat chamber full of thick purple demonic ichor, connected pipes, unreadable archives, and an office that Selyra Vex'ryn calls her mother's office. The ichor burns through leather but holds in treated glass, so Jefferson collects a demonic ichor vial.
 
@@ -457,6 +458,21 @@ Key exports from Session 11:
 - The expedition's Hadozee contingent is killed before taking hostile action.
 - The original Fourth-Age operation involved thirteen assigned temple sites, with one site still missing from the spoken accounting.
 - Alistair loses one sanity and becomes tethered to the greater demon.
+
+## Session 12: The Demon Falls and the Tether Remains
+
+Source: [recording](https://www.youtube.com/watch?v=eqYr6r-jOVk), [reviewed transcript](../sessions/session-12-transcript.md), and [session summary](../sessions/session-12.md).
+
+- 0:00–1:58: Alistair's awareness is trapped in a metaphysical confrontation while his body needs protection. The Justicar strengthens allied weapons; Rurik survives a bite and throw; the coalition fights waves of demons and blood-corrupted spiders.
+- 1:58–2:05: Alistair alters the wall inscriptions with a chalk unicorn. One reinforcement passage closes; his tether strengthens, and he turns it against the demon.
+- 2:55–3:15: the Justicar's radiant attack disintegrates the greater demon; the cord shrinks but persists. The battle ends in round four. The Justicar restores the fallen on the other front, so no additional permanent losses are added to the earlier Hadozee deaths.
+- 3:22–3:44: the lesser demon is seen dead; its escape is estimated at three or four days earlier, with its planar history uncertain. Jefferson speaks with the hearth presence and bottles a refined demon-blood/divine/crystal mixture; the contact alters his nanites.
+- 3:52–4:11: books are recovered, Rurik warns about money and evacuation limits, and briefly reveals Alistair's lingering cord. Bartholomew stays; the others depart.
+- 4:12–4:22 and 4:42–4:50: Bartholomew's memories and the dwarven survivor's journal connect old blood-cult investigations to a later demonic regime. The journal is testimony; its narrator, destination and the book's journey remain unidentified.
+- 4:26–4:39: an unnamed drow contact supplies a sending ring and helps recover Bevar's stored property. Rurik exits through his portal and consumes its available transport fuel.
+- 4:50–4:58: the travellers choose to rest and gather crystals. Identification reveals the ring's location ping and the recovered second bag's living nature. The Church's cleansing and valley curse-breaking outcome remain unfinished.
+
+Spelling and source holds from Session 11 remain unless explicitly resolved. Alistair's precise sanity score and required class choice are unclear in the recognition; neither is promoted into the wiki.
 
 ## Cross-Session Character Flow
 
@@ -537,7 +553,7 @@ Core tags: Fourth Age survivor, Captain, Warden, Slayer Team, Demon Hunter, Cham
 - Is Selyra's cave-source claim true, partial truth, or misdirection?
 - What does "release" from the blood oath actually mean?
 - What is Bevar's status, and is Gwen acting independently, through old law, through Lolth-linked systems, or through another intelligence?
-- Can Rurik's signed contract survive the Inquisition's legal seizure effort, and can the harengon evacuation begin before access closes?
+- Can Rurik's signed contract survive the Inquisition's legal seizure effort, and can the ongoing harengon evacuation finish before access closes?
 - Who can safely control Hollowmere's defense matrix, and can the Ashmane ritual complete without catastrophic interruption?
 - What institutional consequences follow the killing of the Hadozee contingent before it acted?
 - What does Alistair's tether to the greater demon transfer or permit?
@@ -548,4 +564,4 @@ Core tags: Fourth Age survivor, Captain, Warden, Slayer Team, Demon Hunter, Cham
 
 When feeding this document to ChatGPT for future worldbuilding, use this framing:
 
-> This is a corrected transcript-flow reference for the After the War Campaign through Session 11 in the Seventh Age setting. Treat it as the current campaign continuity unless a later note explicitly overrides it. Use wiki-standard spellings. Separate transcript fact from character claims. Preserve the unresolved identity of the Hadozee council head, the missing thirteenth temple site, the Justicar's knowledge of Amir's plan, and the exact mechanics of the Ashmane ritual and Alistair's tether. The campaign's central current is the transformation from postwar military survival to contractor first-contact politics and then to a divided Church-and-valley coalition confronting Fourth-Age systems beneath Sunhollow.
+> This is a corrected transcript-flow reference for the After the War Campaign through Session 12 in the Seventh Age setting. Treat it as the current campaign continuity unless a later note explicitly overrides it. Use wiki-standard spellings. Separate transcript fact from character claims. Preserve the unresolved identity of the Hadozee council head, the missing thirteenth temple site, the Justicar's knowledge of Amir's plan, and the exact mechanics of the Ashmane ritual and Alistair's tether. The campaign's central current is the transformation from postwar military survival to contractor first-contact politics and then to a divided Church-and-valley coalition confronting Fourth-Age systems beneath Sunhollow.

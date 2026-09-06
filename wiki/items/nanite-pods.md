@@ -16,6 +16,12 @@ The raw Session 4 transcript already contains the first nanite-pod enhancement s
 
 By [Session 6](../sessions/session-6.md), the effects are still shaping play. Characters are adapting to the changes in their bodies, and the ship's technology has clearly altered what the party can survive on the road.
 
+## Session 12 Reaction Outside the Pods
+
+In [Session 12](../sessions/session-12.md), [Jefferson Stone](../people/sergeant-jefferson-stone.md)'s existing nanites react when he bottles a [refined mixture of demon blood, divine energy, and crystals](refined-demon-blood-mixture.md) at the demon complex. Contact strips flesh from his hand, which grows back. Some nanites are destroyed, while others are enhanced, and the GM grants an attribute increase from that interaction.
+
+This is an observed reaction to that particular sample and saving throw, not a demonstrated safe or repeatable enhancement process. It does not establish that raw demonic ichor, arbitrary mixtures, or further doses would produce the same result.
+
 ## Risks
 
 The process is poorly understood, dangerous, and partly interrupted. Wrong inputs, mixed cylinders, or broken machinery could have produced very different results. The session material strongly suggests that more than a limited number of cylinders at once would have been unsafe.
@@ -30,3 +36,4 @@ The process is poorly understood, dangerous, and partly interrupted. Wrong input
 - [Session 4](../sessions/session-4.md)
 - [Session 5](../sessions/session-5.md)
 - [Session 6](../sessions/session-6.md)
+- [Session 12](../sessions/session-12.md)

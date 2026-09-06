@@ -62,7 +62,19 @@ In [Session 10](../sessions/session-10.md), Alistair dreams of a burning thread 
 
 By [Session 11](../sessions/session-11.md), harengon are treating his return as the restoration of an old heir: altars are being raised in his name and competitions for his hand have begun. An Ashmane elder warns him to guard the image forming around him. The political elevation remains community response rather than a formally adjudicated council title.
 
-Inside the demon complex, Alistair uses an ether crystal for light and sees thousands of souls layered over the chamber before reading the [Demon-Draining Engine](../concepts/demon-draining-engine.md). Ancient knowledge locks into him, costs one [sanity](../concepts/sanity.md), and creates a cord between his chest and the roughly forty-foot greater demon. He wins the first contest of wills, but the tether's powers and damage flow remain unresolved.
+Inside the demon complex, Alistair uses an ether crystal for light and sees thousands of souls layered over the chamber before reading the [Demon-Draining Engine](../concepts/demon-draining-engine.md). Ancient knowledge locks into him, costs one [sanity](../concepts/sanity.md), and creates a cord between his chest and the roughly forty-foot greater demon. He wins the first contest of wills, but the tether's powers and damage flow remain unresolved at the end of Session 11.
+
+## Session 12: The Demon Battle
+
+In [Session 12](../sessions/session-12.md), Alistair's body remains motionless while his awareness confronts the demon through the tether. [Reggie Norin](reggie-norin.md) heals and guards him as the others fight. Alistair partly loosens the connection, then discovers that he can distract and hurt the demon through their contact.
+
+Alistair draws a chalk unicorn into the chamber's ancient spellwork, closing one conduit through which small demonic reinforcements are entering. The alteration brings psychic backlash and tightens the tether again. He repeatedly sends pain back through the connection, making the greater demon buckle and vomit blood while his companions clear its reinforcements. These actions establish what he accomplishes within this particular magical connection; the encounter does not define a permanent new power set.
+
+[The Justicar](the-justicar.md) disintegrates the greater demon with a radiant attack, allowing Alistair to return to ordinary perception. The cord shrinks to roughly finger width but remains attached. Later, [Rurik Valdren](rurik-valdren.md) briefly reveals the otherwise invisible tether and warns that it may offer power or endanger Alistair's existence. Its destination and lasting effects remain unresolved.
+
+Alistair survives with dried blood around his eyes, whiskers, and ears, visibly shaken by the struggle. The table discusses additional sanity loss, but his exact current score and the full mechanical consequences still require confirmation.
+
+Source: [Session 12 recording](https://www.youtube.com/watch?v=eqYr6r-jOVk), especially 1:58-2:04 for the chalk alteration and tether damage, 2:58-3:00 for the demon's defeat and surviving cord, and 4:08-4:10 for Rurik's later reveal.
 
 ## Related
 
@@ -81,3 +93,4 @@ Inside the demon complex, Alistair uses an ether crystal for light and sees thou
 - [Demon-Draining Engine](../concepts/demon-draining-engine.md)
 - [Session 10](../sessions/session-10.md)
 - [Session 11](../sessions/session-11.md)
+- [Session 12](../sessions/session-12.md)

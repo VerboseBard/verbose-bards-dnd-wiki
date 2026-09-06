@@ -74,6 +74,14 @@ In [Session 10](../sessions/session-10.md), Jose's blunt honesty becomes useful 
 
 In [Session 11](../sessions/session-11.md), Jose strikes Bartholomew after learning that the dwarf gave Amir complete testimony and then joins the party's demand for an account. His earlier uncertainty about treating all drow as evil also helps prompt Reggie to seek counsel beyond the familiar valley leaders. Jose continues with the coalition toward the demon complex despite the broken trust.
 
+## Session 12: Books and the Returned Bag
+
+After the demon battle in [Session 12](../sessions/session-12.md), Jose searches the complex's books using his monster-hunter knowledge. He recovers a rough leather-bound [field treatise](../items/underdark-field-treatise.md) describing monsters and flora of the Underdark, now called the Upside Down. Several pages have been deliberately torn out; their contents and remover remain unknown.
+
+Jose accompanies Jefferson, Alistair and Rurik on the temple-side route while Bartholomew stays with the Church. When the party recovers its shared property, Jose notices that the returned storage bag feels different even though its contents remain accessible. Later examination reveals a [living creature with dimensional storage](../items/living-storage-bag.md). His monster-hunter background gives him some familiarity with such creatures, but he still needs to research it. This recovered second bag is distinct from the original [military-issued squad bag](../items/squad-bag-of-holding.md). See the [Session 12 recording, 3:54:53–3:58:46](https://www.youtube.com/watch?v=eqYr6r-jOVk&t=14093) and [4:35:50–4:58:12](https://www.youtube.com/watch?v=eqYr6r-jOVk&t=16550).
+
+The returning group chooses to rest and gather crystals by the river before going toward town.
+
 ## Related
 
 - [After the War Campaign](../campaign/after-the-war-campaign.md)
@@ -93,4 +101,7 @@ In [Session 11](../sessions/session-11.md), Jose strikes Bartholomew after learn
 - [Session 9](../sessions/session-9.md)
 - [Session 10](../sessions/session-10.md)
 - [Session 11](../sessions/session-11.md)
+- [Underdark Field Treatise](../items/underdark-field-treatise.md)
+- [Living Storage Bag](../items/living-storage-bag.md)
+- [Session 12](../sessions/session-12.md)
 

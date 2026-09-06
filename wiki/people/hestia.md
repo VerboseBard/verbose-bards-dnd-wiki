@@ -66,6 +66,12 @@ In [Session 10](../sessions/session-10.md), [the Justicar](the-justicar.md) shar
 
 That account supports, but does not make identical, the older temple and Vex'ryn versions. It explains why Fourth-Age strikes could starve Lolth's system for two ages without erasing Hestia: home and hearth continued feeding her as long as mortal life continued. The [Demon-Draining Engine](../concepts/demon-draining-engine.md) found in [Session 11](../sessions/session-11.md) provides physical evidence for the conversion mechanism.
 
+## Session 12: Continued Fellowship
+
+In [Session 12](../sessions/session-12.md), the hearth presence reaches Jefferson through his amulet as he studies the [refined demon-blood mixture](../items/refined-demon-blood-mixture.md). She identifies its dangerous combination of demon blood, divine energy, and crystals, then offers either to repay the debt she owes him or remain with him and continue giving help and blessings.
+
+Jefferson accepts her continuing company while making clear that he will not be an unquestioning servant. She recognizes the family he has held together among his companions and his care for his own. Her parting observation is that even a mother's care does not guarantee that every child grows into a good person. The exchange establishes their continued mutual support; it does not announce a new title, compulsory service, or a new pendant property.
+
 ## Related
 
 - [Fourth Age](../concepts/fourth-age.md)
@@ -84,3 +90,4 @@ That account supports, but does not make identical, the older temple and Vex'ryn
 - [Demon-Draining Engine](../concepts/demon-draining-engine.md)
 - [Session 10](../sessions/session-10.md)
 - [Session 11](../sessions/session-11.md)
+- [Session 12](../sessions/session-12.md)

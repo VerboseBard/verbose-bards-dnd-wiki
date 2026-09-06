@@ -18,6 +18,10 @@ The age ends when [Lucius](../people/lucius.md) exploits a law written into real
 
 Lucius worked with lesser beings who wished to become gods and manipulated great heroes into killing the [dragon guardians](dragon-guardians.md). With the anchors removed, the old Divine Gate failed, the laws limiting ascension could be challenged, and the world shattered in [the Breaking](the-breaking.md).
 
+## Dwarven Journal Testimony
+
+In [Session 12](../sessions/session-12.md), Bartholomew reads a [survivor's journal](../items/dwarven-survivors-journal.md) connecting a faction opposed in his earlier life with a regime that rose in the Fifth Age. The account describes demonic modification of soldiers and immense civilian sacrifices in a dwarven realm isolated from other worlds. Its survivor reaches an unidentified world through a bloodline-linked passage. The date of that passage and the narrator's identity remain unknown. This is recovered testimony, not a fully reconstructed chronology.
+
 ## Related
 
 - [Council of Gods of the Fifth Age](council-of-gods-of-the-fifth-age.md)

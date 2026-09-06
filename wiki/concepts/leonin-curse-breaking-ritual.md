@@ -30,9 +30,16 @@ The ritual will consume every [ether crystal](../items/ether-crystals.md) connec
 
 The Ashmane elder also warns that the drow purchaser who enslaved the leonin arrived on a great wyvern. Records say it was tended for half a generation before its keepers stopped returning. It has not been seen in a thousand years, and the elder assumes it remains somewhere in the valley in stasis. Its connection to the defense matrix's shutdown is not yet known.
 
+## Session 12 Status
+
+In [Session 12](../sessions/session-12.md), the coalition defeats both demons beneath the [Dead Lands](../places/dead-lands.md), fulfilling the plan's prerequisite of defeating the active demonic threat. The Church begins preparing and carrying out purification at the complex, but the leonin ritual has not been shown taking control of the defense matrix or breaking the blood curse by the recording's end.
+
+[Rurik](../people/rurik-valdren.md) warns that the harengon evacuation is unlikely to finish before the ritual consumes the connected crystals. The party decides to gather crystals while resting before returning to the valley's people. Neither that decision nor the continued operation of their equipment establishes that crystals stored in a Bag of Holding will survive the eventual ritual.
+
 ## Related
 
 - [Sunhollow Valley](../places/sunhollow-valley.md)
 - [Ashmane](../factions/ashmane.md)
 - [Ssar'Velyn Temple](../places/ssar-velyn-temple.md)
 - [Session 11](../sessions/session-11.md)
+- [Session 12](../sessions/session-12.md)

@@ -20,6 +20,8 @@ In [Session 10](../sessions/session-10.md), Reggie and Jose follow Hornet to the
 
 In [Session 11](../sessions/session-11.md), Reggie brings the party to the secret twelve-member Ashmane council that reveals the [Leonin Curse-Breaking Ritual](../concepts/leonin-curse-breaking-ritual.md). During the later march, he helps Jefferson move the Burrowroot contingent away from the Hadozee immediately before the preemptive strike.
 
+In [Session 12](../sessions/session-12.md), Reggie heals [Alistair](alistair-hooley.md)'s immobile body and stands in front of him while Alistair fights through the metaphysical tether. Reggie also supports [Jefferson](sergeant-jefferson-stone.md) with Bardic Inspiration. He survives the battle with scorched fur, welcomes Alistair back to ordinary awareness, and later urges the others to check on him because something is visibly wrong.
+
 ## Related
 
 - [Briarstep](../factions/briarstep.md)
@@ -30,3 +32,4 @@ In [Session 11](../sessions/session-11.md), Reggie brings the party to the secre
 - [Session 8](../sessions/session-8.md)
 - [Session 10](../sessions/session-10.md)
 - [Session 11](../sessions/session-11.md)
+- [Session 12](../sessions/session-12.md)

@@ -8,7 +8,7 @@ The transcript introduces him as `Sergeant Voss`; later command notes identify t
 
 He welcomes the group to the Eighth Division of the [Bloody Fifth](../factions/bloody-fifth.md) and begins squad assignment by name and number.
 
-In the ticker-silence planning material, Voss is one of the worn-down sergeants at the tickers: gravel-voiced, methodical, and experienced enough to understand how bad quiet tickers are.
+Surviving Session 1 source notes describe Halric Voss as one of the worn-down sergeants at the tickers: gravel-voiced, methodical, and experienced enough to understand how bad quiet tickers are.
 
 ## Related
 

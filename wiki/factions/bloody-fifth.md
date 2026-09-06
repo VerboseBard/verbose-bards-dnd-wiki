@@ -58,7 +58,7 @@ Captains execute the general's doctrine. They control tempo, waves, and sacrific
 
 Lieutenants lead individual waves. They are visible, aggressive, and expected to die.
 
-Actual-play and planning material currently preserve two overlapping lieutenant layers.
+Actual-play and surviving Session 1 source material preserve two overlapping lieutenant layers.
 
 Confirmed actual-play continuity keeps [Lieutenant Rethiel Kaine](../people/lieutenant-rethiel-kaine.md) alive after Session 1 so he can appear in the Norinar operation in Session 2. A newer command-hierarchy note instead lists him as killed in the initial trench engagement. That conflict is tracked in the Session 1 canon check.
 
@@ -76,7 +76,7 @@ Known Session 1 sergeants include:
 
 - [Sergeant Halric Voss](../people/sergeant-halric-voss.md), introduced in the transcript as Sergeant Voss
 - [Sergeant Feder](../people/sergeant-feder.md), corporal assignment sergeant
-- [Sergeant Mireya Kest](../people/sergeant-mireya-kest.md), ticker-scene sergeant from planning notes
+- [Sergeant Mireya Kest](../people/sergeant-mireya-kest.md), ticker-scene sergeant preserved in the surviving Session 1 source notes
 
 The current hierarchy also recognizes sergeants and squad leaders as the final layer of operational command, though their names vary by theater and casualty replacement.
 

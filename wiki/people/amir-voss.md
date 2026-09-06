@@ -31,6 +31,14 @@ In [Session 11](../sessions/session-11.md), Amir uses the [Truth Lantern](../ite
 
 Amir prepares legal action against Rurik and regards Sunhollow's ether as leverage needed by a Church weakened after the War of the Gods. On the march, he releases the Dead Lands ghost druid, manifests wings at the demon complex, and draws power through his bodyguard. He also proposes killing the Hadozee contingent before its expected compelled attack. Jefferson agrees, and Church forces and mercenaries carry out the strike before the Hadozee act.
 
+## Session 12
+
+In [Session 12](../sessions/session-12.md), Amir survives the battle against the lesser demon. By the time party members reach his chamber, that demon is dead, surviving enemies are being finished, and wounded Inquisitors are receiving aid. [The Justicar](the-justicar.md) arrives from the other fight and revives fallen allies, leaving no additional permanent losses from the assault beyond the Hadozee killed before it.
+
+The party observes an unsettlingly triumphant expression on Amir's face after the victory. He tells [Bartholomew Hildebrant](bartholomew-hildebrant.md) that they are one step closer and invites him to join the ritual purification. His expression is an observed reaction, not proof that he is corrupted or that the conditions of his execution writ have been met.
+
+Amir warns that news of the Hadozee killings could provoke trouble. He is concerned about the absence of allies who had received firearms and asks that the valley's defenses not be allowed to turn against the Church if its allies betray it. This is his stated fear, not a confirmed attack or an established account of the other factions' intentions. The Church's cleansing remains underway; the valley's [blood curse](../concepts/leonin-curse-breaking-ritual.md) has not yet been broken.
+
 ## Related
 
 - [Inquisition](../factions/inquisition.md)
@@ -43,3 +51,4 @@ Amir prepares legal action against Rurik and regards Sunhollow's ether as levera
 - [The Justicar](the-justicar.md)
 - [Session 10](../sessions/session-10.md)
 - [Session 11](../sessions/session-11.md)
+- [Session 12](../sessions/session-12.md)

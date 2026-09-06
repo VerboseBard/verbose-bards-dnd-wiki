@@ -78,6 +78,12 @@ The secret [leonin curse-breaking ritual](../concepts/leonin-curse-breaking-ritu
 
 The party discusses storing reserve crystals in its [Bag of Holding](squad-bag-of-holding.md). The extradimensional space may protect them, but the outcome is not confirmed. The exact moment at which active conductors, firearms, the Plasma Greatblade, and the weapons loaned to leonin champions lose power is also unresolved.
 
+## Session 12 Supply Limits
+
+In [Session 12](../sessions/session-12.md), Rurik's departure through his portal consumes the crystals available at that installation. The portal remains in place but requires additional crystals or another power source for further transport. This is a local fuel shortage, not the consumption of all Sunhollow's crystal deposits.
+
+Rurik also warns that the harengon evacuation may not finish before the separate curse-breaking ritual consumes the valley's connected crystals. The party chooses to rest and gather crystals before returning. The ritual remains unresolved, so neither crystal preservation inside a Bag of Holding nor the eventual failure of powered devices has been tested.
+
 ## Related
 
 - [Ether Dust](ether-dust.md)
@@ -88,3 +94,4 @@ The party discusses storing reserve crystals in its [Bag of Holding](squad-bag-o
 - [Lake of Glass](../places/lake-of-glass.md)
 - [Leonin Curse-Breaking Ritual](../concepts/leonin-curse-breaking-ritual.md)
 - [Session 11](../sessions/session-11.md)
+- [Session 12](../sessions/session-12.md)

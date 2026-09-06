@@ -46,6 +46,14 @@ In [Session 11](../sessions/session-11.md), the party warns Rurik that Amir has 
 
 Rurik is also told that the [Leonin Curse-Breaking Ritual](../concepts/leonin-curse-breaking-ritual.md) will consume every ether crystal connected to the valley. He remains responsible for balancing that material loss, the evacuation, and his older promise to reach the dwarves inside the Sanctuary City.
 
+## Session 12: Departure and the Sanctuary Lead
+
+After the demon battle in [Session 12](../sessions/session-12.md), Rurik joins Jefferson, Jose and Alistair in leaving the complex while Bartholomew remains with the Church. He uses a dove-decorated ring to shield their conversation and argues that he must return to his outside affairs. He expects a legal struggle over the banked funds and warns that access may be unavailable for roughly a year; this is his forecast, not an established judgment or completed seizure.
+
+On the temple-side route, an unnamed drow woman asks Rurik to leave his portal in place after using it, and he agrees. Before departing, he confirms that Jefferson still carries the protected memory sequence and offers a substantial reward for following it to help the dwarves of [Sanctuary City](../concepts/sanctuary-city.md). He makes clear that accepting the mission is a choice. He also urges the party to help the harengon as their evacuation disperses them.
+
+Rurik passes through the portal. Its available [ether crystals](../items/ether-crystals.md) are consumed by his passage, leaving the portal structure present but unable to transport anyone until supplied with more crystals or another power source. This local expenditure happens before the valley-wide [curse-breaking ritual](../concepts/leonin-curse-breaking-ritual.md); it does not establish that the valley's crystal network has burned out. See the [Session 12 recording, 4:02:03–4:39:38](https://www.youtube.com/watch?v=eqYr6r-jOVk&t=14523).
+
 ## Related
 
 - [Calvin's Curios](../places/calvins-curios.md)
@@ -59,3 +67,4 @@ Rurik is also told that the [Leonin Curse-Breaking Ritual](../concepts/leonin-cu
 - [Leonin Curse-Breaking Ritual](../concepts/leonin-curse-breaking-ritual.md)
 - [Session 10](../sessions/session-10.md)
 - [Session 11](../sessions/session-11.md)
+- [Session 12](../sessions/session-12.md)

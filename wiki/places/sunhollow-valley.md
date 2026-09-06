@@ -85,6 +85,14 @@ In [Session 10](../sessions/session-10.md), Sunhollow becomes legally connected 
 
 In [Session 11](../sessions/session-11.md), the valley's older enslavement history becomes operational. A secret Ashmane group plans to seize the defense matrix and perform the [Leonin Curse-Breaking Ritual](../concepts/leonin-curse-breaking-ritual.md), risking mass death if interrupted and consuming every connected ether crystal. The party and coalition march into the Dead Lands, where Church forces and mercenaries kill the sixty-person Hadozee contingent before it acts. The session ends beneath the valley at the [Demon-Draining Engine](../concepts/demon-draining-engine.md).
 
+## Session 12 Aftermath
+
+The coalition defeats both demons beneath the Dead Lands in [Session 12](../sessions/session-12.md). The Justicar survives and revives the fallen on the other front, so the battle adds no permanent deaths beyond the Hadozee contingent killed before the assault. The Church's purification is underway, while the leonin curse-breaking ritual and the valley's wider political settlement remain unresolved.
+
+Rurik warns that the harengon evacuation may not finish before the ritual consumes the valley's connected crystals. He describes Unity's guild lands as the destination, but no completed evacuation count is established. His own departure through the portal uses up the crystals available at that installation; it does not establish that all Sunhollow's crystal reserves have already been consumed.
+
+An unnamed drow woman claims that the Hadozee deaths have also removed much of their inherited magical potential, with any surviving children important to its continuation. This is a claim about a possible generational loss, not proof that [Longbough](../factions/longbough.md) is extinct. News of the killing and the future control of the valley's defenses remain sources of tension.
+
 ## Hidden Political Currents
 
 Three currents matter most inside Sunhollow politics:
@@ -122,3 +130,4 @@ The route takes roughly a month of scouting, dead ends, bridge checks, mountain 
 - [Session 9](../sessions/session-9.md)
 - [Session 10](../sessions/session-10.md)
 - [Session 11](../sessions/session-11.md)
+- [Session 12](../sessions/session-12.md)

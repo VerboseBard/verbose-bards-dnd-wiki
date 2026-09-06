@@ -69,6 +69,14 @@ The party discusses his increasingly strange behavior and treats his absence as 
 
 Sessions 10 and 11 do not establish Bevar's return or condition. He remains separated from the party while the council, Church expedition, and demon operation proceed.
 
+## Session 12: Property Returned
+
+In [Session 12](../sessions/session-12.md), the party discusses trying to recover Bevar or the property he still holds, but does not establish whether he would willingly leave the temple. An unnamed drow woman associated with the casino offers to arrange the property's return. The party later finds the bag and its contents beside [Rurik](rurik-valdren.md)'s portal.
+
+[Jose](jose.md) notices that the bag has changed, although its storage still functions. Later investigation identifies it as a [living creature with dimensional storage](../items/living-storage-bag.md). The recovered bag is distinct from the party's original [Squad Bag of Holding](../items/squad-bag-of-holding.md).
+
+Bevar and Gwen do not accompany the returned property. Its recovery does not establish Bevar's death, safety, freedom, or loyalty, and the origin of the bag's altered nature remains unresolved.
+
 ## Related
 
 - [After the War Campaign](../campaign/after-the-war-campaign.md)
@@ -83,4 +91,5 @@ Sessions 10 and 11 do not establish Bevar's return or condition. He remains sepa
 - [Session 9](../sessions/session-9.md)
 - [Session 10](../sessions/session-10.md)
 - [Session 11](../sessions/session-11.md)
+- [Session 12](../sessions/session-12.md)
 

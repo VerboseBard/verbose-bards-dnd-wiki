@@ -36,7 +36,15 @@ Jefferson's [Demonic Ichor Vial](../items/demonic-ichor-vial.md), collected from
 
 In [Session 11](../sessions/session-11.md), the coalition follows the corruption through the Dead Lands toward the cave source. [Amir Voss](../people/amir-voss.md)'s lantern burns back part of the blight. He releases the ghost druid from her suffering, and the march through tar and poisoned ground imposes Constitution and healing penalties on several characters.
 
-The cave complex contains two demons and the ancient [Demon-Draining Engine](../concepts/demon-draining-engine.md). This confirms that a demon-conversion installation lies south along the wall, but it does not erase the separate evidence that Lolth's fragment, the corrupted sacred forest, and Ssar'Velyn's damaged systems also contribute to the wider blight.
+At the Session 11 arrival, the cave complex contains two demons and the ancient [Demon-Draining Engine](../concepts/demon-draining-engine.md). This confirms that a demon-conversion installation lies south along the wall, but it does not erase the separate evidence that Lolth's fragment, the corrupted sacred forest, and Ssar'Velyn's damaged systems also contribute to the wider blight.
+
+## Session 12
+
+In [Session 12](../sessions/session-12.md), the coalition defeats both demons. Giant spiders in the battle carry visible demonic blood and spit a poisonous black tar resembling the corruption on the approach. Church personnel then distribute sacred relics through the complex and prepare its purification.
+
+The greater demon is disintegrated; the lesser remains as a corpse in the second chamber. Inspection suggests the lesser demon broke free more recently, perhaps three or four days earlier, while the comparatively low corruption around it raises questions about how long it was present on this plane. Those observations do not identify who released it.
+
+The Church is still cleansing the site at the session's end. The record does not yet establish that the wider Dead Lands have recovered or that Sunhollow's blood curse has been lifted.
 
 ## Related
 
@@ -50,6 +58,7 @@ The cave complex contains two demons and the ancient [Demon-Draining Engine](../
 - [Session 8](../sessions/session-8.md)
 - [Session 9](../sessions/session-9.md)
 - [Session 11](../sessions/session-11.md)
+- [Session 12](../sessions/session-12.md)
 - [Demon-Draining Engine](../concepts/demon-draining-engine.md)
 - [Third Age](../concepts/third-age.md)
 - [The First Dragon](../people/first-dragon.md)

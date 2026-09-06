@@ -52,6 +52,12 @@ The gate delegation includes [Sabine Voss](../people/sabine-voss.md), [June Merc
 
 In [Session 11](../sessions/session-11.md), twelve Ashmane leonin reveal that they kept their [curse-breaking plan](../concepts/leonin-curse-breaking-ritual.md) from the seated council because disclosure would have caused immediate civil war. Their plan depends on seizing the same surviving defense matrix tied to the council hall. The deaths of the expedition's unnamed Hadozee council head and sixty-person contingent create a new Longbough crisis that the seated council has not yet been shown resolving.
 
+## Session 12 Pressure
+
+The coalition's victory over both demons in [Session 12](../sessions/session-12.md) removes an immediate threat but does not settle the council's control of the valley or its defense matrix. The Church remains at the complex for purification, and the [leonin curse-breaking ritual](../concepts/leonin-curse-breaking-ritual.md) is still unresolved.
+
+[Amir Voss](../people/amir-voss.md) warns that news of the Hadozee killings could provoke conflict and worries that the valley's defenses may be turned against the expedition. His warning is not evidence that the council has ordered an attack. The recording does not show a new council decision, a replacement for the slain unnamed Hadozee council head, or a resolution of the harengon evacuation.
+
 ## Internal Currents
 
 Three political currents matter most inside and around the council:
@@ -75,4 +81,5 @@ Three political currents matter most inside and around the council:
 - [Session 9](../sessions/session-9.md)
 - [Session 10](../sessions/session-10.md)
 - [Session 11](../sessions/session-11.md)
+- [Session 12](../sessions/session-12.md)
 

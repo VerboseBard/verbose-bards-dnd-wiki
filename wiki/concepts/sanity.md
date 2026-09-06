@@ -16,6 +16,14 @@ Sanity is a tracked score in the [After the War Campaign](../campaign/after-the-
 - [Alistair Hooley](../people/alistair-hooley.md): loses one sanity in [Session 11](../sessions/session-11.md) when the [Demon-Draining Engine](demon-draining-engine.md) forces its ancient ritual knowledge into him.
 - Jose's sanity bonus is flat 0; scores and modifiers should be confirmed against live sheets.
 
+## Session 12: Alistair's Tether
+
+In [Session 12](../sessions/session-12.md), [Alistair Hooley](../people/alistair-hooley.md) suffers further strain while trying to loosen his connection to the greater demon in the [Demon-Draining Engine](demon-draining-engine.md). During a later attempt by the demon to force power through the tether, a successful sanity check allows Alistair to redirect the attack back toward it. This is an adjudicated use of the check within that encounter.
+
+After the battle, Alistair is visibly shaken and has dried blood around his eyes, whiskers, and ears. The table discusses additional sanity loss but recalls the total approximately. His exact current score, the session's complete loss, and any lasting mechanical change remain unconfirmed. The tether survives the demon's disintegration.
+
+Source: [Session 12 recording](https://www.youtube.com/watch?v=eqYr6r-jOVk), 2:49-2:53 for the sanity check and redirected attack, and 3:16-3:18 for the aftermath and provisional accounting.
+
 ## Related
 
 - [Session 6](../sessions/session-6.md)
@@ -23,3 +31,4 @@ Sanity is a tracked score in the [After the War Campaign](../campaign/after-the-
 - [Gwen](../people/gwen.md)
 - [Demon-Draining Engine](demon-draining-engine.md)
 - [Session 11](../sessions/session-11.md)
+- [Session 12](../sessions/session-12.md)

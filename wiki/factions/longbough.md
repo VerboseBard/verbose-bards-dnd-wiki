@@ -28,6 +28,12 @@ Longbough is strongly aligned with [the Old Charge](old-charge.md). It treats th
 
 A sixty-person Hadozee contingent, including twenty casters, forty fighters, and an unnamed council head, joins the march toward the demon. [Amir Voss](../people/amir-voss.md) orders a preemptive attack before they act, and Church forces and mercenaries kill the whole contingent. The dead council head must not be identified as [Matthias Duren](../people/matthias-duren.md) without a later ruling.
 
+## Session 12 Aftermath
+
+In [Session 12](../sessions/session-12.md), the Justicar's timely restoration prevents additional permanent deaths in the demon battle. It does not reverse the earlier killing of the Hadozee contingent.
+
+An unnamed drow woman associated with the casino tells the party that the slain Hadozee carried the lineages responsible for much of their people's magical inheritance. She claims the loss will set magical development back for generations, except where surviving children can pass that inheritance on. This remains her account, not an independently verified census or a settled rule of Hadozee heredity. Other Hadozee remain alive, and neither Longbough's extinction nor the identity of the dead council head is established.
+
 ## Related
 
 - [Sunhollow Council](sunhollow-council.md)
@@ -35,4 +41,5 @@ A sixty-person Hadozee contingent, including twenty casters, forty fighters, and
 - [The Old Charge](old-charge.md)
 - [Longbough Canopy](../places/longbough-canopy.md)
 - [Session 11](../sessions/session-11.md)
+- [Session 12](../sessions/session-12.md)
 

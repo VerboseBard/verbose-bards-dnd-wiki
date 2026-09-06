@@ -1,6 +1,6 @@
 # Norinar Child
 
-The [Norinar](../places/norinar.md) child is an unnamed or not-yet-confirmed eight-year-old girl central to the tragedy of [Session 2](../sessions/session-2.md). Planning notes may have named her Mira Talren, but actual-play transcript confirmation is still open.
+The [Norinar](../places/norinar.md) child is an unnamed eight-year-old girl central to the tragedy of [Session 2](../sessions/session-2.md). No name is confirmed in the actual-play record.
 
 ## Role
 
@@ -19,4 +19,3 @@ Her death marks the moral center of the [Norinar](../places/norinar.md) incident
 - [Norinar](../places/norinar.md)
 - [Sergeant Quill](sergeant-quill.md)
 - [Kreen Surrender and Collars](../concepts/kreen-surrender-and-collars.md)
-

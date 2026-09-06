@@ -4,7 +4,7 @@ Lieutenant Brenic Ashlow is a quiet, survival-focused wave officer in the [Blood
 
 ## Role
 
-In the planning structure, Brenic commands Wave 4, the wave that exists mainly to show how little of the unit is left after the first attacks.
+Surviving Session 1 command notes assign Brenic to command Wave 4. The transcript's wave-officer names have not yet been reconciled with this roster.
 
 ## Related
 

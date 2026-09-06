@@ -4,7 +4,7 @@ Lieutenant Sera Dorn is an aggressive, impatient wave officer in the [Bloody Fif
 
 ## Role
 
-In the planning structure, Sera commands Wave 3 during the counterattack after the tickers go down.
+Surviving Session 1 command notes assign Sera to command Wave 3 during the counterattack after the tickers go down. The transcript's wave-officer names have not yet been reconciled with this roster.
 
 ## Related
 

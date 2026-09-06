@@ -133,6 +133,33 @@ function Get-RelativePathCompat {
     return [System.Uri]::UnescapeDataString($relativeUri.ToString()).Replace('/', [System.IO.Path]::DirectorySeparatorChar)
 }
 
+function Get-LatestSessionSummary {
+    param([string]$SourceRoot)
+
+    $sessionsRoot = Join-Path $SourceRoot "sessions"
+    if (-not (Test-Path -LiteralPath $sessionsRoot)) { return $null }
+
+    # Only session-N.md belongs to the current campaign. Historical campaigns
+    # have their own filename prefixes and must never replace this shortcut.
+    $summaries = foreach ($file in Get-ChildItem -LiteralPath $sessionsRoot -File -Filter "session-*.md") {
+        if ($file.Name -notmatch '^session-([1-9][0-9]*)\.md$') { continue }
+        $number = [int]$matches[1]
+        $markdown = [string](Get-Content -LiteralPath $file.FullName -Raw -Encoding UTF8)
+        $summary = [regex]::Match($markdown, '(?ms)^## (?:Overview|Summary)[ \t]*\r?\n(?<body>.*?)(?=^## |\z)')
+        if (-not $summary.Success -or [string]::IsNullOrWhiteSpace($summary.Groups['body'].Value)) { continue }
+
+        $heading = [regex]::Match($markdown, '(?m)^# (?<title>[^\r\n]+)')
+        $title = if ($heading.Success) { $heading.Groups['title'].Value.Trim() } else { "Session $number" }
+        [pscustomobject]@{
+            Number = $number
+            Title = $title
+            Href = "sessions/$($file.BaseName).html"
+        }
+    }
+
+    return $summaries | Sort-Object Number -Descending | Select-Object -First 1
+}
+
 function Convert-MarkdownFile {
     param(
         [string]$InputPath,
@@ -141,11 +168,12 @@ function Convert-MarkdownFile {
 
     $inputDir = Split-Path -Parent $InputPath
     $outputDir = Split-Path -Parent $OutputPath
-    $lines = Get-Content -LiteralPath $InputPath
+    $lines = Get-Content -LiteralPath $InputPath -Encoding UTF8
     $html = New-Object System.Collections.Generic.List[string]
     $toc = New-Object System.Collections.Generic.List[object]
     $title = [System.IO.Path]::GetFileNameWithoutExtension($InputPath)
     $inList = $false
+    $isHomePage = [System.IO.Path]::GetFullPath($InputPath) -eq (Join-Path $wikiResolved "index.md")
 
     foreach ($line in $lines) {
         if ($line -match '^(#{1,6})\s+(.+)$') {
@@ -163,6 +191,10 @@ function Convert-MarkdownFile {
             }
             $inline = Convert-InlineMarkdown -Text $headingText -CurrentInputDir $inputDir -CurrentOutputDir $outputDir
             $html.Add("<h$level id=""$id"">$inline</h$level>")
+            if ($isHomePage -and $level -eq 1 -and $null -ne $latestSession) {
+                $sessionTitle = ConvertTo-HtmlText $latestSession.Title
+                $html.Add("<p class=""latest-session-summary""><a href=""$($latestSession.Href)"">Last Session Summary</a><span>$sessionTitle</span></p>")
+            }
             continue
         }
 
@@ -261,6 +293,7 @@ function Convert-MarkdownFile {
 }
 
 $wikiResolved = (Resolve-Path -LiteralPath $WikiRoot).Path
+$latestSession = Get-LatestSessionSummary -SourceRoot $wikiResolved
 if (Test-Path -LiteralPath $OutputRoot) {
     Remove-Item -LiteralPath $OutputRoot -Recurse -Force
 }
@@ -439,6 +472,26 @@ code {
   border: 1px solid rgba(31, 93, 87, 0.16);
   border-radius: 0.35rem;
   padding: 0.08rem 0.25rem;
+}
+
+.latest-session-summary {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.35rem 1rem;
+  padding: 0.9rem 1.1rem;
+  background: rgba(31, 93, 87, 0.08);
+  border-left: 0.3rem solid var(--accent-2);
+  border-radius: 0.35rem;
+}
+
+.latest-session-summary a {
+  font-weight: bold;
+}
+
+.latest-session-summary span {
+  color: var(--muted);
+  font-size: 0.95em;
 }
 
 .article img {

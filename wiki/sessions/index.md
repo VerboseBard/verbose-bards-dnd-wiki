@@ -124,5 +124,7 @@ This guide is organized by age first, then by campaign in chronological order in
 - [Session 9: Vex'ryn's Warning and the Inquisition Countdown](session-9.md)
 - [Session 10: The Council, the Contract, and the Justicar's Writ](session-10.md)
 - [Session 11: The Truth-Lantern, the Leonin Plan, and the March to the Demon](session-11.md)
+- [Session 12: The Demon Falls and the Tether Remains](session-12.md)
+- [Session 12: Reviewed Automated Transcript](session-12-transcript.md)
 - Exact real-world play dates have not yet been recovered from the currently uploaded notes and transcript-support files.
 

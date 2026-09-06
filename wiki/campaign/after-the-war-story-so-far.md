@@ -112,6 +112,14 @@ The secret leonin council intends to seize the valley defense matrix and hijack 
 
 Inside the demon complex, the Justicar and party take the stronger of two demons while Amir and five Inquisitors take the lesser. Alistair sees thousands of bound souls in an ancient demon-draining engine, loses one sanity, and becomes tethered to a forty-foot demon as the recording ends.
 
+## Session 12: The Demon Falls and the Tether Remains
+
+Alistair turns his metaphysical tether into an opening against the greater demon, closing a reinforcement passage and hurting the creature while the Justicar and coalition fight. The Justicar disintegrates the greater demon, survives, and restores the fallen on the other front. Both demons are defeated with no additional permanent deaths beyond the earlier Hadozee killing. Alistair's cord remains.
+
+The aftermath separates the party. Bartholomew stays with the Church's cleansing and discovers a survivor's journal layered over an older demonic ritual book. Jefferson accepts continuing help from the hearth presence and recovers a dangerous refined blood mixture that changes his nanites. The others accompany Rurik to his portal; an unnamed drow supplies a sending ring with a location signal and arranges the return of the property left with Bevar. The returned second bag proves to be a living storage creature.
+
+Rurik departs, leaving his optional Sanctuary City mission and unresolved legal difficulties behind. The others choose rest and crystal gathering by the river. The victory clears a prerequisite for the leonin plan; it does not settle the curse, evacuation, crystal survival or valley concealment. Read the [full Session 12 summary](../sessions/session-12.md).
+
 ## The Overall Story
 
 Taken together, the sessions so far tell a single transformation story. The party begins as expendable soldiers in a war that still thinks in terms of mass casualties. They become special hunters, then postwar scavengers, then contractor troubleshooters, and finally owners of a far stranger future than the army ever planned for them.
@@ -120,7 +128,7 @@ The war itself is never really the point. It is the crucible.
 
 The real story is what happens after the army discovers that victory does not clean up the world. Some enemies surrender. Some civilians shelter them. Some officers profit. Some commanders lie. Some ancient systems wake up. Some ships fall out of the sky with answers no one expected. Some lost homelands turn out to be real. The party survives all of it by becoming adaptable enough to outlast the institutions trying to use them.
 
-Sessions 8 through 11 push that transformation into old divine law and crisis politics. The party is no longer merely discovering secrets; it is deciding whether exposing, redirecting, bargaining over, or destroying those secrets will save Sunhollow or condemn it. The Hadozee killing proves that the party and its allies can reproduce the same preemptive logic they once survived as expendable soldiers.
+Sessions 8 through 12 push that transformation into old divine law and crisis politics. The party is no longer merely discovering secrets; it is deciding whether exposing, redirecting, bargaining over, or destroying those secrets will save Sunhollow or condemn it. The Hadozee killing proves that the party and its allies can reproduce the same preemptive logic they once survived as expendable soldiers.
 
 By the end of the campaign so far, they are no longer just members of the [Bloody Fifth](../factions/bloody-fifth.md). They are no longer just [Ash's Hounds](../factions/ashs-hounds.md). They are contractor survivors carrying [Contractor Medallions](../items/contractor-medallions.md), [Priority Teleport Tokens](../items/priority-teleport-tokens.md), [Kreen Control Collars](../items/kreen-control-collars.md), nanite upgrades, a hidden route into the fog, a newly recovered homeland trail, and a ship-level mystery tied to [The Weaver](../concepts/the-weaver.md).
 

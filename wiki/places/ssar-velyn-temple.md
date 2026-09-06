@@ -52,6 +52,14 @@ In [Session 11](../sessions/session-11.md), Bartholomew remembers thirteen plann
 
 The secret [Leonin Curse-Breaking Ritual](../concepts/leonin-curse-breaking-ritual.md) intends to seize Hollowmere's surviving defense matrix and hijack the drow ritual binding the valley. That makes the temple's inherited oath architecture an active present-day system even while the coalition fights elsewhere.
 
+## Session 12 Developments
+
+In [Session 12](../sessions/session-12.md), the coalition defeats the two demons at the separate cave installation and the Church begins purification there. This does not establish the destruction or cleansing of Ssar'Velyn Temple itself, the recovery of its divine fragment, or completion of the valley's curse-breaking ritual.
+
+Afterward, the party travels with [Rurik](../people/rurik-valdren.md) toward the portal he left near his temple supplies. An unnamed drow woman associated with the casino arranges the return of property left with [Bevar](../people/bevar-lurton.md). The recovered bag is later identified as a [living creature with dimensional storage](../items/living-storage-bag.md). Bevar and Gwen do not return with it, and their condition and loyalties remain unresolved.
+
+The [refined demon-blood mixture](../items/refined-demon-blood-mixture.md) Jefferson samples at the cave installation is distinct from the [raw ichor](../items/demonic-ichor-vial.md) he collected from the temple in Session 9.
+
 ## Unresolved Temple Loot
 
 Several Session 8 temple items still need final item cards before they should receive full mechanics pages:
@@ -82,5 +90,6 @@ The finalized Session 8 item pages currently include the dark drow assassin reli
 - [Lolth's Rise and the Great Crusade](../concepts/lolths-rise-and-the-great-crusade.md)
 - [Session 10](../sessions/session-10.md)
 - [Session 11](../sessions/session-11.md)
+- [Session 12](../sessions/session-12.md)
 - [Demonic Ichor Vial](../items/demonic-ichor-vial.md)
 

@@ -4,7 +4,7 @@ Sergeant Mireya Kest is a human [Bloody Fifth](../factions/bloody-fifth.md) serg
 
 ## Role
 
-Mireya is scarred, practical, and has no patience for optimism. In the planning notes, she confirms that the tickers are no-go after the line depends on them.
+Surviving Session 1 source notes describe Mireya as scarred, practical, and impatient with optimism. She confirms that the tickers are no-go after the line depends on them.
 
 In the Wave 2 structure, she oversees half the squads under Lieutenant Corvin Hale.
 

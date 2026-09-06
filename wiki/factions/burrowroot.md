@@ -56,6 +56,12 @@ In [Session 10](../sessions/session-10.md), Burrowroot's formal leadership is di
 
 By [Session 11](../sessions/session-11.md), Rurik's people are moving the teleportation circle toward the valley edge, although no evacuation transport has yet been completed. Jefferson and Reggie move the Burrowroot element clear of the Hadozee formation immediately before the preemptive strike.
 
+## Session 12 Evacuation Risk
+
+In [Session 12](../sessions/session-12.md), [Rurik](../people/rurik-valdren.md) warns that the harengon evacuation is unlikely to carry everyone through before the [curse-breaking ritual](../concepts/leonin-curse-breaking-ritual.md) consumes the connected ether crystals. He describes the destination as the guild lands on [Unity](../places/unity.md) and anticipates difficulties for refugees arriving in an unfamiliar world with limited starting resources.
+
+The concern applies to the harengon evacuation compact, not a confirmed relocation of every Burrowroot people. The session establishes no final count of those transported or left behind.
+
 ## Related
 
 - [Sunhollow Council](sunhollow-council.md)
@@ -66,4 +72,5 @@ By [Session 11](../sessions/session-11.md), Rurik's people are moving the telepo
 - [Burrowroot Warren](../places/burrowroot-warren.md)
 - [Session 10](../sessions/session-10.md)
 - [Session 11](../sessions/session-11.md)
+- [Session 12](../sessions/session-12.md)
 

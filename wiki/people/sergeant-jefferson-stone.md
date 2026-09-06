@@ -86,7 +86,7 @@ The guardian notices Jefferson's hearth amulet and [Bartholomew Hildebrant](bart
 
 ## Session 9 Temple Route
 
-In [Session 9](../sessions/session-9.md), Jefferson's separated path through the temple is revealed. Rather than falling all the way into the intended route, he uses the [Plasma Greatblade](../items/two-handed-plasma-blade.md) to slow himself against the shaft wall and cuts into hidden temple chambers.
+In [Session 9](../sessions/session-9.md), Jefferson's separated path through the temple is revealed. He uses the [Plasma Greatblade](../items/two-handed-plasma-blade.md) to slow his fall against the shaft wall and cuts into hidden temple chambers.
 
 He discovers a shattered egg or crypt room, a broken spider plinth, an archive of unreadable old script, and a vat chamber filled with dangerous purple demonic ichor. The ichor burns through leather but can be contained in treated glass, so Jefferson collects a [Demonic Ichor Vial](../items/demonic-ichor-vial.md) for later proof or study.
 
@@ -101,6 +101,14 @@ In [Session 10](../sessions/session-10.md), Jefferson helps select the mining-ri
 In [Session 11](../sessions/session-11.md), Jefferson tells Bartholomew that complete testimony to Amir has broken the party's trust outside the demon-and-drow mission. Rurik then places a protected Sanctuary City route, safe combination, and contact sequence in Jefferson's memory, making him the contingency carrier for the surviving dwarves.
 
 Jefferson also accepts Amir's proposal to strike the Hadozee contingent before its expected compelled attack and helps move Burrowroot clear. Church forces and mercenaries kill the Hadozee before they act. The decision places Jefferson's responsibility theme in direct conflict with the preemptive military logic he has spent the campaign surviving.
+
+## Session 12: The Hearth Presence and the Return Route
+
+After the demon battle in [Session 12](../sessions/session-12.md), Jefferson feels the familiar hearth presence through [Hestia's pendant](../items/hestias-hearth-pendant.md). It describes the liquid in the second chamber as a dangerous mixture of refined demon blood, divine energy and crystals. Jefferson accepts continued help while refusing to become an unquestioning servant; the presence speaks of the squad he holds together as a family.
+
+Jefferson drinks a healing potion and fills its empty bottle with the [refined demon-blood mixture](../items/refined-demon-blood-mixture.md). Contact briefly strips flesh from his hand before it grows back. The interaction destroys some nanites but also enhances those that remain, and he chooses to apply the one-point improvement to Strength. This is a new sample from the demon complex, separate from his earlier [Demonic Ichor Vial](../items/demonic-ichor-vial.md). See the [Session 12 recording, 3:32:49–3:44:51](https://www.youtube.com/watch?v=eqYr6r-jOVk&t=12769).
+
+Jefferson leaves with Jose, Alistair and Rurik while Bartholomew stays to guard the Church's cleansing work. Rurik confirms that Jefferson retains the protected [Sanctuary City](../concepts/sanctuary-city.md) memories and offers a reward if he chooses to follow them. After Rurik's departure, the returning party chooses rest and crystal gathering by the river before approaching town. The recording does not establish the amount gathered or their arrival in town.
 
 ## Related
 
@@ -122,4 +130,6 @@ Jefferson also accepts Amir's proposal to strike the Hadozee contingent before i
 - [Session 9](../sessions/session-9.md)
 - [Session 10](../sessions/session-10.md)
 - [Session 11](../sessions/session-11.md)
+- [Refined Demon-Blood Mixture](../items/refined-demon-blood-mixture.md)
+- [Session 12](../sessions/session-12.md)
 

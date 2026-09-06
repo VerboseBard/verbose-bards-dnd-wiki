@@ -12,6 +12,8 @@ Rurik has searched for them for those 1,200 years. He now holds an active **trac
 
 In [Session 11](../sessions/session-11.md), Rurik turns the search into an emergency succession plan. He implants a protected sequence of memories in [Sgt. Jefferson Stone](../people/sergeant-jefferson-stone.md): the route through the Underdark, the combination to Rurik's Citadel safe, and contacts to approach if banking access closes. The memories can only be recalled in order and are fogged against mental extraction. Jefferson is asked to reach the sheltered dwarves if Rurik cannot.
 
+In [Session 12](../sessions/session-12.md), Rurik repeats the request before departing through his portal. He offers a substantial reward if the party follows the protected memories and helps the sheltered dwarves, but makes clear that he is not forcing them to undertake it. The invitation remains an outstanding mission; the party has not yet reached or opened a sanctuary city.
+
 ## Campaign Role
 
 Sanctuary City lore helps frame the difference between the [Second Age](second-age.md) world and the [Seventh Age](seventh-age.md) world. It is a thread for future archaeology, ancient history, and divine mystery.
@@ -24,3 +26,4 @@ Sanctuary City lore helps frame the difference between the [Second Age](second-a
 - [Rurik Valdren](../people/rurik-valdren.md)
 - [Sgt. Jefferson Stone](../people/sergeant-jefferson-stone.md)
 - [Session 11](../sessions/session-11.md)
+- [Session 12](../sessions/session-12.md)

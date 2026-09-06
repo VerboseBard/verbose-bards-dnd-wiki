@@ -70,5 +70,17 @@ This is not an age of peace but of transition. The worlds are linked, magic is c
 - [Session 2](../sessions/session-2.md): [Norinar](../places/norinar.md), [Kreen](../factions/kreen.md) surrender, and moral fracture.
 - [Session 3](../sessions/session-3.md): reassignment to [Driftvale](../places/driftvale.md) and [Fort Victory](../places/fort-victory.md) corruption.
 - [Session 4](../sessions/session-4.md): [Inquisition](../factions/inquisition.md) purge, contractor status, and crashed ship investigation.
-- [Session 5](../sessions/session-5.md): the [Concurrence](the-concurrence.md), the ship's bridge, and the start of the [Seventh Age](seventh-age.md).
+- [Session 5](../sessions/session-5.md): Kubix, the Kex bridge and records of the [Concurrence](the-concurrence.md).
+
+- [Session 6](../sessions/session-6.md): the ruined sanctuary, Hestia and discovery of Sunhollow Valley.
+- [Session 7](../sessions/session-7.md): first contact with the valley peoples.
+- [Session 8](../sessions/session-8.md): Ssar'Velyn Temple and recovery of Bartholomew.
+- [Session 9](../sessions/session-9.md): Jefferson's hidden temple route and the approaching Inquisition.
+- [Session 10](../sessions/session-10.md): the mining contract, evacuation agreement and conditional writ.
+- [Session 11](../sessions/session-11.md): sworn testimony, the Ashmane plan, the Hadozee killing and demon-engine discovery.
+- [Session 12](../sessions/session-12.md): both demons defeated; the Justicar survives; Rurik departs; the cleansing and valley curse remain unresolved.
+
+## Historical Testimony Recovered in Session 12
+
+Bartholomew's older memories describe a suppressed blood-cult investigation and concerns about elite and military interest in demonic power. The [dwarven survivor's journal](../items/dwarven-survivors-journal.md) later identifies a Fifth-Age rise of the connected faction and recounts sacrifice and displacement in an isolated dwarven realm. The narrator's identity, destination and exact date of the sacrifice are not established; do not assign them to a guessed year or named modern realm.
 

@@ -44,6 +44,16 @@ Bartholomew later prays to Hestia and receives warmth, comfort, and a physical s
 
 In [Session 11](../sessions/session-11.md), Bartholomew gives Amir complete signed testimony under the [Truth Lantern](../items/truth-lantern.md), including information implicating Rurik, and asks about joining the Inquisition. Amir suggests that the Justicars, paladins, or another Church role may suit him better. Bartholomew later discloses most of the exchange to the party but conceals that he signed a complete statement and understates the consequences for Rurik. The party sees the testimony as a betrayal of Rurik and of information entrusted to the group, continuing to work with Bartholomew while withdrawing wider trust. His recovered operation memory also establishes thirteen assigned temple sites and exposes the missing thirteenth-site problem.
 
+## Session 12: The Earlier Cult and the Survivor's Journal
+
+After the demon battle in [Session 12](../sessions/session-12.md), Bartholomew remains with the Church to rest and guard its cleansing of the complex while the other party members leave with Rurik.
+
+In a recovered memory from his earlier service, he revisits an operation against a cult that drained and consumed demon blood. He sees dead firstborn children of powerful dwarven families among the cultists. A later meeting in that memory shows the political consequences: his superior praises the operation but suspects that influential families had supplied their children, and warns of a growing military faction interested in combining demonic and undead power. The team is reassigned to work with other peoples while the pressure subsides. The families' complicity is the superior's suspicion at that time; the memory does not identify every supporter. See the [Session 12 recording, 4:12:46–4:22:32](https://www.youtube.com/watch?v=eqYr6r-jOVk&t=15166).
+
+Bartholomew then reads the [dwarven survivor's journal](../items/dwarven-survivors-journal.md), whose account describes a later isolated dwarven realm, the rise of demonic military experiments, mass sacrifice, and one woman's unintended passage to another world. The account connects the faction opposed in his old memory with its later rise in the Fifth Age; those are separate historical moments.
+
+The survivor's writing is attached to an older book. Bartholomew recognizes that underlying volume as one overlooked during the demonic operation in his memory. Opening it brings a mental presence against his mind; he closes it without establishing who or what is inside. When the Justicar prepares to begin further cleansing, Bartholomew takes his place guarding the entrance. The recording ends before that cleansing is shown complete. See the [Session 12 recording, 4:42:39–4:50:52](https://www.youtube.com/watch?v=eqYr6r-jOVk&t=16959).
+
 ## Related
 
 - [After the War Campaign](../campaign/after-the-war-campaign.md)
@@ -62,3 +72,5 @@ In [Session 11](../sessions/session-11.md), Bartholomew gives Amir complete sign
 - [Amir Voss's Execution Writ](../items/amir-voss-execution-writ.md)
 - [Session 10](../sessions/session-10.md)
 - [Session 11](../sessions/session-11.md)
+- [Dwarven Survivor's Journal](../items/dwarven-survivors-journal.md)
+- [Session 12](../sessions/session-12.md)

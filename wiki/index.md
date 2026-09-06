@@ -2,7 +2,7 @@
 
 ## About This Wikipedia
 
-This Wikipedia is built from actual-play transcripts, planning notes, and the setting codex. It keeps the material cross-linked so people, places, factions, concepts, items, campaigns, and sessions can be followed like an encyclopedia.
+This player-safe Wikipedia is built from actual-play transcripts, adjudicated canon, and setting material already cleared for publication. It keeps the material cross-linked so people, places, factions, concepts, items, campaigns, and sessions can be followed like an encyclopedia.
 
 ## Current Campaign
 
@@ -10,9 +10,9 @@ This Wikipedia is built from actual-play transcripts, planning notes, and the se
 
 ## Current Age
 
-The current campaign is set in [Year 11](concepts/timeline.md) of the [Seventh Age](concepts/seventh-age.md), eleven years after [the Concurrence](concepts/the-concurrence.md). By [Session 11](sessions/session-11.md), the party has survived the [Bloody Fifth](factions/bloody-fifth.md), served in [Ash's Hounds](factions/ashs-hounds.md), helped enable [Kreen](factions/kreen.md) surrender through [control collars](items/kreen-control-collars.md), become military contractors, claimed the hidden [Kex](places/kex.md), rediscovered [Sunhollow Valley](places/sunhollow-valley.md), and carried an arriving Church expedition into a crisis rooted in [Lolth's Fourth-Age rise](concepts/lolths-rise-and-the-great-crusade.md).
+The current campaign begins in [Year 11](concepts/timeline.md) of the [Seventh Age](concepts/seventh-age.md), eleven years after [the Concurrence](concepts/the-concurrence.md). By [Session 11](sessions/session-11.md), the party has survived the [Bloody Fifth](factions/bloody-fifth.md), served in [Ash's Hounds](factions/ashs-hounds.md), helped enable [Kreen](factions/kreen.md) surrender through [control collars](items/kreen-control-collars.md), become military contractors, claimed the hidden [Kex](places/kex.md), rediscovered [Sunhollow Valley](places/sunhollow-valley.md), and carried an arriving Church expedition into a crisis rooted in [Lolth's Fourth-Age rise](concepts/lolths-rise-and-the-great-crusade.md).
 
-The active story now turns on the [Leonin Curse-Breaking Ritual](concepts/leonin-curse-breaking-ritual.md), the ancient [Demon-Draining Engine](concepts/demon-draining-engine.md), the party's broken trust with the [Inquisition](factions/inquisition.md), [Rurik Valdren](people/rurik-valdren.md)'s threatened assets and evacuation plan, the deaths of the expedition's Hadozee contingent, and [Alistair Hooley](people/alistair-hooley.md)'s unresolved tether to the greater demon.
+In [Session 12](sessions/session-12.md), the coalition defeats both demons and [the Justicar](people/the-justicar.md) survives to restore the fallen. The victory leaves the [leonin curse-breaking ritual](concepts/leonin-curse-breaking-ritual.md) unresolved, [Alistair Hooley](people/alistair-hooley.md)'s tether intact, and the party divided between the Church's cleansing and a return to Sunhollow's people. [Rurik Valdren](people/rurik-valdren.md) departs through his portal; a [dwarven journal](items/dwarven-survivors-journal.md), a [sending ring that reveals its location](items/drow-sending-ring.md), and a [living storage bag](items/living-storage-bag.md) add new questions to the surviving political crisis.
 
 For a compact setting overview, see the [Seventh Age Setting Bible](concepts/seventh-age-setting-bible.md).
 

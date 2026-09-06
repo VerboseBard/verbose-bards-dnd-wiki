@@ -24,7 +24,11 @@ It also explains why trade, piracy, and military logistics in [Unity](unity.md) 
 
 [Rurik Valdren](../people/rurik-valdren.md) implants [Sgt. Jefferson Stone](../people/sergeant-jefferson-stone.md) with a protected sequence of memories containing a route through the Underdark to [Sanctuary City](../concepts/sanctuary-city.md). The memories can be recalled only in order and are fogged against mental probing.
 
-## Related
+## Session 12 Field Record
+
+[Jose](../people/jose.md) recovers an old [field treatise](../items/underdark-field-treatise.md) on the Underdark's monsters and flora, with pages deliberately removed. Its discovery supplies a potential source for the route ahead, without establishing what the missing pages described. Rurik repeats his optional Sanctuary City request before departing in [Session 12](../sessions/session-12.md); no sanctuary has yet been opened by the party.
+
+## Related Sources
 
 - [Unity](unity.md)
 - [The Silk Parlor](silk-parlor.md)

@@ -4,9 +4,9 @@ Lieutenant Corvin Hale is a human logistics-minded lieutenant in the [Bloody Fif
 
 ## Role
 
-Corvin is the officer Captain Aelira Vanthe calls over during the ticker-silence crisis. He is calm enough to deliver bad news without drama and exhausted enough to understand what it means.
+Surviving Session 1 command notes identify Corvin as the officer Captain Aelira Vanthe calls over during the ticker-silence crisis. They describe him as calm enough to deliver bad news without drama and exhausted enough to understand what it means.
 
-In the planning structure, he commands Wave 2 after the tickers fail.
+Those notes assign him to command Wave 2 after the tickers fail. The transcript's wave-officer names have not yet been reconciled with this roster.
 
 ## Related
 

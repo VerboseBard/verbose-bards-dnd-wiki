@@ -45,6 +45,8 @@ In [Session 10](../sessions/session-10.md), Walter uses the council negotiations
 
 Walter's warning that other bargains will follow proves accurate. By [Session 11](../sessions/session-11.md), Rurik's people are moving the teleportation circle to the valley edge, although no evacuation transport has yet occurred.
 
+In [Session 12](../sessions/session-12.md), Rurik warns that Walter's evacuation compact may not carry every harengon through before the [curse-breaking ritual](../concepts/leonin-curse-breaking-ritual.md) consumes the connected ether crystals. The destination is described as the guild lands on [Unity](../places/unity.md), where arrivals will have limited resources in an unfamiliar world. No final evacuation count or new action by Walter is established in that session.
+
 ## Related
 
 - [Burrowroot](../factions/burrowroot.md)
@@ -56,4 +58,5 @@ Walter's warning that other bargains will follow proves accurate. By [Session 11
 - [Rurik Valdren](rurik-valdren.md)
 - [Session 10](../sessions/session-10.md)
 - [Session 11](../sessions/session-11.md)
+- [Session 12](../sessions/session-12.md)
 

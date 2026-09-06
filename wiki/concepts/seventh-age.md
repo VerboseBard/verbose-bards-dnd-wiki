@@ -6,7 +6,7 @@ The Seventh Age is the current era of the campaign, beginning with [the Concurre
 
 The age is defined by linked worlds, changing magic, political consolidation, the aftermath of [the Kreen War](kreen-war.md), a growing market for dungeon and fog artifacts, and the return of consequences left unresolved by earlier ages. The [After the War Campaign](../campaign/after-the-war-campaign.md) has made that last thread explicit through recovered evidence concerning [Lolth's rise and the Great Crusade](lolths-rise-and-the-great-crusade.md), the [leonin curse](leonin-curse-breaking-ritual.md), and surviving Fourth-Age divine machinery.
 
-The current main campaign sits in Year 11 of this age, not at its opening moment. That means the setting is still recognizably post-[Concurrence](the-concurrence.md), but no longer brand-new. Institutions, wars, and trade systems have had time to harden.
+The current main campaign begins in Year 11 of this age and follows the war through demobilization and contractor service. That means the setting is still recognizably post-[Concurrence](the-concurrence.md), but no longer brand-new. Institutions, wars, and trade systems have had time to harden.
 
 ## Tone
 
@@ -25,6 +25,10 @@ Those are not just backstory archives. They are major sources of living conseque
 ## Campaign Order in the Wiki
 
 Within the currently tracked campaign material, the [Seventh Age](../concepts/seventh-age.md) is organized with [The Hunt for Black Vipers](../campaign/hunt-for-black-vipers.md) as the first campaign of the age. [Dawn of the Seventh Age](../campaign/dawn-of-the-seventh-age.md) follows as an early age-of-heroes arc, and the [After the War Campaign](../campaign/after-the-war-campaign.md) is currently placed later in the age's chronology.
+
+## Sunhollow Through Session 12
+
+The [Session 12 demon victory](../sessions/session-12.md) preserves the Justicar and the coalition's survivors. It leaves the valley's inherited blood curse, the harengon evacuation, crystal survival and political settlement unresolved. The Church prepares purification; the party separates between that work and a return to the valley. These are the current played events, not a completed transformation of Sunhollow.
 
 ## Related
 

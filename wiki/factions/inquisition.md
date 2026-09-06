@@ -30,6 +30,12 @@ In [Session 11](../sessions/session-11.md), Amir explains the Inquisition's inte
 
 The expedition then becomes a combat coalition against the demons. Before entering the complex, Amir proposes a preemptive strike against the sixty Hadozee expected to be compelled by the blood curse. Church forces and mercenaries kill the contingent before it acts. The Justicar's prior knowledge or approval is not established. The event leaves the Inquisition's claimed mission of exposing evil inside righteous systems under direct moral pressure.
 
+## Session 12: Victory and Purification
+
+In [Session 12](../sessions/session-12.md), the coalition defeats both demons. The greater demon is disintegrated on the party's battlefront, and the other lies dead in the chamber where Amir and the Inquisitors fought. Several Inquisitors suffer severe wounds or fall during that battle, but [the Justicar](../people/the-justicar.md) reaches them with power remaining to revive the dead. The assault produces no additional permanent losses beyond the Hadozee contingent killed before it.
+
+The Church then undertakes the complex's purification. This is distinct from the [leonin plan to break the valley's blood curse](../concepts/leonin-curse-breaking-ritual.md), which remains unresolved at the session's end. [Amir](../people/amir-voss.md) invites Bartholomew to participate in cleansing but also warns that news of the Hadozee killings may provoke conflict. He asks that the valley's defenses not be turned against the expedition if its allies betray it; this records his concern rather than a confirmed betrayal.
+
 ## Related
 
 - [Truth Lantern](../items/truth-lantern.md)
@@ -40,3 +46,4 @@ The expedition then becomes a combat coalition against the demons. Before enteri
 - [Session 9](../sessions/session-9.md)
 - [Session 10](../sessions/session-10.md)
 - [Session 11](../sessions/session-11.md)
+- [Session 12](../sessions/session-12.md)

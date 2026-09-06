@@ -28,6 +28,8 @@ In [Session 10](../sessions/session-10.md), the original scouting contract becom
 
 By [Session 11](../sessions/session-11.md), the mission has become an emergency coalition operation. The party helps prepare Rurik's fallback plans, learns of the [Leonin Curse-Breaking Ritual](leonin-curse-breaking-ritual.md), accompanies the expedition into the [Dead Lands](../places/dead-lands.md), witnesses the preemptive killing of its Hadozee contingent, and reaches the [Demon-Draining Engine](demon-draining-engine.md). The unresolved objective is no longer finding Sunhollow; it is keeping the rediscovered homeland alive through the consequences of being found.
 
+In [Session 12](../sessions/session-12.md), the coalition defeats both demons and the Justicar survives to restore the fallen. The party's next responsibilities divide: [Bartholomew](../people/bartholomew-hildebrant.md) remains to guard the Church during purification, while the others escort Rurik to his portal and prepare to return to the valley's people after rest and crystal gathering. The blood curse, the evacuation's final numbers, and the homeland's political future remain unresolved.
+
 ## Related
 
 - [Contractor Status](contractor-status.md)
@@ -41,4 +43,5 @@ By [Session 11](../sessions/session-11.md), the mission has become an emergency 
 - [Session 9](../sessions/session-9.md)
 - [Session 10](../sessions/session-10.md)
 - [Session 11](../sessions/session-11.md)
+- [Session 12](../sessions/session-12.md)
 

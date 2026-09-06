@@ -11,7 +11,7 @@ The party leaves the temple without [Bevar Lurton](../people/bevar-lurton.md), w
 ## Key Events
 
 - Jefferson falls through the temple shaft after trying to stop Bevar, then slows the fall by driving his plasma blade into the stone wall.
-- He cuts through the shaft into hidden parts of [Ssar'Velyn Temple](../places/ssar-velyn-temple.md) rather than following the intended trial route.
+- He cuts through the shaft into hidden parts of [Ssar'Velyn Temple](../places/ssar-velyn-temple.md) rather than falling to the bottom.
 - He explores a broken spider plinth, a shattered egg or crypt room, a missing key or lever mechanism, a vat chamber, and a library or archive of unreadable old script.
 - In the vat chamber, Jefferson identifies the thick purple liquid as blood or ichor from something powerful and dangerous. It burns leather but can be held in treated glass, so he collects a small vial.
 - Jefferson reaches an office that Vex'ryn calls her mother's office.

@@ -60,6 +60,12 @@ Afterward, the party travels with [Rurik](../people/rurik-valdren.md) toward the
 
 The [refined demon-blood mixture](../items/refined-demon-blood-mixture.md) Jefferson samples at the cave installation is distinct from the [raw ichor](../items/demonic-ichor-vial.md) he collected from the temple in Session 9.
 
+## Session 13 Developments
+
+When the leonin ritual begins, the Church turns toward the temple. After the Church-side battle, Bartholomew reaches an active escape portal as [Mistress Selyra Vex'ryn](../people/mistress-selyra-vexryn.md) attempts to use it. He destroys the portal's power crystal; the Justicar then kills Selyra. Her archer brother is elsewhere and has already escaped after killing Amir Voss.
+
+This is not a completed temple clearing. Bevar, Gwen, other occupants, the engine-bound souls, and an unclear reference to a bag with a head priestess remain separate unresolved questions. Session 14 is announced as the temple purge and ritual aftermath.
+
 ## Unresolved Temple Loot
 
 Several Session 8 temple items still need final item cards before they should receive full mechanics pages:
@@ -91,5 +97,6 @@ The finalized Session 8 item pages currently include the dark drow assassin reli
 - [Session 10](../sessions/session-10.md)
 - [Session 11](../sessions/session-11.md)
 - [Session 12](../sessions/session-12.md)
+- [Session 13](../sessions/session-13.md)
 - [Demonic Ichor Vial](../items/demonic-ichor-vial.md)
 

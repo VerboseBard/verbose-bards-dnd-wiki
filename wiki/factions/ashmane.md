@@ -37,6 +37,10 @@ Ashmane is strongly associated with [the Old Charge](old-charge.md). It treats o
 
 In [Session 10](../sessions/session-10.md), Ashmane is the most reluctant clan to accept [Rurik Valdren](../people/rurik-valdren.md)'s mining agreement. In [Session 11](../sessions/session-11.md), a secret group of twelve leonin reveals the [Leonin Curse-Breaking Ritual](../concepts/leonin-curse-breaking-ritual.md). They keep it from the seated council because they believe open disclosure would trigger civil war.
 
+## Session 13
+
+The Ashmane ritual succeeds after the party chooses an early-start defense at Hollowmere. The connected valley crystals are consumed, the inherited blood curse is broken, and Driftvale's fog disperses. The success does not supply a complete roll call for the initiating leonin, establish a required final sacrifice, or settle how Ashmane's secret action will be received by the seated council and the other clans.
+
 ## Related
 
 - [Sunhollow Council](sunhollow-council.md)

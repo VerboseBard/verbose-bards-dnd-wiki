@@ -36,6 +36,14 @@ In [Session 12](../sessions/session-12.md), the coalition defeats both demons be
 
 [Rurik](../people/rurik-valdren.md) warns that the harengon evacuation is unlikely to finish before the ritual consumes the connected crystals. The party decides to gather crystals while resting before returning to the valley's people. Neither that decision nor the continued operation of their equipment establishes that crystals stored in a Bag of Holding will survive the eventual ritual.
 
+## Session 13 Outcome
+
+The party chooses to begin early rather than wait for a larger, potentially compelled Hadozee group to reach the valley. The Hollowmere defense is intended to last through round fourteen, but the GM allows clearing the entire assault force to secure the remaining unopposed ritual time. The final enemies die in round seven.
+
+An unnamed leonin gate guard, controlled by the high-elf mental commander, destroys the final door with a prepared explosive. The broken door exposes the ritual but does not itself count as an interruption. The commander misses the recharge needed for a direct disruption and fails to land the necessary follow-up attack before Penelope kills her. A leonin then kills the last echo knight, and the GM awards full completion.
+
+The connected valley crystals are consumed, the blood curse is successfully broken, and all [Driftvale](../places/driftvale.md) fog disperses. The final storage ruling says crystals in the ordinary [Squad Bag of Holding](../items/squad-bag-of-holding.md) survive, while crystals in the [Living Storage Bag](../items/living-storage-bag.md) do not. The source does not state the ritualists' final condition, a final sacrifice, or a complete casualty count. The specific round thresholds discussed before and during the battle are battle-context risk rulings, not a general reusable ritual stat block.
+
 ## Related
 
 - [Sunhollow Valley](../places/sunhollow-valley.md)
@@ -43,3 +51,4 @@ In [Session 12](../sessions/session-12.md), the coalition defeats both demons be
 - [Ssar'Velyn Temple](../places/ssar-velyn-temple.md)
 - [Session 11](../sessions/session-11.md)
 - [Session 12](../sessions/session-12.md)
+- [Session 13](../sessions/session-13.md)

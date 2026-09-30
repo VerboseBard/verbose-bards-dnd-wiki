@@ -6,7 +6,7 @@ This index gathers the major campaign arcs currently represented in the wiki.
 
 - [After the War Campaign](after-the-war-campaign.md): the active Seventh Age campaign following the former Bloody Fifth / Ash's Hounds party into Driftvale, Sunhollow Valley, and the Ssar'Velyn crisis.
 - [After the War Story So Far](after-the-war-story-so-far.md): running campaign summary for the active arc.
-- [After the War Corrected Transcript Flow](after-the-war-corrected-transcript-flow.md): spell-checked, canon-normalized transcript-flow reference for After the War Sessions 1-12, with a downloadable reviewed Session 12 transcript.
+- [After the War Corrected Transcript Flow](after-the-war-corrected-transcript-flow.md): spell-checked, canon-normalized transcript-flow reference for After the War Sessions 1-13, with downloadable reviewed transcripts for Sessions 12 and 13.
 
 ## Seventh Age Campaigns
 
@@ -25,4 +25,3 @@ This index gathers the major campaign arcs currently represented in the wiki.
 - [Logan's First Campaign](logans-first-campaign.md)
 - [Logan's Second Campaign](logans-second-campaign.md)
 - [Logan's Third Campaign](logans-third-campaign.md)
-

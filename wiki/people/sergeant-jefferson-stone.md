@@ -110,6 +110,12 @@ Jefferson drinks a healing potion and fills its empty bottle with the [refined d
 
 Jefferson leaves with Jose, Alistair and Rurik while Bartholomew stays to guard the Church's cleansing work. Rurik confirms that Jefferson retains the protected [Sanctuary City](../concepts/sanctuary-city.md) memories and offers a reward if he chooses to follow them. After Rurik's departure, the returning party chooses rest and crystal gathering by the river before approaching town. The recording does not establish the amount gathered or their arrival in town.
 
+## Session 13
+
+Jefferson helps turn the early-start choice into concrete defense: he seeks choke points and supplies, supports the harassment-and-withdrawal plan, maintains Bless through the fight, and turns Hestia's benefit into a critical combat moment. He protects allies, ignites the prepared oil, and reaches the mental commander only after Alistair's Longstrider support.
+
+Jefferson's attacks ignite the commander immediately before Penelope's decisive strike. The battle reinforces his Hestia connection and his role as a practical protector, but it does not establish a new permanent power, erase his existing debts or obligations, or resolve Alistair's tether.
+
 ## Related
 
 - [After the War Campaign](../campaign/after-the-war-campaign.md)
@@ -132,4 +138,5 @@ Jefferson leaves with Jose, Alistair and Rurik while Bartholomew stays to guard 
 - [Session 11](../sessions/session-11.md)
 - [Refined Demon-Blood Mixture](../items/refined-demon-blood-mixture.md)
 - [Session 12](../sessions/session-12.md)
+- [Session 13](../sessions/session-13.md)
 

@@ -39,6 +39,12 @@ The party observes an unsettlingly triumphant expression on Amir's face after th
 
 Amir warns that news of the Hadozee killings could provoke trouble. He is concerned about the absence of allies who had received firearms and asks that the valley's defenses not be allowed to turn against the Church if its allies betray it. This is his stated fear, not a confirmed attack or an established account of the other factions' intentions. The Church's cleansing remains underway; the valley's [blood curse](../concepts/leonin-curse-breaking-ritual.md) has not yet been broken.
 
+## Death in Session 13
+
+In [Session 13](../sessions/session-13.md), Amir helps the Justicar bring down the wyvern and remains part of the Church's response to the ritual. After Bartholomew recovers the execution writ and prevents its activation, Selyra's archer brother separately poisons and disintegrates Amir. The [Truth Lantern](../items/truth-lantern.md) shatters when it falls.
+
+No resurrection, body recovery, or final Church casualty decision is narrated. Amir's combat death is not the writ's execution and does not settle the Justicar's earlier concerns about his greed or the moral meaning of the Hadozee killings.
+
 ## Related
 
 - [Inquisition](../factions/inquisition.md)
@@ -52,3 +58,4 @@ Amir warns that news of the Hadozee killings could provoke trouble. He is concer
 - [Session 10](../sessions/session-10.md)
 - [Session 11](../sessions/session-11.md)
 - [Session 12](../sessions/session-12.md)
+- [Session 13](../sessions/session-13.md)

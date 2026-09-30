@@ -82,6 +82,12 @@ Jose accompanies Jefferson, Alistair and Rurik on the temple-side route while Ba
 
 The returning group chooses to rest and gather crystals by the river before going toward town.
 
+## Session 13
+
+Jose's large form, movement, grappling, drone, and limited nanite recovery become central to the Hollowmere defense. The high-elf mental commander compels him to break into the ritual room; Reggie's intervention burns enough of his turn to prevent an immediate breach, though the command itself is not simply dispelled. Later, Jose throws the commander into the prepared fire, uses nanite recovery after dropping, and returns to protect the objective.
+
+At the final crisis, Jose tries to grapple the commander. She spends her reaction to avoid the grip, leaving her without that defense against the finishing sequence. The Session 13 events do not resolve Jose's remaining recovery charges or alter the status of the [Living Storage Bag](../items/living-storage-bag.md) beyond its separate crystal-loss ruling.
+
 ## Related
 
 - [After the War Campaign](../campaign/after-the-war-campaign.md)
@@ -104,4 +110,5 @@ The returning group chooses to rest and gather crystals by the river before goin
 - [Underdark Field Treatise](../items/underdark-field-treatise.md)
 - [Living Storage Bag](../items/living-storage-bag.md)
 - [Session 12](../sessions/session-12.md)
+- [Session 13](../sessions/session-13.md)
 

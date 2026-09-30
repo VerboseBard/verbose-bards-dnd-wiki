@@ -36,6 +36,10 @@ The Justicar confirms that this is the valley of the [Big Shad](../concepts/big-
 
 The recorded session ends after Bartholomew returns with the writ and begins deciding how much of the conversation to share.
 
+## Later Continuity
+
+In [Session 13](session-13.md), the writ is found in an enemy paladin's possession. Bartholomew recovers it before it can activate, but Amir is separately disintegrated by Selyra's archer brother. The document's recovery therefore closes the immediate custody question while leaving its original transfer and Amir's moral threshold unresolved.
+
 ## Related
 
 - [After the War Campaign](../campaign/after-the-war-campaign.md)
@@ -44,4 +48,4 @@ The recorded session ends after Bartholomew returns with the writ and begins dec
 - [The Justicar](../people/the-justicar.md)
 - [Rurik Valdren](../people/rurik-valdren.md)
 - [Bartholomew Hildebrant](../people/bartholomew-hildebrant.md)
-
+- [Session 13: By the Skin of Their Teeth](session-13.md)

@@ -58,6 +58,10 @@ The coalition's victory over both demons in [Session 12](../sessions/session-12.
 
 [Amir Voss](../people/amir-voss.md) warns that news of the Hadozee killings could provoke conflict and worries that the valley's defenses may be turned against the expedition. His warning is not evidence that the council has ordered an attack. The recording does not show a new council decision, a replacement for the slain unnamed Hadozee council head, or a resolution of the harengon evacuation.
 
+## Session 13 Aftermath
+
+The Ashmane ritual completes at Hollowmere and disperses Driftvale's fog. This creates a new council reality without recording a new council meeting, a replacement Longbough representative, a settled defense-matrix administrator, or a negotiated response to the Church after Amir's death. The council's long-standing secrecy, the earlier Hadozee killing, refugee movement, and exposure to the wider world are therefore active aftermath pressures, not resolved policy.
+
 ## Internal Currents
 
 Three political currents matter most inside and around the council:

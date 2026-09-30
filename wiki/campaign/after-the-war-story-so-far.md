@@ -122,6 +122,16 @@ Bartholomew also remembers his dwarven special-forces service before joining the
 
 Rurik departs, leaving his optional Sanctuary City mission and unresolved legal difficulties behind. The others choose rest and crystal gathering by the river. The victory clears a prerequisite for the leonin plan; it does not settle the curse, evacuation, crystal survival or valley concealment. Read the [full Session 12 summary](../sessions/session-12.md).
 
+## Session 13: By the Skin of Their Teeth
+
+The party chooses to start the leonin ritual early after the earlier Hadozee killing costs the coalition support and a larger, potentially compelled civilian group is reported on the way. That choice prevents the civilian group from reaching the battle, but it leaves Hollowmere short-handed. Reggie helps direct the defense, the party builds traps and demolition points, and Eric Vossel is sent to accelerate the evacuation rather than remain as a fighter.
+
+The Church turns toward Ssar'Velyn when the ritual begins. The Justicar crashes and later kills the wyvern, while Bartholomew recovers the missing execution writ from an enemy paladin before it can be used. Amir dies separately when Selyra's archer brother disintegrates him, shattering the Truth Lantern; the archer escapes. The paladin dies after Bartholomew also takes a Meteor Swarm scroll from her.
+
+At Hollowmere, a high-elf mental commander nearly turns Jose and an unnamed leonin guard into the ritual's destruction. The guard's explosive charge breaks the door, but the party prevents an effective interruption. Alistair gives Jefferson the speed to reach the commander; Jose draws out her reaction, Jefferson ignites her, and Penelope kills her with exactly one point more damage than she needed. A leonin then kills the last echo knight. Havlin, Penelope, Reggie, and one leonin fighter survive the ritual-room fight.
+
+At the temple, Bartholomew destroys Selyra's escape portal and the Justicar kills her. The ritual succeeds completely: connected valley crystals are consumed, all Driftvale fog disperses, and weapons outside the valley still work. Crystals in the ordinary Bag of Holding survive; crystals in the living storage bag do not. The temple purge, full casualty roll, refugee total, ritualists' final condition, and the party's reunion remain unplayed. Read the [full Session 13 summary](../sessions/session-13.md) and [reviewed transcript](../sessions/session-13-transcript.md).
+
 ## The Overall Story
 
 Taken together, the sessions so far tell a single transformation story. The party begins as expendable soldiers in a war that still thinks in terms of mass casualties. They become special hunters, then postwar scavengers, then contractor troubleshooters, and finally owners of a far stranger future than the army ever planned for them.
@@ -130,7 +140,7 @@ The war itself is never really the point. It is the crucible.
 
 The real story is what happens after the army discovers that victory does not clean up the world. Some enemies surrender. Some civilians shelter them. Some officers profit. Some commanders lie. Some ancient systems wake up. Some ships fall out of the sky with answers no one expected. Some lost homelands turn out to be real. The party survives all of it by becoming adaptable enough to outlast the institutions trying to use them.
 
-Sessions 8 through 12 push that transformation into old divine law and crisis politics. The party is no longer merely discovering secrets; it is deciding whether exposing, redirecting, bargaining over, or destroying those secrets will save Sunhollow or condemn it. The Hadozee killing proves that the party and its allies can reproduce the same preemptive logic they once survived as expendable soldiers.
+Sessions 8 through 13 push that transformation into old divine law and crisis politics. The party is no longer merely discovering secrets; it is deciding whether exposing, redirecting, bargaining over, or destroying those secrets will save Sunhollow or condemn it. The Hadozee killing proves that the party and its allies can reproduce the same preemptive logic they once survived as expendable soldiers. Session 13 proves that the same party can change course under pressure, but not without carrying the cost forward.
 
 By the end of the campaign so far, they are no longer just members of the [Bloody Fifth](../factions/bloody-fifth.md). They are no longer just [Ash's Hounds](../factions/ashs-hounds.md). They are contractor survivors carrying [Contractor Medallions](../items/contractor-medallions.md), [Priority Teleport Tokens](../items/priority-teleport-tokens.md), [Kreen Control Collars](../items/kreen-control-collars.md), nanite upgrades, a hidden route into the fog, a newly recovered homeland trail, and a ship-level mystery tied to [The Weaver](../concepts/the-weaver.md).
 

@@ -24,6 +24,12 @@ The Justicar believes Amir's judgment has been clouded by greed, although he als
 
 The Justicar's private safeguards are placed within a larger reciprocal system: senior watchers sign conditional [execution writs](../items/amir-voss-execution-writ.md) against themselves, with Justicars holding the Inquisition's warrants. Amir confirms that the signature on Bartholomew's writ is his own.
 
+## Session 13
+
+The Justicar uses Church support to destroy the wyvern's wing, causing its crash and preventing its reinforcements from joining the Hollowmere defense. He later kills the wounded wyvern. After Amir is disintegrated, he continues the temple operation.
+
+Bartholomew destroys the temple portal that would have let [Mistress Selyra Vex'ryn](mistress-selyra-vexryn.md) escape. The Justicar then delivers the narrated killing strike against Selyra. He remains alive at the recording's end, with the temple purge and the wider Church casualty roll still unresolved.
+
 At the demon complex, the Justicar identifies two demons and takes the stronger one while Amir and five Inquisitors turn toward the lesser. The Justicar manifests his wings as his power rises. The party follows him partly to prevent him from spending the divine spark that would kill him. The record does not establish whether he knew of or approved Amir's earlier plan to kill the Hadozee contingent.
 
 ## Session 12
@@ -41,4 +47,5 @@ The Justicar remains at the complex for the Church's purification work. Late in 
 - [Ecclesiastical Order](../factions/ecclesiastical-order.md)
 - [Session 10](../sessions/session-10.md)
 - [Session 11](../sessions/session-11.md)
+- [Session 13](../sessions/session-13.md)
 - [Session 12](../sessions/session-12.md)

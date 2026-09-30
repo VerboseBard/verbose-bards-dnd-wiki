@@ -21,7 +21,7 @@ From left to right in the current visual reference:
 - Serenya Vael: pale, centered, and seated prominently; calm, refined, and suited to high-end clients.
 - Draevira Sol: standing behind the others; composed, poised, and likely tied to internal security or oversight.
 
-Other named Parlor figures include Kael Vex'ryn, Lethira Morn, Myrren Dusk, Zyraen Vex, and Thalira Noct.
+Other named Parlor figures include Lethira Morn, Myrren Dusk, Zyraen Vex, and Thalira Noct.
 
 ## Campaign Role
 
@@ -29,9 +29,14 @@ The party's dinner at the Parlor reveals the true hierarchy of [Sin](sin.md). Ve
 
 The place is less a business than a machine for influence.
 
+## Session 13 Status
+
+In [Session 13](../sessions/session-13.md), the temple-side confrontation ends with the death of [Mistress Selyra Vex'ryn](../people/mistress-selyra-vexryn.md). Her archer brother escapes after killing Amir Voss. This removes Selyra as the network's active leader but does not establish that every worker, asset, safehouse, or affiliate of the Silk Parlor has been defeated or changed allegiance.
+
 ## Related
 
 - [Silk Parlor Network](../factions/silk-parlor-network.md)
 - [Mistress Selyra Vex'ryn](../people/mistress-selyra-vexryn.md)
+- [Session 13](../sessions/session-13.md)
 - [Fort Victory Corruption Ring](../concepts/fort-victory-corruption-ring.md)
 - [Underdark / Upside-Down](underdark-upside-down.md)

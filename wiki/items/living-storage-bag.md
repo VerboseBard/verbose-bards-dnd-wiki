@@ -12,6 +12,10 @@ Later examination reveals that the bag itself is alive. It is entered as a secon
 
 Its storage function works during the recovery. Its full nature, feeding needs, dangers and other abilities still require investigation. No attack or destruction of the party's stored property is shown in this session. Its ability to protect [ether crystals](ether-crystals.md) from the planned valley ritual has not been tested.
 
+## Session 13 Ruling
+
+The final ruling of [Session 13](../sessions/session-13.md) says that crystals inside the living bag do **not** survive the successful valley ritual. The ruling does not settle its full biology, storage rules, or the exact amount lost.
+
 ## Sources and Related
 
 - [Session 12](../sessions/session-12.md)
@@ -19,3 +23,4 @@ Its storage function works during the recovery. Its full nature, feeding needs, 
 - [Recording: living-bag reveal, 4:54:55–4:58:12](https://www.youtube.com/watch?v=eqYr6r-jOVk&t=17695)
 - [Jose](../people/jose.md)
 - [Squad Bag of Holding](squad-bag-of-holding.md)
+- [Session 13](../sessions/session-13.md)

@@ -14,6 +14,10 @@ In [Session 12](../sessions/session-12.md), the party recovers a second storage 
 
 The returning party plans to gather ether crystals into its available storage before heading back toward town. The recording ends before the valley-wide ritual, so the bags' ability to preserve crystals through that working remains untested. See the [Session 12 recording, 4:34:34–4:39:38](https://www.youtube.com/watch?v=eqYr6r-jOVk&t=16474) and [4:50:53–4:58:12](https://www.youtube.com/watch?v=eqYr6r-jOVk&t=17453).
 
+## Session 13 Ruling
+
+The final ruling of [Session 13](../sessions/session-13.md) confirms that ether crystals inside this ordinary Bag of Holding survive the successful valley ritual. This is deliberately distinct from the fate of crystals in the [Living Storage Bag](living-storage-bag.md). The exact number of surviving crystals remains an inventory question.
+
 ## Related
 
 - [Ether Crystals](ether-crystals.md)
@@ -23,3 +27,4 @@ The returning party plans to gather ether crystals into its available storage be
 - [Session 11](../sessions/session-11.md)
 - [Living Storage Bag](living-storage-bag.md)
 - [Session 12](../sessions/session-12.md)
+- [Session 13](../sessions/session-13.md)

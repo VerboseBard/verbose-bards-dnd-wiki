@@ -22,6 +22,8 @@ In [Session 10](../sessions/session-10.md), the party returns with [Rurik Valdre
 
 In [Session 11](../sessions/session-11.md), a secret group of twelve Ashmane bypasses the seated council because public disclosure of its plan could cause immediate civil war. The faction intends to seize the hall's defense interface and hijack the drow blood ritual through the [Leonin Curse-Breaking Ritual](../concepts/leonin-curse-breaking-ritual.md). The exact control method and Jefferson's locked bypass memory remain unresolved. Session 11 audio is heard as `Howlemere`, but the established wiki name remains **Hollowmere** pending a GM spelling ruling.
 
+In [Session 13](../sessions/session-13.md), Hollowmere is evacuated for the ritual defense. The party chooses to start early, builds prepared approaches, and protects the working through a seven-round assault. The final door is destroyed by an enemy-controlled guard carrying one of the defenders' charges, but the ritual is not effectively interrupted. The GM awards complete success after the attackers are eliminated. Captain Havlin, Penelope Puckle, Reggie Norin, and one leonin fighter survive the ritual-room fight; the broader casualty count is still unrecorded.
+
 ## Escort From Burrowroot
 
 After the party's first night in [Burrowroot Warren](burrowroot-warren.md), the next-morning escort to Hollowmere includes:
@@ -44,4 +46,5 @@ After the party's first night in [Burrowroot Warren](burrowroot-warren.md), the 
 - [Session 8](../sessions/session-8.md)
 - [Session 10](../sessions/session-10.md)
 - [Session 11](../sessions/session-11.md)
+- [Session 13](../sessions/session-13.md)
 

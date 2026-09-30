@@ -14,9 +14,14 @@ In [Session 11](../sessions/session-11.md), the lantern's stronger controlled-in
 
 The lantern verifies that the party's report about the murdered scavengers is truthful, even though they omit the secret discovery of [the crashed ship](../places/crashed-ship.md).
 
+## Destruction
+
+In [Session 13](../sessions/session-13.md), [Amir Voss](../people/amir-voss.md) is disintegrated by the escaping archer. The Truth Lantern falls and shatters. No recovery, repair, or replacement is narrated.
+
 ## Related
 
 - [Inquisition](../factions/inquisition.md)
 - [Fort Victory Corruption Ring](../concepts/fort-victory-corruption-ring.md)
 - [Session 4](../sessions/session-4.md)
 - [Session 11](../sessions/session-11.md)
+- [Session 13](../sessions/session-13.md)

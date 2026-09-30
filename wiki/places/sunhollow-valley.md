@@ -93,6 +93,12 @@ Rurik warns that the harengon evacuation may not finish before the ritual consum
 
 An unnamed drow woman claims that the Hadozee deaths have also removed much of their inherited magical potential, with any surviving children important to its continuation. This is a claim about a possible generational loss, not proof that [Longbough](../factions/longbough.md) is extinct. News of the killing and the future control of the valley's defenses remain sources of tension.
 
+## Session 13: Liberation and Exposure
+
+In [Session 13](../sessions/session-13.md), the leonin ritual succeeds after an early-start defense at [Hollowmere](hollowmere.md). The connected valley crystals are consumed, and Driftvale's fog disperses entirely. The successful result frees the valley from the immediate blood-curse crisis but does not supply a completed political settlement, a final list of ritualist survivors, a full casualty roll, or a refugee count.
+
+The party's choice to start early prevents the reported larger, potentially compelled Hadozee group from reaching the battle. It does not erase the earlier killing of the sixty-person Hadozee contingent or settle its political consequences. The valley has become visible to the wider world; how its clans, refugees, Church guests, and outside powers respond remains for the aftermath.
+
 ## Hidden Political Currents
 
 Three currents matter most inside Sunhollow politics:
@@ -131,3 +137,4 @@ The route takes roughly a month of scouting, dead ends, bridge checks, mountain 
 - [Session 10](../sessions/session-10.md)
 - [Session 11](../sessions/session-11.md)
 - [Session 12](../sessions/session-12.md)
+- [Session 13](../sessions/session-13.md)

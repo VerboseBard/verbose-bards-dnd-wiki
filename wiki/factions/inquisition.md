@@ -36,6 +36,12 @@ In [Session 12](../sessions/session-12.md), the coalition defeats both demons. T
 
 The Church then undertakes the complex's purification. This is distinct from the [leonin plan to break the valley's blood curse](../concepts/leonin-curse-breaking-ritual.md), which remains unresolved at the session's end. [Amir](../people/amir-voss.md) invites Bartholomew to participate in cleansing but also warns that news of the Hadozee killings may provoke conflict. He asks that the valley's defenses not be turned against the expedition if its allies betray it; this records his concern rather than a confirmed betrayal.
 
+## Session 13: Amir's Death and the Temple Front
+
+The Church completes the cleansing, then turns toward [Ssar'Velyn Temple](../places/ssar-velyn-temple.md) when the valley ritual begins. The Justicar crashes and later kills the wyvern, but the escaping archer separately disintegrates Amir Voss and destroys the [Truth Lantern](../items/truth-lantern.md). No replacement command decision or full Church casualty roll is narrated.
+
+The Justicar remains operational and kills Selyra after Bartholomew destroys her portal. The Church's presence at the temple is therefore a surviving force at the Session 13 cutoff, not proof that the temple has been cleared or that the Inquisition's political position in the valley is settled.
+
 ## Related
 
 - [Truth Lantern](../items/truth-lantern.md)

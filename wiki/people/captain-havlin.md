@@ -14,6 +14,10 @@ In [Session 8](../sessions/session-8.md), Havlin is part of the Sunhollow escort
 
 In [Session 11](../sessions/session-11.md), Havlin accompanies the larger coalition into the Dead Lands. After the Hadozee are killed, he carries out a fallen member of his own escort identified as Darien. Darien is not established as [Talin Duren](talin-duren.md), and the identities must remain separate.
 
+## Session 13
+
+Havlin helps hold Hollowmere's final defense during the early-start ritual. He goes down in the fighting but is not the unnamed leonin gate guard later controlled into carrying an explosive charge. The GM's final roll call confirms that Havlin survives, alongside Penelope, Reggie, and one leonin fighter. The wider defender casualty count remains unrecorded.
+
 ## Related
 
 - [Sunhollow Valley](../places/sunhollow-valley.md)
@@ -23,4 +27,5 @@ In [Session 11](../sessions/session-11.md), Havlin accompanies the larger coalit
 - [Session 7](../sessions/session-7.md)
 - [Session 8](../sessions/session-8.md)
 - [Session 11](../sessions/session-11.md)
+- [Session 13](../sessions/session-13.md)
 

@@ -126,5 +126,6 @@ This guide is organized by age first, then by campaign in chronological order in
 - [Session 11: The Truth-Lantern, the Leonin Plan, and the March to the Demon](session-11.md)
 - [Session 12: The Demon Falls and the Tether Remains](session-12.md)
 - [Session 12: Reviewed Automated Transcript](session-12-transcript.md)
+- [Session 13: By the Skin of Their Teeth](session-13.md)
+- [Session 13: Reviewed Automated Transcript](session-13-transcript.md)
 - Exact real-world play dates have not yet been recovered from the currently uploaded notes and transcript-support files.
-

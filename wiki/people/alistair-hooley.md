@@ -78,6 +78,12 @@ Source: [Session 12 recording](https://www.youtube.com/watch?v=eqYr6r-jOVk), esp
 
 The sanity-loss description follows the GM's September 6, 2026 clarification.
 
+## Session 13
+
+Alistair confirms a ranger 4 / warlock 1 build, gives the party only a limited account of his continuing tether, and protects the Hollowmere defense through ranged lanes, Fog Cloud, and support magic. His fog blocks the mental commander's view of Jose after the commander has already used Jose as a weapon against the ritual.
+
+At the final crisis, Alistair casts Longstrider on Jefferson, supplying the movement needed to reach the commander. His contribution is decisive to the finish but does not identify his patron, sever the tether, or establish that fog dispersal ended the connection.
+
 ## Related
 
 - [Sunhollow Valley](../places/sunhollow-valley.md)
@@ -96,3 +102,4 @@ The sanity-loss description follows the GM's September 6, 2026 clarification.
 - [Session 10](../sessions/session-10.md)
 - [Session 11](../sessions/session-11.md)
 - [Session 12](../sessions/session-12.md)
+- [Session 13](../sessions/session-13.md)

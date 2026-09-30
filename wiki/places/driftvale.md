@@ -40,6 +40,10 @@ The party is reassigned to Driftvale after [Ash's Hounds](../factions/ashs-hound
 
 Driftvale is also the place where many units attempt a final high-risk haul before discharge: one last dangerous mission while the uniform still offers some protection on paper. Depending on who notices, that tradition can be tolerated or treated as treason.
 
+## Session 13: Fog Dispersal
+
+At the end of [Session 13](../sessions/session-13.md), the successful [Leonin Curse-Breaking Ritual](../concepts/leonin-curse-breaking-ritual.md) disperses **all fog on Driftvale**. This is a world-scale change, not merely the clearing around [Sunhollow Valley](sunhollow-valley.md). It does not establish that every route is safe, every hidden site is harmless, the land is ecologically repaired, or military and commercial authorities have already adjusted to the new reality.
+
 ## Related
 
 - [Fort Victory](fort-victory.md)
@@ -49,4 +53,5 @@ Driftvale is also the place where many units attempt a final high-risk haul befo
 - [The Crashed Ship](crashed-ship.md)
 - [Fog Whales](../concepts/fog-whales.md)
 - [Driftvale Fog Walkers](../factions/driftvale-fog-walkers.md)
+- [Session 13](../sessions/session-13.md)
 

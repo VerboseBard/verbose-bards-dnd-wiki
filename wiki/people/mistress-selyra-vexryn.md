@@ -20,6 +20,12 @@ She shows the party compromising magical evidence involving [Colonel Marrow Vanc
 
 After the [Inquisition](../factions/inquisition.md) arrives, the party avoids direct contact with her. [Granny](granny.md) warns that Selyra's people may try to kill them once they no longer have military protection.
 
+## Death in Session 13
+
+In [Session 13](../sessions/session-13.md), Selyra appears at the powered temple portal to escape after the Church-side battle. Bartholomew destroys the portal's power crystal, preventing her escape, and the Justicar delivers the narrated killing strike. Selyra is dead; the page does not treat the scene as a decoy, replacement, or successful escape.
+
+Her archer brother kills Amir Voss during the earlier crash battle and escapes into the darkness. His player-facing identity remains limited to the archer and Selyra's brother. He does not witness the portal's destruction or Selyra's death in the recording, so what he learns afterward remains unplayed.
+
 ## Temple Resemblance
 
 In [Session 8](../sessions/session-8.md), the ghost priestess at [Ssar'Velyn Temple](../places/ssar-velyn-temple.md) resembles Selyra strongly enough that the transcript compares them as possible sisters or mother and daughter.
@@ -53,3 +59,4 @@ She also mentions in Session 9 that the party failed to "return my notes" âš  â€
 - [Ssar'Velyn Temple](../places/ssar-velyn-temple.md)
 - [Session 9](../sessions/session-9.md)
 - [Session 10](../sessions/session-10.md)
+- [Session 13](../sessions/session-13.md)

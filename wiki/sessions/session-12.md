@@ -64,6 +64,10 @@ Identification of the drow ring reveals both its sending function and a periodic
 
 The valley's curse, the fate of its crystal reserves, the evacuation's final numbers and the future of its concealment all remain unresolved at the recording's end.
 
+## Later Continuity
+
+[Session 13](session-13.md) resolves the ritual's immediate result: the curse-breaking ritual succeeds, connected valley crystals are consumed, and all Driftvale fog disperses. It also resolves the storage distinction: crystals in the ordinary Bag of Holding survive, while crystals in the living bag do not. The final evacuation, casualty, ritualist, temple-purge, and tether outcomes remain open.
+
 ## Related
 
 - [Session 11](session-11.md)
@@ -75,3 +79,4 @@ The valley's curse, the fate of its crystal reserves, the evacuation's final num
 - [Alistair Hooley](../people/alistair-hooley.md)
 - [The Justicar](../people/the-justicar.md)
 - [Rurik Valdren](../people/rurik-valdren.md)
+- [Session 13: By the Skin of Their Teeth](session-13.md)

@@ -22,6 +22,10 @@ In [Session 11](../sessions/session-11.md), Reggie brings the party to the secre
 
 In [Session 12](../sessions/session-12.md), Reggie heals [Alistair](alistair-hooley.md)'s immobile body and stands in front of him while Alistair fights through the metaphysical tether. Reggie also supports [Jefferson](sergeant-jefferson-stone.md) with Bardic Inspiration. He survives the battle with scorched fur, welcomes Alistair back to ordinary awareness, and later urges the others to check on him because something is visibly wrong.
 
+## Session 13
+
+Reggie argues for beginning the ritual early, helps prepare the Hollowmere defense, and sends Eric Vossel to improve evacuation throughput rather than hold a battle position. During the fight, his Command diverts the compelled Jose long enough to prevent an immediate breach; his healing also lets Penelope return to the battle. Reggie falls late in the fight and is restored after combat ends. He is one of the four confirmed ritual-room survivors.
+
 ## Related
 
 - [Briarstep](../factions/briarstep.md)
@@ -33,3 +37,4 @@ In [Session 12](../sessions/session-12.md), Reggie heals [Alistair](alistair-hoo
 - [Session 10](../sessions/session-10.md)
 - [Session 11](../sessions/session-11.md)
 - [Session 12](../sessions/session-12.md)
+- [Session 13](../sessions/session-13.md)

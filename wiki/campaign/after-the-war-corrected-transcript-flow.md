@@ -12,6 +12,7 @@ Primary sources:
 - the audited Session 10 combined transcript and summary in `true-chronicle-audit`
 - the Session 11 large-v3 transcript, comparison ledger, and adjudicated publication record in `campaign/session-11`
 - the [Session 12 reviewed automated transcript](../sessions/session-12-transcript.md), original large-v3 recognition, targeted re-decodes and correction ledger in `campaign/session-12`
+- the [Session 13 reviewed automated transcript](../sessions/session-13-transcript.md), 638-paragraph correction ledger, direct large-v3 comparison, and GM rulings in `campaign/session-13`
 - the matching `actual-summary.md`, `summary.md`, `canon-check.md`, `character-highlights.md`, and `mechanics-notes.md` files in each session folder
 - `wiki/campaign/after-the-war-campaign.md`
 - `wiki/campaign/after-the-war-story-so-far.md`
@@ -45,7 +46,9 @@ Use these corrections when reading the raw transcript files:
 | Hest, Estia, Hestiathan | Hestia |
 | Ssar, Sser, Ssar Velin | Ssar'Velyn Temple |
 | Rurick/Roric Valdron, Valrin, Baldin | Rurik Valdren |
+| Talin/Duran in the Session 13 evacuation scene | Eric Vossel, per GM correction; [Talin Duren](../people/talin-duren.md) remains a separate person |
 | Air Voss, Boss, Bosh | [Lord Inquisitor Amir Voss](../people/amir-voss.md); caption variants |
+| rent in Session 13 document-custody context | [Amir Voss's execution writ](../items/amir-voss-execution-writ.md) |
 | I core | ichor |
 | bats, land bats in temple machinery context | vats |
 
@@ -475,6 +478,16 @@ Source: [recording](https://www.youtube.com/watch?v=eqYr6r-jOVk), [reviewed tran
 
 Spelling and source holds from Session 11 remain unless explicitly resolved. Per the GM's September 6, 2026 clarification, Alistair lost several sanity points over the course of the battle with the demon.
 
+## Session 13: By the Skin of Their Teeth
+
+Source: [recording](https://www.youtube.com/watch?v=URP7RmYTAX8), [reviewed transcript](../sessions/session-13-transcript.md), [session summary](../sessions/session-13.md), and GM follow-up rulings recorded in `campaign/session-13`.
+
+- Opening and preparation: the Church completes the demon-site cleansing. Coalition support has frayed after the preemptive Hadozee killing, and a larger potentially compelled Hadozee group is about twelve hours away. The party chooses to begin the ritual early, prepares controlled approaches and traps at Hollowmere, and sends Eric Vossel to improve the ongoing evacuation rather than hold a combat position.
+- Church front: the Justicar destroys the wyvern's wing, causing its crash and preventing its reinforcements from joining the Hollowmere fight. Bartholomew recovers the missing execution writ from an enemy paladin before it can activate, then also takes the paladin's Meteor Swarm scroll. Amir is separately disintegrated by Selyra's archer brother; the Truth Lantern shatters, the archer escapes, and allied rifle fire kills the fleeing paladin. The Justicar kills the wyvern.
+- Hollowmere defense: the high-elf mental commander compels Jose, later compels an unnamed leonin gate guard, and nearly gains an effective opening into the ritual. Reggie redirects Jose long enough to preserve the first crisis. The guard's prepared explosive charge destroys the door, but the commander misses the psychic-burst recharge and cannot make the needed follow-up attack.
+- Round seven: Jose forces the commander's reaction, Alistair gives Jefferson the movement to reach her, Jefferson ignites her, and Penelope deals forty damage to her thirty-nine remaining hit points. A leonin kills the final echo knight. Penelope ends the last active ritual threat; the leonin ends the fight. GM ruling: Havlin, Penelope, Reggie, and one leonin fighter survive the ritual-room fight; Havlin is not the bomber.
+- Temple and ritual result: Bartholomew destroys Selyra's portal and the Justicar kills her. The ritual completes at the best tier: all Driftvale fog disperses, connected valley crystals are consumed, outside-valley weapons continue functioning, crystals in the ordinary Bag of Holding survive, and crystals in the living storage bag do not. The temple purge, final casualty and refugee totals, ritualists' condition, and the exact remaining crystal inventory are not played.
+
 ## Cross-Session Character Flow
 
 ### Jefferson Stone
@@ -524,8 +537,8 @@ Core tags: Fourth Age survivor, Captain, Warden, Slayer Team, Demon Hunter, Cham
 - **Silk Parlor Network**: Selyra Vex'ryn's local power base, artifact/intelligence network, and possible line into Ssar'Velyn Temple.
 - **Rurik Valdren / Calvin's Curios**: dwarven artifact broker, banker-power, Sanctuary City seeker, and possible Sunhollow shield.
 - **Kex / Kubix**: the hidden Goblin interstellar trading ship, damaged by a combat-AI mutiny and displaced into Driftvale by the Weaver's game.
-- **Sunhollow Valley**: the fog-hidden homeland with vast ether wealth, oath-bound beastfolk, old rabbit politics, and a spreading Dead Lands blight.
-- **Ssar'Velyn Temple**: the old elven/drow sacred complex tied to Lolth, Hestia, blood oaths, guardians, vats, demonic ichor, and the current crisis.
+- **Sunhollow Valley**: the former fog-hidden homeland with vast ether wealth, oath-bound beastfolk, old rabbit politics, and a post-ritual future that has not yet been politically settled.
+- **Ssar'Velyn Temple**: the old elven/drow sacred complex tied to Lolth, Hestia, blood oaths, guardians, vats, demonic ichor, and the still-unplayed temple purge.
 - **Inquisition**: first a Fort Victory purge force, then the approaching countdown threat whose response to Sunhollow could save, seize, or destroy the valley.
 
 ## Major Item And Concept Flow
@@ -556,15 +569,17 @@ Core tags: Fourth Age survivor, Captain, Warden, Slayer Team, Demon Hunter, Cham
 - Is Selyra's cave-source claim true, partial truth, or misdirection?
 - What does "release" from the blood oath actually mean?
 - What is Bevar's status, and is Gwen acting independently, through old law, through Lolth-linked systems, or through another intelligence?
-- Can Rurik's signed contract survive the Inquisition's legal seizure effort, and can the ongoing harengon evacuation finish before access closes?
-- Who can safely control Hollowmere's defense matrix, and can the Ashmane ritual complete without catastrophic interruption?
+- Can Rurik's signed contract survive the Inquisition's legal seizure effort, and where did the evacuation ultimately deliver the refugees?
+- Who now administers Hollowmere's defense matrix after the successful Ashmane ritual, and what condition are the ritualists in?
 - What institutional consequences follow the killing of the Hadozee contingent before it acted?
 - What does Alistair's tether to the greater demon transfer or permit?
 - Where is the missing thirteenth Fourth-Age temple site?
 - Can Hestia's surviving hearth power become a counterweight to Lolth's fragment without feeding Lolth's ascension system?
+- What remains in Ssar'Velyn Temple after Selyra's death, and which surviving allies or cultists will be found in the purge?
+- Where did Selyra's brother go, and what does he learn before acting again?
 
 ## ChatGPT Reference Use
 
 When feeding this document to ChatGPT for future worldbuilding, use this framing:
 
-> This is a corrected transcript-flow reference for the After the War Campaign through Session 12 in the Seventh Age setting. Treat it as the current campaign continuity unless a later note explicitly overrides it. Use wiki-standard spellings. Separate transcript fact from character claims. Preserve the unresolved identity of the Hadozee council head, the missing thirteenth temple site, the Justicar's knowledge of Amir's plan, and the exact mechanics of the Ashmane ritual and Alistair's tether. The campaign's central current is the transformation from postwar military survival to contractor first-contact politics and then to a divided Church-and-valley coalition confronting Fourth-Age systems beneath Sunhollow.
+> This is a corrected transcript-flow reference for the After the War Campaign through Session 13 in the Seventh Age setting. Treat it as the current campaign continuity unless a later note explicitly overrides it. Use wiki-standard spellings. Separate transcript fact from character claims and private planning from played events. Preserve the unresolved identity of the Hadozee council head, the missing thirteenth temple site, the remaining temple occupants, the final evacuation and casualty ledgers, and the exact nature of Alistair's tether. The campaign's central current is the transformation from postwar military survival to contractor first-contact politics and then to a fractured Church-and-valley coalition that wins liberation at Hollowmere but must now live with the aftermath.

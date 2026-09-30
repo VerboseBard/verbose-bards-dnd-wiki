@@ -54,6 +54,10 @@ The chamber holds a vast [demon-draining engine](../concepts/demon-draining-engi
 
 Alistair fails to sever the link and then wins the contest of wills, and both he and the demon bleed. He breaks line of sight behind a pillar at further cost, and the tether holds. As the surrounding fiends fade from his sight, they become solid to the rest of the party. The recording ends before initiative.
 
+## Later Continuity
+
+Session 13 preserves the cost of the Hadozee killing rather than treating it as erased by the demon victory. Lost coalition support and the danger of a larger, potentially compelled Hadozee group help drive the party's early-start ritual choice. The choice prevents that second group from reaching Hollowmere, but does not reverse the original deaths or resolve Longbough's political response. The full ritual succeeds after the Session 12 demon victory clears its prerequisite.
+
 ## Related
 
 - [After the War Campaign](../campaign/after-the-war-campaign.md)
@@ -65,3 +69,4 @@ Alistair fails to sever the link and then wins the contest of wills, and both he
 - [Reggie Norin](../people/reggie-norin.md)
 - [Leonin Curse-Breaking Ritual](../concepts/leonin-curse-breaking-ritual.md)
 - [Demon-Draining Engine](../concepts/demon-draining-engine.md)
+- [Session 13: By the Skin of Their Teeth](session-13.md)

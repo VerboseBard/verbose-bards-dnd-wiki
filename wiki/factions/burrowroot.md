@@ -62,6 +62,10 @@ In [Session 12](../sessions/session-12.md), [Rurik](../people/rurik-valdren.md) 
 
 The concern applies to the harengon evacuation compact, not a confirmed relocation of every Burrowroot people. The session establishes no final count of those transported or left behind.
 
+## Session 13 Evacuation
+
+At Hollowmere, Eric Vossel offers to accelerate the portal operation and is sent to the evacuation effort. The Session 13 ritual succeeds, but the recording gives no final number of refugees moved, no confirmation of the destination's completed intake, and no proof that all Burrowroot or harengon families left the valley. The surviving evacuation result must be recorded in the aftermath rather than inferred from the successful ritual.
+
 ## Related
 
 - [Sunhollow Council](sunhollow-council.md)

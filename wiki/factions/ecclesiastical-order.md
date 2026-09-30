@@ -125,6 +125,8 @@ The system depends on judgment rather than automatic enforcement. Holding a writ
 - Arbiter: judgment.
 - Templar / Justicar: enforcement.
 
+In [Session 13](../sessions/session-13.md), [Bartholomew](../people/bartholomew-hildebrant.md) recovers Amir's writ from an enemy paladin before it can be used. Amir is then killed by a separate archer attack. The sequence preserves the distinction between the safeguard's intended judgment and an unrelated combat death; it does not resolve the original document transfer or vindicate the institution.
+
 ## Simple Mental Model
 
 - Exemplar: what is right.

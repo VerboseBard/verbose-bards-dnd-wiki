@@ -18,6 +18,10 @@ In [Session 11](../sessions/session-11.md), Penelope joins the coalition's march
 
 In [Session 12](../sessions/session-12.md), Penelope fights with the pistol given to her, landing hits on the demonic enemies despite her unfamiliarity with the weapon. She survives the battle.
 
+## Session 13
+
+Penelope is downed during the Hollowmere defense, healed by Reggie, and returns in time to kill the high-elf mental commander. The commander has thirty-nine hit points remaining; Penelope's forty damage ends the only remaining enemy capable of disrupting the ritual. One point less would have let the commander act at the end of round seven, with roughly half the valley at risk. Penelope survives the battle.
+
 ## Related
 
 - [Burrowroot](../factions/burrowroot.md)
@@ -28,3 +32,4 @@ In [Session 12](../sessions/session-12.md), Penelope fights with the pistol give
 - [Session 8](../sessions/session-8.md)
 - [Session 11](../sessions/session-11.md)
 - [Session 12](../sessions/session-12.md)
+- [Session 13](../sessions/session-13.md)

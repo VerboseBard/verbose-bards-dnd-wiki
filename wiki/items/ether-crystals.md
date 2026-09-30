@@ -84,6 +84,12 @@ In [Session 12](../sessions/session-12.md), Rurik's departure through his portal
 
 Rurik also warns that the harengon evacuation may not finish before the separate curse-breaking ritual consumes the valley's connected crystals. The party chooses to rest and gather crystals before returning. The ritual remains unresolved, so neither crystal preservation inside a Bag of Holding nor the eventual failure of powered devices has been tested.
 
+## Session 13 Outcome
+
+The successful [Leonin Curse-Breaking Ritual](../concepts/leonin-curse-breaking-ritual.md) consumes the crystals connected to Sunhollow Valley and disperses all Driftvale fog. The GM explicitly states that equipment and weapons outside the valley continue working. This does not establish a universal rule for every crystal in every location.
+
+The final storage ruling is specific: crystals in the party's ordinary [Squad Bag of Holding](squad-bag-of-holding.md) survive, while crystals inside the [Living Storage Bag](living-storage-bag.md) do not. The party gathers twenty-three raw crystals before the defense, but the final inventory of stored, consumed, and surviving crystals is not reconciled in the recording.
+
 ## Related
 
 - [Ether Dust](ether-dust.md)
@@ -95,3 +101,4 @@ Rurik also warns that the harengon evacuation may not finish before the separate
 - [Leonin Curse-Breaking Ritual](../concepts/leonin-curse-breaking-ritual.md)
 - [Session 11](../sessions/session-11.md)
 - [Session 12](../sessions/session-12.md)
+- [Session 13](../sessions/session-13.md)

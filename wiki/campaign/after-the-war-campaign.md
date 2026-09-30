@@ -8,11 +8,11 @@ The campaign begins with the party still serving in the [Bloody Fifth](../factio
 
 From there the arc becomes a chain of aftermath problems. The party learns what [Kreen](../factions/kreen.md) surrender means in practice, sees the cost of military experimentation, and is pushed into [Driftvale](../places/driftvale.md) and [Fort Victory](../places/fort-victory.md), where corruption, salvage rights, and [Inquisition](../factions/inquisition.md) pressure collide. [Sin](../places/sin.md), the [Silk Parlor](../places/silk-parlor.md), [Calvin's Curios](../places/calvins-curios.md), and the fog economy all become part of the same tangled system.
 
-The next movement turns on the crackdown: the [Inquisition](../factions/inquisition.md) exposes the old rot at [Fort Victory](../places/fort-victory.md), the party is discharged into contractor status, and the hidden ship in the fog becomes their first true off-book prize. From there the story widens into the [Lost Homeland Mission](../concepts/lost-homeland-mission.md), where contractor pathfinding, older divine remnants, and a hidden sunlit valley prove that [Driftvale](../places/driftvale.md) is still holding back far older secrets than the war ever touched. By [Session 11](../sessions/session-11.md), the Church has entered [Sunhollow Valley](../places/sunhollow-valley.md), the party has fractured over testimony and trust, the Ashmane have disclosed a dangerous plan to break the valley's blood curse, and the coalition has reached the demon complex after killing its Hadozee contingent.
+The next movement turns on the crackdown: the [Inquisition](../factions/inquisition.md) exposes the old rot at [Fort Victory](../places/fort-victory.md), the party is discharged into contractor status, and the hidden ship in the fog becomes their first true off-book prize. From there the story widens into the [Lost Homeland Mission](../concepts/lost-homeland-mission.md), where contractor pathfinding, older divine remnants, and a hidden sunlit valley prove that [Driftvale](../places/driftvale.md) is still holding back far older secrets than the war ever touched. By [Session 13](../sessions/session-13.md), the coalition has defeated the demons, broken the valley's blood curse through the Ashmane ritual, and dispersed Driftvale's fog, but the victory leaves Amir dead, Selyra dead, her archer brother at large, and the temple aftermath unresolved.
 
-## Current Position After Session 12
+## Current Position After Session 13
 
-[Session 12](../sessions/session-12.md) ends with both demons defeated and the Justicar alive. Bartholomew remains to guard the Church's ongoing purification; the others accompany Rurik to his portal, recover a changed storage bag, and choose a river rest and crystal gathering before returning. The valley curse, final evacuation numbers, Hadozee aftermath and Alistair's remaining tether are unresolved. See the [reviewed transcript](../sessions/session-12-transcript.md) for the recording evidence.
+[Session 13](../sessions/session-13.md) ends with the cleansing complete, the Ashmane ritual successful, and all Driftvale fog dispersed. Bartholomew is with the surviving Church at [Ssar'Velyn Temple](../places/ssar-velyn-temple.md); Jefferson, Alistair, Jose, and surviving local defenders remain at [Hollowmere](../places/hollowmere.md). Amir Voss and Selyra Vex'ryn are dead, the archer brother escaped, and the execution writ is back with Bartholomew. The full casualty roll, refugee outcome, ritualists' condition, crystal inventory, temple purge, and Alistair's tether remain open. See the [reviewed transcript](../sessions/session-13-transcript.md) for the recording evidence.
 
 ## Story So Far
 
@@ -34,6 +34,8 @@ It currently includes:
 - [Session 10: The Council, the Contract, and the Justicar's Writ](../sessions/session-10.md)
 - [Session 11: The Truth-Lantern, the Leonin Plan, and the March to the Demon](../sessions/session-11.md)
 - [Session 12: The Demon Falls and the Tether Remains](../sessions/session-12.md)
+- [Session 13: By the Skin of Their Teeth](../sessions/session-13.md)
+- [Session 13: Reviewed Automated Transcript](../sessions/session-13-transcript.md)
 
 ## Sequence Notes
 
@@ -42,4 +44,3 @@ The session order is secure, but unlike [War of the Gods / New Beginning Campaig
 Until dated notes or calendar-backed records are imported, this campaign should stay ordered by confirmed session sequence rather than by guessed dates.
 
 This campaign comes after the earliest [Seventh Age](../concepts/seventh-age.md) arcs already represented in the wiki, including [The Hunt for Black Vipers](hunt-for-black-vipers.md) and [Dawn of the Seventh Age](dawn-of-the-seventh-age.md).
-

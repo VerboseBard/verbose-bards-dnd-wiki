@@ -34,6 +34,10 @@ In [Session 12](../sessions/session-12.md), the Justicar's timely restoration pr
 
 An unnamed drow woman associated with the casino tells the party that the slain Hadozee carried the lineages responsible for much of their people's magical inheritance. She claims the loss will set magical development back for generations, except where surviving children can pass that inheritance on. This remains her account, not an independently verified census or a settled rule of Hadozee heredity. Other Hadozee remain alive, and neither Longbough's extinction nor the identity of the dead council head is established.
 
+## Session 13 Consequence
+
+The party chooses to start the ritual early in part to avoid a larger, potentially compelled Hadozee group reported on the way to Hollowmere. That group does not arrive in the played battle. The choice prevents a second immediate Hadozee crisis but does not reverse the Session 11 deaths, identify the lost council head, or settle Longbough's future relationship with the valley and the Church.
+
 ## Related
 
 - [Sunhollow Council](sunhollow-council.md)

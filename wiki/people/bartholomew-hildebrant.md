@@ -60,6 +60,12 @@ Bartholomew then reads the [dwarven survivor's journal](../items/dwarven-survivo
 
 The survivor's writing is attached to an older ritual book. Bartholomew recognizes that underlying volume as the discarded book overlooked during the earlier cult raid. It is a physical connection between the operation he remembers and the later survivor's account; its route between them remains unknown. Opening it brings a mental presence against his mind; he closes it without establishing who or what is inside. When the Justicar prepares to begin further cleansing, Bartholomew takes his place guarding the entrance. The recording ends before that cleansing is shown complete. See the [Session 12 recording, 4:42:39–4:50:52](https://www.youtube.com/watch?v=eqYr6r-jOVk&t=16959).
 
+## Session 13
+
+Bartholomew chooses the Church-side response when the ritual begins. He recognizes the archer connected to the earlier black arrows, recovers [Amir Voss's execution writ](../items/amir-voss-execution-writ.md) from an enemy paladin before it can activate, and separately takes the paladin's Meteor Swarm scroll. The paladin is then killed by allied rifle fire while fleeing.
+
+After the crash battle, Bartholomew reaches the active temple portal in time to shoot its power crystal. The resulting chain explosion destroys the escape route and throws [Mistress Selyra Vex'ryn](mistress-selyra-vexryn.md) back to the Justicar, who kills her. Bartholomew holds the recovered writ at the recording's cutoff; its earlier transfer into enemy custody remains unexplained.
+
 ## Related
 
 - [After the War Campaign](../campaign/after-the-war-campaign.md)
@@ -80,3 +86,4 @@ The survivor's writing is attached to an older ritual book. Bartholomew recogniz
 - [Session 11](../sessions/session-11.md)
 - [Dwarven Survivor's Journal](../items/dwarven-survivors-journal.md)
 - [Session 12](../sessions/session-12.md)
+- [Session 13](../sessions/session-13.md)

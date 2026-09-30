@@ -58,6 +58,10 @@ The Owlin provide the blood-curse diagram used by [the Justicar](../people/the-j
 
 Windcrest scouts join the coalition's march into the [Dead Lands](../places/dead-lands.md), extending the clan's chronicler and reconnaissance role into the campaign's most dangerous approach. A spider-bodied observer watches the Hadozee killing and withdraws toward the temple, creating an immediate information contest even though the record does not confirm whether it reaches the temple.
 
+## Session 13
+
+During the Session 13 aftermath before the battle, a Windcrest-related ritual discussion contributes to distrust and an angry departure by Voss with an estimated forty to fifty winged people. The recording establishes a change in the field relationship, not a clan-wide betrayal, an attack on the party, or proof of drow alignment. Sabine Voss's pronouns remain a separate GM clarification question.
+
 ## Related
 
 - [Sunhollow Council](sunhollow-council.md)

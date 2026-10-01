@@ -2232,7 +2232,7 @@ window.KEX_CATALOG = {
    "track": "recovery",
    "zone": "armory",
    "summary": "Bring the detached armory back aboard, if it is ever found.",
-   "benefit": "Restores the original armory room with whatever survived inside, and its power relays: the Kex makes 25% more power. Like a new armory, it needs two more cloak emitters so the cloak covers the section. Its other cost, condition, contents and how to move it are unknown until it is found; the GM sets them then.",
+   "benefit": "Restores the original armory room with whatever survived inside, and its power relays: the Kex makes 25% more power. Like a new armory, the cloak has to cover it: one more refuge emitter and two displacement matrices. Its other cost, condition, contents and how to move it are unknown until it is found; the GM sets them then.",
    "quest": "Find the detached armory, get inside, and bring it home.",
    "requires": [
     "k_pattern_archive",
@@ -2266,10 +2266,17 @@ window.KEX_CATALOG = {
      ]
     },
     {
-     "label": "Cloak emitters for the new section",
-     "qty": 2,
+     "label": "Refuge emitter for the new section",
+     "qty": 1,
      "options": [
       "fog_regulator"
+     ]
+    },
+    {
+     "label": "Displacement matrices for the new section",
+     "qty": 2,
+     "options": [
+      "cloak_displacement"
      ]
     }
    ],
@@ -2285,7 +2292,7 @@ window.KEX_CATALOG = {
    "track": "defense",
    "zone": "armory",
    "summary": "Fit out the old armory mount as a secure armory: storage and maintenance only.",
-   "benefit": "A secure armory at the old mount on the middle deck: lockable racks and cabinets built for weapons, armor, ammunition and volatile materials, and a bench for maintenance. It needs two more cloak emitters so the cloak covers the new section. The Kex's power relays used to run through this section: with an armory back in place they run properly again, and the Kex makes 25% more power. It also opens armory upgrades. It comes empty: everything in it must be bought, found or made separately.",
+   "benefit": "A secure armory at the old mount on the middle deck: lockable racks and cabinets built for weapons, armor, ammunition and volatile materials, and a bench for maintenance. The cloak has to cover the new section: one more refuge emitter to hide it on the ground, and two displacement matrices for the full cloak in flight. The Kex's power relays used to run through this section: with an armory back in place they run properly again, and the Kex makes 25% more power. It also opens armory upgrades. It comes empty: everything in it must be bought, found or made separately.",
    "quest": "",
    "requires": [
     "k_fog_cloak",
@@ -2305,10 +2312,17 @@ window.KEX_CATALOG = {
    "exclusiveGroup": "",
    "components": [
     {
-     "label": "Cloak emitters for the new section",
-     "qty": 2,
+     "label": "Refuge emitter for the new section",
+     "qty": 1,
      "options": [
       "fog_regulator"
+     ]
+    },
+    {
+     "label": "Displacement matrices for the new section",
+     "qty": 2,
+     "options": [
+      "cloak_displacement"
      ]
     }
    ],

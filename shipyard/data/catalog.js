@@ -985,10 +985,17 @@ window.KEX_CATALOG = {
      ]
     },
     {
+     "id": "secarmory",
+     "deck": "lower",
+     "name": "Secondary armory",
+     "blurb": "The armory Kubix kept down in engineering, stripped by the drones for parts since the crash. Restored to military grade, it can hold a personal replicator: the one fabricator aboard that makes weapons and gear you can carry off the ship.",
+     "maps": []
+    },
+    {
      "id": "engineering",
      "deck": "lower",
      "name": "Engineering",
-     "blurb": "The reactor room and power conduits, where the combat avatar fell. Reserve cells and repair-drone cradles live here, beside the secondary armory the drones have been stripping for parts.",
+     "blurb": "The reactor room and power conduits, where the combat avatar fell. Reserve cells and repair-drone cradles live here.",
      "maps": [
       {
        "file": "kex-reactor.webp?v=d4ace505",
@@ -2369,6 +2376,59 @@ window.KEX_CATALOG = {
      "qty": 1,
      "options": [
       "memory_prism"
+     ]
+    }
+   ],
+   "startsRevealed": false,
+   "recovery": false,
+   "tbd": false
+  },
+  {
+   "id": "k_personal_replicator",
+   "hull": "kex",
+   "tier": 3,
+   "name": "Military-grade armory refit: personal replicator",
+   "track": "fabrication",
+   "zone": "secarmory",
+   "summary": "Restore the secondary armory to military grade and fit a personal replicator.",
+   "benefit": "The one fabricator aboard that makes things you can take with you. From a learned pattern it makes portable items (weapons, armor, ammunition and gear) for the crew to carry off the ship. The hull fabricators only make hull-bound modules. Each copy costs its blueprint: coin metal, kits, power and work days, as the pattern lists.",
+   "quest": "",
+   "requires": [
+    "k_pattern_archive",
+    "k_clean_forge"
+   ],
+   "requiresAny": [],
+   "gp": 1200,
+   "pu": 60,
+   "days": 5,
+   "kits": 12,
+   "dailyPu": 0,
+   "slots": 0,
+   "slotCapacity": 0,
+   "generationPu": 0,
+   "generationCondition": "",
+   "capacityPu": 0,
+   "exclusiveGroup": "",
+   "components": [
+    {
+     "label": "Replicator control matrices",
+     "qty": 2,
+     "options": [
+      "memory_prism"
+     ]
+    },
+    {
+     "label": "Armory field conductors",
+     "qty": 2,
+     "options": [
+      "enchanted_alloy"
+     ]
+    },
+    {
+     "label": "Replicator capacitor",
+     "qty": 1,
+     "options": [
+      "power_cell"
      ]
     }
    ],

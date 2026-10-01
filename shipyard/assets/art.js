@@ -328,11 +328,15 @@
     ${label(722, 452, '09', 'WORKSHOP', 'fabrication bay')}
   </g>
 
-  <g class="zone" data-zone="engineering">
-    <path d="${AFT}" class="zone-hit room"/>
+  <g class="zone" data-zone="secarmory">
     <rect x="590" y="156" width="482" height="140" rx="4" class="zone-hit room"/>
     <path d="M610 186H1052M610 222H1052M610 258H1052" class="deco thin"/>
-    ${label(831, 232, '', 'SECONDARY ARMORY', 'stripped for drone parts')}
+    <g class="feature" data-feature="k_personal_replicator"><rect x="990" y="176" width="62" height="100" rx="6" class="f-line"/><circle cx="1021" cy="226" r="16" class="f-core"/></g>
+    ${label(800, 232, '13', 'SECONDARY ARMORY', 'personal replicator bay')}
+  </g>
+
+  <g class="zone" data-zone="engineering">
+    <path d="${AFT}" class="zone-hit room"/>
     <rect x="914" y="318" width="274" height="128" rx="4" class="zone-hit room"/>
     <path d="M930 340H1170M930 424H1170" class="deco thin"/>
     <circle cx="1300" cy="382" r="58" class="deco"/>

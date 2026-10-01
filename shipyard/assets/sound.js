@@ -102,6 +102,10 @@
   document.addEventListener('click', (e) => { if (on && e.target.closest && e.target.closest('button, a, .zone, .node')) fx.click(); }, true);
   window.addEventListener('hashchange', () => { if (on) fx.nav(); });
 
+  // Fetch the small voice list up front: Safari (iPhone) only lets sound start inside the tap itself, so the line right
+  // after "Sound on" must not wait for a download.
+  loadLines();
+
   const chosen = () => { try { return localStorage.getItem(KEY) !== null; } catch (e) { return false; } };
   window.KexSound = { on: () => on, chosen, toggle: () => setOn(!on), set: setOn, fx, speak, stopVoice, hash };
 })();

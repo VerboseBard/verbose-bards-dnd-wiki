@@ -29,6 +29,10 @@ jobs:
         shell: pwsh
         run: ./tools/build-wiki-site.ps1
 
+      - name: Add the Kex Shipyard
+        shell: pwsh
+        run: Copy-Item -Recurse -Force ./shipyard ./wiki-site/shipyard
+
       - name: Disable Jekyll
         shell: pwsh
         run: New-Item -ItemType File -Path ./wiki-site/.nojekyll -Force

@@ -217,7 +217,8 @@
     <rect x="600" y="468" width="220" height="136" rx="4" fill="url(#${id}-hatch)" class="ghost-hatch"/>
     <path d="M640 610H780" class="f-seal"/>
     <text x="710" y="596" class="tiny" text-anchor="middle">BREACH · SEALED</text>
-    <g class="feature" data-feature="k_armory_recovery"><path d="M638 604H782V638H638Z" class="f-glow-rect"/><text x="710" y="568" class="f-tag" text-anchor="middle">ARMORY BUS RECONNECTED</text></g>
+    <g class="feature" data-feature="k_armory_recovery"><path d="M638 604H782V638H638Z" class="f-glow-rect"/><text x="710" y="568" class="f-tag" text-anchor="middle">ARMORY REATTACHED</text></g>
+    <g class="feature" data-feature="k_armory_rebuild"><rect x="612" y="480" width="196" height="112" rx="4" class="f-line"/><text x="710" y="568" class="f-tag" text-anchor="middle">NEW ARMORY</text></g>
     ${label(710, 516, '11', 'ARMORY MOUNT', 'you came in here')}
     ${label(930, 716, '', 'ARMORY', 'detached in the crash')}
   </g>`;

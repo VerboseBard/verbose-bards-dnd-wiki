@@ -806,6 +806,13 @@ window.KEX_CATALOG = {
    "startCharge": 147,
    "baseCapacity": 500,
    "baseSlots": 6,
+   "relayBonus": {
+    "factor": 1.25,
+    "by": [
+     "k_armory_rebuild",
+     "k_armory_recovery"
+    ]
+   },
    "maxTier": 5,
    "tiers": [
     {
@@ -839,11 +846,10 @@ window.KEX_CATALOG = {
      "tier": 4,
      "name": "Recovered heavy systems",
      "requires": [
-      "k_full_cloak",
-      "k_armory_recovery"
+      "k_full_cloak"
      ],
      "requiresAny": [],
-     "meaning": "Full cloak and recovered original distribution hardware enable local mobility, shielding and reactor work."
+     "meaning": "With the full cloak hiding it, the Kex can risk heavy work: local mobility, shielding and reactor projects."
     },
     {
      "tier": 5,
@@ -1041,7 +1047,7 @@ window.KEX_CATALOG = {
      "id": "armory",
      "deck": "mid",
      "name": "Armory (detached)",
-     "blurb": "Torn off this side of the middle deck in the crash and lost in the fog. The tear it left is how you first came aboard; the drones have sealed it since. With the fog gone, the armory itself may finally be findable.",
+     "blurb": "Torn off this side of the middle deck in the crash and lost in the fog. The tear it left is how you first came aboard; the drones have sealed it since. The Kex's power relays used to run through that section, and the reroute around the tear holds it back: with an armory back in place they run properly again, for a quarter more power. With the fog gone, the armory itself may finally be findable.",
      "maps": []
     },
     {
@@ -1068,6 +1074,7 @@ window.KEX_CATALOG = {
    "startCharge": 40,
    "baseCapacity": 100,
    "baseSlots": 2,
+   "relayBonus": null,
    "maxTier": 5,
    "tiers": [
     {
@@ -1768,7 +1775,7 @@ window.KEX_CATALOG = {
    "marketGp": 6000,
    "availability": "quest",
    "protected": true,
-   "description": "Original detached-armory block with compatible distribution bus.",
+   "description": "The original armory's service block, if the armory is ever found. What it is worth is unknown until then.",
    "revealWith": "",
    "rarity": "",
    "salvagePu": 0,
@@ -1855,7 +1862,8 @@ window.KEX_CATALOG = {
     }
    ],
    "startsRevealed": false,
-   "recovery": false
+   "recovery": false,
+   "tbd": false
   },
   {
    "id": "k_hangar",
@@ -1890,7 +1898,8 @@ window.KEX_CATALOG = {
     }
    ],
    "startsRevealed": true,
-   "recovery": false
+   "recovery": false,
+   "tbd": false
   },
   {
    "id": "k_slow_repair",
@@ -1927,7 +1936,8 @@ window.KEX_CATALOG = {
     }
    ],
    "startsRevealed": false,
-   "recovery": false
+   "recovery": false,
+   "tbd": false
   },
   {
    "id": "k_fog_redundancy",
@@ -1972,7 +1982,8 @@ window.KEX_CATALOG = {
     }
    ],
    "startsRevealed": false,
-   "recovery": false
+   "recovery": false,
+   "tbd": false
   },
   {
    "id": "k_pattern_archive",
@@ -2010,7 +2021,8 @@ window.KEX_CATALOG = {
     }
    ],
    "startsRevealed": true,
-   "recovery": false
+   "recovery": false,
+   "tbd": false
   },
   {
    "id": "k_clean_forge",
@@ -2056,7 +2068,8 @@ window.KEX_CATALOG = {
     }
    ],
    "startsRevealed": true,
-   "recovery": false
+   "recovery": false,
+   "tbd": false
   },
   {
    "id": "k_repair_crew",
@@ -2101,7 +2114,8 @@ window.KEX_CATALOG = {
     }
    ],
    "startsRevealed": true,
-   "recovery": false
+   "recovery": false,
+   "tbd": false
   },
   {
    "id": "k_full_cloak",
@@ -2154,7 +2168,8 @@ window.KEX_CATALOG = {
     }
    ],
    "startsRevealed": false,
-   "recovery": false
+   "recovery": false,
+   "tbd": false
   },
   {
    "id": "k_nanite_clinic",
@@ -2206,18 +2221,19 @@ window.KEX_CATALOG = {
     }
    ],
    "startsRevealed": false,
-   "recovery": false
+   "recovery": false,
+   "tbd": false
   },
   {
    "id": "k_armory_recovery",
    "hull": "kex",
    "tier": 3,
-   "name": "Reconnect the detached armory bus",
+   "name": "Reattach the original armory",
    "track": "recovery",
    "zone": "armory",
-   "summary": "Restore original high-load distribution hardware.",
-   "benefit": "Unlocks safe drive and shield commissioning. Existing recovered weapons remain separate loot; this project does not create a free weapon inventory.",
-   "quest": "Locate the detached armory, secure the site, and haul its intact service block to the Kex.",
+   "summary": "Bring the detached armory back aboard, if it is ever found.",
+   "benefit": "Restores the original armory room with whatever survived inside, and its power relays: the Kex makes 25% more power. Like a new armory, it needs two more cloak emitters so the cloak covers the section. Its other cost, condition, contents and how to move it are unknown until it is found; the GM sets them then.",
+   "quest": "Find the detached armory, get inside, and bring it home.",
    "requires": [
     "k_pattern_archive",
     "k_clean_forge"
@@ -2248,10 +2264,57 @@ window.KEX_CATALOG = {
      "options": [
       "enchanted_alloy"
      ]
+    },
+    {
+     "label": "Cloak emitters for the new section",
+     "qty": 2,
+     "options": [
+      "fog_regulator"
+     ]
     }
    ],
    "startsRevealed": false,
-   "recovery": false
+   "recovery": false,
+   "tbd": true
+  },
+  {
+   "id": "k_armory_rebuild",
+   "hull": "kex",
+   "tier": 2,
+   "name": "Build a new armory",
+   "track": "defense",
+   "zone": "armory",
+   "summary": "Fit out the old armory mount as a secure armory: storage and maintenance only.",
+   "benefit": "A secure armory at the old mount on the middle deck: lockable racks and cabinets built for weapons, armor, ammunition and volatile materials, and a bench for maintenance. It needs two more cloak emitters so the cloak covers the new section. The Kex's power relays used to run through this section: with an armory back in place they run properly again, and the Kex makes 25% more power. It also opens armory upgrades. It comes empty: everything in it must be bought, found or made separately.",
+   "quest": "",
+   "requires": [
+    "k_fog_cloak",
+    "k_hangar"
+   ],
+   "requiresAny": [],
+   "gp": 500,
+   "pu": 30,
+   "days": 3,
+   "kits": 8,
+   "dailyPu": 0,
+   "slots": 0,
+   "slotCapacity": 0,
+   "generationPu": 0,
+   "generationCondition": "",
+   "capacityPu": 0,
+   "exclusiveGroup": "",
+   "components": [
+    {
+     "label": "Cloak emitters for the new section",
+     "qty": 2,
+     "options": [
+      "fog_regulator"
+     ]
+    }
+   ],
+   "startsRevealed": false,
+   "recovery": false,
+   "tbd": false
   },
   {
    "id": "k_battery",
@@ -2296,7 +2359,8 @@ window.KEX_CATALOG = {
     }
    ],
    "startsRevealed": false,
-   "recovery": false
+   "recovery": false,
+   "tbd": false
   },
   {
    "id": "k_thrusters",
@@ -2310,7 +2374,6 @@ window.KEX_CATALOG = {
    "quest": "Survey a safe launch corridor, repair external lift attachment points, and complete a tethered lift trial.",
    "requires": [
     "k_full_cloak",
-    "k_armory_recovery",
     "k_battery"
    ],
    "requiresAny": [],
@@ -2343,7 +2406,8 @@ window.KEX_CATALOG = {
     }
    ],
    "startsRevealed": false,
-   "recovery": false
+   "recovery": false,
+   "tbd": false
   },
   {
    "id": "k_shield",
@@ -2356,8 +2420,7 @@ window.KEX_CATALOG = {
    "benefit": "While online adds+2 hull AC and absorbs the first 40 damage from each separate attack against the hull, maximum 120 absorbed damage per day. Recover its daily capacity after a powered overnight service.",
    "quest": "",
    "requires": [
-    "k_full_cloak",
-    "k_armory_recovery"
+    "k_full_cloak"
    ],
    "requiresAny": [],
    "gp": 1800,
@@ -2389,7 +2452,8 @@ window.KEX_CATALOG = {
     }
    ],
    "startsRevealed": false,
-   "recovery": false
+   "recovery": false,
+   "tbd": false
   },
   {
    "id": "k_reactor",
@@ -2402,8 +2466,7 @@ window.KEX_CATALOG = {
    "benefit": "Loaded cask yields 500 PU evenly over 30 days (16.667 PU/day). Refill requires another sealed cask; no magical fuel replication. Shut down when depleted or unsafe.",
    "quest": "Recover and pressure-test a real fuel cradle, obtain a shielded fuel cask, and pass a cold-start leak test.",
    "requires": [
-    "k_full_cloak",
-    "k_armory_recovery"
+    "k_full_cloak"
    ],
    "requiresAny": [],
    "gp": 4000,
@@ -2441,7 +2504,8 @@ window.KEX_CATALOG = {
     }
    ],
    "startsRevealed": false,
-   "recovery": false
+   "recovery": false,
+   "tbd": false
   },
   {
    "id": "k_navigation",
@@ -2493,7 +2557,8 @@ window.KEX_CATALOG = {
     }
    ],
    "startsRevealed": false,
-   "recovery": false
+   "recovery": false,
+   "tbd": false
   },
   {
    "id": "k_phase_drive",
@@ -2546,7 +2611,8 @@ window.KEX_CATALOG = {
     }
    ],
    "startsRevealed": false,
-   "recovery": false
+   "recovery": false,
+   "tbd": false
   },
   {
    "id": "k_captain_network",
@@ -2599,7 +2665,8 @@ window.KEX_CATALOG = {
     }
    ],
    "startsRevealed": false,
-   "recovery": false
+   "recovery": false,
+   "tbd": false
   },
   {
    "id": "s_clear_wreckage",
@@ -2626,7 +2693,8 @@ window.KEX_CATALOG = {
    "exclusiveGroup": "",
    "components": [],
    "startsRevealed": false,
-   "recovery": true
+   "recovery": true,
+   "tbd": false
   },
   {
    "id": "s_damage_survey",
@@ -2655,7 +2723,8 @@ window.KEX_CATALOG = {
    "exclusiveGroup": "",
    "components": [],
    "startsRevealed": false,
-   "recovery": true
+   "recovery": true,
+   "tbd": false
   },
   {
    "id": "s_hull_seal",
@@ -2692,7 +2761,8 @@ window.KEX_CATALOG = {
     }
    ],
    "startsRevealed": false,
-   "recovery": true
+   "recovery": true,
+   "tbd": false
   },
   {
    "id": "s_lift_engines",
@@ -2736,7 +2806,8 @@ window.KEX_CATALOG = {
     }
    ],
    "startsRevealed": false,
-   "recovery": true
+   "recovery": true,
+   "tbd": false
   },
   {
    "id": "s_flight_controls",
@@ -2773,7 +2844,8 @@ window.KEX_CATALOG = {
     }
    ],
    "startsRevealed": false,
-   "recovery": true
+   "recovery": true,
+   "tbd": false
   },
   {
    "id": "s_food",
@@ -2810,7 +2882,8 @@ window.KEX_CATALOG = {
     }
    ],
    "startsRevealed": false,
-   "recovery": false
+   "recovery": false,
+   "tbd": false
   },
   {
    "id": "s_medical",
@@ -2847,7 +2920,8 @@ window.KEX_CATALOG = {
     }
    ],
    "startsRevealed": false,
-   "recovery": false
+   "recovery": false,
+   "tbd": false
   },
   {
    "id": "s_cabin_repair",
@@ -2884,7 +2958,8 @@ window.KEX_CATALOG = {
     }
    ],
    "startsRevealed": false,
-   "recovery": false
+   "recovery": false,
+   "tbd": false
   },
   {
    "id": "s_cleanbots",
@@ -2928,7 +3003,8 @@ window.KEX_CATALOG = {
     }
    ],
    "startsRevealed": false,
-   "recovery": false
+   "recovery": false,
+   "tbd": false
   },
   {
    "id": "s_workshop",
@@ -2972,7 +3048,8 @@ window.KEX_CATALOG = {
     }
    ],
    "startsRevealed": false,
-   "recovery": false
+   "recovery": false,
+   "tbd": false
   },
   {
    "id": "s_cloak",
@@ -3016,7 +3093,8 @@ window.KEX_CATALOG = {
     }
    ],
    "startsRevealed": false,
-   "recovery": false
+   "recovery": false,
+   "tbd": false
   },
   {
    "id": "s_weapon_mount",
@@ -3060,7 +3138,8 @@ window.KEX_CATALOG = {
     }
    ],
    "startsRevealed": false,
-   "recovery": false
+   "recovery": false,
+   "tbd": false
   },
   {
    "id": "s_force_projector",
@@ -3098,7 +3177,8 @@ window.KEX_CATALOG = {
     }
    ],
    "startsRevealed": false,
-   "recovery": false
+   "recovery": false,
+   "tbd": false
   },
   {
    "id": "s_capacitor",
@@ -3135,7 +3215,8 @@ window.KEX_CATALOG = {
     }
    ],
    "startsRevealed": false,
-   "recovery": false
+   "recovery": false,
+   "tbd": false
   },
   {
    "id": "s_armor",
@@ -3181,7 +3262,8 @@ window.KEX_CATALOG = {
     }
    ],
    "startsRevealed": false,
-   "recovery": false
+   "recovery": false,
+   "tbd": false
   },
   {
    "id": "s_core_cradle",
@@ -3234,7 +3316,8 @@ window.KEX_CATALOG = {
     }
    ],
    "startsRevealed": false,
-   "recovery": false
+   "recovery": false,
+   "tbd": false
   },
   {
    "id": "s_scan_mask",
@@ -3286,7 +3369,8 @@ window.KEX_CATALOG = {
     }
    ],
    "startsRevealed": false,
-   "recovery": false
+   "recovery": false,
+   "tbd": false
   },
   {
    "id": "s_fire_projector",
@@ -3331,7 +3415,8 @@ window.KEX_CATALOG = {
     }
    ],
    "startsRevealed": false,
-   "recovery": false
+   "recovery": false,
+   "tbd": false
   },
   {
    "id": "s_inverse_pair",
@@ -3376,7 +3461,8 @@ window.KEX_CATALOG = {
     }
    ],
    "startsRevealed": false,
-   "recovery": false
+   "recovery": false,
+   "tbd": false
   },
   {
    "id": "s_inverse_salvage",
@@ -3428,7 +3514,8 @@ window.KEX_CATALOG = {
     }
    ],
    "startsRevealed": false,
-   "recovery": false
+   "recovery": false,
+   "tbd": false
   },
   {
    "id": "s_ley_tap",
@@ -3478,7 +3565,8 @@ window.KEX_CATALOG = {
     }
    ],
    "startsRevealed": false,
-   "recovery": false
+   "recovery": false,
+   "tbd": false
   },
   {
    "id": "s_orbit",
@@ -3530,7 +3618,8 @@ window.KEX_CATALOG = {
     }
    ],
    "startsRevealed": false,
-   "recovery": false
+   "recovery": false,
+   "tbd": false
   },
   {
    "id": "s_worldgate",
@@ -3583,7 +3672,8 @@ window.KEX_CATALOG = {
     }
    ],
    "startsRevealed": false,
-   "recovery": false
+   "recovery": false,
+   "tbd": false
   },
   {
    "id": "s_living_quarters",
@@ -3640,7 +3730,8 @@ window.KEX_CATALOG = {
     }
    ],
    "startsRevealed": false,
-   "recovery": false
+   "recovery": false,
+   "tbd": false
   }
  ]
 };

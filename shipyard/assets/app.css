@@ -314,6 +314,7 @@ h3 { font-size: 19px; font-weight: 700; }
 .ship-svg .hangar-sealed { pointer-events: none; }
 .ship-svg.hangar-open .hangar-sealed { display: none; }
 .ship-svg.armory-back .armory-lost { display: none; }
+.ship-svg.armory-back [data-feature="k_armory_rebuild"] { display: none; } /* the original back aboard wins the label (audit V8-2) */
 .ship-svg .mini-shuttle path { fill: rgba(47, 230, 196, 0.16); stroke: var(--teal); stroke-width: 8; }
 .ship-svg .mini-shuttle .fieldband { stroke-width: 14; }
 .ship-svg .conduits path { fill: none; stroke: rgba(167, 123, 255, 0.35); stroke-width: 3; stroke-dasharray: 2 10; stroke-linecap: round; }
@@ -379,7 +380,7 @@ h3 { font-size: 19px; font-weight: 700; }
 
 .pill { display: inline-flex; align-items: center; gap: 5px; padding: 4px 8px; border-radius: 99px; font: 700 10px/1 var(--display); letter-spacing: 0.16em; text-transform: uppercase; border: 1px solid currentColor; white-space: nowrap; }
 .s-installed { color: var(--teal); } .s-building { color: var(--amber); } .s-ready { color: var(--green); }
-.s-funding { color: var(--amber); } .s-open { color: var(--cyan); } .s-locked { color: var(--dim); } .s-classified { color: var(--violet); }
+.s-funding { color: var(--amber); } .s-open { color: var(--cyan); } .s-locked { color: var(--dim); } .s-classified { color: var(--violet); } .s-unknown { color: var(--violet); }
 .pill.s-building::before { content: ''; width: 6px; height: 6px; border-radius: 50%; background: currentColor; animation: em 1s infinite; }
 
 .pd-head { display: grid; grid-template-columns: auto 1fr; gap: 12px; align-items: start; margin: 8px 0 12px; }
@@ -461,6 +462,7 @@ h3 { font-size: 19px; font-weight: 700; }
 .node.st-locked { opacity: 0.55; }
 .node.st-classified { border-style: dashed; border-color: rgba(182, 144, 255, 0.3); cursor: default; }
 .node.st-classified .n-name { color: var(--violet); letter-spacing: 0.18em; }
+.node.st-unknown { border-style: dashed; border-color: rgba(182, 144, 255, 0.45); } /* not worked out yet (GM): visible, but no price */
 .node .mini-bar { grid-column: 1 / -1; height: 3px; border-radius: 2px; background: rgba(255, 255, 255, 0.07); overflow: hidden; }
 .node .mini-bar i { display: block; height: 100%; background: var(--amber); }
 .legend { display: flex; flex-wrap: wrap; gap: 8px; }

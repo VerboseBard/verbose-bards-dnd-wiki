@@ -17,7 +17,7 @@
   const reduceMotion = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   const MAPS = 'assets/maps/';
 
-  const STATE_LABEL = { installed: 'Online', building: 'Under construction', ready: 'Ready to build', funding: 'Supplying', open: 'Available', locked: 'Locked', classified: 'Encrypted' };
+  const STATE_LABEL = { installed: 'Online', building: 'Under construction', ready: 'Ready to build', funding: 'Supplying', open: 'Available', locked: 'Locked', classified: 'Encrypted', unknown: 'Not worked out yet' };
   const ROUTES = ['bridge', 'kex', 'hangar', 'tree', 'hold', 'codex', 'log'];
   const HULL_OF_ROUTE = { kex: 'kex', hangar: 'shuttle' };
   const ROUTE_OF_HULL = { kex: 'kex', shuttle: 'hangar' };
@@ -108,21 +108,25 @@
   const icon = ART.icon;
   const gp = (n) => `${fmt(n)} gp`;
   const pill = (state) => `<span class="pill s-${state}">${STATE_LABEL[state]}</span>`;
-  const ringColor = { installed: 'var(--teal)', building: 'var(--amber)', ready: 'var(--green)', funding: 'var(--amber)', open: 'var(--cyan)', locked: 'var(--dim)', classified: 'var(--violet)' };
+  const ringColor = { installed: 'var(--teal)', building: 'var(--amber)', ready: 'var(--green)', funding: 'var(--amber)', open: 'var(--cyan)', locked: 'var(--dim)', classified: 'var(--violet)', unknown: 'var(--violet)' };
   function ring(s) {
     const pct = Math.round((s.state === 'building' ? 1 - s.p.daysLeft / Math.max(1, s.workDays) : s.progress) * 100);
     return `<div class="ring" style="--p:${pct};--c:${ringColor[s.state]}">${icon(s.u.track)}</div>`;
   }
   // A prerequisite's name, unless the player may not see it yet.
   const prereqLabel = (m) => (m.ids.every((id) => status(id).state !== 'classified') ? m.label : 'an encrypted system');
+  // Parts tied to a still-hidden system (item.revealWith) stay encrypted for players until the GM reveals that system.
+  const secretItem = (st, o) => !S.gm && !!IX.item[o].revealWith && !st.projects[IX.item[o].revealWith].revealed && !(st.inventory[o] > 0);
+  const partMasked = (st, c, locked) => !locked && c.options.every((o) => secretItem(st, o));
   function needSummary(s) {
     if (s.state === 'installed') return 'Online';
     if (s.state === 'building') return `${fmt(s.p.daysLeft)} work day${s.p.daysLeft === 1 ? '' : 's'} left`;
     if (s.state === 'ready') return 'Everything supplied — ready to start work';
     if (s.state === 'locked') return `Needs ${s.missingPrereqs.map(prereqLabel).join(', ')}`;
+    if (s.state === 'unknown') return 'Not worked out yet: your GM sets it when the time comes';
     if (s.exclusive) return s.exclusive;
     const out = [];
-    s.u.components.forEach((c, i) => { if (s.need.parts[i]) out.push(`${s.need.parts[i]} × ${c.label}`); });
+    s.u.components.forEach((c, i) => { if (s.need.parts[i]) out.push(`${s.need.parts[i]} × ${partMasked(S.state, c, s.p.partItem[i]) ? 'encrypted part' : c.label}`); });
     if (s.need.quest) out.push('field objective');
     if (s.need.gp) out.push(`${fmt(s.need.gp)} gp of coin metal`);
     if (s.need.kits) out.push(`${s.need.kits} kits`);
@@ -466,7 +470,7 @@
     const zone = zoneOf(hull, u.zone);
     const crumbs = `<div class="crumbs"><button data-ui="zone" data-hull="${hull}" data-zone="">${esc(hullName(hull))}</button> › <button data-ui="zone" data-hull="${hull}" data-zone="${esc(u.zone)}">${esc(zone.name)}</button></div>`;
     if (s.state === 'classified') return `${crumbs}<div class="zone-intro"><h3>Encrypted schematic</h3><p>Kubix cannot decode this system yet. Restore more of the ship.</p></div>`;
-    const canAct = !['installed', 'building', 'locked'].includes(s.state) && !s.exclusive && (hull !== 'shuttle' || found());
+    const canAct = !['installed', 'building', 'locked', 'unknown'].includes(s.state) && !s.exclusive && (hull !== 'shuttle' || found());
     const st = S.state;
     const dis = (cond) => (cond ? '' : 'disabled');
     const first = shownMaps(zone)[0];
@@ -476,7 +480,7 @@
         <div class="pd-tags">${pill(s.state)}<span class="tag">Tier ${u.tier}</span><span class="tag">${esc(u.track)}</span>${s.hidden ? '<span class="tag" style="color:var(--violet)">Hidden from players</span>' : ''}</div></div></div>
       <p class="pd-summary">${esc(u.summary)}</p>
       <div class="pd-benefit">${esc(u.benefit)}</div>
-      <div class="pd-powers">${powerTags(u)}</div>`;
+      ${s.state === 'unknown' ? '' : `<div class="pd-powers">${powerTags(u)}</div>`}`;
     const groups = u.requires.map((r) => [r]).concat(u.requiresAny || []);
     if (groups.length) {
       html += `<div class="pd-section">Requires</div><div class="prereq">${groups.map((g) => {
@@ -489,6 +493,10 @@
     if (u.quest) {
       html += `<div class="pd-section">Field objective</div><div class="objective ${p.questDone ? 'done' : ''}"><span>${icon(p.questDone ? 'check' : 'navigation')}</span><div><div class="ob-k">${p.questDone ? 'Complete' : 'Must happen in play'}</div><p>${esc(u.quest)}</p>
         ${S.gm && s.state !== 'installed' && (u.hull !== 'shuttle' || found()) ? `<div style="margin-top:8px"><button class="btn gm sm" data-act="setQuest" data-args="${attr({ id, done: !p.questDone })}">${p.questDone ? 'Reopen objective' : 'Mark objective complete'}</button></div>` : ''}</div></div>`;
+    }
+    if (s.state === 'unknown') {
+      html += `<div class="work-box"><div class="wb-k">Status</div><div class="wb-v" style="color:var(--violet)">NOT WORKED OUT YET</div><div class="help" style="margin:0">Its cost and condition are unknown. Your GM sets them when the time comes.</div></div>`;
+      return html + gmRow(s);
     }
     if (s.state === 'installed') {
       html += `<div class="work-box"><div class="wb-k">Status</div><div class="wb-v" style="color:var(--teal)">ONLINE</div><div class="help" style="margin:0">Built and commissioned.</div></div>`;
@@ -509,10 +517,11 @@
     }
     u.components.forEach((c, line) => {
       const locked = p.partItem[line];
-      const opts = locked ? [locked] : c.options;
+      const masked = partMasked(st, c, locked);
+      const opts = locked ? [locked] : c.options.filter((o) => !secretItem(st, o));
       const need = s.need.parts[line];
       let body = '';
-      if (canAct) {
+      if (canAct && !masked) {
         body = `<div class="req-actions">${qtyInput(`q-part-${id}-${line}`, need, need)}<span class="req-note" style="margin:0">units per click</span></div>` + opts.map((itemId) => {
           const it = IX.item[itemId]; const have = E.has(st.inventory, itemId) ? st.inventory[itemId] : 0;
           const buyWhy = E.buyBlock(CAT, st, itemId, S.gm); const fabWhy = E.canFabricate(CAT, st, itemId);
@@ -525,8 +534,8 @@
             </div>${buyWhy ? `<div class="req-note">${esc(buyWhy)}</div>` : ''}</div>`;
         }).join('');
       }
-      const opted = locked ? `using ${IX.item[locked].name}` : `any one of: ${c.options.map((o) => IX.item[o].name).join(' / ')}`;
-      html += reqRow(esc(c.label), 'item', p.parts[line], c.qty, '', body, esc(opted), true);
+      const opted = masked ? 'Kubix cannot decode this part yet' : locked ? `using ${IX.item[locked].name}` : `any one of: ${opts.map((o) => IX.item[o].name).join(' / ')}`;
+      html += reqRow(esc(masked ? 'Encrypted part' : c.label), 'item', p.parts[line], c.qty, '', body, esc(opted), true);
     });
     const teams = E.teams(st).bay; const busy = E.busyTeams(CAT, st);
     if (s.state === 'building') {
@@ -572,7 +581,7 @@
         }).join('')}</div>`;
     };
     return `<div class="view-head"><div><div class="eyebrow">Refit program</div><h1>Upgrade <span class="accent">tree</span></h1><p class="lede">Each tier needs named systems online. Money buys labor and ordinary parts; the rare pieces have to be found. Encrypted schematics decode as the ship recovers.</p></div>
-      <div class="legend">${['installed', 'building', 'ready', 'funding', 'open', 'locked', 'classified'].map(pill).join('')}</div></div>
+      <div class="legend">${['installed', 'building', 'ready', 'funding', 'open', 'locked', 'classified'].concat(CAT.upgrades.some((u) => status(u.id).state === 'unknown') ? ['unknown'] : []).map(pill).join('')}</div></div>
       <section class="panel"><div class="panel-body tree-wrap"><div class="tree" id="tree"><svg class="links" id="links"></svg>${lane('kex')}${lane('shuttle')}</div></div></section>`;
   }
   function drawLinks() {

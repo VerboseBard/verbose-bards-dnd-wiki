@@ -166,13 +166,21 @@
   function generation(cat, st, hull) {
     const parts = [];
     if (hull === 'kex' && st.hulls.kex.mode === 'cold') return { total: 0, parts: [{ label: 'Cold storage — array offline', pu: 0 }] };
+    let raw = 0; // unrounded output, so the relay bonus is exact (a full cask gives 625 with an armory, not 625.07)
+    const add = (label, pu) => { raw += pu; parts.push({ label, pu: round2(pu) }); };
     cat.upgrades.filter((u) => u.hull === hull && u.generationPu && installed(st, u.id)).forEach((u) => {
-      if (u.generationCondition === 'reactor_fueled') { if (st.reactorFuel > 0) parts.push({ label: 'Reactor cask', pu: round2(Math.min(st.reactorFuel, REACTOR_CASK_PU / REACTOR_DAYS)) }); }
-      else if (u.generationCondition === 'ley') { if (st.hulls.shuttle.leyAccess && hasCore(st)) parts.push({ label: 'Ley intake', pu: u.generationPu }); }
-      else parts.push({ label: u.id === 'k_fog_cloak' ? 'Regulator trickle' : u.name, pu: u.generationPu });
+      if (u.generationCondition === 'reactor_fueled') { if (st.reactorFuel > 0) add('Reactor cask', Math.min(st.reactorFuel, REACTOR_CASK_PU / REACTOR_DAYS)); }
+      else if (u.generationCondition === 'ley') { if (st.hulls.shuttle.leyAccess && hasCore(st)) add('Ley intake', u.generationPu); }
+      else add(u.id === 'k_fog_cloak' ? 'Regulator trickle' : u.name, u.generationPu);
     });
-    return { total: round2(parts.reduce((s, p) => s + p.pu, 0)), parts };
+    // Power relays (GM ruling 2026-09-30): they used to run through the armory section. With an armory back in place
+    // they run properly again and the Kex makes a quarter more power.
+    const bonus = index(cat).hull[hull].relayBonus;
+    const extra = bonus && relaysRestored(cat, st, hull) ? raw * (bonus.factor - 1) : 0;
+    if (round2(extra) > 0) parts.push({ label: `Relays restored through the armory (+${Math.round((bonus.factor - 1) * 100)}%)`, pu: round2(extra) });
+    return { total: round2(raw + extra), parts };
   }
+  const relaysRestored = (cat, st, hull) => { const b = index(cat).hull[hull].relayBonus; return !!b && b.by.some((id) => installed(st, id)); };
 
   function draw(cat, st, hull) {
     const h = st.hulls[hull];
@@ -275,6 +283,7 @@
     if (p.status === 'installed') state = 'installed';
     else if (p.status === 'building') state = 'building';
     else if (hidden && !gm) state = 'classified';
+    else if (u.tbd) state = 'unknown'; // not worked out yet (GM): no price, no work
     else if (missing.length) state = 'locked';
     else if (funded) state = 'ready';
     else state = doneUnits > 0 ? 'funding' : 'open';
@@ -307,6 +316,7 @@
   function openProject(cat, st, id) {
     const s = projectStatus(cat, st, id, true);
     if (s.u.hull === 'shuttle' && !found(st)) fail('Nothing to work on there yet — the hangar is still sealed.');
+    if (s.u.tbd) fail(`${s.u.name}: not worked out yet. Your GM sets its cost when the time comes.`);
     if (s.state === 'installed') fail(`${s.u.name} is already installed.`);
     if (s.state === 'building') fail(`${s.u.name} is already under construction.`);
     if (s.missingPrereqs.length) fail(`${s.u.name} needs ${s.missingPrereqs.map((m) => m.label).join(', ')} first.`);
@@ -465,7 +475,7 @@
     // Reveal anything that just became reachable next to a revealed tree (one tier up), but never a schematic whose
     // other prerequisites are still encrypted: those wait for the GM (e.g. the emitter array, which also needs the cloak).
     const known = (r) => st.projects[r].revealed;
-    cat.upgrades.filter((x) => x.hull === u.hull && (x.requires.includes(id) || (x.requiresAny || []).some((g) => g.includes(id))) && x.tier <= u.tier + 1 && (x.hull === 'kex' || found(st))
+    cat.upgrades.filter((x) => x.hull === u.hull && !x.tbd && (x.requires.includes(id) || (x.requiresAny || []).some((g) => g.includes(id))) && x.tier <= u.tier + 1 && (x.hull === 'kex' || found(st))
       && x.requires.every(known) && (x.requiresAny || []).every((g) => g.some(known)))
       .forEach((x) => (st.projects[x.id].revealed = true));
     return out;
@@ -655,7 +665,7 @@
   actions.revealTier = (cat, st0, { hull, tier: t }) => {
     const st = clone(st0); hullId(hull);
     if (typeof t !== 'number' || t < 1 || t > 5) fail('Choose a tier 1–5.');
-    const ids = cat.upgrades.filter((u) => u.hull === hull && u.tier === t).map((u) => u.id);
+    const ids = cat.upgrades.filter((u) => u.hull === hull && u.tier === t && !u.tbd).map((u) => u.id);
     ids.forEach((id) => (st.projects[id].revealed = true));
     return commit(st, entry(st, 'GM', `revealed ${ids.length} tier-${t} schematic${ids.length === 1 ? '' : 's'} for ${hullLabel(cat, st, hull)}.`, 'gm'));
   };
@@ -746,7 +756,7 @@
 
   return {
     SCHEMA, ActionError, createState, normalize, apply, actions,
-    projectStatus, power, capacity, slotCapacity, slotsUsed, tier, teams, busyTeams, installed, found, flightReady, repairsLeft, hullLabel,
+    projectStatus, power, capacity, slotCapacity, slotsUsed, tier, teams, busyTeams, installed, found, flightReady, repairsLeft, hullLabel, relaysRestored,
     buyPrice, kitPrice, chunkPrice, puPerChunk, buyBlock, canFabricate, index, fmt, clone, channelName, has, itemValue, patternCount, materialStage,
     CHANNEL_CAP, REACTOR_CASK_PU, ARCHIVE_CAP, LOG_KINDS,
   };

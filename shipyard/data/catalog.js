@@ -903,14 +903,24 @@ window.KEX_CATALOG = {
      "deck": "upper",
      "name": "Sensor mast & comms",
      "blurb": "Long-range sensors and the relay that talks to the repair drones.",
-     "maps": []
+     "maps": [
+      {
+       "file": "kex-comms.webp?v=cafac91b",
+       "caption": "Sensor mast & comms room"
+      }
+     ]
     },
     {
      "id": "core",
      "deck": "upper",
      "name": "Kubix core",
      "blurb": "Kubix's own processing vault. Quiet, cold, and very well shielded.",
-     "maps": []
+     "maps": [
+      {
+       "file": "kex-core.webp?v=828b9a0f",
+       "caption": "Kubix core vault"
+      }
+     ]
     },
     {
      "id": "corridors",
@@ -937,7 +947,12 @@ window.KEX_CATALOG = {
      "deck": "mid",
      "name": "Crew quarters",
      "blurb": "Bunks and a galley. Functional, if a little goblin-sized in places.",
-     "maps": []
+     "maps": [
+      {
+       "file": "kex-quarters.webp?v=a076e7d9",
+       "caption": "Crew quarters & galley"
+      }
+     ]
     },
     {
      "id": "medbay",
@@ -956,7 +971,12 @@ window.KEX_CATALOG = {
      "deck": "mid",
      "name": "Storage holds",
      "blurb": "Cargo holds fore and aft. Mostly empty, mostly dry.",
-     "maps": []
+     "maps": [
+      {
+       "file": "kex-storage.webp?v=7d253b5f",
+       "caption": "Cargo hold"
+      }
+     ]
     },
     {
      "id": "engineering",
@@ -980,21 +1000,42 @@ window.KEX_CATALOG = {
      "deck": "lower",
      "name": "Workshop & fabrication bay",
      "blurb": "The bay that forged Jose's gauntlets. Ordinary repair and fabrication work today.",
-     "maps": []
+     "maps": [
+      {
+       "file": "kex-workshop.webp?v=f67e302c",
+       "caption": "Workshop & fabricator"
+      }
+     ]
     },
     {
      "id": "maintenance",
      "deck": "lower",
      "name": "Maintenance & drone bays",
      "blurb": "Where the repair drones rest, recharge and get patched between jobs.",
-     "maps": []
+     "maps": [
+      {
+       "file": "kex-maintenance.webp?v=98153326",
+       "caption": "Drone bay"
+      }
+     ]
     },
     {
      "id": "hangar",
      "deck": "lower",
      "name": "Hangar bay",
      "blurb": "Directly opposite where the armory tore away, on the far side of the ship. Sealed behind collapsed framing since the crash; Kubix cannot read what is inside.",
-     "maps": []
+     "maps": [
+      {
+       "file": "kex-hangar-buried.webp?v=dc248d08",
+       "needs": "k_hangar",
+       "caption": "Hangar bay — the shuttle under the wreckage",
+       "after": {
+        "project": "s_clear_wreckage",
+        "caption": "Hangar bay — wreckage cleared",
+        "file": "kex-hangar-cleared.webp?v=554a8ddf"
+       }
+      }
+     ]
     },
     {
      "id": "armory",
@@ -1008,7 +1049,12 @@ window.KEX_CATALOG = {
      "deck": "lower",
      "name": "Main drive",
      "blurb": "Field-lift coils and the translation drive. Unresponsive.",
-     "maps": []
+     "maps": [
+      {
+       "file": "kex-drive.webp?v=1e03e9f3",
+       "caption": "Main drive — powered down"
+      }
+     ]
     }
    ]
   },
@@ -1089,42 +1135,83 @@ window.KEX_CATALOG = {
      "deck": "main",
      "name": "Shielded nose intake",
      "blurb": "Replicator intake and fuel cradle sit behind the densest plating on the hull.",
-     "maps": []
+     "maps": [
+      {
+       "file": "shuttle-deck.webp?v=0490cf51",
+       "needs": "k_hangar",
+       "caption": "Shuttle deck — the nose intake is on the left"
+      }
+     ]
     },
     {
      "id": "control",
      "deck": "main",
      "name": "Control room & holotable",
      "blurb": "No windows, no pilot seat. Tyndr flies; you point at the table.",
-     "maps": []
+     "maps": [
+      {
+       "file": "shuttle-deck.webp?v=0490cf51",
+       "needs": "k_hangar",
+       "caption": "Shuttle deck — control room and holotable, centre left"
+      }
+     ]
     },
     {
      "id": "cabins",
      "deck": "main",
      "name": "Cabins A–D",
      "blurb": "Four two-berth cabins. Bunks fold into the wall to make a desk, lab or sickroom.",
-     "maps": []
+     "maps": [
+      {
+       "file": "shuttle-deck.webp?v=0490cf51",
+       "needs": "k_hangar",
+       "caption": "Shuttle deck — cabins A and B above, C and D below"
+      }
+     ]
     },
     {
      "id": "bay",
      "deck": "main",
      "name": "Rear working bay",
      "blurb": "Engineering bench, cargo tie-downs and the cleaning-drone dock.",
-     "maps": []
+     "maps": [
+      {
+       "file": "shuttle-deck.webp?v=0490cf51",
+       "needs": "k_hangar",
+       "caption": "Shuttle deck — the rear working bay is on the right"
+      }
+     ]
     },
     {
      "id": "aid",
      "deck": "main",
      "name": "First-aid nook",
      "blurb": "A fold-down treatment surface and a cupboard of supplies.",
-     "maps": []
+     "maps": [
+      {
+       "file": "shuttle-deck.webp?v=0490cf51",
+       "needs": "k_hangar",
+       "caption": "Shuttle deck — first-aid nook, lower right"
+      }
+     ]
     },
     {
      "id": "hull",
      "deck": "all",
      "name": "Hull, field bands & hardpoints",
      "blurb": "Scuffed plating, glowing field bands and the mounting points for weapons and wards.",
-     "maps": []
+     "maps": [
+      {
+       "file": "kex-hangar-buried.webp?v=dc248d08",
+       "needs": "k_hangar",
+       "caption": "Under the wreckage",
+       "after": {
+        "project": "s_clear_wreckage",
+        "caption": "The shuttle on its cradle",
+        "file": "shuttle-exterior.webp?v=1356f97e"
+       }
+      }
+     ]
     }
    ]
   }

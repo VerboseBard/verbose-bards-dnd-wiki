@@ -65,23 +65,32 @@
   // ---- tutorial voice: assets/voice/manifest.json = { lines: { id: { file, hash } } }; a line plays only if the text it
   // was recorded from still matches (hash of the step's HTML), so edited steps never play stale audio.
   const hash = (s) => { let h = 2166136261; for (let i = 0; i < s.length; i++) { h ^= s.charCodeAt(i); h = Math.imul(h, 16777619); } return (h >>> 0).toString(16); };
+  let loading = null; let ticket = 0;
   function loadLines() {
-    if (lines !== null) return;
-    lines = {};
-    fetch(`assets/voice/manifest.json?v=${encodeURIComponent(window.KEX_ASSET_VERSION || '')}`).then((r) => (r.ok ? r.json() : {}))
-      .then((j) => { lines = j && j.lines ? j.lines : {}; }).catch(() => { lines = {}; });
+    if (!loading) {
+      loading = fetch(`assets/voice/manifest.json?v=${encodeURIComponent(window.KEX_ASSET_VERSION || '')}`).then((r) => (r.ok ? r.json() : {}))
+        .then((j) => { lines = j && j.lines ? j.lines : {}; }).catch(() => { lines = {}; });
+    }
+    return loading;
   }
-  function stopVoice() { if (voice) { voice.pause(); voice = null; } }
+  function stopVoice() { ticket += 1; if (voice) { voice.pause(); voice = null; } }
+  // The list may still be loading (the step right after "Sound on" speaks at once): wait for it, but only play if the
+  // tutorial is still on that step (the ticket changes on every new step or stop).
   function speak(id, html) {
     stopVoice();
-    if (!on || !lines || !lines[id] || lines[id].hash !== hash(html)) return;
-    voice = new Audio(`assets/voice/${lines[id].file}?h=${lines[id].hash}`); voice.volume = 0.95;
-    voice.play().catch(() => {});
+    if (!on) return;
+    const mine = ticket;
+    loadLines().then(() => {
+      if (mine !== ticket || !on || !lines[id] || lines[id].hash !== hash(html)) return;
+      voice = new Audio(`assets/voice/${lines[id].file}?h=${lines[id].hash}`); voice.volume = 0.95;
+      voice.play().catch(() => {});
+    });
   }
 
   function setOn(v) {
     on = !!v; write(on);
     if (on) { ensure(); loadLines(); ambient(true); fx.ok(); } else { stopVoice(); ambient(false); }
+    window.dispatchEvent(new Event('kex-sound')); // lets the top bar redraw its Sound button
   }
   // Browsers only allow sound after a click or tap: a remembered "on" starts at the first one.
   const wake = () => {
@@ -93,5 +102,6 @@
   document.addEventListener('click', (e) => { if (on && e.target.closest && e.target.closest('button, a, .zone, .node')) fx.click(); }, true);
   window.addEventListener('hashchange', () => { if (on) fx.nav(); });
 
-  window.KexSound = { on: () => on, toggle: () => setOn(!on), set: setOn, fx, speak, stopVoice, hash };
+  const chosen = () => { try { return localStorage.getItem(KEY) !== null; } catch (e) { return false; } };
+  window.KexSound = { on: () => on, chosen, toggle: () => setOn(!on), set: setOn, fx, speak, stopVoice, hash };
 })();

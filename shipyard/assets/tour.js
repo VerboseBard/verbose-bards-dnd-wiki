@@ -42,6 +42,12 @@
   const KEX = E.index(CAT).hull.kex;
   const AI_LABEL = `${KEX.ai}${KEX.alias ? ` / ${KEX.alias}` : ''}`;
   const PACKET = { who: 'kubix', label: `MESSAGE PACKET · ${AI_LABEL.toUpperCase()} · RECORDED`, title: "Kubix's message packet", home: '#/bridge', numbers: packet, chapters: [
+    { name: 'Sound', steps: [
+      { splash: true, route: '#/bridge', choice: 'sound', title: 'Sound on or off?',
+        text: () => 'This packet comes with my voice and the ship\'s sounds: a soft hum, and a chime as we go.<br><br>Would you like sound on?' },
+      { route: '#/bridge', target: '[data-ui="sound"]', title: 'Change it any time',
+        text: () => (window.KexSound && KexSound.on() ? 'Sound is on. You may change your mind at any time: tap <b>Sound</b>, up here, to turn it off.' : 'Sound is off. You may change your mind at any time: tap <b>Sound</b>, up here, to turn it on.') },
+    ] },
     { name: 'Incoming message', steps: [
       { splash: true, route: '#/bridge', title: 'Message packet from the Kex',
         text: (v) => `Captain. Crew. This is <b>${v.ai}</b>, steward of the Kex. <b>${v.alias}</b> now, by the captain's order; I answer to both.<br><br>This packet is <b>recorded</b>. My relay cannot reach you with live readings, so every figure in it is my projection at the time of sending. Follow along — I will point at things.` },
@@ -191,6 +197,7 @@
       const b = e.target.closest('[data-tour]'); if (!b) return;
       const a = b.dataset.tour;
       if (a === 'next') show(idx + 1); else if (a === 'back') show(idx - 1); else if (a === 'exit' || a === 'skip') finish(false);
+      else if (a === 'sound-on' || a === 'sound-off') { if (window.KexSound) KexSound.set(a === 'sound-on'); show(idx + 1); }
       else if (a === 'menu') menu();
     });
     document.body.appendChild(layer);
@@ -232,6 +239,14 @@
     $('[data-tour="back"]', L).disabled = idx === 0;
     const nextBtn = $('[data-tour="next"]', L);
     nextBtn.textContent = idx === 0 ? 'Play ▸' : idx === tour.steps.length - 1 ? (tour.id === 'kubix' ? 'Enter the shipyard ▸' : 'Done ▸') : 'Next ▸';
+    let choice = $('.tc-choice', L);
+    if (step.choice && !choice) {
+      choice = document.createElement('span'); choice.className = 'tc-choice';
+      choice.innerHTML = '<button class="btn sm primary" data-tour="sound-on">Sound on</button><button class="btn sm" data-tour="sound-off">Sound off</button>';
+      nextBtn.before(choice);
+    }
+    if (!step.choice && choice) choice.remove();
+    nextBtn.hidden = !!step.choice; $('[data-tour="back"]', L).hidden = !!step.choice;
     let skip = $('[data-tour="skip"]', L);
     if (idx === 0 && !skip) { skip = document.createElement('button'); skip.className = 'btn sm ghost'; skip.dataset.tour = 'skip'; skip.textContent = 'Skip'; nextBtn.before(skip); }
     if (idx !== 0 && skip) skip.remove();
@@ -258,7 +273,8 @@
     } else {
       hole.style.display = 'none'; card.classList.remove('docked'); card.style.left = ''; card.style.top = ''; card.classList.add('centered');
     }
-    nextBtn.focus({ preventScroll: true });
+    const firstChoice = step.choice && $('.tc-choice button', L);
+    (firstChoice || nextBtn).focus({ preventScroll: true });
   }
 
   function position(card, hole) {
@@ -378,6 +394,7 @@
 
   // Entry points: #/tour, #/tour/<n>, #/tour/<name> — or the first visit on this device, from the bridge only.
   const m = location.hash.match(/^#\/tour(?:\/([a-z]+|\d+))?/i);
-  if (m) setTimeout(() => (m[1] && !/^\d+$/.test(m[1]) ? start(m[1].toLowerCase()) : start('kubix', m[1] ? Math.max(0, Number(m[1]) - 1) : 0)), 300);
-  else if (!storeGet(DONE_KEY) && /^(#\/?|#\/bridge)?$/.test(location.hash)) setTimeout(() => start('kubix'), 700);
+  const opening = () => (window.KexSound && KexSound.chosen() ? 1 : 0); // the sound choice is asked once per device
+  if (m) setTimeout(() => (m[1] && !/^\d+$/.test(m[1]) ? start(m[1].toLowerCase()) : start('kubix', m[1] ? Math.max(0, Number(m[1]) - 1) : opening())), 300);
+  else if (!storeGet(DONE_KEY) && /^(#\/?|#\/bridge)?$/.test(location.hash)) setTimeout(() => start('kubix', opening()), 700);
 })();

@@ -1,4 +1,137 @@
 {
-  "note": "Tutorial voice lines. Filled in after generation; empty means the tutorial plays silently.",
-  "lines": {}
+ "note": "Tutorial voice lines (Kubix / Syri), made locally with a designed synthetic voice. A line plays only while its hash matches the step text.",
+ "lines": {
+  "kubix-sound-on-or-off": {
+   "file": "01-kubix-sound-on-or-off.mp3",
+   "hash": "eb99fb99"
+  },
+  "kubix-change-it-any-time": {
+   "file": "02-kubix-change-it-any-time.mp3",
+   "hash": "13a37f76"
+  },
+  "kubix-message-packet-from-the-kex": {
+   "file": "03-kubix-message-packet-from-the-kex.mp3",
+   "hash": "124d008b"
+  },
+  "kubix-a-copy-of-my-refit-board": {
+   "file": "04-kubix-a-copy-of-my-refit-board.mp3",
+   "hash": "fb9086c8"
+  },
+  "kubix-the-fog-fed-me": {
+   "file": "05-kubix-the-fog-fed-me.mp3",
+   "hash": "483956b5"
+  },
+  "kubix-now-everything-costs": {
+   "file": "06-kubix-now-everything-costs.mp3",
+   "hash": "e1ac73f1"
+  },
+  "kubix-raw-ether-is-real-fuel": {
+   "file": "07-kubix-raw-ether-is-real-fuel.mp3",
+   "hash": "1f132c30"
+  },
+  "kubix-refined-disks-are-ammunition": {
+   "file": "08-kubix-refined-disks-are-ammunition.mp3",
+   "hash": "b2970302"
+  },
+  "kubix-casters-can-feed-me": {
+   "file": "09-kubix-casters-can-feed-me.mp3",
+   "hash": "46f6032"
+  },
+  "kubix-loading-fuel": {
+   "file": "10-kubix-loading-fuel.mp3",
+   "hash": "31075d10"
+  },
+  "kubix-maintenance-mode": {
+   "file": "11-kubix-maintenance-mode.mp3",
+   "hash": "163eb4f5"
+  },
+  "kubix-watch-the-reactor-lights": {
+   "file": "12-kubix-watch-the-reactor-lights.mp3",
+   "hash": "a90d1178"
+  },
+  "kubix-other-methods": {
+   "file": "13-kubix-other-methods.mp3",
+   "hash": "7f6c6bdc"
+  },
+  "kubix-we-stopped-halfway": {
+   "file": "14-kubix-we-stopped-halfway.mp3",
+   "hash": "c8b43216"
+  },
+  "kubix-behind-the-wreckage": {
+   "file": "15-kubix-behind-the-wreckage.mp3",
+   "hash": "ae9a7ada"
+  },
+  "kubix-i-do-not-take-payment": {
+   "file": "16-kubix-i-do-not-take-payment.mp3",
+   "hash": "d824955c"
+  },
+  "kubix-fabrication-kits-are-base-metal": {
+   "file": "17-kubix-fabrication-kits-are-base-metal.mp3",
+   "hash": "59c79cfb"
+  },
+  "kubix-one-item-one-job": {
+   "file": "18-kubix-one-item-one-job.mp3",
+   "hash": "383681ca"
+  },
+  "kubix-blueprints": {
+   "file": "19-kubix-blueprints.mp3",
+   "hash": "661dc79e"
+  },
+  "kubix-big-systems-need-many-copies": {
+   "file": "20-kubix-big-systems-need-many-copies.mp3",
+   "hash": "80c9941d"
+  },
+  "kubix-look-anything-up": {
+   "file": "21-kubix-look-anything-up.mp3",
+   "hash": "257fffac"
+  },
+  "kubix-metals-i-do-not-know": {
+   "file": "22-kubix-metals-i-do-not-know.mp3",
+   "hash": "fff51164"
+  },
+  "kubix-three-decks": {
+   "file": "23-kubix-three-decks.mp3",
+   "hash": "9d9e77f0"
+  },
+  "kubix-colours-mean-something": {
+   "file": "24-kubix-colours-mean-something.mp3",
+   "hash": "6b0c72d3"
+  },
+  "kubix-every-room-has-a-map": {
+   "file": "25-kubix-every-room-has-a-map.mp3",
+   "hash": "c1971f80"
+  },
+  "kubix-the-missing-armory": {
+   "file": "26-kubix-the-missing-armory.mp3",
+   "hash": "ed2beecc"
+  },
+  "kubix-who-is-giving": {
+   "file": "27-kubix-who-is-giving.mp3",
+   "hash": "85a90084"
+  },
+  "kubix-pledge-line-by-line": {
+   "file": "28-kubix-pledge-line-by-line.mp3",
+   "hash": "992e7302"
+  },
+  "kubix-then-the-work": {
+   "file": "29-kubix-then-the-work.mp3",
+   "hash": "d37ea750"
+  },
+  "kubix-the-upgrade-tree": {
+   "file": "30-kubix-the-upgrade-tree.mp3",
+   "hash": "88878315"
+  },
+  "kubix-the-log": {
+   "file": "31-kubix-the-log.mp3",
+   "hash": "5d425aeb"
+  },
+  "kubix-replay-any-time": {
+   "file": "32-kubix-replay-any-time.mp3",
+   "hash": "26015139"
+  },
+  "kubix-end-of-packet": {
+   "file": "33-kubix-end-of-packet.mp3",
+   "hash": "d5e5fd77"
+  }
+ }
 }

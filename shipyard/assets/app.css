@@ -99,6 +99,7 @@ a { color: var(--cyan); }
 .chip select option { background: var(--panel-solid); }
 
 /* ---------------------------------------------------------------- buttons */
+[hidden] { display: none !important; } /* .btn's display would otherwise beat the hidden attribute (tour Back / Next on the sound choice) */
 .btn {
   display: inline-flex; align-items: center; justify-content: center; gap: 7px;
   padding: 8px 13px; border-radius: 8px;
@@ -738,3 +739,5 @@ body.touring .comms { display: none; }
 @media (max-width: 719px) { body.touring { padding-bottom: 70vh; } }
 
 [data-ui="sound"].on { color: var(--cyan); border-color: rgba(65, 225, 255, 0.5); }
+
+.tc-choice { display: inline-flex; gap: 8px; }

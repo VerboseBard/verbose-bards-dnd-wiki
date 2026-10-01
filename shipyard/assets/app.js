@@ -144,7 +144,14 @@
     const pw = E.power(CAT, S.state, 'kex');
     return S.state.hulls.kex.mode === 'active' && (pw.net < 0 || pw.charge < 15);
   }
-  const mapSrc = (m) => `${MAPS}${m.alarm && kexAlarm() ? m.alarm : m.file}`;
+  // Maps behind a sealed door stay hidden until its project is installed (`needs`); `after` swaps in the later state
+  // once its project is installed (the hangar after the wreckage is lifted off the shuttle).
+  // A gated place counts as reached once its project is installed or the GM has ticked its objective (the armory is found).
+  const reached = (id) => E.installed(S.state, id) || !!(S.state.projects[id] && S.state.projects[id].questDone);
+  const shownMaps = (zone) => ((zone && zone.maps) || []).filter((m) => !m.needs || reached(m.needs));
+  const later = (m) => !!(m.after && E.installed(S.state, m.after.project));
+  const mapSrc = (m) => `${MAPS}${m.alarm && kexAlarm() ? m.alarm : later(m) ? m.after.file : m.file}`;
+  const mapCap = (m) => (later(m) && m.after.caption) || m.caption;
 
   // ------------------------------------------------------------------ top bar, resources, banner
   function renderTop() {
@@ -239,7 +246,7 @@
   // ------------------------------------------------------------------ battle maps
   const zoneOf = (hull, id) => IX.hull[hull].zones.find((z) => z.id === id);
   function roomMaps(hull, zone) {
-    const maps = zone.maps || [];
+    const maps = shownMaps(zone);
     if (!maps.length) return '';
     const key = `${hull}:${zone.id}`;
     const i = Math.min(S.mapIndex[key] || 0, maps.length - 1);
@@ -247,27 +254,27 @@
     const alarm = m.alarm && kexAlarm();
     const cold = m.alarm && S.state.hulls.kex.mode === 'cold';
     return `<figure class="room-map ${alarm ? 'alarm' : ''} ${cold ? 'cold' : ''}">
-      <button class="map-main" data-ui="lightbox" data-hull="${hull}" data-zone="${esc(zone.id)}" data-i="${i}" aria-label="Open ${esc(m.caption)} full screen">
-        <img src="${esc(mapSrc(m))}" alt="${esc(m.caption)} battle map" loading="lazy">
+      <button class="map-main" data-ui="lightbox" data-hull="${hull}" data-zone="${esc(zone.id)}" data-i="${i}" aria-label="Open ${esc(mapCap(m))} full screen">
+        <img src="${esc(mapSrc(m))}" alt="${esc(mapCap(m))} battle map" loading="lazy">
         <span class="map-zoom">${icon('plus')}Full screen</span>
       </button>
-      <figcaption>${esc(m.caption)}${alarm ? ' <span class="alarm-tag">RESERVE DRAINING · ALARM LIGHTING</span>' : ''}${cold ? ' <span class="alarm-tag cold">POWERED DOWN</span>' : ''}</figcaption>
-      ${maps.length > 1 ? `<div class="map-thumbs">${maps.map((x, j) => `<button class="${j === i ? 'on' : ''}" data-ui="map-pick" data-key="${esc(key)}" data-i="${j}" aria-label="${esc(x.caption)}"><img src="${esc(mapSrc(x))}" alt="" loading="lazy"></button>`).join('')}</div>` : ''}
+      <figcaption>${esc(mapCap(m))}${alarm ? ' <span class="alarm-tag">RESERVE DRAINING · ALARM LIGHTING</span>' : ''}${cold ? ' <span class="alarm-tag cold">POWERED DOWN</span>' : ''}</figcaption>
+      ${maps.length > 1 ? `<div class="map-thumbs">${maps.map((x, j) => `<button class="${j === i ? 'on' : ''}" data-ui="map-pick" data-key="${esc(key)}" data-i="${j}" aria-label="${esc(mapCap(x))}"><img src="${esc(mapSrc(x))}" alt="" loading="lazy"></button>`).join('')}</div>` : ''}
     </figure>`;
   }
   function openLightbox(hull, zoneId, i) {
-    const zone = zoneOf(hull, zoneId); if (!zone || !zone.maps.length) return;
-    S.lightbox = { hull, zoneId, i: Math.max(0, Math.min(i, zone.maps.length - 1)) };
+    const zone = zoneOf(hull, zoneId); const n = shownMaps(zone).length; if (!n) return;
+    S.lightbox = { hull, zoneId, i: Math.max(0, Math.min(i, n - 1)) };
     renderLightbox();
   }
   function renderLightbox() {
     $$('.lightbox').forEach((x) => x.remove());
     if (!S.lightbox) return;
-    const zone = zoneOf(S.lightbox.hull, S.lightbox.zoneId); const maps = zone.maps; const m = maps[S.lightbox.i];
+    const zone = zoneOf(S.lightbox.hull, S.lightbox.zoneId); const maps = shownMaps(zone); const m = maps[Math.min(S.lightbox.i, maps.length - 1)]; if (!m) { S.lightbox = null; return; }
     const el = document.createElement('div');
-    el.className = 'lightbox'; el.setAttribute('role', 'dialog'); el.setAttribute('aria-modal', 'true'); el.setAttribute('aria-label', `${m.caption} battle map`);
-    el.innerHTML = `<img src="${esc(mapSrc(m))}" alt="${esc(m.caption)} battle map">
-      <div class="lb-bar"><span class="lb-cap">${esc(zone.name)} · ${esc(m.caption)}${maps.length > 1 ? ` (${S.lightbox.i + 1}/${maps.length})` : ''}</span>
+    el.className = 'lightbox'; el.setAttribute('role', 'dialog'); el.setAttribute('aria-modal', 'true'); el.setAttribute('aria-label', `${mapCap(m)} battle map`);
+    el.innerHTML = `<img src="${esc(mapSrc(m))}" alt="${esc(mapCap(m))} battle map">
+      <div class="lb-bar"><span class="lb-cap">${esc(zone.name)} · ${esc(mapCap(m))}${maps.length > 1 ? ` (${S.lightbox.i + 1}/${maps.length})` : ''}</span>
       ${maps.length > 1 ? `<button class="btn sm" data-ui="lb-step" data-d="-1" aria-label="Previous map">◂</button><button class="btn sm" data-ui="lb-step" data-d="1" aria-label="Next map">▸</button>` : ''}
       <button class="btn sm" data-ui="lb-close" aria-label="Close">${icon('x')}Close</button></div>`;
     el.addEventListener('click', (e) => { if (e.target === el) closeLightbox(); });
@@ -317,7 +324,7 @@
   }
   function viewBridge() {
     const objs = objectives();
-    const ext = (zoneOf('kex', 'hull') || { maps: [] }).maps[0];
+    const ext = shownMaps(zoneOf('kex', 'hull'))[0];
     return `<section class="hero ${ext ? 'has-img' : ''}">${ext ? `<img class="hero-img" src="${esc(MAPS + ext.file)}" alt="">` : ''}
       <div class="hero-text"><div class="eyebrow">Ship's bridge · Day ${fmt(S.state.day)}</div><h1>Kex <span class="accent">Shipyard</span></h1><p class="lede">${esc(S.state.label)}</p>
       <div class="legend" style="margin-top:14px">${S.gm ? `<button class="btn warn" data-act="advanceDay">${icon('day')}Advance to day ${fmt(S.state.day + 1)}</button>` : ''}<button class="btn" data-ui="go" data-route="tree">${icon('tree')}Upgrade tree</button><button class="btn" data-ui="go" data-route="hold">${icon('hold')}Hold & workshop</button></div></div></section>
@@ -383,7 +390,7 @@
   }
   function zoneChip(hull, z, zoneId) {
     const zs = zoneState(hull, z.id);
-    return `<button class="zchip ${zs !== 'none' ? `z-${zs}` : ''} ${z.id === zoneId ? 'on' : ''}" data-ui="zone" data-hull="${hull}" data-zone="${esc(z.id)}"><i></i>${esc(z.name)}${z.maps.length ? ` ${icon('map', 'tiny-ic')}` : ''}</button>`;
+    return `<button class="zchip ${zs !== 'none' ? `z-${zs}` : ''} ${z.id === zoneId ? 'on' : ''}" data-ui="zone" data-hull="${hull}" data-zone="${esc(z.id)}"><i></i>${esc(z.name)}${shownMaps(z).length ? ` ${icon('map', 'tiny-ic')}` : ''}</button>`;
   }
   function updateDeck(hull) {
     const h = IX.hull[hull];
@@ -427,7 +434,7 @@
       <p>${esc(h.tiers[tierNow - 1].meaning)}</p></div>
       ${next ? `<div class="objective"><span>${icon('arrow')}</span><div><div class="ob-k">Next tier · ${nextVisible ? esc(next.name) : 'Encrypted'}</div><p>${nextVisible ? `Bring online: ${next.requires.map((id) => `<b>${esc(IX.up[id].name)}</b>${E.installed(S.state, id) ? ' ✓' : ''}`).join(', ')}` : 'Restore more of the ship to decode the next milestone.'}</p></div></div>` : ''}
       ${(h.decks.length > 1 ? [{ id: 'all', name: 'Whole ship' }].concat(h.decks) : [{ id: null, name: 'Rooms' }]).map((d) => `<div class="pd-section">${esc(d.name)}</div>` + h.zones.filter((z) => d.id === null || z.deck === d.id).map((z) => { const ids = CAT.upgrades.filter((u) => u.hull === hull && u.zone === z.id).map((u) => status(u.id)); const on = ids.filter((s) => s.state === 'installed').length; const vis = ids.filter((s) => s.state !== 'classified').length; const zs = zoneState(hull, z.id);
-        return `<button class="pcard" data-ui="zone" data-hull="${hull}" data-zone="${esc(z.id)}">${z.maps.length ? `<img class="pcard-thumb" src="${esc(mapSrc(z.maps[0]))}" alt="" loading="lazy">` : `<div class="pd-icon">${icon(ids[0] ? ids[0].u.track : 'habitation')}</div>`}<div><div class="p-name">${esc(z.name)}</div><div class="p-sub">${ids.length ? `${on} online · ${vis} known${ids.length - vis ? ` · ${ids.length - vis} encrypted` : ''}` : 'No refit projects'}${z.maps.length ? ` · ${z.maps.length} map${z.maps.length > 1 ? 's' : ''}` : ''}</div></div><span class="pill s-${zs === 'active' ? 'open' : zs === 'installed' ? 'installed' : 'locked'}">${zs === 'active' ? 'Work' : zs === 'installed' ? 'Online' : '—'}</span></button>`; }).join('')).join('')}`;
+        return `<button class="pcard" data-ui="zone" data-hull="${hull}" data-zone="${esc(z.id)}">${shownMaps(z).length ? `<img class="pcard-thumb" src="${esc(mapSrc(shownMaps(z)[0]))}" alt="" loading="lazy">` : `<div class="pd-icon">${icon(ids[0] ? ids[0].u.track : 'habitation')}</div>`}<div><div class="p-name">${esc(z.name)}</div><div class="p-sub">${ids.length ? `${on} online · ${vis} known${ids.length - vis ? ` · ${ids.length - vis} encrypted` : ''}` : 'No refit projects'}${shownMaps(z).length ? ` · ${shownMaps(z).length} map${shownMaps(z).length > 1 ? 's' : ''}` : ''}</div></div><span class="pill s-${zs === 'active' ? 'open' : zs === 'installed' ? 'installed' : 'locked'}">${zs === 'active' ? 'Work' : zs === 'installed' ? 'Online' : '—'}</span></button>`; }).join('')).join('')}`;
   }
   function zoneDetail(hull, zoneId) {
     const h = IX.hull[hull];
@@ -462,7 +469,8 @@
     const canAct = !['installed', 'building', 'locked'].includes(s.state) && !s.exclusive && (hull !== 'shuttle' || found());
     const st = S.state;
     const dis = (cond) => (cond ? '' : 'disabled');
-    const banner = zone.maps.length ? `<button class="map-banner" data-ui="lightbox" data-hull="${hull}" data-zone="${esc(zone.id)}" data-i="0" aria-label="Open ${esc(zone.maps[0].caption)} full screen"><img src="${esc(mapSrc(zone.maps[0]))}" alt="" loading="lazy"><span>${esc(zone.name)}</span></button>` : '';
+    const first = shownMaps(zone)[0];
+    const banner = first ? `<button class="map-banner" data-ui="lightbox" data-hull="${hull}" data-zone="${esc(zone.id)}" data-i="0" aria-label="Open ${esc(mapCap(first))} full screen"><img src="${esc(mapSrc(first))}" alt="" loading="lazy"><span>${esc(zone.name)}</span></button>` : '';
     let html = `${crumbs}${banner}
       <div class="pd-head"><div class="pd-icon">${icon(u.track, 'lg')}</div><div><h3>${esc(u.name)}</h3>
         <div class="pd-tags">${pill(s.state)}<span class="tag">Tier ${u.tier}</span><span class="tag">${esc(u.track)}</span>${s.hidden ? '<span class="tag" style="color:var(--violet)">Hidden from players</span>' : ''}</div></div></div>
@@ -933,7 +941,7 @@
     sound: () => { if (window.KexSound) { KexSound.toggle(); render(); } },
     peek: () => { if (!S.gm) return; S.peek = true; renderView(); },
     lightbox: (b) => openLightbox(b.dataset.hull, b.dataset.zone, Number(b.dataset.i) || 0),
-    'lb-step': (b) => { if (!S.lightbox) return; const n = zoneOf(S.lightbox.hull, S.lightbox.zoneId).maps.length; S.lightbox.i = (S.lightbox.i + Number(b.dataset.d) + n) % n; renderLightbox(); },
+    'lb-step': (b) => { if (!S.lightbox) return; const n = shownMaps(zoneOf(S.lightbox.hull, S.lightbox.zoneId)).length; if (!n) return; S.lightbox.i = (S.lightbox.i + Number(b.dataset.d) + n) % n; renderLightbox(); },
     'lb-close': closeLightbox,
     'map-pick': (b) => { S.mapIndex[b.dataset.key] = Number(b.dataset.i) || 0; renderView(); },
     'load-official': () => restoreOfficial(`Loaded official revision ${fmt(official.revision || 0)}.`),
@@ -1005,6 +1013,7 @@
     }
   });
   window.addEventListener('hashchange', () => { if (!parseHash()) return; closeModal(); closeLightbox(); render(); });
+  window.addEventListener('kex-sound', () => renderTop());
   window.addEventListener('resize', () => { setTopHeight(); if (S.route === 'tree') drawLinks(); });
   // Another tab changed the save: reload it and drop this tab's undo history (it no longer applies).
   window.addEventListener('storage', (e) => { if (e.key === KEY) { S.undo = []; load(); render(); } });

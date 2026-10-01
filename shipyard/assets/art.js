@@ -158,10 +158,12 @@
 
   // ------------------------------------------------------------------ KEX (three deck plans, schematic, not to scale)
   // Decks (GM ruling): top = elevated bridge + command systems; middle = entry level, quarters, labs, storage;
-  // lower = engineering, workshop, maintenance, drive. The armory broke off one side of the lower deck;
-  // the hangar bay is directly opposite, on the far side, still intact.
-  const K_OUT = 'M70 380L112 252L262 204L334 232L520 202L560 122H1100L1140 202L1262 192L1300 132L1480 152L1522 252V508L1480 608L1300 628L1262 568L1140 558L1100 638H882L866 656L842 632L816 662L790 634L762 654L738 638H560L520 558L334 528L262 556L112 508Z';
-  const K_OUT_SOLID = K_OUT.replace('H882L866 656L842 632L816 662L790 634L762 654L738 638H560', 'H560');
+  // lower = engineering, workshop, maintenance, drive. The armory broke off one side of the MIDDLE deck, and its tear is
+  // where the party first came aboard (sealed by the drones since). The hangar bay is directly opposite on the same deck,
+  // still intact (GM rulings 2026-09-30). The lower deck keeps the secondary armory in engineering (Session 5).
+  const TEAR = 'H762L746 656L722 632L696 662L670 634L642 654L618 638H560'; // the torn edge where the armory broke away (middle deck)
+  const K_OUT = `M70 380L112 252L262 204L334 232L520 202L560 122H1100L1140 202L1262 192L1300 132L1480 152L1522 252V508L1480 608L1300 628L1262 568L1140 558L1100 638${TEAR}L520 558L334 528L262 556L112 508Z`;
+  const K_OUT_SOLID = K_OUT.replace(TEAR, 'H560');
   const K_IN = 'M100 380L134 272L266 230L336 256L532 226L578 146H1082L1120 222L1270 214L1310 158L1466 174L1500 262V498L1466 586L1310 602L1270 546L1120 538L1082 614H578L532 534L336 504L266 530L134 488Z';
   const EMITTERS = [[190, 232], [420, 214], [700, 122], [960, 122], [1210, 196], [1420, 148], [190, 528], [420, 546], [650, 638], [980, 638], [1210, 564], [1420, 612]];
   const BOW = 'M140 300L262 262L320 280V480L262 498L140 460L118 380Z';
@@ -172,7 +174,7 @@
 
   function kexShell(deck, body) {
     const id = `kx${deck[0]}`;
-    const out = deck === 'lower' ? K_OUT : K_OUT_SOLID;
+    const out = deck === 'mid' ? K_OUT : K_OUT_SOLID;
     const em = EMITTERS.map(([x, y], i) => `<g class="emitter" data-slot="${i}" transform="translate(${x} ${y})"><circle r="11"/><circle r="4" class="em-core"/></g>`).join('');
     return `<svg class="ship-svg kex-deck deck-${deck}" viewBox="0 20 1640 780" role="img" aria-labelledby="${id}-t ${id}-d">
   <title id="${id}-t">The Kex — ${DECK_TITLES[deck].toLowerCase()}</title>
@@ -185,7 +187,7 @@
   <g class="feature" data-feature="k_shield"><ellipse cx="796" cy="392" rx="790" ry="330" class="f-shield"/></g>
   <g class="feature" data-feature="k_fog_cloak"><path d="${out}" class="f-halo soft" transform="translate(-24 -18) scale(1.03 1.05)"/></g>
   <g class="feature" data-feature="k_full_cloak"><path d="${out}" class="f-halo" transform="translate(-44 -34) scale(1.055 1.09)"/></g>
-  ${deck === 'lower' ? armoryLost(id) : ''}
+  ${deck === 'mid' ? armoryLost(id) : ''}
 
   <!-- HULL & SOCKET RING (on every deck) -->
   <g class="zone" data-zone="hull">
@@ -201,20 +203,23 @@
   }
 
   function armoryLost(id) {
-    return `<!-- ARMORY: torn off this side of the lower deck; drifting ghost until recovered -->
+    return `<!-- ARMORY: torn off this side of the middle deck; its tear is where the party first came aboard, sealed since.
+       The armory itself drifts as a ghost until recovered. -->
   <g class="zone" data-zone="armory">
     <g class="armory-lost">
-      <path d="M720 690L760 676L900 676L936 690V752H720Z" class="zone-hit room ghost"/>
-      <path d="M720 690L760 676L900 676L936 690V752H720Z" fill="url(#${id}-hatch)" class="ghost-hatch"/>
-      <text x="828" y="720" class="warn-tag" text-anchor="middle">SIGNAL LOST</text>
-      <text x="828" y="740" class="tiny" text-anchor="middle">somewhere in Driftvale</text>
-      <path d="M800 662L806 674M830 664L826 676M856 660L860 674" class="debris"/>
+      <path d="M620 690L660 676L800 676L836 690V752H620Z" class="zone-hit room ghost"/>
+      <path d="M620 690L660 676L800 676L836 690V752H620Z" fill="url(#${id}-hatch)" class="ghost-hatch"/>
+      <text x="728" y="720" class="warn-tag" text-anchor="middle">SIGNAL LOST</text>
+      <text x="728" y="740" class="tiny" text-anchor="middle">somewhere in Driftvale</text>
+      <path d="M700 662L706 674M730 664L726 676M756 660L760 674" class="debris"/>
     </g>
-    <rect x="700" y="470" width="220" height="134" rx="4" class="zone-hit room breached"/>
-    <rect x="700" y="470" width="220" height="134" rx="4" fill="url(#${id}-hatch)" class="ghost-hatch"/>
-    <g class="feature" data-feature="k_armory_recovery"><path d="M738 604H882V638H738Z" class="f-glow-rect"/><text x="810" y="540" class="f-tag" text-anchor="middle">ARMORY BUS RECONNECTED</text></g>
-    ${label(810, 520, '11', 'ARMORY MOUNT', 'breached')}
-    ${label(1000, 716, '', 'ARMORY', 'detached in the crash')}
+    <rect x="600" y="468" width="220" height="136" rx="4" class="zone-hit room breached"/>
+    <rect x="600" y="468" width="220" height="136" rx="4" fill="url(#${id}-hatch)" class="ghost-hatch"/>
+    <path d="M640 610H780" class="f-seal"/>
+    <text x="710" y="596" class="tiny" text-anchor="middle">BREACH · SEALED</text>
+    <g class="feature" data-feature="k_armory_recovery"><path d="M638 604H782V638H638Z" class="f-glow-rect"/><text x="710" y="568" class="f-tag" text-anchor="middle">ARMORY BUS RECONNECTED</text></g>
+    ${label(710, 516, '11', 'ARMORY MOUNT', 'you came in here')}
+    ${label(930, 716, '', 'ARMORY', 'detached in the crash')}
   </g>`;
   }
 
@@ -250,54 +255,13 @@
   </g>`);
   }
 
-  function kexMid() {
-    return kexShell('mid', () => `
+  function kexMid(hangarOpen) {
+    return kexShell('mid', (id) => `
   <g class="zone" data-zone="storage">
     <path d="${BOW}" class="zone-hit room"/>
-    <rect x="832" y="156" width="240" height="140" rx="4" class="zone-hit room"/>
-    <rect x="832" y="468" width="240" height="136" rx="4" class="zone-hit room"/>
     <path d="M1310 190L1466 200L1494 266V494L1466 560L1310 570Z" class="zone-hit room"/>
-    <path d="M852 190H1052M852 226H1052M852 262H1052M852 500H1052M852 536H1052M852 572H1052" class="deco thin"/>
-    <path d="M150 350H300M150 410H300" class="deco thin"/>
-    ${label(952, 240, '', 'HOLD', '')}${label(952, 548, '', 'HOLD', '')}${label(232, 392, '', 'FWD HOLD', '')}${label(1400, 392, '', 'AFT HOLD', '')}
-  </g>
-
-  <g class="zone" data-zone="quarters">
-    <path d="${NECK}" class="zone-hit room"/>
-    <path d="M360 300H500M360 340H500M360 420H500M360 460H500" class="deco thin"/>
-    ${label(434, 392, '04', 'CREW QUARTERS', 'galley · bunks')}
-  </g>
-
-  <g class="zone" data-zone="medbay">
-    <rect x="590" y="156" width="232" height="140" rx="4" class="zone-hit room"/>
-    <g class="deco"><rect x="608" y="176" width="36" height="84" rx="18"/><rect x="656" y="176" width="36" height="84" rx="18"/><rect x="704" y="176" width="36" height="84" rx="18"/><rect x="752" y="176" width="52" height="52" rx="6"/></g>
-    <g class="feature" data-feature="k_nanite_clinic"><path d="M778 236V276M758 256H798" class="f-cross"/></g>
-    ${label(706, 288, '05', 'SCIENCE LABS', '')}
-  </g>
-
-  <g class="zone" data-zone="corridors">
-    <rect x="540" y="318" width="650" height="128" rx="4" class="zone-hit room"/>
-    <rect x="600" y="468" width="220" height="136" rx="4" class="zone-hit room"/>
-    <rect x="1200" y="318" width="96" height="128" rx="4" class="zone-hit room"/>
-    <path d="M560 382H1180" class="deco"/>
-    <rect x="830" y="352" width="60" height="60" class="deco thin"/>
-    <path d="M1212 330V434M1228 330V434M1244 330V434M1260 330V434M1276 330V434" class="deco thin"/>
-    <path d="M680 610H760" class="f-seal"/>
-    <text x="710" y="596" class="tiny" text-anchor="middle">BREACH · SEALED</text>
-    <text x="1248" y="468" class="tiny" text-anchor="middle">▲▼ STAIRS</text>
-    ${label(710, 548, '', 'ENTRY', 'you came in here')}
-    ${label(860, 440, '06', 'MAIN CORRIDOR', '')}
-  </g>`);
-  }
-
-  function kexLower(hangarOpen) {
-    return kexShell('lower', (id) => `
-  <g class="zone" data-zone="maintenance">
-    <path d="${BOW}" class="zone-hit room"/>
-    <path d="${NECK}" class="zone-hit room"/>
-    <g class="deco"><circle cx="220" cy="340" r="18"/><circle cx="220" cy="420" r="18"/><circle cx="400" cy="320" r="18"/><circle cx="470" cy="320" r="18"/><circle cx="400" cy="440" r="18"/><circle cx="470" cy="440" r="18"/></g>
-    <g class="feature" data-feature="k_slow_repair"><path d="M434 372l10 -18l10 18l-10 18z" class="f-spark"/></g>
-    ${label(434, 392, '07', 'MAINTENANCE', 'drone bays')}
+    <path d="M150 350H300M150 410H300M1330 300H1470M1330 460H1470" class="deco thin"/>
+    ${label(232, 392, '', 'FWD HOLD', '')}${label(1400, 392, '', 'AFT HOLD', '')}
   </g>
 
   <g class="zone" data-zone="hangar">
@@ -316,8 +280,45 @@
     ${label(700, 196, '08', 'HANGAR BAY', '')}
   </g>
 
+  <g class="zone" data-zone="quarters">
+    <path d="${NECK}" class="zone-hit room"/>
+    <path d="M360 300H500M360 340H500M360 420H500M360 460H500" class="deco thin"/>
+    ${label(434, 392, '04', 'CREW QUARTERS', 'galley · bunks')}
+  </g>
+
+  <g class="zone" data-zone="medbay">
+    <rect x="832" y="468" width="240" height="136" rx="4" class="zone-hit room"/>
+    <g class="deco"><rect x="850" y="482" width="36" height="84" rx="18"/><rect x="898" y="482" width="36" height="84" rx="18"/><rect x="946" y="482" width="36" height="84" rx="18"/><rect x="994" y="482" width="52" height="52" rx="6"/></g>
+    <g class="feature" data-feature="k_nanite_clinic"><path d="M1020 542V582M1000 562H1040" class="f-cross"/></g>
+    ${label(952, 594, '05', 'SCIENCE LABS', '')}
+  </g>
+
+  <g class="zone" data-zone="corridors">
+    <rect x="540" y="318" width="650" height="128" rx="4" class="zone-hit room"/>
+    <rect x="1200" y="318" width="96" height="128" rx="4" class="zone-hit room"/>
+    <path d="M560 382H1180" class="deco"/>
+    <rect x="830" y="352" width="60" height="60" class="deco thin"/>
+    <path d="M1212 330V434M1228 330V434M1244 330V434M1260 330V434M1276 330V434" class="deco thin"/>
+    <text x="1248" y="468" class="tiny" text-anchor="middle">▲▼ STAIRS</text>
+    ${label(860, 440, '06', 'MAIN CORRIDOR', '')}
+  </g>`);
+  }
+
+  function kexLower() {
+    return kexShell('lower', () => `
+  <g class="zone" data-zone="maintenance">
+    <path d="${BOW}" class="zone-hit room"/>
+    <path d="${NECK}" class="zone-hit room"/>
+    <g class="deco"><circle cx="220" cy="340" r="18"/><circle cx="220" cy="420" r="18"/><circle cx="400" cy="320" r="18"/><circle cx="470" cy="320" r="18"/><circle cx="400" cy="440" r="18"/><circle cx="470" cy="440" r="18"/></g>
+    <g class="feature" data-feature="k_slow_repair"><path d="M434 372l10 -18l10 18l-10 18z" class="f-spark"/></g>
+    ${label(434, 392, '07', 'MAINTENANCE', 'drone bays')}
+  </g>
+
   <g class="zone" data-zone="workshop">
     <rect x="540" y="306" width="364" height="152" rx="4" class="zone-hit room"/>
+    <rect x="700" y="470" width="220" height="134" rx="4" class="zone-hit room"/>
+    <path d="M720 500H900M720 536H900M720 572H900" class="deco thin"/>
+    ${label(810, 556, '', 'METAL STOCK', 'fabricator feed')}
     <rect x="560" y="324" width="150" height="56" rx="6" class="deco"/>
     <circle cx="820" cy="382" r="44" class="deco"/>
     <path d="M820 338V426M776 382H864" class="deco thin"/>
@@ -328,6 +329,9 @@
 
   <g class="zone" data-zone="engineering">
     <path d="${AFT}" class="zone-hit room"/>
+    <rect x="590" y="156" width="482" height="140" rx="4" class="zone-hit room"/>
+    <path d="M610 186H1052M610 222H1052M610 258H1052" class="deco thin"/>
+    ${label(831, 232, '', 'SECONDARY ARMORY', 'stripped for drone parts')}
     <rect x="914" y="318" width="274" height="128" rx="4" class="zone-hit room"/>
     <path d="M930 340H1170M930 424H1170" class="deco thin"/>
     <circle cx="1300" cy="382" r="58" class="deco"/>
@@ -356,7 +360,7 @@
 
   // The shuttle silhouette is only drawn once the hangar is open, so it is never hidden in the page beforehand.
   function kex(deck, opts) {
-    return deck === 'upper' ? kexUpper() : deck === 'lower' ? kexLower(!!(opts && opts.hangarOpen)) : kexMid();
+    return deck === 'upper' ? kexUpper() : deck === 'lower' ? kexLower() : kexMid(!!(opts && opts.hangarOpen));
   }
 
   // Side view of the three decks, used as the deck picker.
@@ -364,11 +368,11 @@
     const band = (deck, d, n, name, y) => `<g class="deck-band ${deck === active ? 'on' : ''}" data-ui="deck" data-deck="${deck}" tabindex="0" role="button" aria-label="Show deck ${n}, ${name.toLowerCase()}">
       <path d="${d}" class="db-shape"/><text x="356" y="${y}" class="db-label">${n} · ${name}</text></g>`;
     return `<svg class="kex-elevation" viewBox="0 0 470 120" aria-label="Choose a deck">
-  <path d="M170 110V118M186 110V118" class="db-armory"/>
   ${band('upper', 'M58 22H176L190 32V46H46Z', '1', 'COMMAND', 34)}
   ${band('mid', 'M40 48H318L332 58V74H28L30 62Z', '2', 'HABITATION', 64)}
   ${band('lower', 'M28 76H332L344 86V100L332 108H44L24 94Z', '3', 'ENGINEERING', 96)}
   <path d="M300 30V104" class="db-stair"/>
+  <path d="M140 68V80M156 68V80" class="db-armory"/><!-- where the armory tore off the middle deck (drawn over the bands) -->
 </svg>`;
   }
 

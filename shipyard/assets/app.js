@@ -301,7 +301,7 @@
     const moving = all.filter((s) => ['building', 'ready', 'funding'].includes(s.state)).length;
     const open = all.filter((s) => s.state === 'open').length;
     return `<section class="panel ship-card">
-      <div class="mini card-link" data-hull="${hull}" data-ui="go" data-route="${route}" tabindex="0" role="link" aria-label="Open ${esc(h.name)} deck">${hull === 'kex' ? ART.kex('lower', { hangarOpen: found() }) : ART.tyndr()}</div>
+      <div class="mini card-link" data-hull="${hull}" data-ui="go" data-route="${route}" tabindex="0" role="link" aria-label="Open ${esc(h.name)} deck">${hull === 'kex' ? ART.kex('mid', { hangarOpen: found() }) : ART.tyndr()}</div>
       <div class="info">
         <div class="ship-title"><h3>${esc(h.name)}</h3><span class="tier-badge">Tier ${t} · ${esc(h.tiers[t - 1].name)}</span></div>
         <div class="tier-pips">${h.tiers.map((x) => `<i class="${x.tier <= t ? 'on' : ''}"></i>`).join('')}</div>
@@ -403,7 +403,7 @@
     const modes = hull === 'kex' ? [['active', 'Maintenance'], ['cold', 'Cold storage']] : [['docked', 'Docked'], ['standby', 'Standby'], ['flight', 'Flight day']];
     if (hull === 'kex' && $('#deckpick')) $('#deckpick').innerHTML = deckPicker();
     const slotCap = E.slotCapacity(CAT, S.state, hull); const slotUsed = E.slotsUsed(CAT, S.state, hull);
-    $('#maphead').innerHTML = sealed ? `<div><div class="eyebrow">Kex · deck 05</div><h3>Hangar bay</h3></div><div class="spacer"></div><span class="pill s-classified">No signal</span>` : `
+    $('#maphead').innerHTML = sealed ? `<div><div class="eyebrow">Kex · deck 2</div><h3>Hangar bay</h3></div><div class="spacer"></div><span class="pill s-classified">No signal</span>` : `
       <div><div class="eyebrow">Tier ${t} · ${esc(h.tiers[t - 1].name)}</div><h3>${esc(h.name)}</h3></div>
       <div class="tier-pips" style="width:120px">${h.tiers.map((x) => `<i class="${x.tier <= t ? 'on' : ''}" title="Tier ${x.tier}: ${esc(x.name)}"></i>`).join('')}</div>
       <div class="spacer"></div>
@@ -422,7 +422,7 @@
   }
   function sealedSide() {
     const s = status('k_hangar');
-    return `<div class="zone-intro"><div class="eyebrow">Kex · deck 05</div><h3>Hangar bay</h3><p>This bay has been cut off since the crash. Whatever is in there has been sitting in the dark for a long time.</p></div>
+    return `<div class="zone-intro"><div class="eyebrow">Kex · deck 2</div><h3>Hangar bay</h3><p>This bay has been cut off since the crash. Whatever is in there has been sitting in the dark for a long time.</p></div>
       <button class="pcard" data-ui="open-project" data-id="k_hangar">${ring(s)}<div><div class="p-name">${esc(s.u.name)}</div><div class="p-sub">${esc(needSummary(s))}</div></div>${pill(s.state)}</button>`;
   }
   function shipOverview(hull) {

@@ -269,7 +269,13 @@
         setTimeout(() => { el.style.scrollMarginTop = ''; }, 1000);
       } else targetEl.scrollIntoView({ block: 'center', behavior: instant ? 'auto' : 'smooth' });
       setTimeout(() => position(card, hole), instant ? 30 : 320);
-      setTimeout(() => { if (targetEl && layer) position(card, hole); }, 900);
+      setTimeout(() => {
+        if (!targetEl || !layer) return;
+        // A browser can cut a smooth scroll short (audit V7-3): if the target is still off screen, jump there.
+        const r = targetEl.getBoundingClientRect();
+        if (r.bottom < 0 || r.top > window.innerHeight) targetEl.scrollIntoView({ block: window.innerWidth < 720 ? 'start' : 'center', behavior: 'auto' });
+        position(card, hole);
+      }, 900);
     } else {
       hole.style.display = 'none'; card.classList.remove('docked'); card.style.left = ''; card.style.top = ''; card.classList.add('centered');
     }

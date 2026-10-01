@@ -982,7 +982,7 @@ window.KEX_CATALOG = {
      "id": "engineering",
      "deck": "lower",
      "name": "Engineering",
-     "blurb": "The reactor room and power conduits, where the combat avatar fell. Reserve cells and repair-drone cradles live here.",
+     "blurb": "The reactor room and power conduits, where the combat avatar fell. Reserve cells and repair-drone cradles live here, beside the secondary armory the drones have been stripping for parts.",
      "maps": [
       {
        "file": "kex-reactor.webp?v=d4ace505",
@@ -1021,7 +1021,7 @@ window.KEX_CATALOG = {
     },
     {
      "id": "hangar",
-     "deck": "lower",
+     "deck": "mid",
      "name": "Hangar bay",
      "blurb": "Directly opposite where the armory tore away, on the far side of the ship. Sealed behind collapsed framing since the crash; Kubix cannot read what is inside.",
      "maps": [
@@ -1039,9 +1039,9 @@ window.KEX_CATALOG = {
     },
     {
      "id": "armory",
-     "deck": "lower",
+     "deck": "mid",
      "name": "Armory (detached)",
-     "blurb": "Torn off this side of the lower deck in the crash and lost in the fog. With the fog gone, it may finally be findable.",
+     "blurb": "Torn off this side of the middle deck in the crash and lost in the fog. The tear it left is how you first came aboard; the drones have sealed it since. With the fog gone, the armory itself may finally be findable.",
      "maps": []
     },
     {

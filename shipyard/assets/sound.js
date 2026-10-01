@@ -10,7 +10,7 @@
 
   function ensure() {
     if (!gestured) return null; // browsers only allow audio after a click, tap or key press
-    if (ctx) { if (ctx.state === 'suspended') ctx.resume().catch(() => {}); return ctx; }
+    if (ctx) { if (ctx.state !== 'running') ctx.resume().catch(() => {}); return ctx; } // 'suspended', or iOS 'interrupted'
     const AC = window.AudioContext || window.webkitAudioContext;
     if (!AC) return null;
     ctx = new AC(); master = ctx.createGain(); master.gain.value = 0.5; master.connect(ctx.destination);
@@ -68,8 +68,8 @@
   let loading = null; let ticket = 0;
   function loadLines() {
     if (!loading) {
-      loading = fetch(`assets/voice/manifest.json?v=${encodeURIComponent(window.KEX_ASSET_VERSION || '')}`).then((r) => (r.ok ? r.json() : {}))
-        .then((j) => { lines = j && j.lines ? j.lines : {}; }).catch(() => { lines = {}; });
+      loading = fetch(`assets/voice/manifest.json?v=${encodeURIComponent(window.KEX_ASSET_VERSION || '')}`).then((r) => { if (!r.ok) throw new Error(String(r.status)); return r.json(); })
+        .then((j) => { lines = j && j.lines ? j.lines : {}; }).catch(() => { lines = {}; loading = null; }); // retried on the next line
     }
     return loading;
   }
@@ -99,6 +99,7 @@
     document.removeEventListener('pointerdown', wake, true); document.removeEventListener('keydown', wake, true);
   };
   document.addEventListener('pointerdown', wake, true); document.addEventListener('keydown', wake, true);
+  document.addEventListener('visibilitychange', () => { if (!document.hidden && on && ctx && ctx.state !== 'running') ctx.resume().catch(() => {}); });
   document.addEventListener('click', (e) => { if (on && e.target.closest && e.target.closest('button, a, .zone, .node')) fx.click(); }, true);
   window.addEventListener('hashchange', () => { if (on) fx.nav(); });
 

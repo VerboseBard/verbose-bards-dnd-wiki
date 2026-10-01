@@ -30,12 +30,13 @@
     sel: { kex: { zone: null, project: null }, shuttle: { zone: null, project: null } },
     pendingUpdate: false, commsMin: false, peek: false, logFilter: 'all', marketFilter: '', mounted: null,
     mapIndex: {}, lightbox: null, kexDeck: 'mid',
+    shop: {}, // shopping list: { 'kits' | 'raw' | 'item:<id>': qty } (GM ruling 2026-10-01: nothing is bought on the site)
   };
 
   const storeGet = (k) => { try { return localStorage.getItem(k); } catch (e) { return null; } };
   const storeSet = (k, v) => { try { if (v === null) localStorage.removeItem(k); else localStorage.setItem(k, v); } catch (e) { /* private mode */ } };
   function readStore() { try { return JSON.parse(storeGet(KEY)); } catch (e) { return null; } }
-  function writeStore() { storeSet(KEY, JSON.stringify({ state: S.state, base: S.base, ui: { gm: S.gm, actor: S.actor, commsMin: S.commsMin } })); }
+  function writeStore() { storeSet(KEY, JSON.stringify({ state: S.state, base: S.base, ui: { gm: S.gm, actor: S.actor, commsMin: S.commsMin, shop: S.shop } })); }
 
   function load() {
     // GM tools only appear on a device opened once with ?gm in the address (not security — a tidy table).
@@ -52,6 +53,7 @@
       S.gm = S.gmDevice && ui.gm === true;
       S.actor = typeof ui.actor === 'string' ? ui.actor : '';
       S.commsMin = ui.commsMin === true;
+      S.shop = {}; if (ui.shop && typeof ui.shop === 'object') Object.entries(ui.shop).forEach(([k, q]) => { if (shopKeyOk(k) && Number.isFinite(q) && q > 0) S.shop[k] = Math.min(1e6, Math.floor(q)); });
       if ((official.revision || 0) > S.base) S.pendingUpdate = true;
     } else S.state = E.clone(official);
     if (!S.state.crew.includes(S.actor)) S.actor = S.state.crew[0];
@@ -463,6 +465,32 @@
       <div class="bar"><i style="width:${Math.min(100, total ? (done / total) * 100 : 100)}%"></i></div>${met ? '' : body || ''}${note ? `<div class="req-note">${note}</div>` : ''}</div>`;
   }
   const qtyInput = (id, val, max) => `<span class="qty"><input type="number" id="${esc(id)}" min="1" ${max ? `max="${max}"` : ''} value="${Math.max(1, Math.round(val * 100) / 100)}" aria-label="Amount"></span>`;
+  // ------------------------------------------------------------------ shopping list (estimates only)
+  const shopKeyOk = (k) => typeof k === 'string' && (k === 'kits' || k === 'raw' || (k.startsWith('item:') && E.has(IX.item, k.slice(5))));
+  const shopName = (k) => (k === 'kits' ? 'Fabrication kits' : k === 'raw' ? 'Raw ether chunks' : IX.item[k.slice(5)].name);
+  const shopUnit = (k, st) => { if (k === 'kits') return E.kitPrice(CAT); if (k === 'raw') return E.chunkPrice(CAT, st); const it = IX.item[k.slice(5)]; return it.availability === 'quest' ? null : E.buyPrice(CAT, st, it.marketGp); };
+  const partNote = (it, fabWhy) => `<div class="req-note">${it.availability === 'quest' ? 'Not for sale: it must be found or earned.' : it.availability === 'limited' ? 'Rare: someone has to be found who will sell it.' : 'Common stock.'}${it.protected ? ' Cannot be copied.' : ` Craft a copy: ${gp(it.replicaGp)} of coin metal · ${it.replicaKits || 0} kit${(it.replicaKits || 0) === 1 ? '' : 's'} · ${fmt(it.replicaPu)} PU · ${fmt(it.replicaDays)} work day${it.replicaDays === 1 ? '' : 's'}${fabWhy ? ` (${esc(fabWhy.toLowerCase())})` : ''}.`}</div>`;
+  function shopText() {
+    const st = S.state; const m = CAT.markets.find((x) => x.id === st.market) || CAT.markets[0]; let total = 0;
+    const lines = Object.entries(S.shop).filter(([k, q]) => shopKeyOk(k) && q > 0).map(([k, q]) => { const u = shopUnit(k, st); if (u !== null) total += u * q; return `${fmt(q)} × ${shopName(k)} — ${u === null ? 'must be found' : `est. ${fmt(u * q)} gp`}`; });
+    return `Kex shopping list (estimates at ${m.name})\n${lines.join('\n')}\nEstimated total: ${fmt(total)} gp`;
+  }
+  function shopList(st) {
+    const rows = Object.entries(S.shop).filter(([k, q]) => shopKeyOk(k) && q > 0);
+    if (!rows.length) return '<p class="empty">Empty. Use <b>Add to list</b> here, in the catalog below, or on any project\'s supply checklist.</p>';
+    let total = 0;
+    const body = rows.map(([k, q]) => {
+      const u = shopUnit(k, st); const line = u === null ? null : u * q; if (line) total += line; const it = k.startsWith('item:') ? IX.item[k.slice(5)] : null;
+      return `<tr><td><b>${esc(shopName(k))}</b>${it && it.availability === 'limited' ? ' <span class="avail limited">rare</span>' : k === 'raw' ? ' <span class="avail limited">scarce</span>' : ''}</td>
+        <td class="num" style="white-space:nowrap"><button class="btn sm ghost" data-ui="shop-step" data-key="${esc(k)}" data-d="-1" aria-label="One fewer ${esc(shopName(k))}">−</button> ${fmt(q)} <button class="btn sm ghost" data-ui="shop-step" data-key="${esc(k)}" data-d="1" aria-label="One more ${esc(shopName(k))}">+</button></td>
+        <td class="num">${u === null ? '—' : gp(u)}</td><td class="num">${line === null ? 'must be found' : gp(line)}</td>
+        <td><button class="btn sm ghost" data-ui="shop-del" data-key="${esc(k)}" aria-label="Remove ${esc(shopName(k))}">${icon('x')}</button></td></tr>`;
+    }).join('');
+    return `<div style="overflow-x:auto"><table class="market-table shop-table"><thead><tr><th>Item</th><th>Qty</th><th>Est. each</th><th>Est. total</th><th></th></tr></thead><tbody>${body}</tbody>
+      <tfoot><tr><td colspan="3"><b>Estimated total</b></td><td class="num"><b>${gp(total)}</b></td><td></td></tr></tfoot></table></div>
+      <p class="help">Estimates only. Rare items need someone willing to sell them, and ether crystal is scarce on a world without ley lines: whether anyone will sell it, and how much, is up to your GM. Real prices are settled in play. The list is saved on this device.</p>
+      <div class="form-row"><button class="btn sm" data-ui="shop-copy">${icon('save')}Copy list</button><button class="btn sm ghost" data-ui="shop-clear">Clear list</button></div>`;
+  }
   function projectDetail(id) {
     const s = status(id);
     const u = s.u; const p = s.p;
@@ -507,7 +535,7 @@
       html += reqRow('Precious-metal feedstock', 'gold', p.paid.gp, u.gp, 'gp', canAct ? `<div class="req-actions">${qtyInput(`q-gp-${id}`, Math.min(s.need.gp, Math.max(1, st.treasury)))}<button class="btn sm" data-act="payGold" data-id="${esc(id)}" data-from="#q-gp-${esc(id)}" data-field="gp" ${dis(st.treasury > 0)}>${icon('gold')}Feed coins</button></div>` : '', `The ship takes metal, not payment: coins are melted for conductors and lattices. Treasury: ${gp(st.treasury)}`);
     }
     if (u.kits) {
-      html += reqRow('Fabrication kits', 'kit', p.paid.kits, u.kits, '', canAct ? `<div class="req-actions">${qtyInput(`q-kit-${id}`, s.need.kits, s.need.kits)}<button class="btn sm" data-act="giveKits" data-id="${esc(id)}" data-from="#q-kit-${esc(id)}" data-field="qty" ${dis(st.kits > 0)}>${icon('kit')}From hold (${fmt(st.kits)})</button><button class="btn sm" data-act="giveKits" data-id="${esc(id)}" data-from="#q-kit-${esc(id)}" data-field="qty" data-args="${attr({ buy: true })}">${icon('gold')}Buy · ${gp(E.kitPrice(CAT))} ea</button></div>` : '', 'Graded metal, conductors and fasteners.');
+      html += reqRow('Fabrication kits', 'kit', p.paid.kits, u.kits, '', !canAct && s.need.kits && ['locked', 'open', 'funding', 'ready'].includes(s.state) ? `<div class="req-actions"><button class="btn sm" data-ui="shop-add" data-key="kits" data-qty="${s.need.kits}">${icon('plus')}Add ${fmt(s.need.kits)} kits to list · est. ${gp(E.kitPrice(CAT))} ea</button></div>` : canAct ? `<div class="req-actions">${qtyInput(`q-kit-${id}`, s.need.kits, s.need.kits)}<button class="btn sm" data-act="giveKits" data-id="${esc(id)}" data-from="#q-kit-${esc(id)}" data-field="qty" ${dis(st.kits > 0)}>${icon('kit')}From hold (${fmt(st.kits)})</button><button class="btn sm" data-ui="shop-add" data-key="kits" data-from="#q-kit-${esc(id)}">${icon('plus')}Add to list · est. ${gp(E.kitPrice(CAT))} ea</button>${S.gm ? `<button class="btn gm sm" data-act="giveKits" data-id="${esc(id)}" data-from="#q-kit-${esc(id)}" data-field="qty" data-args="${attr({ buy: true })}" title="Record kits the party bought in play">${icon('gold')}Bought in play</button>` : ''}</div>` : '', 'Graded metal, conductors and fasteners.');
     }
     if (u.pu) {
       const kexC = st.hulls.kex.charge; const shC = found() ? st.hulls.shuttle.charge : 0;
@@ -521,7 +549,11 @@
       const opts = locked ? [locked] : c.options.filter((o) => !secretItem(st, o));
       const need = s.need.parts[line];
       let body = '';
-      if (canAct && !masked) {
+      const planOnly = !canAct && !masked && ['locked', 'open', 'funding', 'ready'].includes(s.state);
+      if (planOnly && need) {
+        body = opts.map((itemId) => { const it = IX.item[itemId];
+          return `<div class="opt"><div class="opt-name"><b>${esc(it.name)}</b></div><div class="req-actions"><button class="btn sm" data-ui="shop-add" data-key="item:${esc(itemId)}" data-qty="${need}" ${dis(it.availability !== 'quest')}>${icon('plus')}Add ${fmt(need)} to list${it.availability === 'quest' ? '' : ` · est. ${gp(E.buyPrice(CAT, st, it.marketGp))} ea`}</button></div>${partNote(it, E.canFabricate(CAT, st, itemId))}</div>`; }).join('');
+      } else if (canAct && !masked) {
         body = `<div class="req-actions">${qtyInput(`q-part-${id}-${line}`, need, need)}<span class="req-note" style="margin:0">units per click</span></div>` + opts.map((itemId) => {
           const it = IX.item[itemId]; const have = E.has(st.inventory, itemId) ? st.inventory[itemId] : 0;
           const buyWhy = E.buyBlock(CAT, st, itemId, S.gm); const fabWhy = E.canFabricate(CAT, st, itemId);
@@ -529,9 +561,10 @@
           return `<div class="opt"><div class="opt-name"><b>${esc(it.name)}</b><span>${have ? `${fmt(have)} in hold` : 'none in hold'}${st.patterns.includes(itemId) ? ' · <span class="badge-pattern">PATTERN</span>' : ''}</span></div>
             <div class="req-actions">
               <button class="btn sm" data-act="givePart" data-from="#q-part-${esc(id)}-${line}" data-field="qty" data-args="${attr(Object.assign({ route: 'owned' }, base))}" ${dis(have > 0)}>${icon('hold')}Install from hold</button>
-              <button class="btn sm" data-act="givePart" data-from="#q-part-${esc(id)}-${line}" data-field="qty" data-args="${attr(Object.assign({ route: 'buy' }, base))}" ${dis(!buyWhy)} title="${esc(buyWhy)}">${icon('gold')}Buy · ${gp(E.buyPrice(CAT, st, it.marketGp))}</button>
+              <button class="btn sm" data-ui="shop-add" data-key="item:${esc(itemId)}" data-from="#q-part-${esc(id)}-${line}" ${dis(it.availability !== 'quest')}>${icon('plus')}Add to list${it.availability === 'quest' ? '' : ` · est. ${gp(E.buyPrice(CAT, st, it.marketGp))}`}</button>
+              ${S.gm && !buyWhy ? `<button class="btn gm sm" data-act="givePart" data-from="#q-part-${esc(id)}-${line}" data-field="qty" data-args="${attr(Object.assign({ route: 'buy' }, base))}" title="Record parts the party bought in play: pays the listed price from the treasury">${icon('gold')}Bought in play</button>` : ''}
               ${it.protected ? '' : `<button class="btn sm" data-act="givePart" data-from="#q-part-${esc(id)}-${line}" data-field="qty" data-args="${attr(Object.assign({ route: 'fabricate' }, base))}" ${dis(!fabWhy)} title="${esc(fabWhy || `Blueprint per copy: ${gp(it.replicaGp)} of coin metal, ${it.replicaKits || 0} kits, ${fmt(it.replicaPu)} PU, ${fmt(it.replicaDays)} days`)}">${icon('fabrication')}Fabricate · ${gp(it.replicaGp)} + ${it.replicaKits || 0} kits + ${fmt(it.replicaPu)} PU</button>`}
-            </div>${buyWhy ? `<div class="req-note">${esc(buyWhy)}</div>` : ''}</div>`;
+            </div>${partNote(it, fabWhy)}</div>`;
         }).join('');
       }
       const opted = masked ? 'Kubix cannot decode this part yet' : locked ? `using ${IX.item[locked].name}` : `any one of: ${opts.map((o) => IX.item[o].name).join(' / ')}`;
@@ -627,23 +660,24 @@
         <div class="form-row"><label for="mc-lv">Slot levels</label><input type="number" id="mc-lv" min="1" max="${E.CHANNEL_CAP}" value="3"><label for="mc-hull">Into</label><select class="field" id="mc-hull">${hullOpts('kex')}</select></div>
         <button class="btn primary" data-ui="channel">${icon('power')}Channel</button>
         ${channeled.length ? `<p class="help" style="margin-top:10px">Today: ${channeled.map(([k, v]) => `${esc(E.channelName(k))} ${fmt(v)}/${E.CHANNEL_CAP}`).join(' · ')}</p>` : ''}</div></section>
-      <section class="panel"><div class="panel-head"><h2>Supply run</h2><span class="chip">${esc(m.name)} ×${fmt(m.multiplier)}</span></div><div class="panel-body">
-        <p class="help">Prices at the current market. ${esc(m.name)}: deliveries take about ${fmt(m.deliveryDays)} days. Fabrication kits (base metal) cost the same everywhere — or melt scrap: ${fmt(CAT.itemRules.metalLbPerKit)} lb of metal gear = 1 kit (the GM records it).</p>
-        <div class="form-row"><input type="number" id="by-ch" min="1" value="20" aria-label="Raw chunks"><button class="btn" data-ui="buy-raw">${icon('ether')}Buy raw chunks · ${gp(E.chunkPrice(CAT, st))} ea</button></div>
-        <div class="form-row"><input type="number" id="by-kit" min="1" value="5" aria-label="Kits"><button class="btn" data-ui="buy-kits">${icon('kit')}Buy kits · ${gp(E.kitPrice(CAT))} ea</button></div>
+      <section class="panel"><div class="panel-head"><h2>Market estimates</h2><span class="chip">${esc(m.name)} ×${fmt(m.multiplier)}</span></div><div class="panel-body">
+        <p class="help">Nothing is bought here. Add what the party needs and take the list to market. Prices are <b>estimates</b> at ${esc(m.name)} (deliveries about ${fmt(m.deliveryDays)} days); the real deal happens in play. Kits are base metal and cost the same everywhere, or melt scrap: ${fmt(CAT.itemRules.metalLbPerKit)} lb of metal gear = 1 kit (the GM records it).</p>
+        <div class="form-row"><input type="number" id="by-ch" min="1" value="20" aria-label="Raw chunks"><button class="btn" data-ui="shop-add" data-key="raw" data-from="#by-ch">${icon('ether')}Add raw chunks · est. ${gp(E.chunkPrice(CAT, st))} ea · scarce</button>${S.gm ? '<button class="btn gm sm" data-ui="buy-raw" title="Record ether the party bought in play">Bought in play</button>' : ''}</div>
+        <div class="form-row"><input type="number" id="by-kit" min="1" value="5" aria-label="Kits"><button class="btn" data-ui="shop-add" data-key="kits" data-from="#by-kit">${icon('kit')}Add kits · est. ${gp(E.kitPrice(CAT))} ea</button>${S.gm ? '<button class="btn gm sm" data-ui="buy-kits" title="Record kits the party bought in play">Bought in play</button>' : ''}</div>
         ${found() ? `<div class="pd-section">Transfer charge</div><div class="form-row"><select class="field" id="tr-from"><option value="kex">Kex → ${esc(IX.hull.shuttle.name)}</option><option value="shuttle">${esc(IX.hull.shuttle.name)} → Kex</option></select><input type="number" id="tr-pu" min="1" value="20" aria-label="PU"><button class="btn" data-ui="transfer">${icon('power')}Transfer</button></div>` : ''}
         </div></section>
+      <section class="panel span-3" id="shopping"><div class="panel-head"><h2>Shopping list</h2><span class="chip">estimates, not purchases</span></div><div class="panel-body">${shopList(st)}</div></section>
       <section class="panel span-3"><div class="panel-head"><h2>Workshop · items in the hold</h2><span class="chip">${archive ? `Pattern archive ${E.patternCount(st)}/${E.ARCHIVE_CAP}` : 'Pattern archive offline'}</span></div><div class="panel-body">
-        ${inv.length ? `<div class="items">${inv.map(({ it, q }) => itemCard(it, q, archive)).join('')}</div>` : '<p class="empty">No components or donor items in the hold. Buy them below, or the GM records what the party brings aboard.</p>'}
+        ${inv.length ? `<div class="items">${inv.map(({ it, q }) => itemCard(it, q, archive)).join('')}</div>` : '<p class="empty">No components or donor items in the hold. Put what you need on the shopping list; the GM records what the party brings aboard.</p>'}
         ${E.patternCount(st) ? `<div class="pd-section">Pattern archive · blueprints</div><div class="blueprints">${st.patterns.map((p) => { const it = IX.item[p]; return `<div class="bp"><b>${esc(it.name)}</b><span>${gp(it.replicaGp)} coin metal · ${it.replicaKits || 0} kits · ${fmt(it.replicaPu)} PU · ${fmt(it.replicaDays)} d per copy</span></div>`; }).join('')}${(st.codexPatterns || []).map((cp) => { const v = E.itemValue(CAT, cp.rarity, cp.consumable); return `<div class="bp"><b>${esc(cp.name)}</b><span>${gp(v.blueprint.gp)} coin metal · ${v.blueprint.kits} kits · ${fmt(v.blueprint.pu)} PU · ${fmt(v.blueprint.days)} d per copy · the GM decides which system can use it</span></div>`; }).join('')}</div>` : ''}
         <p class="help">Want to know what another item is worth? Look it up in the <a href="#/codex">item codex</a> — every D&amp;D item, piece of gear and spell.</p>
         </div></section>
       ${materialsPanel(st)}
       <section class="panel span-3"><div class="panel-head"><h2>Market & salvage catalog</h2><input type="text" id="mk-filter" placeholder="Filter…" value="${esc(S.marketFilter)}" style="width:200px" aria-label="Filter catalog"></div><div class="panel-body" style="overflow-x:auto">
-        <table class="market-table"><thead><tr><th>Item</th><th>Family</th><th>Availability</th><th>Price here</th><th>Recycle</th><th></th></tr></thead><tbody>
+        <table class="market-table"><thead><tr><th>Item</th><th>Family</th><th>Availability</th><th>Est. price</th><th>Recycle</th><th></th></tr></thead><tbody>
         ${market.map((i) => { const why = E.buyBlock(CAT, st, i.id, S.gm); return `<tr><td><b>${esc(i.name)}</b>${unrevealed(i) ? ' <span class="tag" style="color:var(--violet)">Hidden from players</span>' : ''}<div class="req-note">${esc(i.description)}</div></td><td>${esc(i.family)}</td><td><span class="avail ${esc(i.availability)}">${esc(i.availability)}</span></td>
           <td class="num">${i.availability === 'quest' ? '—' : gp(E.buyPrice(CAT, st, i.marketGp))}</td><td class="num">${i.salvagePu ? `${fmt(i.salvagePu)} PU` : '—'}</td>
-          <td style="white-space:nowrap">${i.availability === 'quest' ? (S.gm ? `<button class="btn gm sm" data-act="adjust" data-args="${attr({ field: `item:${i.id}`, delta: 1, reason: 'found in play' })}">Record find</button>` : '<span class="req-note">Must be found</span>') : `<button class="btn sm" data-act="buyItem" data-args="${attr({ itemId: i.id, qty: 1 })}" ${why ? 'disabled' : ''} title="${esc(why)}">${icon('plus')}Buy 1</button>`}</td></tr>`; }).join('')}
+          <td style="white-space:nowrap">${i.availability === 'quest' ? (S.gm ? `<button class="btn gm sm" data-act="adjust" data-args="${attr({ field: `item:${i.id}`, delta: 1, reason: 'found in play' })}">Record find</button>` : '<span class="req-note">Must be found</span>') : `<button class="btn sm" data-ui="shop-add" data-key="item:${esc(i.id)}" data-qty="1">${icon('plus')}Add to list</button>${S.gm && !why ? `<button class="btn gm sm" data-act="buyItem" data-args="${attr({ itemId: i.id, qty: 1, gm: true })}" title="Record one bought in play: pays the listed price from the treasury">Bought 1</button>` : ''}`}</td></tr>`; }).join('')}
         </tbody></table></div></section>
     </div>`;
   }
@@ -965,9 +999,20 @@
     adjust: () => act('adjust', { field: $('#of-field').value, delta: num('#of-delta'), reason: $('#of-reason').value.trim() }),
     refuel: () => act('refuel', { hull: $('#rf-hull').value, chunks: num('#rf-ch') || 0, disks: num('#rf-dk') || 0 }),
     channel: () => act('channel', { hull: $('#mc-hull').value, levels: num('#mc-lv'), caster: $('#mc-name').value }),
-    'buy-raw': () => act('buyRaw', { chunks: num('#by-ch') }),
+    'buy-raw': () => { if (S.gm) act('buyRaw', { chunks: num('#by-ch') }); }, // GM records a purchase made in play
+    'shop-add': (b) => {
+      const k = b.dataset.key; if (!shopKeyOk(k)) return;
+      const q = Math.floor(b.dataset.from ? num(b.dataset.from) : Number(b.dataset.qty) || 1); if (!(q > 0)) return;
+      S.shop[k] = Math.min(1e6, (S.shop[k] || 0) + q); writeStore();
+      if (S.route !== 'hold') say('kubix', '', `Added to your shopping list: ${fmt(q)} × ${shopName(k)}. It is on the Hold page, under Shopping list.`);
+      if (window.KexSound) KexSound.fx.ok(); renderView();
+    },
+    'shop-step': (b) => { const k = b.dataset.key; if (!shopKeyOk(k)) return; const q = (S.shop[k] || 0) + Number(b.dataset.d); if (q > 0) S.shop[k] = q; else delete S.shop[k]; writeStore(); renderView(); },
+    'shop-del': (b) => { delete S.shop[b.dataset.key]; writeStore(); renderView(); },
+    'shop-clear': () => { S.shop = {}; writeStore(); renderView(); },
+    'shop-copy': () => { const t = shopText(); const done = () => say('kubix', '', 'Shopping list copied. Paste it wherever the party keeps notes.'); if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(t).then(done, () => download('kex-shopping-list.txt', t)); else download('kex-shopping-list.txt', t); },
     'feed-material': () => { S.fmMat = $('#fm-mat').value; act('feedMaterial', { material: S.fmMat, bars: num('#fm-bars') }); },
-    'buy-kits': () => act('buyKits', { qty: num('#by-kit') }),
+    'buy-kits': () => { if (S.gm) act('buyKits', { qty: num('#by-kit') }); }, // GM records a purchase made in play
     transfer: () => { const from = $('#tr-from').value; act('transfer', { from, to: from === 'kex' ? 'shuttle' : 'kex', pu: num('#tr-pu') }); },
     'log-filter': (b) => { S.logFilter = b.dataset.k; renderView(); },
     'codex-tab': (b) => { S.codex.tab = b.dataset.k; S.codex.limit = 120; S.codex.rarity = ''; S.codex.role = ''; renderView(); },

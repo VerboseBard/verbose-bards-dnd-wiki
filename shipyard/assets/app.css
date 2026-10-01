@@ -657,6 +657,7 @@ h3 { font-size: 19px; font-weight: 700; }
 .deck-tabs button { border: 0; background: transparent; padding: 8px 12px; font: 600 11.5px var(--display); letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); cursor: pointer; display: inline-flex; gap: 6px; align-items: center; }
 .deck-tabs button b { color: var(--amber); }
 .deck-tabs button.on { background: rgba(65, 225, 255, 0.16); color: var(--cyan); }
+@media (max-width: 440px) { .deck-tabs { display: flex; max-width: 100%; } .deck-tabs button { flex: 1 1 auto; padding: 8px 6px; letter-spacing: 0.04em; font-size: 10.5px; min-width: 0; } } /* "3 ENGINEERING" fits at 390 px (audit V10-7) */
 .zchip-deck { flex-basis: 100%; font: 700 10px var(--display); letter-spacing: 0.24em; text-transform: uppercase; color: var(--dim); margin-top: 4px; }
 .ship-svg .deck-watermark { fill: rgba(65, 225, 255, 0.28); font-size: 26px; font-weight: 700; letter-spacing: 0.3em; }
 .ship-svg .dorsal { opacity: 0.35; pointer-events: none; }

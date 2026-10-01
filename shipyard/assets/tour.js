@@ -211,6 +211,8 @@
     if (i >= tour.steps.length) { finish(true); return; }
     idx = i;
     const step = tour.steps[i];
+    // Start the line inside the tap itself: Safari only lets sound start there, not from the timer below (audit V10-1).
+    if (window.KexSound) { if (tour.id === 'kubix') KexSound.speak(voiceId(step), step.text(tour.numbers())); else KexSound.stopVoice(); }
     APP.closeOverlays(); APP.quiet();
     ensureLayer();
     const route = step.whenHangarOpen && E.installed(APP.state(), 'k_hangar') ? step.whenHangarOpen : step.route;
@@ -253,7 +255,7 @@
     const body = $('.tc-body', L);
     const html = step.text(tour.numbers());
     body.innerHTML = html;
-    if (window.KexSound) { if (step.splash) KexSound.fx.open(); else KexSound.fx.step(); if (tour.id === 'kubix') KexSound.speak(voiceId(step), html); else KexSound.stopVoice(); }
+    if (window.KexSound) { if (step.splash) KexSound.fx.open(); else KexSound.fx.step(); } // the voice already started in show()
     if (!reduceMotion) { body.classList.remove('reveal'); void body.offsetWidth; body.classList.add('reveal'); }
     targetEl = step.target ? document.querySelector(step.target) : null;
     if (targetEl && !step.splash) {

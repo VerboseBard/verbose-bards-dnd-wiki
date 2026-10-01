@@ -368,7 +368,7 @@
   function kexElevation(active) {
     const band = (deck, d, n, name, y) => `<g class="deck-band ${deck === active ? 'on' : ''}" data-ui="deck" data-deck="${deck}" tabindex="0" role="button" aria-label="Show deck ${n}, ${name.toLowerCase()}">
       <path d="${d}" class="db-shape"/><text x="356" y="${y}" class="db-label">${n} · ${name}</text></g>`;
-    return `<svg class="kex-elevation" viewBox="0 0 470 120" aria-label="Choose a deck">
+    return `<svg class="kex-elevation" viewBox="0 0 510 120" aria-label="Choose a deck">
   ${band('upper', 'M58 22H176L190 32V46H46Z', '1', 'COMMAND', 34)}
   ${band('mid', 'M40 48H318L332 58V74H28L30 62Z', '2', 'HABITATION', 64)}
   ${band('lower', 'M28 76H332L344 86V100L332 108H44L24 94Z', '3', 'ENGINEERING', 96)}

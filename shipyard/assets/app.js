@@ -22,6 +22,12 @@
   const HULL_OF_ROUTE = { kex: 'kex', hangar: 'shuttle' };
   const ROUTE_OF_HULL = { kex: 'kex', shuttle: 'hangar' };
 
+  // Recent errors on this page, for "Report a problem" (plain text only, last five).
+  const ERRORS = [];
+  const noteError = (msg) => { ERRORS.push(`${new Date().toISOString().slice(11, 19)} ${String(msg).slice(0, 240)}`); if (ERRORS.length > 5) ERRORS.shift(); };
+  window.addEventListener('error', (e) => noteError(`${e.message || 'error'}${e.filename ? ` (${String(e.filename).split('/').pop()}:${e.lineno})` : ''}`));
+  window.addEventListener('unhandledrejection', (e) => noteError(`unhandled: ${e.reason && e.reason.message ? e.reason.message : e.reason}`));
+
   // ------------------------------------------------------------------ state & storage
   const official = E.normalize(CAT, window.KEX_OFFICIAL_STATE || {});
   const officialJSON = JSON.stringify(official);
@@ -64,7 +70,7 @@
   const hullName = (h) => E.hullLabel(CAT, S.state, h);
   const status = (id) => E.projectStatus(CAT, S.state, id, S.gm);
   const snapshot = () => ({ state: S.state, base: S.base, pendingUpdate: S.pendingUpdate });
-  const pushUndo = () => { S.undo.push(snapshot()); if (S.undo.length > 50) S.undo.shift(); };
+  const pushUndo = (label) => { S.undo.push(Object.assign(snapshot(), label ? { label } : {})); if (S.undo.length > 50) S.undo.shift(); };
 
   // The refit drill (assets/tour-drill.js) shows real screens on a throwaway copy of the ship: practice(state) swaps the
   // copy in (player view, nothing saved, its own undo), practice(null) puts the real session back exactly as it was.
@@ -93,9 +99,11 @@
       writeStore();
       react(name, args || {}, res.log, prev);
       render();
+      return true;
     } catch (e) {
       if (e instanceof E.ActionError) { toast(e.message, 'err'); if (window.KexSound) KexSound.fx.err(); }
-      else { console.error(e); toast('Something went wrong with that action.', 'err'); }
+      else { console.error(e); noteError(`action ${name}: ${e && e.message}`); toast('Something went wrong with that action.', 'err'); }
+      return false;
     }
   }
 
@@ -127,6 +135,7 @@
   // ------------------------------------------------------------------ small renderers
   const icon = ART.icon;
   const gp = (n) => `${fmt(n)} gp`;
+  const kitsTxt = (n) => `${fmt(n)} kit${n === 1 ? '' : 's'}`;
   const pill = (state) => `<span class="pill s-${state}">${STATE_LABEL[state]}</span>`;
   const ringColor = { installed: 'var(--teal)', building: 'var(--amber)', ready: 'var(--green)', funding: 'var(--amber)', open: 'var(--cyan)', locked: 'var(--dim)', classified: 'var(--violet)', unknown: 'var(--violet)' };
   function ring(s) {
@@ -135,7 +144,18 @@
   }
   // A prerequisite's name, unless the player may not see it yet.
   // Decoding encrypted schematics (GM request 2026-10-01).
-  const decodeSub = (s) => { const d = S.state.decoding && S.state.decoding[s.u.hull]; if (d && d.id === s.id) return `Decoding · ${fmt(d.daysLeft)} day${d.daysLeft === 1 ? '' : 's'} left`; return s.u.gmHeld || s.u.tbd ? 'A schematic Kubix cannot reach yet' : `Tier ${s.u.tier} schematic · tap to decode`; };
+  const decodeSub = (s) => {
+    const d = S.state.decoding && S.state.decoding[s.u.hull]; if (d && d.id === s.id) return `Decoding · ${fmt(d.daysLeft)} day${d.daysLeft === 1 ? '' : 's'} left`;
+    if (s.u.gmHeld || s.u.tbd) return 'A schematic Kubix cannot reach yet';
+    if (heldChain(s.u)) return 'A schematic Kubix cannot reach yet';
+    return decodeFirst(s.u) ? `Tier ${s.u.tier} schematic · decode what it builds on first` : `Tier ${s.u.tier} schematic · tap to decode`;
+  };
+  // The still-encrypted schematic a card builds on (tester T1): decoding never jumps past it.
+  function decodeFirst(u) {
+    const hidden = (r) => !S.state.projects[r].revealed;
+    const r = u.requires.find(hidden) || ((u.requiresAny || []).find((g) => g.every(hidden)) || [])[0];
+    return r ? IX.up[r] : null;
+  }
   const prereqLabel = (m) => (m.ids.every((id) => status(id).state !== 'classified') ? m.label : 'an encrypted system');
   // Parts tied to a still-hidden system (item.revealWith) stay encrypted for players until the GM reveals that system.
   const secretItem = (st, o) => !S.gm && !!IX.item[o].revealWith && !st.projects[IX.item[o].revealWith].revealed && !(st.inventory[o] > 0);
@@ -151,7 +171,7 @@
     s.u.components.forEach((c, i) => { if (s.need.parts[i]) out.push(`${s.need.parts[i]} × ${partMasked(S.state, c, s.p.partItem[i]) ? 'encrypted part' : c.label}`); });
     if (s.need.quest) out.push('field objective');
     if (s.need.gp) out.push(`${fmt(s.need.gp)} gp of coin metal`);
-    if (s.need.kits) out.push(`${s.need.kits} kits`);
+    if (s.need.kits) out.push(kitsTxt(s.need.kits));
     if (s.need.pu) out.push(`${fmt(s.need.pu)} PU`);
     return `Needs ${out.slice(0, 4).join(' · ')}${out.length > 4 ? ' …' : ''}`;
   }
@@ -181,6 +201,7 @@
 
   // ------------------------------------------------------------------ top bar, resources, banner
   function renderTop() {
+    requestAnimationFrame(navEdges);
     $$('.nav a').forEach((a) => {
       a.classList.toggle('active', a.dataset.route === S.route);
       if (a.dataset.route === 'hangar') a.innerHTML = `${icon('ship')}<span>${found() ? esc(IX.hull.shuttle.name) : 'Hangar'}</span>${found() ? '' : '<i class="lock-dot" title="Sealed"></i>'}`;
@@ -201,6 +222,14 @@
       <button class="btn sm" data-ui="office" title="Save and share">${icon('save')}<span class="lbl">Office</span></button>`;
   }
 
+  // Narrow screens: keep the active tab in view and fade the edges that have more tabs behind them (tester T4).
+  function navEdges(center) {
+    const nav = $('.nav'); if (!nav) return;
+    const a = $('.nav a.active');
+    if (center !== false && a && nav.scrollWidth > nav.clientWidth + 2) nav.scrollLeft = Math.max(0, a.offsetLeft - (nav.clientWidth - a.offsetWidth) / 2);
+    nav.classList.toggle('more-left', nav.scrollLeft > 4);
+    nav.classList.toggle('more-right', nav.scrollLeft + nav.clientWidth < nav.scrollWidth - 4);
+  }
   function hullRes(h) {
     if (h === 'shuttle' && !found()) return `<div class="res hullres sealed"><div class="res-k">${icon('lock')}Hangar bay</div><div class="res-v">SEALED</div><div class="meter-row"><span>No readings</span></div></div>`;
     const pw = E.power(CAT, S.state, h);
@@ -210,7 +239,7 @@
     return `<div class="res hullres ether"><div class="res-k">${icon('power')}${esc(IX.hull[h].name)} reserve</div>
       <div class="res-v">${fmt(pw.charge)}<small>/ ${fmt(pw.capacity)} PU</small></div>
       <div class="meter ${pct < 15 ? 'low' : ''}"><i style="width:${pct}%"></i></div>
-      <div class="meter-row"><span>+${fmt(pw.generation.total)} / ${pw.draw.total ? '−' : ''}${fmt(pw.draw.total)} a day</span><span class="${netCls}">${pw.net > 0 ? '+' : ''}${fmt(pw.net)}/day${days}</span></div></div>`;
+      <div class="meter-row"><span>+${fmt(pw.generation.total)} / ${pw.draw.total ? '−' : ''}${fmt(pw.draw.total)} a day</span><span class="${netCls}">${pw.net < 0 ? `${fmt(pw.daysLeft)} day${pw.daysLeft === 1 ? '' : 's'} left` : pw.net > 0 ? `+${fmt(pw.net)}/day` : 'holding steady'}</span></div></div>`;
   }
   function renderResources() {
     const st = S.state;
@@ -317,7 +346,7 @@
       const hs = status('k_hangar');
       return `<section class="panel ship-card"><div class="sealed-card"><div><div class="sc-title">HANGAR SEALED</div><div class="sc-sub">Collapsed framing blocks the bay. Kubix cannot read what is inside.</div></div></div>
         <div class="info"><div class="ship-title"><h3>Hangar bay</h3><span class="tier-badge">No signal</span></div>
-        <p class="lede" style="margin:0">Open it with <b>${esc(hs.u.name)}</b> — ${esc(needSummary(hs).toLowerCase())}.</p>
+        <p class="lede" style="margin:0">Open it with <b>${esc(hs.u.name)}</b> — ${esc(needSummary(hs).replace(/^N/, 'n'))}.</p>
         <div><button class="btn primary" data-ui="open-project" data-id="k_hangar">${icon('access')}Clear the hangar</button></div></div></section>`;
     }
     const t = E.tier(CAT, S.state, hull);
@@ -325,14 +354,15 @@
     const pw = E.power(CAT, S.state, hull);
     const all = CAT.upgrades.filter((u) => u.hull === hull).map((u) => status(u.id));
     const online = all.filter((s) => s.state === 'installed').length;
-    const moving = all.filter((s) => ['building', 'ready', 'funding'].includes(s.state)).length;
+    const building = all.filter((s) => s.state === 'building').length;
+    const supplying = all.filter((s) => ['ready', 'funding'].includes(s.state)).length;
     const open = all.filter((s) => s.state === 'open').length;
     return `<section class="panel ship-card">
       <div class="mini card-link" data-hull="${hull}" data-ui="go" data-route="${route}" tabindex="0" role="link" aria-label="Open ${esc(h.name)} deck">${hull === 'kex' ? ART.kex('mid', { hangarOpen: found() }) : ART.tyndr()}</div>
       <div class="info">
         <div class="ship-title"><h3>${esc(h.name)}</h3><span class="tier-badge">Tier ${t} · ${esc(h.tiers[t - 1].name)}</span></div>
         <div class="tier-pips">${h.tiers.map((x) => `<i class="${x.tier <= t ? 'on' : ''}"></i>`).join('')}</div>
-        <div class="statline"><span><b>${online}</b> online</span><span><b>${moving}</b> in progress</span><span><b>${open}</b> available</span><span>Reserve <b>${fmt(pw.charge)}</b>/${fmt(pw.capacity)}</span><span class="${pw.net >= 0 ? 'net-pos' : 'net-neg'}">${pw.net > 0 ? '+' : ''}${fmt(pw.net)} PU/day</span></div>
+        <div class="statline"><span><b>${online}</b> online</span>${supplying ? `<span><b>${supplying}</b> being supplied</span>` : ''}<span><b>${building}</b> under construction</span><span><b>${open}</b> available</span><span>Reserve <b>${fmt(pw.charge)}</b>/${fmt(pw.capacity)}</span><span class="${pw.net >= 0 ? 'net-pos' : 'net-neg'}">${pw.net > 0 ? '+' : ''}${fmt(pw.net)} PU/day</span></div>
         <div><button class="btn primary" data-ui="go" data-route="${route}">${icon('arrow')}Open ${esc(h.short)} deck</button></div>
       </div></section>`;
   }
@@ -379,7 +409,7 @@
     $('#view').innerHTML = `<div class="deck">
       <section class="panel deck-map"><div class="map-head" id="maphead"></div>
         ${hull === 'kex' ? '<div class="deck-picker" id="deckpick"></div>' : ''}
-        <div class="map-scroll"><div class="map-stage ${hull === 'kex' ? 'kex' : ''}" id="stage">${svg}<div id="sealed"></div></div></div>
+        <div class="map-wrap"><div class="map-scroll"><div class="map-stage ${hull === 'kex' ? 'kex' : ''}" id="stage">${svg}</div></div><div id="sealed"></div></div>
         <div class="zone-chips" id="zchips"></div></section>
       <aside class="panel side"><div class="panel-body" id="side"></div></aside></div>`;
     const svgEl = $('#stage > svg');
@@ -435,7 +465,7 @@
       <div class="tier-pips" style="width:120px">${h.tiers.map((x) => `<i class="${x.tier <= t ? 'on' : ''}" title="Tier ${x.tier}: ${esc(x.name)}"></i>`).join('')}</div>
       <div class="spacer"></div>
       <div class="power-read"><span>Reserve <b>${fmt(pw.charge)}</b>/${fmt(pw.capacity)}</span><span>Gen <b class="net-pos">+${fmt(pw.generation.total)}</b></span><span>Draw <b class="${pw.draw.total ? 'net-neg' : ''}">${pw.draw.total ? '−' : ''}${fmt(pw.draw.total)}</b></span><span>Net <b class="${pw.net >= 0 ? 'net-pos' : 'net-neg'}">${pw.net > 0 ? '+' : ''}${fmt(pw.net)}/day</b></span><span>Slots <b>${slotUsed}</b>/${slotCap}</span></div>
-      <div class="seg" role="group" aria-label="Operating mode">${modes.map(([m, l]) => { const grounded = hull === 'shuttle' && m !== 'docked' && !E.flightReady(CAT, S.state); return `<button class="${st.mode === m ? 'on' : ''}" data-act="setMode" data-args="${attr({ hull, mode: m })}" ${grounded ? 'disabled title="Under repair: it stays docked until the wreckage is cleared and the hull, lift engines and flight controls are fixed"' : ''}>${l}</button>`; }).join('')}</div>
+      <div class="seg" role="group" aria-label="Operating mode">${modes.map(([m, l]) => { const grounded = hull === 'shuttle' && m !== 'docked' && !E.flightReady(CAT, S.state); return `<button class="${st.mode === m ? 'on' : ''}" ${hull === 'kex' && m === 'cold' && st.mode !== 'cold' ? 'data-ui="cold-confirm" title="Systems off: no draw, no generation, cloak down, decoding paused"' : `data-act="setMode" data-args="${attr({ hull, mode: m })}"`} ${grounded ? 'disabled title="Under repair: it stays docked until the wreckage is cleared and the hull, lift engines and flight controls are fixed"' : ''}>${l}</button>`; }).join('')}</div>
       ${hull === 'shuttle' && !E.flightReady(CAT, S.state) ? `<span class="pill s-funding" title="${esc(E.repairsLeft(CAT, S.state).map((u) => u.name).join(' · '))}">Under repair · ${E.repairsLeft(CAT, S.state).length} left</span>` : ''}
       ${hull === 'shuttle' && E.installed(S.state, 's_ley_tap') ? `<button class="btn sm ${st.leyAccess ? 'go' : ''}" data-act="setLey" data-args="${attr({ on: !st.leyAccess })}">${icon('ether')}Ley ${st.leyAccess ? 'on' : 'off'}</button>` : ''}`;
     if (!sealed) applyShip($('#stage > svg'), hull, zoneId);
@@ -513,6 +543,15 @@
       <p class="help">Estimates only. Rare items need someone willing to sell them, and ether crystal is scarce on a world without ley lines: whether anyone will sell it, and how much, is up to your GM. Real prices are settled in play. The list is saved on this device.</p>
       <div class="form-row"><button class="btn sm" data-ui="shop-copy">${icon('save')}Copy list</button><button class="btn sm ghost" data-ui="shop-clear">Clear list</button></div>`;
   }
+  // Follows the still-encrypted chain down: does it end at a schematic only the GM reveals? (re-test N8)
+  function heldChain(u) { let b = decodeFirst(u); for (let i = 0; b && i < 8; i++) { if (b.gmHeld || b.tbd) return true; b = decodeFirst(b); } return false; }
+  function blockedNote(u) {
+    const b = decodeFirst(u); if (!b) return '';
+    if (heldChain(u)) return '<p class="req-note">It builds on a schematic your GM reveals when the story gets there.</p>';
+    const z = zoneOf(b.hull, b.zone);
+    return b.gmHeld || b.tbd ? '<p class="req-note">It builds on a schematic your GM reveals when the story gets there.</p>'
+      : `<div class="form-row" style="margin-top:6px"><button class="btn sm" data-ui="open-project" data-id="${esc(b.id)}">${icon('lock')}First decode the tier ${fmt(b.tier)} schematic${z ? ` in ${esc(z.name)}` : ''}</button></div>`;
+  }
   function projectDetail(id) {
     const s = status(id);
     const u = s.u; const p = s.p;
@@ -524,9 +563,9 @@
       const dec = S.state.decoding && S.state.decoding[hull]; const days = (n) => `${fmt(n)} day${n === 1 ? '' : 's'}`;
       let box;
       if (dec && dec.id === id) box = `<div class="work-box building"><div class="wb-k">Decoding</div><div class="wb-v">${days(dec.daysLeft)} <small style="font-size:14px;color:var(--muted)">left</small></div><div class="help" style="margin:0">${ai} will show what this system needs when the work is done. Days pass when your GM advances them.</div><div class="form-row" style="margin-top:8px"><button class="btn sm ghost" data-act="cancelDecode" data-args="${attr({ hull })}" title="The power already spent is not refunded">Stop decoding (no refund)</button></div></div>`;
-      else if (u.gmHeld || u.tbd) box = `<div class="work-box"><div class="wb-k">Out of reach</div><div class="help" style="margin:0">${ai} can't reach this schematic yet. Your GM will reveal it when the time comes.</div></div>`;
+      else if (u.gmHeld || u.tbd || heldChain(u)) box = `<div class="work-box"><div class="wb-k">Out of reach</div><div class="help" style="margin:0">${ai} can't reach this schematic yet. Your GM will reveal it when the time comes.</div></div>`;
       else box = `<div class="work-box"><div class="wb-k">Decode it</div><div class="wb-v">${fmt(c.pu)} PU · ${days(c.days)}</div><div class="help" style="margin:0">${ai} works out what this system is and what it takes to build: parts, costs and anything that has to happen in play. The power comes from ${hull === 'kex' ? 'the Kex' : esc(hullName(hull))}'s reserve, one schematic at a time.</div>`
-        + `<div class="form-row" style="margin-top:8px"><button class="btn primary" data-act="beginDecode" data-args="${attr({ id })}" ${why ? 'disabled' : ''}>${icon('power')}Begin decoding</button></div>${why ? `<p class="req-note">${esc(why)}</p>` : ''}</div>`;
+        + `<div class="form-row" style="margin-top:8px"><button class="btn primary" data-act="beginDecode" data-args="${attr({ id })}" ${why ? 'disabled' : ''}>${icon('power')}Begin decoding</button></div>${why ? `<p class="req-note">${esc(why)}</p>` : ''}${blockedNote(u)}</div>`;
       return `${crumbs}<div class="zone-intro"><h3>Encrypted schematic</h3><p>Tier ${u.tier} · ${esc(zone.name)}. ${ai} cannot read this system yet.</p></div>${box}`;
     }
     const canAct = !['installed', 'building', 'locked', 'unknown'].includes(s.state) && !s.exclusive && (hull !== 'shuttle' || found());
@@ -594,7 +633,8 @@
               <button class="btn sm" data-act="givePart" data-from="#q-part-${esc(id)}-${line}" data-field="qty" data-args="${attr(Object.assign({ route: 'owned' }, base))}" ${dis(have > 0)}>${icon('hold')}Install from hold</button>
               <button class="btn sm" data-ui="shop-add" data-key="item:${esc(itemId)}" data-from="#q-part-${esc(id)}-${line}" ${dis(it.availability !== 'quest')}>${icon('plus')}Add to list${it.availability === 'quest' ? '' : ` · est. ${gp(E.buyPrice(CAT, st, it.marketGp))}`}</button>
               ${S.gm && !buyWhy ? `<button class="btn gm sm" data-act="givePart" data-from="#q-part-${esc(id)}-${line}" data-field="qty" data-args="${attr(Object.assign({ route: 'buy' }, base))}" title="Record parts the party bought in play: pays the listed price from the treasury">${icon('gold')}Bought in play</button>` : ''}
-              ${it.protected ? '' : `<button class="btn sm" data-act="givePart" data-from="#q-part-${esc(id)}-${line}" data-field="qty" data-args="${attr(Object.assign({ route: 'fabricate' }, base))}" ${dis(!fabWhy)} title="${esc(fabWhy || `Blueprint per copy: ${gp(it.replicaGp)} of coin metal, ${it.replicaKits || 0} kits, ${fmt(it.replicaPu)} PU, ${fmt(it.replicaDays)} days`)}">${icon('fabrication')}Fabricate · ${gp(it.replicaGp)} coin metal + ${it.replicaKits || 0} kits + ${fmt(it.replicaPu)} PU</button>`}
+              ${S.gm ? `<button class="btn gm sm" data-ui="found-part" data-from="#q-part-${esc(id)}-${line}" data-args="${attr(base)}" title="Record parts the party found, stole or was given in play, and install them (nothing is paid)">${icon('hold')}Found in play</button>` : ''}
+              ${it.protected ? '' : `<button class="btn sm" data-act="givePart" data-from="#q-part-${esc(id)}-${line}" data-field="qty" data-args="${attr(Object.assign({ route: 'fabricate' }, base))}" ${dis(!fabWhy)} title="${esc(fabWhy || `Blueprint per copy: ${gp(it.replicaGp)} of coin metal, ${it.replicaKits || 0} kits, ${fmt(it.replicaPu)} PU, ${fmt(it.replicaDays)} days`)}">${icon('fabrication')}Fabricate · ${gp(it.replicaGp)} coin metal + ${kitsTxt(it.replicaKits || 0)} + ${fmt(it.replicaPu)} PU</button>`}
             </div>${partNote(it, fabWhy)}</div>`;
         }).join('');
       }
@@ -687,29 +727,29 @@
         <button class="btn primary" data-ui="refuel">${icon('ether')}Load into reserve</button></div></section>
       <section class="panel"><div class="panel-head"><h2>Mage channeling</h2></div><div class="panel-body">
         <p class="help">A caster spends a two-hour watch pouring expended spell slots into the ship: 1 PU per slot level, max ${E.CHANNEL_CAP} PU per caster per day. No cantrips.</p>
-        <div class="form-row"><label for="mc-name">Caster</label><input type="text" id="mc-name" list="crew-list" maxlength="40" value="${esc(S.actor === 'Party fund' ? '' : S.actor)}" placeholder="Name" style="width:130px"><datalist id="crew-list">${st.crew.map((c) => `<option value="${esc(c)}">`).join('')}</datalist></div>
+        <div class="form-row"><label for="mc-name">Caster</label><input type="text" id="mc-name" list="crew-list" maxlength="40" value="${esc(S.lastCaster || (S.actor === 'Party fund' ? '' : S.actor))}" placeholder="Name" style="width:130px"><datalist id="crew-list">${st.crew.map((c) => `<option value="${esc(c)}">`).join('')}</datalist></div>
         <div class="form-row"><label for="mc-lv">Slot levels</label><input type="number" id="mc-lv" min="1" max="${E.CHANNEL_CAP}" value="3"><label for="mc-hull">Into</label><select class="field" id="mc-hull">${hullOpts('kex')}</select></div>
         <button class="btn primary" data-ui="channel">${icon('power')}Channel</button>
-        ${channeled.length ? `<p class="help" style="margin-top:10px">Today: ${channeled.map(([k, v]) => `${esc(E.channelName(k))} ${fmt(v)}/${E.CHANNEL_CAP}`).join(' · ')}</p>` : ''}</div></section>
+        ${channeled.length ? `<p class="help" style="margin-top:10px">Today: ${channeled.map(([k, v]) => { const n = E.channelName(k); return `${esc(st.crew.find((c) => c.toLowerCase() === n) || n)} ${fmt(v)}/${E.CHANNEL_CAP}`; }).join(' · ')}</p>` : ''}</div></section>
       <section class="panel"><div class="panel-head"><h2>Going rates</h2><span class="chip">×${fmt(m.multiplier)}</span></div><div class="panel-body">
         <p class="help">Nothing is bought here. Add what the party needs and take the list to market. Prices are <b>estimated going rates</b> (×${fmt(m.multiplier)}); the real deal happens in play. Kits are base metal and cost the same everywhere, or melt scrap: ${fmt(CAT.itemRules.metalLbPerKit)} lb of metal gear = 1 kit (the GM records it).</p>
-        <div class="form-row"><input type="number" id="by-ch" min="1" value="20" aria-label="Raw chunks"><button class="btn" data-ui="shop-add" data-key="raw" data-from="#by-ch">${icon('ether')}Add raw chunks · est. ${gp(E.chunkPrice(CAT, st))} ea · scarce</button>${S.gm ? '<button class="btn gm sm" data-ui="buy-raw" title="Record ether the party bought in play">Bought in play</button>' : ''}</div>
-        <div class="form-row"><input type="number" id="by-kit" min="1" value="5" aria-label="Kits"><button class="btn" data-ui="shop-add" data-key="kits" data-from="#by-kit">${icon('kit')}Add kits · est. ${gp(E.kitPrice(CAT))} ea</button>${S.gm ? '<button class="btn gm sm" data-ui="buy-kits" title="Record kits the party bought in play">Bought in play</button>' : ''}</div>
+        <div class="form-row"><input type="number" id="by-ch" min="1" value="20" aria-label="Raw chunks"><button class="btn wrap" data-ui="shop-add" data-key="raw" data-from="#by-ch">${icon('ether')}Add raw chunks · est. ${gp(E.chunkPrice(CAT, st))} ea · scarce</button>${S.gm ? '<button class="btn gm sm" data-ui="buy-raw" title="Record ether the party bought in play">Bought in play</button>' : ''}</div>
+        <div class="form-row"><input type="number" id="by-kit" min="1" value="5" aria-label="Kits"><button class="btn wrap" data-ui="shop-add" data-key="kits" data-from="#by-kit">${icon('kit')}Add kits · est. ${gp(E.kitPrice(CAT))} ea</button>${S.gm ? '<button class="btn gm sm" data-ui="buy-kits" title="Record kits the party bought in play">Bought in play</button>' : ''}</div>
         ${found() ? `<div class="pd-section">Transfer charge</div><div class="form-row"><select class="field" id="tr-from"><option value="kex">Kex → ${esc(IX.hull.shuttle.name)}</option><option value="shuttle">${esc(IX.hull.shuttle.name)} → Kex</option></select><input type="number" id="tr-pu" min="1" value="20" aria-label="PU"><button class="btn" data-ui="transfer">${icon('power')}Transfer</button></div>` : ''}
         </div></section>
       <section class="panel span-3" id="shopping"><div class="panel-head"><h2>Shopping list</h2><span class="chip">estimates, not purchases</span></div><div class="panel-body">${shopList(st)}</div></section>
       <section class="panel span-3" id="workshop"><div class="panel-head"><h2>Workshop · items in the hold</h2><span class="chip">${archive ? `Pattern archive ${E.patternCount(st)}/${E.ARCHIVE_CAP}` : 'Pattern archive offline'}</span></div><div class="panel-body">
         ${inv.length ? `<div class="items">${inv.map(({ it, q }) => itemCard(it, q, archive)).join('')}</div>` : '<p class="empty">No components or donor items in the hold. Put what you need on the shopping list; the GM records what the party brings aboard.</p>'}
-        ${E.patternCount(st) ? `<div class="pd-section">Pattern archive · blueprints</div><div class="blueprints">${st.patterns.map((p) => { const it = IX.item[p]; return `<div class="bp"><b>${esc(it.name)}</b><span>${gp(it.replicaGp)} coin metal · ${it.replicaKits || 0} kits · ${fmt(it.replicaPu)} PU · ${fmt(it.replicaDays)} d per copy</span></div>`; }).join('')}${(st.codexPatterns || []).map((cp) => { const v = E.itemValue(CAT, cp.rarity, cp.consumable); return `<div class="bp"><b>${esc(cp.name)}</b><span>${gp(v.blueprint.gp)} coin metal · ${v.blueprint.kits} kits · ${fmt(v.blueprint.pu)} PU · ${fmt(v.blueprint.days)} d per copy · the GM decides which system can use it</span></div>`; }).join('')}</div>` : ''}
+        ${E.patternCount(st) ? `<div class="pd-section">Pattern archive · blueprints</div><div class="blueprints">${st.patterns.map((p) => { const it = IX.item[p]; return `<div class="bp"><b>${esc(it.name)}</b><span>${gp(it.replicaGp)} coin metal · ${kitsTxt(it.replicaKits || 0)} · ${fmt(it.replicaPu)} PU · ${fmt(it.replicaDays)} d per copy</span></div>`; }).join('')}${(st.codexPatterns || []).map((cp) => { const v = E.itemValue(CAT, cp.rarity, cp.consumable); return `<div class="bp"><b>${esc(cp.name)}</b><span>${gp(v.blueprint.gp)} coin metal · ${kitsTxt(v.blueprint.kits)} · ${fmt(v.blueprint.pu)} PU · ${fmt(v.blueprint.days)} d per copy · the GM decides which system can use it</span></div>`; }).join('')}</div>` : ''}
         <p class="help">Want to know what another item is worth? Look it up in the <a href="#/codex">item codex</a> — every D&amp;D item, piece of gear and spell.</p>
         </div></section>
       ${materialsPanel(st)}
-      <section class="panel span-3"><div class="panel-head"><h2>Market & salvage catalog</h2><input type="text" id="mk-filter" placeholder="Filter…" value="${esc(S.marketFilter)}" style="width:200px" aria-label="Filter catalog"></div><div class="panel-body" style="overflow-x:auto">
-        <table class="market-table"><thead><tr><th>Item</th><th>Family</th><th>Availability</th><th>Est. price</th><th>Recycle</th><th></th></tr></thead><tbody>
+      <section class="panel span-3"><div class="panel-head"><h2>Market & salvage catalog</h2><input type="text" id="mk-filter" placeholder="Filter…" value="${esc(S.marketFilter)}" style="width:200px" aria-label="Filter catalog"></div><div class="panel-body"><div style="overflow-x:auto" data-keep="market">
+        <table class="market-table"><thead><tr><th>Item</th><th>Family</th><th>Availability</th><th>Est. price</th><th>Recycle</th><th class="acts"></th></tr></thead><tbody>
         ${market.map((i) => { const why = E.buyBlock(CAT, st, i.id, S.gm); return `<tr><td><b>${esc(i.name)}</b>${unrevealed(i) ? ' <span class="tag" style="color:var(--violet)">Hidden from players</span>' : ''}<div class="req-note">${esc(i.description)}</div></td><td>${esc(i.family)}</td><td><span class="avail ${esc(i.availability)}">${esc(i.availability)}</span></td>
           <td class="num">${i.availability === 'quest' ? '—' : gp(E.buyPrice(CAT, st, i.marketGp))}</td><td class="num">${i.salvagePu ? `${fmt(i.salvagePu)} PU` : '—'}</td>
-          <td style="white-space:nowrap">${i.availability === 'quest' ? (S.gm ? `<button class="btn gm sm" data-act="adjust" data-args="${attr({ field: `item:${i.id}`, delta: 1, reason: 'found in play' })}">Record find</button>` : '<span class="req-note">Must be found</span>') : `<button class="btn sm" data-ui="shop-add" data-key="item:${esc(i.id)}" data-qty="1">${icon('plus')}Add to list</button>${S.gm && !why ? `<button class="btn gm sm" data-act="buyItem" data-args="${attr({ itemId: i.id, qty: 1, gm: true })}" title="Record one bought in play: pays the listed price from the treasury">Bought 1</button>` : ''}`}</td></tr>`; }).join('')}
-        </tbody></table></div></section>
+          <td class="acts">${i.availability === 'quest' ? (S.gm ? `<button class="btn gm sm" data-act="adjust" data-args="${attr({ field: `item:${i.id}`, delta: 1, reason: 'found in play' })}">Record find</button>` : '<span class="req-note">Must be found</span>') : `<button class="btn sm" data-ui="shop-add" data-key="item:${esc(i.id)}" data-qty="1">${icon('plus')}Add to list</button>${S.gm && !why ? `<button class="btn gm sm" data-act="buyItem" data-args="${attr({ itemId: i.id, qty: 1, gm: true })}" title="Record one bought in play: pays the listed price from the treasury">Bought 1</button>` : ''}${S.gm ? `<button class="btn gm sm" data-act="adjust" data-args="${attr({ field: `item:${i.id}`, delta: 1, reason: 'found in play' })}" title="Record one the party found or stole (nothing is paid)">Record find</button>` : ''}`}</td></tr>`; }).join('')}
+        </tbody></table></div></div></section>
     </div>`;
   }
   // Material analysis: Kubix only knows the metals it has been fed (GM ruling 2026-09-30).
@@ -778,11 +818,11 @@
     return `<td class="num">${fmt(v.fuel)} PU</td><td class="num">${v.copyable ? `${fmt(v.learnPu)} PU` : '—'}</td>
       <td class="num">${v.blueprint ? `${fmt(v.blueprint.gp)} gp · ${v.blueprint.kits} kit${v.blueprint.kits === 1 ? '' : 's'} · ${fmt(v.blueprint.pu)} PU · ${fmt(v.blueprint.days)} d` : 'cannot copy'}</td>`;
   }
-  const feedButtons = (name, key, consumable) => `<button class="btn sm" data-act="feedItem" data-args="${attr({ name, rarity: key, consumable: !!consumable, mode: 'learn' })}" title="Destroy it to learn its pattern">${icon('fabrication')}Learn</button>
-      <button class="btn sm warn" data-act="feedItem" data-args="${attr({ name, rarity: key, consumable: !!consumable, mode: 'recycle' })}" title="Destroy it for fuel">${icon('power')}Recycle</button>`;
+  const feedButtons = (name, key, consumable) => `<button class="btn sm" data-ui="feed-confirm" data-args="${attr({ name, rarity: key, consumable: !!consumable, mode: 'learn' })}" title="Destroy it to learn its pattern">${icon('fabrication')}Learn</button>
+      <button class="btn sm warn" data-ui="feed-confirm" data-args="${attr({ name, rarity: key, consumable: !!consumable, mode: 'recycle' })}" title="Destroy it for fuel">${icon('power')}Recycle</button>`;
   function codexRules() {
     const rows = Object.entries(CAT.itemRules.rarity).map(([key, r]) => { const v = E.itemValue(CAT, key, false);
-      return `<tr><td>${rarityChip(key)}</td><td class="num">${fmt(r.fuel)} PU</td><td class="num">${v.copyable ? `${fmt(v.learnPu)} PU` : '—'}</td><td class="num">${v.blueprint ? `${fmt(v.blueprint.gp)} gp · ${v.blueprint.kits} kits · ${fmt(v.blueprint.pu)} PU · ${fmt(v.blueprint.days)} d` : 'never copied'}</td></tr>`; }).join('');
+      return `<tr><td>${rarityChip(key)}</td><td class="num">${fmt(r.fuel)} PU</td><td class="num">${v.copyable ? `${fmt(v.learnPu)} PU` : '—'}</td><td class="num">${v.blueprint ? `${fmt(v.blueprint.gp)} gp · ${kitsTxt(v.blueprint.kits)} · ${fmt(v.blueprint.pu)} PU · ${fmt(v.blueprint.days)} d` : 'never copied'}</td></tr>`; }).join('');
     return `<section class="panel codex-rules"><div class="panel-head"><h2>How the ship values things</h2></div><div class="panel-body">
       <div class="rules-grid"><div class="rules-table"><table class="market-table"><thead><tr><th>Rarity</th><th>Recycle (fuel)</th><th>Learn (item destroyed)</th><th>Blueprint, per copy</th></tr></thead><tbody>${rows}</tbody></table></div>
       <ul class="rules-list">
@@ -807,7 +847,7 @@
     let rows = []; let table = '';
     if (c.tab === 'magic') {
       rows = C.magic.filter((m) => (!q || `${m[0]} ${m[2]} ${m[3]} ${m[5]}`.toLowerCase().includes(q)) && (c.rarity === '' || String(m[1]) === c.rarity) && (c.role === '' || m[7].includes(Number(c.role))));
-      table = `<thead><tr><th>Item</th><th>Rarity</th><th>Ship systems</th><th>Recycle</th><th>Learn</th><th>Blueprint / copy</th><th></th></tr></thead><tbody>${rows.slice(0, c.limit).map((m) => {
+      table = `<thead><tr><th>Item</th><th>Rarity</th><th>Ship systems</th><th>Recycle</th><th>Learn</th><th>Blueprint / copy</th><th class="acts"></th></tr></thead><tbody>${rows.slice(0, c.limit).map((m) => {
         const key = C.rules.rarity[m[1]].key; const v = E.itemValue(CAT, key, !!m[6]);
         return `<tr><td><a href="https://www.dndbeyond.com/magic-items/${esc(m[8])}" target="_blank" rel="noopener">${esc(m[0])}</a>${m[4] ? ' <span class="tag">attune</span>' : ''}<div class="req-note">${esc(m[2])}${m[3] ? ` · ${esc(m[3])}` : ''}${m[5] ? ` · ${esc(m[5])}` : ''}</div></td>
           <td>${rarityChip(key, m[9])}${m[6] ? '<div class="req-note">consumable ×½</div>' : ''}</td><td>${roleChips(m[7], C.roles)}</td>${valueCells(v)}<td class="acts">${feedButtons(m[0], key, m[6])}</td></tr>`; }).join('')}</tbody>`;
@@ -824,16 +864,16 @@
           <td class="num">${rarityChip(key)} learn ${fmt(v.learnPu)} PU</td></tr>`; }).join('')}</tbody>`;
     } else {
       rows = C.campaign.filter((i) => (!q || i[0].toLowerCase().includes(q)) && (c.rarity === '' || String(i[1]) === c.rarity) && (c.role === '' || i[4].includes(Number(c.role))));
-      table = `<thead><tr><th>Item</th><th>Rarity</th><th>Ship systems</th><th>Recycle</th><th>Learn</th><th>Blueprint / copy</th><th></th></tr></thead><tbody>${rows.slice(0, c.limit).map((i) => {
+      table = `<thead><tr><th>Item</th><th>Rarity</th><th>Ship systems</th><th>Recycle</th><th>Learn</th><th>Blueprint / copy</th><th class="acts"></th></tr></thead><tbody>${rows.slice(0, c.limit).map((i) => {
         const key = i[1] >= 0 ? C.rules.rarity[i[1]].key : ''; const v = key && !i[5] ? E.itemValue(CAT, key, !!i[3]) : null;
         return `<tr><td><a href="../items/${esc(i[8])}.html" target="_blank" rel="noopener">${esc(i[0])}</a>${i[5] ? ' <span class="tag prot">protected</span>' : ''}${i[7] ? `<div class="req-note">${esc(i[7])}</div>` : ''}</td>
           <td>${key ? rarityChip(key) : '—'}${i[2] ? '<div class="req-note">estimated</div>' : ''}</td><td>${roleChips(i[4], C.roles)}</td>
           ${v ? valueCells(v) : `<td class="num" colspan="3">${esc(i[6] || '—')}</td>`}<td class="acts">${v ? feedButtons(i[0], key, i[3]) : ''}</td></tr>`; }).join('')}</tbody>`;
     }
-    const more = rows.length > c.limit ? `<div class="form-row" style="margin-top:10px"><button class="btn" data-ui="codex-more">Show more (${rows.length - c.limit} left)</button></div>` : '';
+    const more = rows.length > c.limit ? `<div class="form-row" style="margin-top:10px"><button class="btn" data-ui="codex-more">Show more (${rows.length - c.limit} left)</button></div>` : rows.length ? '' : `<p class="empty">Nothing matches “${esc(c.q)}”. Clear the search box or pick another tab.</p>`;
     return `${head}${codexRules()}<section class="panel"><div class="panel-head">${tabs}<span class="chip">${rows.length} match${rows.length === 1 ? '' : 'es'}</span></div><div class="panel-body">${filters}
       <p class="help">Learn needs the pattern archive online. Anything you feed here is logged; the item itself is handed over at the table.</p>
-      <div style="overflow-x:auto"><table class="market-table codex-table">${table}</table></div>${more}</div></section>`;
+      <div style="overflow-x:auto" data-keep="codex"><table class="market-table codex-table">${table}</table></div>${more}</div></section>`;
   }
 
   // ------------------------------------------------------------------ office modal
@@ -844,7 +884,7 @@
     modal(`<section class="panel modal" role="dialog" aria-modal="true" aria-label="Ship's office"><div class="panel-head"><h2>Ship's office</h2><button class="btn sm icon-only ghost" data-ui="close" aria-label="Close">${icon('x')}</button></div><div class="panel-body">
       <div><h2>Save & share</h2><p class="help">Changes save automatically in this browser. Download a save to move it to another device or send a proposed plan to the GM.</p>
         <div class="form-row"><button class="btn" data-ui="export">${icon('save')}Download save</button><button class="btn" data-ui="import">${icon('undo')}Load save…</button><input type="file" id="import" accept=".json,application/json" hidden><button class="btn danger" data-ui="reset">Reset to official record</button></div>
-        <p class="help">Official record: revision ${fmt(official.revision || 0)}${official.label ? ` · ${esc(official.label)}` : ''}. ${dirty() ? 'This device differs from it.' : 'This device matches it.'}</p></div>
+        <p class="help">Official record: revision ${fmt(official.revision || 0)}${official.label ? ` · ${esc(official.label)}` : ''}<br>${dirty() ? 'This device differs from it.' : 'This device matches it.'}</p></div>
       ${S.gm ? `
       <div><h2>Publish (GM)</h2><p class="help">Downloads <b>state.js</b>. Replace <code>public/data/state.js</code> with it and push; every player's page then offers to load it.${S.pendingUpdate ? ' <b style="color:var(--amber)">Load the newer official record first (banner at the top).</b>' : ''}</p>
         <div class="form-row"><button class="btn primary" data-ui="publish" ${S.pendingUpdate ? 'disabled' : ''}>${icon('save')}Publish official record</button></div></div>
@@ -854,11 +894,52 @@
       <div><h2>Correct the record</h2><p class="help">For things that happened at the table: donations, loot, damage, spent ammunition.</p>
         <div class="form-row"><select class="field" id="of-field">${fields.map(([k, l]) => `<option value="${esc(k)}">${esc(l)}</option>`).join('')}</select><input type="number" id="of-delta" value="0" step="any" aria-label="Change"><input type="text" id="of-reason" maxlength="120" placeholder="Reason (optional)" style="flex:1;min-width:160px"><button class="btn gm" data-ui="adjust">Apply</button></div></div>` : ''}
       ${S.gmDevice ? `<div><h2>This device</h2><p class="help">GM tools are enabled on this browser.</p><div class="form-row"><button class="btn ghost" data-ui="forget-gm">Remove GM tools from this device</button></div></div>` : ''}
-      <div><h2>About</h2><p class="help">Catalog ${esc(CAT.version)} (${esc(CAT.sourceDate)}), generated from the GM's ship catalog. All numbers are draft homebrew and may be tuned between sessions.</p></div>
+      <div><h2>Testing</h2><p class="help">Found something wrong or confusing? Write it up with the details of this device attached, then send it to your GM.</p><div class="form-row"><button class="btn" data-ui="report">${icon('guide')}Report a problem</button><a class="btn ghost" href="testing.html" target="_blank" rel="noopener">Tester guide</a></div></div>
+      <div><h2>About</h2><p class="help">Build ${esc(window.KEX_ASSET_VERSION || '?')} · catalog ${esc(CAT.version)} (${esc(CAT.sourceDate)}), generated from the GM's ship catalog. All numbers are draft homebrew and may be tuned between sessions.</p></div>
     </div></section>`);
     const imp = $('#import');
     if (imp) imp.addEventListener('change', importSave);
   }
+  // ------------------------------------------------------------------ confirmations (tester T3, T9, T18)
+  function confirmBox(title, text, okLabel, onOk, danger) {
+    closeModal();
+    S.onConfirm = onOk;
+    modal(`<section class="panel modal" role="dialog" aria-modal="true" aria-label="${esc(title)}"><div class="panel-head"><h2>${esc(title)}</h2><button class="btn sm icon-only ghost" data-ui="close" aria-label="Cancel">${icon('x')}</button></div><div class="panel-body">
+      <p class="lede" style="margin:0 0 14px">${text}</p>
+      <div class="form-row"><button class="btn ${danger ? 'danger' : 'primary'}" data-ui="confirm-ok">${esc(okLabel)}</button><button class="btn ghost" data-ui="close">Cancel</button></div></div></section>`);
+  }
+
+  // ------------------------------------------------------------------ report a problem
+  function reportDetails() {
+    const st = S.state; let sound = 'unknown'; try { sound = localStorage.getItem('kex-shipyard:sound') || 'not chosen'; } catch (e) { /* private mode */ }
+    const lines = [
+      `Kex Shipyard ${window.KEX_ASSET_VERSION || '?'} · catalog ${CAT.version}`,
+      `When: ${new Date().toString()}`,
+      `Page: ${location.hash || '#/bridge'}${S.practice ? ' (inside the refit drill)' : ''}${window.KexTour && window.KexTour.active() ? ' (a tutorial is open)' : ''}`,
+      `Screen: ${window.innerWidth}×${window.innerHeight} at ${window.devicePixelRatio || 1}x · ${navigator.userAgent}`,
+      `Mode: ${S.gm ? 'GM mode on' : S.gmDevice ? 'GM device, GM mode off' : 'player'} · sound ${sound}`,
+      `Ship: day ${fmt(st.day)}, official revision ${fmt(official.revision || 0)}, ${dirty() ? 'this device has local changes' : 'matches the official record'}`,
+      'Last log lines:', ...st.log.slice(0, 5).map((l) => `  Day ${l.day}: ${l.who ? `${l.who} ` : ''}${l.text}`),
+      `Recent errors: ${ERRORS.length ? '' : 'none'}`, ...ERRORS.map((e) => `  ${e}`),
+    ];
+    return lines.join('\n');
+  }
+  function reportText() {
+    const what = ($('#rp-what') && $('#rp-what').value.trim()) || '(no description)';
+    return `KEX SHIPYARD PROBLEM REPORT\n\nWhat happened:\n${what}\n\n--- details from this device ---\n${reportDetails()}\n`;
+  }
+  function openReport() {
+    closeModal();
+    modal(`<section class="panel modal" role="dialog" aria-modal="true" aria-label="Report a problem"><div class="panel-head"><h2>Report a problem</h2><button class="btn sm icon-only ghost" data-ui="close" aria-label="Close">${icon('x')}</button></div><div class="panel-body">
+      <p class="help">Tell your GM what went wrong or what was confusing. Nothing is sent anywhere: copy the report (or save it as a file) and send it to your GM however your group usually chats.</p>
+      <label for="rp-what" class="help" style="display:block;margin-bottom:6px"><b>What did you do, what happened, and what did you expect?</b></label>
+      <textarea id="rp-what" rows="5" maxlength="4000" style="width:100%;background:rgba(3,10,18,.85);border:1px solid var(--line-2);border-radius:7px;color:var(--text);padding:8px"></textarea>
+      <details style="margin-top:10px"><summary class="help">Details added to the report automatically</summary><pre style="white-space:pre-wrap;word-break:break-word;font-size:12px;color:var(--muted);margin:8px 0 0">${esc(reportDetails())}</pre></details>
+      <div class="form-row" style="margin-top:12px"><button class="btn primary" data-ui="report-copy">${icon('save')}Copy report</button><button class="btn" data-ui="report-save">Save as a file</button></div>
+    </div></section>`);
+    const t = $('#rp-what'); if (t) t.focus();
+  }
+
   function modal(html) { const back = document.createElement('div'); back.className = 'modal-back'; back.innerHTML = html; back.addEventListener('click', (e) => { if (e.target === back) closeModal(); }); document.body.appendChild(back); const f = back.querySelector('button, input, select'); if (f) f.focus(); }
   function closeModal() { $$('.modal-back').forEach((m) => m.remove()); }
 
@@ -967,8 +1048,10 @@
   function openProject(id) {
     const u = IX.up[id]; if (!u) return;
     closeModal();
+    S.scrollToSide = true;
     // An encrypted schematic gets an opaque key in the address bar, never its internal id (audit V13-2).
-    go(ROUTE_OF_HULL[u.hull], status(id).state === 'classified' ? `x${CAT.upgrades.indexOf(u)}` : id);
+    const hash = `#/${ROUTE_OF_HULL[u.hull]}/${status(id).state === 'classified' ? `x${CAT.upgrades.indexOf(u)}` : id}`;
+    if (location.hash === hash) renderView(); else location.hash = hash;
   }
 
   function renderView() {
@@ -976,11 +1059,14 @@
     if (hull) {
       if (S.mounted !== mountKey(hull)) mountDeck(hull);
       updateDeck(hull);
+      if (S.scrollToSide) { S.scrollToSide = false; const side = $('#side'); if (side && side.getBoundingClientRect().top > window.innerHeight * 0.6) side.scrollIntoView({ block: 'start' }); }
       return;
     }
     S.mounted = null;
     const v = { bridge: viewBridge, tree: viewTree, hold: viewHold, codex: viewCodex, log: viewLog }[S.route] || viewBridge;
+    const keep = {}; $$('[data-keep]').forEach((el) => { keep[el.dataset.keep] = el.scrollLeft; });
     $('#view').innerHTML = v();
+    $$('[data-keep]').forEach((el) => { if (keep[el.dataset.keep]) el.scrollLeft = keep[el.dataset.keep]; });
     if (S.route === 'bridge') $$('.ship-card .mini').forEach((m) => applyShip($('svg', m), m.dataset.hull, null));
     if (S.route === 'tree') requestAnimationFrame(drawLinks);
   }
@@ -990,21 +1076,26 @@
       document.body.classList.toggle('gm-mode', S.gm);
       setTopHeight();
     } catch (e) {
-      console.error(e);
+      console.error(e); noteError(`render: ${e && e.message}`);
       $('#view').innerHTML = `<section class="panel crash"><div class="panel-body"><h2>Something on this device can't be displayed</h2>
         <p class="lede">The saved ship data in this browser looks damaged. Resetting reloads the official record; nothing on the website changes.</p>
-        <div class="form-row"><button class="btn danger" data-ui="hard-reset">Reset this device</button></div></div></section>`;
+        <div class="form-row"><button class="btn danger" data-ui="hard-reset">Reset this device</button><button class="btn" data-ui="report">Report a problem</button></div></div></section>`;
     }
   }
   function setTopHeight() { document.documentElement.style.setProperty('--top-h', `${$('.topbar').offsetHeight}px`); }
 
   // ------------------------------------------------------------------ events
   function num(sel) { const el = $(sel); return el ? Number(el.value) : NaN; }
-  function restoreOfficial(msg) { pushUndo(); S.state = E.clone(official); S.base = official.revision || 0; S.pendingUpdate = false; writeStore(); closeModal(); render(); toast(msg, 'install'); }
+  function restoreOfficial(msg) { pushUndo('the reset to the official record'); S.state = E.clone(official); S.base = official.revision || 0; S.pendingUpdate = false; writeStore(); closeModal(); render(); toast(msg, 'install'); }
   const UI = {
     'toggle-gm': () => { if (!S.gmDevice) return; S.gm = !S.gm; S.peek = false; S.mounted = null; writeStore(); render(); toast(S.gm ? 'GM mode on.' : 'GM mode off.', 'gm'); },
     'forget-gm': () => { storeSet(GM_DEVICE_KEY, null); S.gmDevice = false; S.gm = false; S.mounted = null; writeStore(); closeModal(); render(); toast('GM tools removed from this device.', 'gm'); },
-    undo: () => { const u = S.undo.pop(); if (!u) return; S.state = u.state; S.base = u.base; S.pendingUpdate = u.pendingUpdate; writeStore(); render(); toast('Undone.'); },
+    undo: () => {
+      const u = S.undo.pop(); if (!u) return;
+      const last = S.state.log[0]; const was = u.label || (last && JSON.stringify(last) !== JSON.stringify(u.state.log[0]) ? `${last.who ? `${last.who} ` : ''}${last.text}` : '');
+      S.state = u.state; S.base = u.base; S.pendingUpdate = u.pendingUpdate; writeStore(); render();
+      toast(was ? `Undone: ${was.length > 140 ? `${was.slice(0, 140)}…` : was}` : 'Undone.');
+    },
     office: openOffice,
     close: closeModal,
     import: () => { const f = $('#import'); if (f) f.click(); },
@@ -1022,16 +1113,35 @@
     'map-pick': (b) => { S.mapIndex[b.dataset.key] = Number(b.dataset.i) || 0; renderView(); },
     'load-official': () => restoreOfficial(`Loaded official revision ${fmt(official.revision || 0)}.`),
     'keep-local': () => { S.base = official.revision || 0; S.pendingUpdate = false; writeStore(); render(); },
-    reset: () => { if (!window.confirm('Discard this device\'s changes and load the official record?')) return; restoreOfficial('Reset to the official record.'); },
+    reset: () => confirmBox('Reset to the official record?', 'This throws away every change on this device and loads the GM\'s official record. Undo can bring your changes back until you reload the page.', 'Reset this device', () => restoreOfficial('Reset to the official record.'), true),
+    'confirm-ok': () => { const f = S.onConfirm; S.onConfirm = null; closeModal(); if (f) f(); },
+    'feed-confirm': (b) => {
+      let a; try { a = JSON.parse(b.dataset.args); } catch (e) { return; }
+      try { E.apply(CAT, S.state, 'feedItem', Object.assign({ who: S.actor, gm: S.gm }, a)); } catch (e) {
+        if (e instanceof E.ActionError) { toast(e.message, 'err'); if (window.KexSound) KexSound.fx.err(); return; } throw e;
+      }
+      const v = E.itemValue(CAT, a.rarity, a.consumable);
+      const learn = a.mode === 'learn';
+      confirmBox(learn ? `Learn ${a.name}?` : `Recycle ${a.name}?`,
+        `${learn ? `The item is destroyed completely and Kubix keeps its pattern (${fmt(v.learnPu)} PU from the Kex reserve).` : `The item is destroyed for ${fmt(v.fuel)} PU of fuel.`} Only do this if the party really has one and hands it over at the table.`,
+        learn ? 'Destroy it and learn the pattern' : 'Destroy it for fuel', () => act('feedItem', a), true);
+    },
+    'cold-confirm': () => confirmBox('Put the Kex into cold storage?', 'Kubix switches the ship\'s systems off: no daily draw, but nothing is generated either, the cloak is down and decoding pauses until you switch back to maintenance.', 'Switch to cold storage', () => act('setMode', { hull: 'kex', mode: 'cold' })),
+    'found-part': (b) => {
+      let a; try { a = JSON.parse(b.dataset.args); } catch (e) { return; }
+      const qty = num(b.dataset.from);
+      if (!(qty > 0)) return;
+      if (act('adjust', { field: `item:${a.itemId}`, delta: qty, reason: 'found in play' })) act('givePart', { id: a.id, line: a.line, itemId: a.itemId, qty, route: 'owned' });
+    },
     'hard-reset': () => { storeSet(KEY, null); location.reload(); },
-    export: () => download(`kex-shipyard-day${S.state.day}.json`, JSON.stringify({ kind: 'kex-shipyard-save', exported: new Date().toISOString(), catalog: CAT.version, state: S.state }, null, 1)),
+    export: () => { const name = `kex-shipyard-day${S.state.day}.json`; download(name, JSON.stringify({ kind: 'kex-shipyard-save', exported: new Date().toISOString(), catalog: CAT.version, state: S.state }, null, 1)); toast(`Save downloaded as ${name}.`); },
     publish,
     'set-label': () => { act('setLabel', { label: $('#of-label').value, day: num('#of-day') }); },
     'set-crew': () => { act('setCrew', { crew: $('#of-crew').value.split('\n') }); if (!S.state.crew.includes(S.actor)) S.actor = S.state.crew[0]; writeStore(); render(); },
     'reveal-tier': () => act('revealTier', { hull: $('#of-rh').value, tier: num('#of-rt') }),
-    adjust: () => act('adjust', { field: $('#of-field').value, delta: num('#of-delta'), reason: $('#of-reason').value.trim() }),
+    adjust: () => { if (act('adjust', { field: $('#of-field').value, delta: num('#of-delta'), reason: $('#of-reason').value.trim() })) { $('#of-delta').value = '0'; $('#of-reason').value = ''; } },
     refuel: () => act('refuel', { hull: $('#rf-hull').value, chunks: num('#rf-ch') || 0, disks: num('#rf-dk') || 0 }),
-    channel: () => act('channel', { hull: $('#mc-hull').value, levels: num('#mc-lv'), caster: $('#mc-name').value }),
+    channel: () => { const typed = $('#mc-name').value.trim(); S.lastCaster = S.state.crew.find((c) => c.toLowerCase() === typed.toLowerCase()) || typed; act('channel', { hull: $('#mc-hull').value, levels: num('#mc-lv'), caster: S.lastCaster }); },
     'buy-raw': () => { if (S.gm) act('buyRaw', { chunks: num('#by-ch') }); }, // GM records a purchase made in play
     'shop-add': (b) => {
       const k = b.dataset.key; if (!shopKeyOk(k)) return;
@@ -1050,10 +1160,16 @@
     'log-filter': (b) => { S.logFilter = b.dataset.k; renderView(); },
     'codex-tab': (b) => { S.codex.tab = b.dataset.k; S.codex.limit = 120; S.codex.rarity = ''; S.codex.role = ''; renderView(); },
     'codex-more': () => { S.codex.limit += 200; renderView(); },
+    report: openReport,
+    'report-copy': () => { const t = reportText(); const done = () => toast('Report copied. Paste it to your GM.'); const save = () => { download('kex-shipyard-report.txt', t, 'text/plain'); toast('Your browser would not copy, so the report was saved as a file instead.'); };
+      if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(t).then(done, save); else save(); },
+    'report-save': () => download('kex-shipyard-report.txt', reportText(), 'text/plain'),
     'meet-tyndr': () => { closeModal(); if (window.KexTour) window.KexTour.start('tyndr'); },
     'copy-log': () => {
-      const text = S.state.log.map((l) => `Day ${l.day}: ${l.who ? `${l.who} ` : ''}${l.text}`).join('\n');
-      (navigator.clipboard ? navigator.clipboard.writeText(text) : Promise.reject(new Error('no clipboard'))).then(() => toast('Log copied.'), () => download('kex-log.txt', text, 'text/plain'));
+      const f = LOG_FILTERS.find((x) => x[0] === S.logFilter) || LOG_FILTERS[0];
+      const text = S.state.log.filter((l) => !f[2] || f[2].includes(l.kind)).map((l) => `Day ${l.day}: ${l.who ? `${l.who} ` : ''}${l.text}`).join('\n');
+      const what = f[0] === 'all' ? 'Log' : `${f[1]} entries`;
+      (navigator.clipboard ? navigator.clipboard.writeText(text) : Promise.reject(new Error('no clipboard'))).then(() => toast(`${what} copied.`), () => { download('kex-log.txt', text, 'text/plain'); toast(`Your browser would not copy, so the ${what.toLowerCase()} were saved as kex-log.txt.`); });
     },
     'comms-next': () => { if (S.commsMin) { S.commsMin = false; $('#comms').classList.remove('min'); writeStore(); } say($('#comms').dataset.who || 'kubix', 'idle'); },
     'comms-close': () => { S.commsMin = true; $('#comms').classList.add('min'); writeStore(); },
@@ -1101,7 +1217,8 @@
   });
   window.addEventListener('hashchange', () => { if (!parseHash()) return; closeModal(); closeLightbox(); render(); });
   window.addEventListener('kex-sound', () => renderTop());
-  window.addEventListener('resize', () => { setTopHeight(); if (S.route === 'tree') drawLinks(); });
+  { const nav = $('.nav'); if (nav) nav.addEventListener('scroll', () => navEdges(false), { passive: true }); }
+  window.addEventListener('resize', () => { setTopHeight(); navEdges(); if (S.route === 'tree') drawLinks(); });
   // Another tab changed the save: reload it and drop this tab's undo history (it no longer applies).
   window.addEventListener('storage', (e) => { if (e.key !== KEY) return; if (S.practice) { S.practice.reload = true; return; } S.undo = []; load(); render(); });
 

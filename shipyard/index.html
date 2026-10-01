@@ -10,7 +10,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;600;700&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap">
-  <link rel="stylesheet" href="assets/app.css?v=2026-10-01-57">
+  <link rel="stylesheet" href="assets/app.css?v=2026-10-01-61">
 </head>
 <body>
   <header class="topbar">
@@ -32,7 +32,7 @@
   <section class="resources" id="resources" aria-label="Ship resources"></section>
   <div id="banner" hidden></div>
   <main id="view" tabindex="-1"></main>
-  <footer class="foot">Kex Shipyard · a table tool for the Seventh Age campaign · draft homebrew numbers, tuned between sessions.</footer>
+  <footer class="foot">Kex Shipyard · a table tool for the Seventh Age campaign · draft homebrew numbers, tuned between sessions. · <a href="#/bridge" data-ui="report">Report a problem</a> · <a href="testing.html" target="_blank" rel="noopener">Tester guide</a></footer>
 
   <div class="comms" id="comms" data-who="kubix">
     <button class="avatar-btn" data-ui="comms-next" aria-label="Talk to the ship"></button>
@@ -44,7 +44,7 @@
     // Load in order. The official record always bypasses the browser cache so a new publish shows up at once;
     // bump VERSION after changing any other file.
     (function () {
-      var VERSION = '2026-10-01-57'; // keep in step with the app.css link above
+      var VERSION = '2026-10-01-61'; // keep in step with the app.css link above
       window.KEX_ASSET_VERSION = VERSION;
       ['data/catalog.js?v=' + VERSION, 'data/state.js?t=' + Date.now(), 'assets/engine.js?v=' + VERSION,
        'assets/art.js?v=' + VERSION, 'assets/voices.js?v=' + VERSION, 'assets/sound.js?v=' + VERSION, 'assets/app.js?v=' + VERSION, 'assets/tour.js?v=' + VERSION, 'assets/tour-drill.js?v=' + VERSION].forEach(function (src) {

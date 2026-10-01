@@ -215,6 +215,7 @@
     if (i >= tour.steps.length) { finish(true); return; }
     idx = i;
     const step = tour.steps[i];
+    if (tour.id === 'kubix' && i === tour.steps.length - 1) storeSet(DONE_KEY, '1'); // seen, however it is closed (tester T2)
     // Start the line inside the tap itself: Safari only lets sound start there, not from the timer below (audit V10-1).
     if (window.KexSound) { if (tour.voice) KexSound.speak(voiceId(tour, step), step.text(tour.numbers())); else KexSound.stopVoice(); }
     APP.closeOverlays(); APP.quiet();

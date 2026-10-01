@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kex Shipyard tester guide</title>
+  <meta name="description" content="How to test the Kex Shipyard: what to try, what to look for, and how to report a problem.">
+  <meta name="theme-color" content="#03060b">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M16 2l12 7v14l-12 7-12-7V9z' fill='%2303060b' stroke='%2341e1ff' stroke-width='2'/%3E%3Ccircle cx='16' cy='16' r='4' fill='%2341e1ff'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;600;700&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap">
+  <style>
+    :root { --bg: #03060b; --panel: #0a1522; --line: rgba(110, 206, 255, 0.24); --text: #dcecf6; --muted: #8ea9ba; --cyan: #41e1ff; --amber: #ffb648; --teal: #2fe6c4; }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: radial-gradient(1200px 600px at 70% -10%, rgba(65, 225, 255, 0.08), transparent 60%), var(--bg); color: var(--text);
+      font: 16px/1.6 'IBM Plex Sans', system-ui, sans-serif; }
+    main { max-width: 760px; margin: 0 auto; padding: 32px 16px 64px; }
+    h1, h2 { font-family: 'Chakra Petch', system-ui, sans-serif; letter-spacing: 0.04em; line-height: 1.2; }
+    h1 { font-size: 32px; margin: 0 0 4px; } h1 b { color: var(--cyan); font-weight: 700; }
+    .eyebrow { font-family: 'Chakra Petch', sans-serif; color: var(--amber); letter-spacing: 0.18em; font-size: 12px; text-transform: uppercase; }
+    h2 { font-size: 20px; margin: 32px 0 8px; color: var(--cyan); }
+    p, li { color: var(--text); } .muted { color: var(--muted); }
+    section { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 4px 20px 16px; margin-top: 16px; }
+    ol, ul { padding-left: 22px; } li { margin: 6px 0; } li::marker { color: var(--cyan); }
+    a { color: var(--cyan); } .btn { display: inline-block; margin-top: 8px; padding: 10px 16px; border: 1px solid var(--cyan); border-radius: 8px;
+      color: var(--bg); background: var(--cyan); font-family: 'Chakra Petch', sans-serif; font-weight: 700; letter-spacing: 0.06em; text-decoration: none; }
+    kbd, .ui { font-family: 'Chakra Petch', sans-serif; font-weight: 600; color: var(--teal); white-space: nowrap; }
+  </style>
+</head>
+<body>
+<main>
+  <div class="eyebrow">Seventh Age · Kex Shipyard</div>
+  <h1>Tester <b>guide</b></h1>
+  <p class="muted">Thank you for testing. The Kex Shipyard is the party's repair board for their crashed starship, the Kex: what it needs, who gave what, and how its repairs move along day by day. This page tells you what to try and how to report what you find. It takes 15 to 30 minutes.</p>
+  <a class="btn" href="./#/bridge">Open the shipyard</a>
+
+  <h2>Before you start</h2>
+  <section>
+    <ul>
+      <li><b>Use any device</b> in a normal browser (Chrome, Safari, Edge or Firefox), not the browser built into Discord or Messenger. A phone and a computer are both worth trying.</li>
+      <li><b>If you opened the site before,</b> refresh it first so you have the latest version: Ctrl+F5 on a computer, or pull down to reload on a phone. The build number is under <span class="ui">Office</span> → About.</li>
+      <li><b>Nothing you do affects anyone else.</b> Everything you press is saved on your device only. The game master's official record changes only when the game master publishes it.</li>
+      <li><b>Turn sound on</b> when asked, if you can: the tutorials are spoken by the ship's AI.</li>
+      <li><b>On a phone, the top buttons are icons:</b> the curved arrow is Undo, the speaker is <span class="ui">Sound</span>, the question mark is <span class="ui">Tutorial</span> and the disk is <span class="ui">Office</span>. The tab bar slides sideways to reach Upgrades, Hold, Codex and Log.</li>
+      <li><b>To start over:</b> open <span class="ui">Office</span> and press <span class="ui">Reset to official record</span>. To see a tutorial again, use <span class="ui">Tutorial</span>.</li>
+    </ul>
+  </section>
+
+  <h2>Try these, in order</h2>
+  <section>
+    <ol>
+      <li><b>The message packet.</b> On your first visit it starts by itself: the ship's AI explains power, fuel and repairs. Play it to the end.</li>
+      <li><b>The refit drill.</b> At the end of the packet, choose <span class="ui">Next: the refit drill</span>. You can also open it later from <span class="ui">Tutorial</span>, or from <span class="ui">How upgrades work</span> on the Upgrades page. It shows how to supply, build and unlock systems, and how days pass.</li>
+      <li><b>Explore.</b> Open every tab at the top. On <span class="ui">Kex</span>, switch decks, tap rooms and open a room's map full screen.</li>
+      <li><b>Do a repair yourself.</b> Open the hangar job, feed it power from the ship's reserve and start the work. (Days only pass when the game master moves them on, so the work won't finish by itself.)</li>
+      <li><b>Unlock something.</b> On <span class="ui">Upgrades</span>, tap any violet "encrypted" card that says <b>tap to decode</b> and start decoding it. Cards that say Kubix "cannot reach yet" open later in the story.</li>
+      <li><b>Plan a shopping trip.</b> Add a few things to the shopping list from a project or the Hold page, change the amounts, then copy the list.</li>
+      <li><b>Look things up.</b> Search the <span class="ui">Codex</span> for a magic item you know.</li>
+      <li><b>Check the record.</b> Read the <span class="ui">Log</span>, then use the undo arrow in the top bar to take back your last change.</li>
+    </ol>
+  </section>
+
+  <h2>What to look for</h2>
+  <section>
+    <ul>
+      <li>Anything that doesn't work, shows an error, or gets stuck.</li>
+      <li>Anything confusing: you didn't know what to press next, or a label didn't mean what you expected.</li>
+      <li>Anything where the words disagree with the screen, such as a number or a button name.</li>
+      <li>Anything hard to read or tap on a phone, or that runs off the side of the screen.</li>
+      <li>Sound problems: the voice not playing, playing over itself, or the wrong line.</li>
+    </ul>
+  </section>
+
+  <h2>How to report a problem</h2>
+  <section>
+    <ol>
+      <li>At the bottom of any page (or in <span class="ui">Office</span>), press <span class="ui">Report a problem</span>.</li>
+      <li>Write what you did, what happened, and what you expected.</li>
+      <li>Press <span class="ui">Copy report</span> and send it to the game master however your group chats. The report includes your page, device and the ship's last few log lines, so the game master can see what you saw. A screenshot helps too.</li>
+    </ol>
+    <p class="muted">The report is never sent anywhere by the site. If copying doesn't work on your device, use <span class="ui">Save as a file</span> instead.</p>
+  </section>
+
+  <h2>Good to know</h2>
+  <section>
+    <ul>
+      <li><b>Learn</b> and <b>Recycle</b> in the Codex destroy an item, so they ask you to confirm. Only use them for items the party really has.</li>
+      <li>Nothing can be bought on the site. Purchases happen in play, and the game master records them. You can plan purchases with the shopping list.</li>
+      <li>Some systems are <b>encrypted</b> on purpose: they open as the story goes on, by repairs or by decoding.</li>
+      <li>All the numbers are draft rules for the campaign and may change between sessions.</li>
+      <li>On an iPhone, the mute switch silences the small interface sounds but not the AI's voice. That's normal.</li>
+    </ul>
+  </section>
+</main>
+</body>
+</html>

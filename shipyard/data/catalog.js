@@ -989,7 +989,17 @@ window.KEX_CATALOG = {
      "deck": "lower",
      "name": "Secondary armory",
      "blurb": "The armory Kubix kept down in engineering, stripped by the drones for parts since the crash. Restored to military grade, it can hold a personal replicator: the one fabricator aboard that makes weapons and gear you can carry off the ship.",
-     "maps": []
+     "maps": [
+      {
+       "file": "kex-secarmory.webp?v=762aa2cd",
+       "caption": "Secondary armory — stripped for parts",
+       "after": {
+        "project": "k_personal_replicator",
+        "caption": "Secondary armory — refitted, replicator bay online",
+        "file": "kex-secarmory-after.webp?v=1aa3f9f4"
+       }
+      }
+     ]
     },
     {
      "id": "engineering",

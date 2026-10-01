@@ -504,9 +504,9 @@
       const ai = hull === 'kex' ? 'Kubix' : IX.hull.shuttle.ai; const c = E.decodeCost(CAT, id); const why = E.decodeBlock(CAT, S.state, id);
       const dec = S.state.decoding && S.state.decoding[hull]; const days = (n) => `${fmt(n)} day${n === 1 ? '' : 's'}`;
       let box;
-      if (dec && dec.id === id) box = `<div class="work-box building"><div class="wb-k">Decoding</div><div class="wb-v">${days(dec.daysLeft)} <small style="font-size:14px;color:var(--muted)">left</small></div><div class="help" style="margin:0">${ai} will show what this system needs when the work is done. Days pass when your GM advances them.</div><div class="form-row" style="margin-top:8px"><button class="btn sm ghost" data-act="cancelDecode" data-args="${attr({ hull })}">Stop decoding</button></div></div>`;
+      if (dec && dec.id === id) box = `<div class="work-box building"><div class="wb-k">Decoding</div><div class="wb-v">${days(dec.daysLeft)} <small style="font-size:14px;color:var(--muted)">left</small></div><div class="help" style="margin:0">${ai} will show what this system needs when the work is done. Days pass when your GM advances them.</div><div class="form-row" style="margin-top:8px"><button class="btn sm ghost" data-act="cancelDecode" data-args="${attr({ hull })}" title="The power already spent is not refunded">Stop decoding (no refund)</button></div></div>`;
       else if (u.gmHeld || u.tbd) box = `<div class="work-box"><div class="wb-k">Out of reach</div><div class="help" style="margin:0">${ai} can't reach this schematic yet. Your GM will reveal it when the time comes.</div></div>`;
-      else box = `<div class="work-box"><div class="wb-k">Decode it</div><div class="wb-v">${fmt(c.pu)} PU · ${days(c.days)}</div><div class="help" style="margin:0">${ai} works out what this system is and what it takes to build: parts, costs and anything that has to happen in play. The power comes from ${esc(hullName(hull))}'s reserve, one schematic at a time.</div>`
+      else box = `<div class="work-box"><div class="wb-k">Decode it</div><div class="wb-v">${fmt(c.pu)} PU · ${days(c.days)}</div><div class="help" style="margin:0">${ai} works out what this system is and what it takes to build: parts, costs and anything that has to happen in play. The power comes from ${hull === 'kex' ? 'the Kex' : esc(hullName(hull))}'s reserve, one schematic at a time.</div>`
         + `<div class="form-row" style="margin-top:8px"><button class="btn primary" data-act="beginDecode" data-args="${attr({ id })}" ${why ? 'disabled' : ''}>${icon('power')}Begin decoding</button></div>${why ? `<p class="req-note">${esc(why)}</p>` : ''}</div>`;
       return `${crumbs}<div class="zone-intro"><h3>Encrypted schematic</h3><p>Tier ${u.tier} · ${esc(zone.name)}. ${ai} cannot read this system yet.</p></div>${box}`;
     }
@@ -625,7 +625,7 @@
               ${['funding', 'building'].includes(n.state) ? `<div class="mini-bar"><i style="width:${Math.round((n.state === 'building' ? 1 - n.p.daysLeft / Math.max(1, n.workDays) : n.progress) * 100)}%"></i></div>` : ''}</button>`).join('')}</div>`;
         }).join('')}</div>`;
     };
-    return `<div class="view-head"><div><div class="eyebrow">Refit program</div><h1>Upgrade <span class="accent">tree</span></h1><p class="lede">Each tier needs named systems online. Money buys labor and ordinary parts; the rare pieces have to be found. Encrypted schematics decode as the ship recovers.</p></div>
+    return `<div class="view-head"><div><div class="eyebrow">Refit program</div><h1>Upgrade <span class="accent">tree</span></h1><p class="lede">Each tier needs named systems online. Money buys labor and ordinary parts; the rare pieces have to be found. Encrypted schematics decode as the ship recovers, or tap one to start decoding it.</p></div>
       <div class="legend">${['installed', 'building', 'ready', 'funding', 'open', 'locked', 'classified'].concat(CAT.upgrades.some((u) => status(u.id).state === 'unknown') ? ['unknown'] : []).map(pill).join('')}</div></div>
       <section class="panel"><div class="panel-body tree-wrap"><div class="tree" id="tree"><svg class="links" id="links"></svg>${lane('kex')}${lane('shuttle')}</div></div></section>`;
   }
@@ -935,8 +935,8 @@
     const route = ROUTES.includes(parts[0]) ? parts[0] : 'bridge';
     const hull = HULL_OF_ROUTE[route];
     if (hull && parts[1]) {
-      const u = IX.up[parts[1]];
-      if (u && u.hull !== hull) { location.replace(`#/${ROUTE_OF_HULL[u.hull]}/${u.id}`); return false; }
+      const u = /^x\d+$/.test(parts[1]) ? CAT.upgrades[Number(parts[1].slice(1))] : IX.up[parts[1]];
+      if (u && u.hull !== hull) { location.replace(`#/${ROUTE_OF_HULL[u.hull]}/${parts[1]}`); return false; }
       if (u) { S.sel[hull] = { zone: u.zone, project: u.id }; followDeck(hull, u.zone); }
       else if (zoneOf(hull, parts[1])) { S.sel[hull] = { zone: parts[1], project: null }; followDeck(hull, parts[1]); }
       else S.sel[hull] = { zone: null, project: null };
@@ -948,7 +948,8 @@
   function openProject(id) {
     const u = IX.up[id]; if (!u) return;
     closeModal();
-    go(ROUTE_OF_HULL[u.hull], id);
+    // An encrypted schematic gets an opaque key in the address bar, never its internal id (audit V13-2).
+    go(ROUTE_OF_HULL[u.hull], status(id).state === 'classified' ? `x${CAT.upgrades.indexOf(u)}` : id);
   }
 
   function renderView() {

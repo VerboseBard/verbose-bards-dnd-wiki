@@ -151,7 +151,7 @@
     st.decoding = { kex: null, shuttle: null };
     HULLS.forEach((h) => {
       const d = obj(obj(r.decoding)[h]); const u = typeof d.id === 'string' && has(ix.up, d.id) ? ix.up[d.id] : null;
-      if (u && u.hull === h && !st.projects[u.id].revealed && !u.gmHeld && !u.tbd) st.decoding[h] = { id: u.id, daysLeft: numIn(d.daysLeft, 0.01, DECODE.daysPerTier * 5, 1) };
+      if (u && u.hull === h && (h !== 'shuttle' || st.hulls.shuttle.found) && !st.projects[u.id].revealed && !u.gmHeld && !u.tbd) st.decoding[h] = { id: u.id, daysLeft: numIn(d.daysLeft, 0.01, DECODE.daysPerTier * 5, 1) };
     });
     return st;
   }
@@ -328,6 +328,8 @@
     if (st.projects[id].revealed) return 'Already decoded.';
     if (u.gmHeld || u.tbd) return 'Out of reach for now: your GM reveals this one.';
     if (u.hull === 'shuttle' && !found(st)) return 'Nothing to decode there yet — the hangar is still sealed.';
+    // Same rule as the reveal cascade: never past a schematic it builds on that is still encrypted (audit V13-1).
+    if (u.requires.some((r) => !st.projects[r].revealed) || (u.requiresAny || []).some((g) => g.every((r) => !st.projects[r].revealed))) return 'Decode what it builds on first.';
     const d = st.decoding[u.hull];
     if (d && d.id === id) return 'Already being decoded.';
     if (d) return 'Already decoding another schematic on this ship.';
@@ -547,7 +549,7 @@
     // Decoding (GM request 2026-10-01): a day's work each; paused while the Kex is in cold storage.
     for (const h of HULLS) {
       const d = st.decoding[h]; if (!d) continue;
-      if (st.projects[d.id].revealed) { st.decoding[h] = null; continue; }
+      if (st.projects[d.id].revealed || (h === 'shuttle' && !found(st))) { st.decoding[h] = null; continue; }
       if (h === 'kex' && st.hulls.kex.mode === 'cold') continue;
       d.daysLeft = round2(d.daysLeft - 1);
       if (d.daysLeft <= 0) {
@@ -708,6 +710,7 @@
   actions.reveal = (cat, st0, { id, revealed }) => {
     const st = clone(st0); const u = up(cat, id);
     st.projects[id].revealed = !!revealed;
+    if (revealed && st.decoding[u.hull] && st.decoding[u.hull].id === id) st.decoding[u.hull] = null; // decoding no longer needed
     const name = u.hull === 'shuttle' && !found(st) ? 'a hangar schematic' : u.name;
     return commit(st, entry(st, 'GM', revealed ? `revealed a new schematic: ${name}.` : `hid ${name}.`, 'gm'));
   };
@@ -717,6 +720,7 @@
     if (typeof t !== 'number' || t < 1 || t > 5) fail('Choose a tier 1–5.');
     const ids = cat.upgrades.filter((u) => u.hull === hull && u.tier === t && !u.tbd).map((u) => u.id);
     ids.forEach((id) => (st.projects[id].revealed = true));
+    HULLS.forEach((h) => { if (st.decoding[h] && st.projects[st.decoding[h].id].revealed) st.decoding[h] = null; });
     return commit(st, entry(st, 'GM', `revealed ${ids.length} tier-${t} schematic${ids.length === 1 ? '' : 's'} for ${hullLabel(cat, st, hull)}.`, 'gm'));
   };
 

@@ -460,7 +460,7 @@ h3 { font-size: 19px; font-weight: 700; }
 .node.st-ready { border-color: var(--green); box-shadow: 0 0 14px rgba(92, 242, 164, 0.25); }
 .node.st-open .icon { color: var(--cyan); }
 .node.st-locked { opacity: 0.55; }
-.node.st-classified { border-style: dashed; border-color: rgba(182, 144, 255, 0.3); cursor: default; }
+.node.st-classified { border-style: dashed; border-color: rgba(182, 144, 255, 0.3); cursor: pointer; } /* encrypted schematics can be decoded (GM 2026-10-01) */
 .node.st-classified .n-name { color: var(--violet); letter-spacing: 0.18em; }
 .node.st-unknown { border-style: dashed; border-color: rgba(182, 144, 255, 0.45); } /* not worked out yet (GM): visible, but no price */
 .node .mini-bar { grid-column: 1 / -1; height: 3px; border-radius: 2px; background: rgba(255, 255, 255, 0.07); overflow: hidden; }
@@ -744,3 +744,5 @@ body.touring .comms { display: none; }
 [data-ui="sound"].on { color: var(--cyan); border-color: rgba(65, 225, 255, 0.5); }
 
 .tc-choice { display: inline-flex; gap: 8px; }
+
+button.pcard.classified { cursor: pointer; text-align: left; }

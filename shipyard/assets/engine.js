@@ -18,6 +18,8 @@
   const MAX_AMOUNT = 1e7; // largest single request
   // Ledger limits shared by every action and by the save loader, so a legal action always survives a reload.
   const CAP = { day: 1e9, count: 1e8, gold: 1e10 };
+  // Decoding an encrypted schematic (GM request 2026-10-01): a small power cost and a few days per tier.
+  const DECODE = { puPerTier: 5, daysPerTier: 1 };
   const HULLS = ['kex', 'shuttle'];
   const MODES = { kex: ['active', 'cold'], shuttle: ['docked', 'standby', 'flight'] };
   const LOG_KINDS = ['info', 'gold', 'kits', 'power', 'part', 'quest', 'build', 'install', 'reveal', 'warn', 'day', 'gm', 'recycle', 'learn'];
@@ -67,6 +69,7 @@
         shuttle: { charge: ix.hull.shuttle.startCharge, mode: 'docked', strain: 1, found: false, leyAccess: false },
       },
       reactorFuel: 0, hangarRewardGiven: false, channeled: {}, projects: {}, log: [], codexPatterns: [], materials: {},
+      decoding: { kex: null, shuttle: null },
     };
     cat.upgrades.forEach((u) => (st.projects[u.id] = blankProject(u)));
     return Object.assign(st, overrides || {});
@@ -144,6 +147,12 @@
         day: intIn(l.day, 1, 1e6, 1), who: str(l.who, 60, ''), text: str(l.text, 600, ''), kind: LOG_KINDS.includes(l.kind) ? l.kind : 'info',
       })).filter((l) => l.text);
     }
+    // Schematics being decoded: one per ship, only hidden ones the players may decode (anything else is dropped).
+    st.decoding = { kex: null, shuttle: null };
+    HULLS.forEach((h) => {
+      const d = obj(obj(r.decoding)[h]); const u = typeof d.id === 'string' && has(ix.up, d.id) ? ix.up[d.id] : null;
+      if (u && u.hull === h && !st.projects[u.id].revealed && !u.gmHeld && !u.tbd) st.decoding[h] = { id: u.id, daysLeft: numIn(d.daysLeft, 0.01, DECODE.daysPerTier * 5, 1) };
+    });
     return st;
   }
 
@@ -313,6 +322,19 @@
     if (r < 0.01) fail(`Enter at least 0.01 ${what}.`);
     return r;
   }
+  const decodeCost = (cat, id) => { const u = up(cat, id); return { pu: DECODE.puPerTier * u.tier, days: DECODE.daysPerTier * u.tier }; };
+  function decodeBlock(cat, st, id) {
+    const u = up(cat, id); const c = decodeCost(cat, id);
+    if (st.projects[id].revealed) return 'Already decoded.';
+    if (u.gmHeld || u.tbd) return 'Out of reach for now: your GM reveals this one.';
+    if (u.hull === 'shuttle' && !found(st)) return 'Nothing to decode there yet — the hangar is still sealed.';
+    const d = st.decoding[u.hull];
+    if (d && d.id === id) return 'Already being decoded.';
+    if (d) return 'Already decoding another schematic on this ship.';
+    if (st.hulls[u.hull].charge < c.pu) return `Needs ${fmt(c.pu)} PU in the reserve.`;
+    return '';
+  }
+
   function openProject(cat, st, id) {
     const s = projectStatus(cat, st, id, true);
     if (s.u.hull === 'shuttle' && !found(st)) fail('Nothing to work on there yet — the hangar is still sealed.');
@@ -522,9 +544,37 @@
       p.daysLeft = round2(p.daysLeft - 1);
       if (p.daysLeft <= 0) out.push(...install(cat, st, u.id));
     }
+    // Decoding (GM request 2026-10-01): a day's work each; paused while the Kex is in cold storage.
+    for (const h of HULLS) {
+      const d = st.decoding[h]; if (!d) continue;
+      if (st.projects[d.id].revealed) { st.decoding[h] = null; continue; }
+      if (h === 'kex' && st.hulls.kex.mode === 'cold') continue;
+      d.daysLeft = round2(d.daysLeft - 1);
+      if (d.daysLeft <= 0) {
+        const u = up(cat, d.id); st.projects[d.id].revealed = true; st.decoding[h] = null;
+        out.push(entry(st, h === 'kex' ? 'Kubix' : index(cat).hull.shuttle.ai, `Schematic decoded: ${u.name}. ${u.summary} Everything it needs is on its page now.`, 'reveal'));
+      }
+    }
     st.channeled = {};
     // Log is newest-first: the day marker sits under that day's events.
     return commit(st, out.reverse().concat([dayEntry]));
+  };
+
+  // ---------- decoding encrypted schematics ----------
+  actions.beginDecode = (cat, st0, { id, who }) => {
+    const st = clone(st0); const u = up(cat, id);
+    const why = decodeBlock(cat, st, id); if (why) fail(why);
+    const c = decodeCost(cat, id);
+    st.hulls[u.hull].charge = round2(st.hulls[u.hull].charge - c.pu);
+    st.decoding[u.hull] = { id, daysLeft: c.days };
+    // The log never names a schematic before it is decoded.
+    return commit(st, entry(st, who, `set ${u.hull === 'kex' ? 'Kubix' : index(cat).hull.shuttle.ai} to decode a tier-${u.tier} schematic: ${fmt(c.pu)} PU, ${fmt(c.days)} day${c.days === 1 ? '' : 's'}.`, 'power'));
+  };
+  actions.cancelDecode = (cat, st0, { hull, who }) => {
+    const st = clone(st0); hullId(hull);
+    if (!st.decoding[hull]) fail('Nothing is being decoded on that ship.');
+    st.decoding[hull] = null;
+    return commit(st, entry(st, who, 'stopped decoding a schematic (the power spent is gone).', 'power'));
   };
 
   // ---------- hold & workshop ----------
@@ -639,7 +689,7 @@
     whole(qty, 'units');
     const why = buyBlock(cat, st, itemId, gm); if (why) fail(why);
     const cost = buyPrice(cat, st, it.marketGp) * qty; pay(st, cost); giveItem(st, itemId, qty);
-    return commit(st, entry(st, who, `bought ${qty} × ${it.name} at ${market(cat, st).name} for ${fmt(cost)} gp.`, 'gold'));
+    return commit(st, entry(st, who, `bought ${qty} × ${it.name} for ${fmt(cost)} gp.`, 'gold'));
   };
 
   actions.buyKits = (cat, st0, { qty, who }) => {
@@ -723,7 +773,7 @@
   actions.setMarket = (cat, st0, { market: m }) => {
     const st = clone(st0); if (typeof m !== 'string' || !index(cat).market[m]) fail('Unknown market.');
     st.market = m;
-    return commit(st, entry(st, 'GM', `now trading at ${index(cat).market[m].name}.`, 'gm'));
+    return commit(st, entry(st, 'GM', `set the going rate to ×${index(cat).market[m].multiplier}.`, 'gm'));
   };
 
   actions.setCrew = (cat, st0, { crew }) => {
@@ -756,8 +806,8 @@
 
   return {
     SCHEMA, ActionError, createState, normalize, apply, actions,
-    projectStatus, power, capacity, slotCapacity, slotsUsed, tier, teams, busyTeams, installed, found, flightReady, repairsLeft, hullLabel, relaysRestored,
+    projectStatus, power, capacity, slotCapacity, slotsUsed, tier, teams, busyTeams, installed, found, flightReady, repairsLeft, hullLabel, relaysRestored, decodeCost, decodeBlock,
     buyPrice, kitPrice, chunkPrice, puPerChunk, buyBlock, canFabricate, index, fmt, clone, channelName, has, itemValue, patternCount, materialStage,
-    CHANNEL_CAP, REACTOR_CASK_PU, ARCHIVE_CAP, LOG_KINDS,
+    CHANNEL_CAP, REACTOR_CASK_PU, ARCHIVE_CAP, LOG_KINDS, DECODE,
   };
 });

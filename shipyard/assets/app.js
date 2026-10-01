@@ -116,6 +116,8 @@
     return `<div class="ring" style="--p:${pct};--c:${ringColor[s.state]}">${icon(s.u.track)}</div>`;
   }
   // A prerequisite's name, unless the player may not see it yet.
+  // Decoding encrypted schematics (GM request 2026-10-01).
+  const decodeSub = (s) => { const d = S.state.decoding && S.state.decoding[s.u.hull]; if (d && d.id === s.id) return `Decoding · ${fmt(d.daysLeft)} day${d.daysLeft === 1 ? '' : 's'} left`; return s.u.gmHeld || s.u.tbd ? 'A schematic Kubix cannot reach yet' : `Tier ${s.u.tier} schematic · tap to decode`; };
   const prereqLabel = (m) => (m.ids.every((id) => status(id).state !== 'classified') ? m.label : 'an encrypted system');
   // Parts tied to a still-hidden system (item.revealWith) stay encrypted for players until the GM reveals that system.
   const secretItem = (st, o) => !S.gm && !!IX.item[o].revealWith && !st.projects[IX.item[o].revealWith].revealed && !(st.inventory[o] > 0);
@@ -168,7 +170,7 @@
     const m = IX.market[S.state.market] || CAT.markets[0];
     const marketCtl = S.gm
       ? `<select data-ui-change="market" aria-label="Market">${CAT.markets.map((x) => `<option value="${esc(x.id)}" ${x.id === m.id ? 'selected' : ''}>${esc(x.name)}</option>`).join('')}</select>`
-      : `<b title="${esc(m.name)}">${esc(m.name.split(' ')[0])} ×${fmt(m.multiplier)}</b>`;
+      : `<b title="Estimated going rate. Your GM sets the price level for wherever the party shops.">Going rate ×${fmt(m.multiplier)}</b>`;
     $('#tools').innerHTML = `
       <span class="chip day">${icon('day')}<span class="lbl">Day</span> <b>${fmt(S.state.day)}</b></span>
       <span class="chip market">${icon('gold')}${marketCtl}</span>
@@ -453,7 +455,7 @@
       ${roomMaps(hull, z)}
       ${list.length ? '<div class="pd-section">Systems</div>' : ''}
       ${vis.map((s) => `<button class="pcard" data-ui="open-project" data-id="${esc(s.id)}">${ring(s)}<div><div class="p-name">${esc(s.u.name)}</div><div class="p-sub">Tier ${s.u.tier} · ${esc(needSummary(s))}</div></div>${pill(s.state)}</button>`).join('')}
-      ${hidden ? Array.from({ length: hidden }, () => `<div class="pcard classified"><div class="pd-icon">${icon('lock')}</div><div><div class="p-name">ENCRYPTED</div><div class="p-sub">A schematic Kubix cannot decode yet</div></div>${pill('classified')}</div>`).join('') : ''}
+      ${hidden ? list.filter((s) => s.state === 'classified').map((s) => `<button class="pcard classified" data-ui="open-project" data-id="${esc(s.id)}"><div class="pd-icon">${icon('lock')}</div><div><div class="p-name">ENCRYPTED</div><div class="p-sub">${esc(decodeSub(s))}</div></div>${pill('classified')}</button>`).join('') : ''}
       ${!list.length ? '<p class="empty">No refit projects in this space.</p>' : ''}`;
   }
 
@@ -473,7 +475,7 @@
   function shopText() {
     const st = S.state; const m = CAT.markets.find((x) => x.id === st.market) || CAT.markets[0]; let total = 0;
     const lines = Object.entries(S.shop).filter(([k, q]) => shopKeyOk(k) && q > 0).map(([k, q]) => { const hidden = k.startsWith('item:') && secretItem(st, k.slice(5)); const u = hidden ? null : shopUnit(k, st); if (u !== null) total += u * q; return `${fmt(q)} × ${hidden ? 'encrypted part' : shopName(k)} — ${hidden ? 'no estimate yet' : u === null ? 'must be found' : `est. ${fmt(u * q)} gp`}`; });
-    return `Kex shopping list (estimates at ${m.name})\n${lines.join('\n')}\nEstimated total: ${fmt(total)} gp`;
+    return `Kex shopping list (estimated going rate ×${fmt(m.multiplier)})\n${lines.join('\n')}\nEstimated total: ${fmt(total)} gp`;
   }
   const saveTxt = (t) => { download('kex-shopping-list.txt', t, 'text/plain'); say('kubix', '', 'Your browser would not let me copy, so I saved the list as a text file instead.'); };
   function shopList(st) {
@@ -498,7 +500,16 @@
     const hull = u.hull; const h = IX.hull[hull];
     const zone = zoneOf(hull, u.zone);
     const crumbs = `<div class="crumbs"><button data-ui="zone" data-hull="${hull}" data-zone="">${esc(hullName(hull))}</button> › <button data-ui="zone" data-hull="${hull}" data-zone="${esc(u.zone)}">${esc(zone.name)}</button></div>`;
-    if (s.state === 'classified') return `${crumbs}<div class="zone-intro"><h3>Encrypted schematic</h3><p>Kubix cannot decode this system yet. Restore more of the ship.</p></div>`;
+    if (s.state === 'classified') {
+      const ai = hull === 'kex' ? 'Kubix' : IX.hull.shuttle.ai; const c = E.decodeCost(CAT, id); const why = E.decodeBlock(CAT, S.state, id);
+      const dec = S.state.decoding && S.state.decoding[hull]; const days = (n) => `${fmt(n)} day${n === 1 ? '' : 's'}`;
+      let box;
+      if (dec && dec.id === id) box = `<div class="work-box building"><div class="wb-k">Decoding</div><div class="wb-v">${days(dec.daysLeft)} <small style="font-size:14px;color:var(--muted)">left</small></div><div class="help" style="margin:0">${ai} will show what this system needs when the work is done. Days pass when your GM advances them.</div><div class="form-row" style="margin-top:8px"><button class="btn sm ghost" data-act="cancelDecode" data-args="${attr({ hull })}">Stop decoding</button></div></div>`;
+      else if (u.gmHeld || u.tbd) box = `<div class="work-box"><div class="wb-k">Out of reach</div><div class="help" style="margin:0">${ai} can't reach this schematic yet. Your GM will reveal it when the time comes.</div></div>`;
+      else box = `<div class="work-box"><div class="wb-k">Decode it</div><div class="wb-v">${fmt(c.pu)} PU · ${days(c.days)}</div><div class="help" style="margin:0">${ai} works out what this system is and what it takes to build: parts, costs and anything that has to happen in play. The power comes from ${esc(hullName(hull))}'s reserve, one schematic at a time.</div>`
+        + `<div class="form-row" style="margin-top:8px"><button class="btn primary" data-act="beginDecode" data-args="${attr({ id })}" ${why ? 'disabled' : ''}>${icon('power')}Begin decoding</button></div>${why ? `<p class="req-note">${esc(why)}</p>` : ''}</div>`;
+      return `${crumbs}<div class="zone-intro"><h3>Encrypted schematic</h3><p>Tier ${u.tier} · ${esc(zone.name)}. ${ai} cannot read this system yet.</p></div>${box}`;
+    }
     const canAct = !['installed', 'building', 'locked', 'unknown'].includes(s.state) && !s.exclusive && (hull !== 'shuttle' || found());
     const st = S.state;
     const dis = (cond) => (cond ? '' : 'disabled');
@@ -609,8 +620,8 @@
           const nodes = CAT.upgrades.filter((u) => u.hull === hull && u.tier === tier.tier).map((u) => status(u.id));
           const known = nodes.some((n) => n.state !== 'classified');
           return `<div class="tier-col"><div class="tier-col-head ${tier.tier <= t && known ? 'reached' : ''}">Tier ${tier.tier}<b>${known ? esc(tier.name) : 'Encrypted'}</b></div>
-            ${nodes.map((n) => `<button class="node st-${n.state}" data-node="${esc(n.id)}" ${n.state === 'classified' ? 'disabled' : `data-ui="open-project" data-id="${esc(n.id)}"`}>${icon(n.state === 'classified' ? 'lock' : n.u.track)}
-              <div><div class="n-name">${n.state === 'classified' ? 'ENCRYPTED' : esc(n.u.name)}</div><div class="n-sub">${n.state === 'classified' ? `Tier ${n.u.tier} schematic` : STATE_LABEL[n.state]}</div></div>
+            ${nodes.map((n) => `<button class="node st-${n.state}" data-node="${esc(n.id)}" data-ui="open-project" data-id="${esc(n.id)}">${icon(n.state === 'classified' ? 'lock' : n.u.track)}
+              <div><div class="n-name">${n.state === 'classified' ? 'ENCRYPTED' : esc(n.u.name)}</div><div class="n-sub">${n.state === 'classified' ? esc(decodeSub(n)) : STATE_LABEL[n.state]}</div></div>
               ${['funding', 'building'].includes(n.state) ? `<div class="mini-bar"><i style="width:${Math.round((n.state === 'building' ? 1 - n.p.daysLeft / Math.max(1, n.workDays) : n.progress) * 100)}%"></i></div>` : ''}</button>`).join('')}</div>`;
         }).join('')}</div>`;
     };
@@ -661,8 +672,8 @@
         <div class="form-row"><label for="mc-lv">Slot levels</label><input type="number" id="mc-lv" min="1" max="${E.CHANNEL_CAP}" value="3"><label for="mc-hull">Into</label><select class="field" id="mc-hull">${hullOpts('kex')}</select></div>
         <button class="btn primary" data-ui="channel">${icon('power')}Channel</button>
         ${channeled.length ? `<p class="help" style="margin-top:10px">Today: ${channeled.map(([k, v]) => `${esc(E.channelName(k))} ${fmt(v)}/${E.CHANNEL_CAP}`).join(' · ')}</p>` : ''}</div></section>
-      <section class="panel"><div class="panel-head"><h2>Market estimates</h2><span class="chip">${esc(m.name)} ×${fmt(m.multiplier)}</span></div><div class="panel-body">
-        <p class="help">Nothing is bought here. Add what the party needs and take the list to market. Prices are <b>estimates</b> at ${esc(m.name)} (deliveries about ${fmt(m.deliveryDays)} days); the real deal happens in play. Kits are base metal and cost the same everywhere, or melt scrap: ${fmt(CAT.itemRules.metalLbPerKit)} lb of metal gear = 1 kit (the GM records it).</p>
+      <section class="panel"><div class="panel-head"><h2>Going rates</h2><span class="chip">×${fmt(m.multiplier)}</span></div><div class="panel-body">
+        <p class="help">Nothing is bought here. Add what the party needs and take the list to market. Prices are <b>estimated going rates</b> (×${fmt(m.multiplier)}); the real deal happens in play. Kits are base metal and cost the same everywhere, or melt scrap: ${fmt(CAT.itemRules.metalLbPerKit)} lb of metal gear = 1 kit (the GM records it).</p>
         <div class="form-row"><input type="number" id="by-ch" min="1" value="20" aria-label="Raw chunks"><button class="btn" data-ui="shop-add" data-key="raw" data-from="#by-ch">${icon('ether')}Add raw chunks · est. ${gp(E.chunkPrice(CAT, st))} ea · scarce</button>${S.gm ? '<button class="btn gm sm" data-ui="buy-raw" title="Record ether the party bought in play">Bought in play</button>' : ''}</div>
         <div class="form-row"><input type="number" id="by-kit" min="1" value="5" aria-label="Kits"><button class="btn" data-ui="shop-add" data-key="kits" data-from="#by-kit">${icon('kit')}Add kits · est. ${gp(E.kitPrice(CAT))} ea</button>${S.gm ? '<button class="btn gm sm" data-ui="buy-kits" title="Record kits the party bought in play">Bought in play</button>' : ''}</div>
         ${found() ? `<div class="pd-section">Transfer charge</div><div class="form-row"><select class="field" id="tr-from"><option value="kex">Kex → ${esc(IX.hull.shuttle.name)}</option><option value="shuttle">${esc(IX.hull.shuttle.name)} → Kex</option></select><input type="number" id="tr-pu" min="1" value="20" aria-label="PU"><button class="btn" data-ui="transfer">${icon('power')}Transfer</button></div>` : ''}
@@ -759,7 +770,7 @@
         <li><b>The ship takes metal, not payment.</b> Coins are melted as precious-metal feedstock (conductors, lattices, field coils). Gems, bullion and jewelry count at their trade value.</li>
         <li><b>Fabrication kits are base metal.</b> Buy them, or melt mundane metal gear: every ${CAT.itemRules.metalLbPerKit} lb of metal is 1 kit.</li>
         <li><b>Learning</b> destroys the item completely — no fuel back — and stores its pattern. Every copy after that costs the blueprint.</li>
-        <li><b>Copies are hull-bound modules,</b> never wearable items. Big systems on the Kex need many copies; smaller systems need one or two.</li>
+        <li><b>The hull fabricators make hull-bound modules,</b> never wearable items; only a personal replicator in the secondary armory makes gear you can carry. Big systems on the Kex need many copies; smaller systems need one or two.</li>
         <li><b>Consumables</b> (potions, scrolls, ammunition, dusts) count half. <b>Artifacts</b> are never copied; recycling one needs the GM's approval.</li>
         <li><b>Raw ether is the real fuel:</b> ${fmt(E.puPerChunk(CAT))} PU a chunk. A legendary relic is worth only a few pounds of it.</li>
         <li>* “Varies” or unknown rarity: the uncommon line is shown — check the item's actual rarity.</li>

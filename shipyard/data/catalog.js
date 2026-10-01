@@ -1870,7 +1870,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": false,
    "recovery": false,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": true
   },
   {
    "id": "k_hangar",
@@ -1906,7 +1907,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": true,
    "recovery": false,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": false
   },
   {
    "id": "k_slow_repair",
@@ -1944,7 +1946,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": false,
    "recovery": false,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": true
   },
   {
    "id": "k_fog_redundancy",
@@ -1990,7 +1993,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": false,
    "recovery": false,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": true
   },
   {
    "id": "k_pattern_archive",
@@ -2029,7 +2033,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": true,
    "recovery": false,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": false
   },
   {
    "id": "k_clean_forge",
@@ -2076,7 +2081,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": true,
    "recovery": false,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": false
   },
   {
    "id": "k_repair_crew",
@@ -2122,7 +2128,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": true,
    "recovery": false,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": false
   },
   {
    "id": "k_full_cloak",
@@ -2176,7 +2183,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": false,
    "recovery": false,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": false
   },
   {
    "id": "k_nanite_clinic",
@@ -2229,7 +2237,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": false,
    "recovery": false,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": false
   },
   {
    "id": "k_armory_recovery",
@@ -2289,7 +2298,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": false,
    "recovery": false,
-   "tbd": true
+   "tbd": true,
+   "gmHeld": false
   },
   {
    "id": "k_armory_rebuild",
@@ -2335,7 +2345,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": false,
    "recovery": false,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": false
   },
   {
    "id": "k_battery",
@@ -2381,7 +2392,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": false,
    "recovery": false,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": false
   },
   {
    "id": "k_personal_replicator",
@@ -2434,7 +2446,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": false,
    "recovery": false,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": false
   },
   {
    "id": "k_thrusters",
@@ -2481,7 +2494,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": false,
    "recovery": false,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": false
   },
   {
    "id": "k_shield",
@@ -2527,7 +2541,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": false,
    "recovery": false,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": false
   },
   {
    "id": "k_reactor",
@@ -2579,7 +2594,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": false,
    "recovery": false,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": false
   },
   {
    "id": "k_navigation",
@@ -2632,7 +2648,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": false,
    "recovery": false,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": false
   },
   {
    "id": "k_phase_drive",
@@ -2686,7 +2703,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": false,
    "recovery": false,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": false
   },
   {
    "id": "k_captain_network",
@@ -2740,7 +2758,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": false,
    "recovery": false,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": false
   },
   {
    "id": "s_clear_wreckage",
@@ -2768,7 +2787,8 @@ window.KEX_CATALOG = {
    "components": [],
    "startsRevealed": false,
    "recovery": true,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": false
   },
   {
    "id": "s_damage_survey",
@@ -2798,7 +2818,8 @@ window.KEX_CATALOG = {
    "components": [],
    "startsRevealed": false,
    "recovery": true,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": false
   },
   {
    "id": "s_hull_seal",
@@ -2836,7 +2857,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": false,
    "recovery": true,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": false
   },
   {
    "id": "s_lift_engines",
@@ -2881,7 +2903,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": false,
    "recovery": true,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": false
   },
   {
    "id": "s_flight_controls",
@@ -2919,7 +2942,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": false,
    "recovery": true,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": false
   },
   {
    "id": "s_food",
@@ -2957,7 +2981,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": false,
    "recovery": false,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": false
   },
   {
    "id": "s_medical",
@@ -2995,7 +3020,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": false,
    "recovery": false,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": false
   },
   {
    "id": "s_cabin_repair",
@@ -3033,7 +3059,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": false,
    "recovery": false,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": false
   },
   {
    "id": "s_cleanbots",
@@ -3078,7 +3105,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": false,
    "recovery": false,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": false
   },
   {
    "id": "s_workshop",
@@ -3123,7 +3151,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": false,
    "recovery": false,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": false
   },
   {
    "id": "s_cloak",
@@ -3168,7 +3197,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": false,
    "recovery": false,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": false
   },
   {
    "id": "s_weapon_mount",
@@ -3213,7 +3243,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": false,
    "recovery": false,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": false
   },
   {
    "id": "s_force_projector",
@@ -3252,7 +3283,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": false,
    "recovery": false,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": false
   },
   {
    "id": "s_capacitor",
@@ -3290,7 +3322,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": false,
    "recovery": false,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": false
   },
   {
    "id": "s_armor",
@@ -3337,7 +3370,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": false,
    "recovery": false,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": false
   },
   {
    "id": "s_core_cradle",
@@ -3391,7 +3425,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": false,
    "recovery": false,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": false
   },
   {
    "id": "s_scan_mask",
@@ -3444,7 +3479,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": false,
    "recovery": false,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": false
   },
   {
    "id": "s_fire_projector",
@@ -3490,7 +3526,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": false,
    "recovery": false,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": false
   },
   {
    "id": "s_inverse_pair",
@@ -3536,7 +3573,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": false,
    "recovery": false,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": false
   },
   {
    "id": "s_inverse_salvage",
@@ -3589,7 +3627,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": false,
    "recovery": false,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": false
   },
   {
    "id": "s_ley_tap",
@@ -3640,7 +3679,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": false,
    "recovery": false,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": false
   },
   {
    "id": "s_orbit",
@@ -3693,7 +3733,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": false,
    "recovery": false,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": false
   },
   {
    "id": "s_worldgate",
@@ -3747,7 +3788,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": false,
    "recovery": false,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": false
   },
   {
    "id": "s_living_quarters",
@@ -3805,7 +3847,8 @@ window.KEX_CATALOG = {
    ],
    "startsRevealed": false,
    "recovery": false,
-   "tbd": false
+   "tbd": false,
+   "gmHeld": false
   }
  ]
 };

@@ -31,12 +31,13 @@
     pendingUpdate: false, commsMin: false, peek: false, logFilter: 'all', marketFilter: '', mounted: null,
     mapIndex: {}, lightbox: null, kexDeck: 'mid',
     shop: {}, // shopping list: { 'kits' | 'raw' | 'item:<id>': qty } (GM ruling 2026-10-01: nothing is bought on the site)
+    practice: null, // the refit drill's throwaway copy: { saved: the real session } while the drill runs (assets/tour-drill.js)
   };
 
   const storeGet = (k) => { try { return localStorage.getItem(k); } catch (e) { return null; } };
   const storeSet = (k, v) => { try { if (v === null) localStorage.removeItem(k); else localStorage.setItem(k, v); } catch (e) { /* private mode */ } };
   function readStore() { try { return JSON.parse(storeGet(KEY)); } catch (e) { return null; } }
-  function writeStore() { storeSet(KEY, JSON.stringify({ state: S.state, base: S.base, ui: { gm: S.gm, actor: S.actor, commsMin: S.commsMin, shop: S.shop } })); }
+  function writeStore() { if (S.practice) return; storeSet(KEY, JSON.stringify({ state: S.state, base: S.base, ui: { gm: S.gm, actor: S.actor, commsMin: S.commsMin, shop: S.shop } })); }
 
   function load() {
     // GM tools only appear on a device opened once with ?gm in the address (not security — a tidy table).
@@ -64,6 +65,23 @@
   const status = (id) => E.projectStatus(CAT, S.state, id, S.gm);
   const snapshot = () => ({ state: S.state, base: S.base, pendingUpdate: S.pendingUpdate });
   const pushUndo = () => { S.undo.push(snapshot()); if (S.undo.length > 50) S.undo.shift(); };
+
+  // The refit drill (assets/tour-drill.js) shows real screens on a throwaway copy of the ship: practice(state) swaps the
+  // copy in (player view, nothing saved, its own undo), practice(null) puts the real session back exactly as it was.
+  function practice(st, back) {
+    if (st) {
+      if (!S.practice) S.practice = { saved: { state: S.state, undo: S.undo, gm: S.gm, peek: S.peek, actor: S.actor, base: S.base, pendingUpdate: S.pendingUpdate, logFilter: S.logFilter, kexDeck: S.kexDeck } };
+      S.state = E.normalize(CAT, st); S.undo = []; S.gm = false; S.peek = false; S.pendingUpdate = false; S.logFilter = 'all';
+      if (!S.state.crew.includes(S.actor)) S.actor = S.state.crew[0];
+    } else if (S.practice) {
+      const p = S.practice; S.practice = null;
+      Object.assign(S, p.saved);
+      if (p.reload) { S.undo = []; load(); }
+      // Straight onto the screen the drill was started from, so the restored session never draws the drill's last page first.
+      if (back && location.hash !== back) { history.replaceState(null, '', `${location.pathname}${location.search}${back}`); parseHash(); }
+    } else return;
+    S.mounted = null; render();
+  }
 
   // ------------------------------------------------------------------ actions
   function act(name, args) {
@@ -175,11 +193,11 @@
       <span class="chip day">${icon('day')}<span class="lbl">Day</span> <b>${fmt(S.state.day)}</b></span>
       <span class="chip market">${icon('gold')}${marketCtl}</span>
       <label class="chip" title="Who is acting? Contributions are logged under this name.">${icon('bridge')}<select data-ui-change="actor" aria-label="Acting crew member">${S.state.crew.map((c) => `<option ${c === S.actor ? 'selected' : ''}>${esc(c)}</option>`).join('')}</select></label>
-      ${S.gm ? `<button class="btn warn sm" data-act="advanceDay" title="Advance one day: power, projects and daily limits">${icon('day')}<span class="lbl">Next day</span></button>` : ''}
+      ${S.gm || S.practice ? `<button class="btn warn sm" data-act="advanceDay" title="Advance one day: power, projects and daily limits${S.practice ? ' (the GM button, shown here for the drill)' : ''}">${icon('day')}<span class="lbl">Next day</span></button>` : ''}
       <button class="btn sm icon-only" data-ui="undo" title="Undo last change" ${S.undo.length ? '' : 'disabled'}>${icon('undo')}</button>
       ${S.gmDevice ? `<button class="btn sm gm toggle-gm ${S.gm ? 'on' : ''}" data-ui="toggle-gm" title="GM mode">${icon('gm')}GM</button>` : ''}
       ${window.KexSound ? `<button class="btn sm ${KexSound.on() ? 'on' : ''}" data-ui="sound" aria-pressed="${KexSound.on()}" title="Sound on or off: voice, interface sounds and the ship's hum"><svg class="icon" viewBox="0 0 24 24"><path d="M4 9h4l5-4v14l-5-4H4z"/>${KexSound && KexSound.on() ? '<path d="M16 9a4 4 0 0 1 0 6M18.5 6.5a8 8 0 0 1 0 11"/>' : '<path d="M16 9l5 6M21 9l-5 6"/>'}</svg><span class="lbl">Sound</span></button>` : ''}
-      <button class="btn sm" data-ui="tour-menu" title="Replay the ship's message packet (tutorial)">${icon('guide')}<span class="lbl">Tutorial</span></button>
+      <button class="btn sm" data-ui="tour-menu" title="Tutorials: the ship's message packet and the refit drill (how upgrades work)">${icon('guide')}<span class="lbl">Tutorial</span></button>
       <button class="btn sm" data-ui="office" title="Save and share">${icon('save')}<span class="lbl">Office</span></button>`;
   }
 
@@ -208,7 +226,8 @@
   function renderBanner() {
     const el = $('#banner');
     let html = ''; let cls = 'banner';
-    if (S.pendingUpdate) html = `${icon('save')}<span>The GM has published a newer ship record (revision ${fmt(official.revision)}).</span><button class="btn sm primary" data-ui="load-official">Load it</button><button class="btn sm ghost" data-ui="keep-local">Keep my version</button>`;
+    if (S.practice) { cls += ' practice'; html = `${icon('guide')}<span><b>Refit drill.</b> A practice copy of the ship: nothing here is saved, and your own ship comes back when the drill ends.</span>`; }
+    else if (S.pendingUpdate) html = `${icon('save')}<span>The GM has published a newer ship record (revision ${fmt(official.revision)}).</span><button class="btn sm primary" data-ui="load-official">Load it</button><button class="btn sm ghost" data-ui="keep-local">Keep my version</button>`;
     else if (S.gm) { cls += ' gm'; html = `${icon('gm')}<span><b>GM mode.</b> Advance days, confirm objectives, reveal schematics, sell limited stock and correct the hold. Publish from the Office when the session ends.</span>`; }
     else if (dirty()) html = `${icon('save')}<span>You have local changes on this device. The official record only changes when the GM publishes.</span><button class="btn sm ghost" data-ui="reset">Reset to official</button>`;
     el.className = cls; el.innerHTML = html; el.hidden = !html;
@@ -625,7 +644,7 @@
               ${['funding', 'building'].includes(n.state) ? `<div class="mini-bar"><i style="width:${Math.round((n.state === 'building' ? 1 - n.p.daysLeft / Math.max(1, n.workDays) : n.progress) * 100)}%"></i></div>` : ''}</button>`).join('')}</div>`;
         }).join('')}</div>`;
     };
-    return `<div class="view-head"><div><div class="eyebrow">Refit program</div><h1>Upgrade <span class="accent">tree</span></h1><p class="lede">Each tier needs named systems online. Money buys labor and ordinary parts; the rare pieces have to be found. Encrypted schematics decode as the ship recovers, or tap one to start decoding it.</p></div>
+    return `<div class="view-head"><div><div class="eyebrow">Refit program</div><h1>Upgrade <span class="accent">tree</span></h1><p class="lede">Each tier needs named systems online. Money buys labor and ordinary parts; the rare pieces have to be found. Encrypted schematics decode as the ship recovers, or tap one to start decoding it.</p>${S.practice ? '' : `<div class="form-row" style="margin-top:10px"><button class="btn sm" data-ui="drill">${icon('guide')}How upgrades work: the refit drill</button></div>`}</div>
       <div class="legend">${['installed', 'building', 'ready', 'funding', 'open', 'locked', 'classified'].concat(CAT.upgrades.some((u) => status(u.id).state === 'unknown') ? ['unknown'] : []).map(pill).join('')}</div></div>
       <section class="panel"><div class="panel-body tree-wrap"><div class="tree" id="tree"><svg class="links" id="links"></svg>${lane('kex')}${lane('shuttle')}</div></div></section>`;
   }
@@ -994,6 +1013,7 @@
     zone: (b) => { const hull = b.dataset.hull; if (b.dataset.zone) selectZone(hull, b.dataset.zone); else { S.sel[hull] = { zone: null, project: null }; history.replaceState(null, '', `#/${ROUTE_OF_HULL[hull]}`); updateDeck(hull); } },
     deck: (b) => selectDeck(b.dataset.deck),
     'tour-menu': () => { if (window.KexTour) window.KexTour.menu(); },
+    drill: () => { if (window.KexTour) window.KexTour.start('drill'); },
     sound: () => { if (window.KexSound) { KexSound.toggle(); render(); } },
     peek: () => { if (!S.gm) return; S.peek = true; renderView(); },
     lightbox: (b) => openLightbox(b.dataset.hull, b.dataset.zone, Number(b.dataset.i) || 0),
@@ -1083,7 +1103,7 @@
   window.addEventListener('kex-sound', () => renderTop());
   window.addEventListener('resize', () => { setTopHeight(); if (S.route === 'tree') drawLinks(); });
   // Another tab changed the save: reload it and drop this tab's undo history (it no longer applies).
-  window.addEventListener('storage', (e) => { if (e.key === KEY) { S.undo = []; load(); render(); } });
+  window.addEventListener('storage', (e) => { if (e.key !== KEY) return; if (S.practice) { S.practice.reload = true; return; } S.undo = []; load(); render(); });
 
   // Small surface for the guided tour (assets/tour.js).
   window.KexShipyard = {
@@ -1094,6 +1114,9 @@
     deck: (d) => selectDeck(d),
     closeOverlays: () => { closeModal(); closeLightbox(); },
     quiet: () => { const c = $('#comms'); if (c) c.classList.add('quiet'); },
+    practice: (st, back) => practice(st || null, back),
+    practicing: () => !!S.practice,
+    crew: () => (S.practice ? S.practice.saved.state : S.state).crew.slice(),
   };
 
   // ------------------------------------------------------------------ boot

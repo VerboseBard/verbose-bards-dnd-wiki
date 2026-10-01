@@ -746,3 +746,4 @@ body.touring .comms { display: none; }
 .tc-choice { display: inline-flex; gap: 8px; }
 
 button.pcard.classified { cursor: pointer; text-align: left; }
+.banner.practice { background: rgba(84, 214, 255, 0.08); border-color: rgba(84, 214, 255, 0.35); color: var(--cyan); }

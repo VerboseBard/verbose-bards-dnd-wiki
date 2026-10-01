@@ -132,6 +132,138 @@
   "kubix-end-of-packet": {
    "file": "33-kubix-end-of-packet.mp3",
    "hash": "d5e5fd77"
+  },
+  "drill-refit-drill": {
+   "file": "d01-drill-refit-drill.mp3",
+   "hash": "f692ec5d"
+  },
+  "drill-a-practice-copy": {
+   "file": "d02-drill-a-practice-copy.mp3",
+   "hash": "14ec5fe8"
+  },
+  "drill-the-day-counter": {
+   "file": "d03-drill-the-day-counter.mp3",
+   "hash": "7f6df62e"
+  },
+  "drill-next-day": {
+   "file": "d04-drill-next-day.mp3",
+   "hash": "3f7d948d"
+  },
+  "drill-one-day-passes": {
+   "file": "d05-drill-one-day-passes.mp3",
+   "hash": "438bdbb8"
+  },
+  "drill-what-the-colours-mean": {
+   "file": "d06-drill-what-the-colours-mean.mp3",
+   "hash": "af4d9c86"
+  },
+  "drill-open-a-project": {
+   "file": "d07-drill-open-a-project.mp3",
+   "hash": "d06e2576"
+  },
+  "drill-its-name-and-state": {
+   "file": "d08-drill-its-name-and-state.mp3",
+   "hash": "7a61532b"
+  },
+  "drill-the-supply-checklist": {
+   "file": "d09-drill-the-supply-checklist.mp3",
+   "hash": "134c9ef"
+  },
+  "drill-the-work": {
+   "file": "d10-drill-the-work.mp3",
+   "hash": "54fb744c"
+  },
+  "drill-choose-who-is-giving": {
+   "file": "d11-drill-choose-who-is-giving.mp3",
+   "hash": "29a53b3c"
+  },
+  "drill-feed-coins": {
+   "file": "d12-drill-feed-coins.mp3",
+   "hash": "edac3707"
+  },
+  "drill-one-line-done": {
+   "file": "d13-drill-one-line-done.mp3",
+   "hash": "6815c797"
+  },
+  "drill-kits-from-the-hold": {
+   "file": "d14-drill-kits-from-the-hold.mp3",
+   "hash": "a1644017"
+  },
+  "drill-parts": {
+   "file": "d15-drill-parts.mp3",
+   "hash": "b511716"
+  },
+  "drill-power": {
+   "file": "d16-drill-power.mp3",
+   "hash": "e07bf300"
+  },
+  "drill-ready-to-build": {
+   "file": "d17-drill-ready-to-build.mp3",
+   "hash": "b1f83c23"
+  },
+  "drill-start-work": {
+   "file": "d18-drill-start-work.mp3",
+   "hash": "808fbf9d"
+  },
+  "drill-under-construction": {
+   "file": "d19-drill-under-construction.mp3",
+   "hash": "dba18aca"
+  },
+  "drill-days-do-the-work": {
+   "file": "d20-drill-days-do-the-work.mp3",
+   "hash": "b3f0913d"
+  },
+  "drill-a-day-later": {
+   "file": "d21-drill-a-day-later.mp3",
+   "hash": "fb52ef1c"
+  },
+  "drill-encrypted-schematics": {
+   "file": "d22-drill-encrypted-schematics.mp3",
+   "hash": "61395955"
+  },
+  "drill-decoding": {
+   "file": "d23-drill-decoding.mp3",
+   "hash": "aa1d976c"
+  },
+  "drill-begin-decoding": {
+   "file": "d24-drill-begin-decoding.mp3",
+   "hash": "2bb6f3f9"
+  },
+  "drill-decoding-under-way": {
+   "file": "d25-drill-decoding-under-way.mp3",
+   "hash": "e9c24ad5"
+  },
+  "drill-both-move-together": {
+   "file": "d26-drill-both-move-together.mp3",
+   "hash": "2ba4f3db"
+  },
+  "drill-when-the-work-is-done": {
+   "file": "d27-drill-when-the-work-is-done.mp3",
+   "hash": "d21fa961"
+  },
+  "drill-locked-systems": {
+   "file": "d28-drill-locked-systems.mp3",
+   "hash": "21488831"
+  },
+  "drill-the-log": {
+   "file": "d29-drill-the-log.mp3",
+   "hash": "ac3623fe"
+  },
+  "drill-watch-the-reserve": {
+   "file": "d30-drill-watch-the-reserve.mp3",
+   "hash": "3b7d5bee"
+  },
+  "drill-making-it-official": {
+   "file": "d31-drill-making-it-official.mp3",
+   "hash": "fa5b135f"
+  },
+  "drill-what-your-gm-does": {
+   "file": "d32-drill-what-your-gm-does.mp3",
+   "hash": "16af468e"
+  },
+  "drill-end-of-drill": {
+   "file": "d33-drill-end-of-drill.mp3",
+   "hash": "b4df3d56"
   }
  }
 }

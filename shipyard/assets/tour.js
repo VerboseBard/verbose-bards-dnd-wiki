@@ -1,7 +1,8 @@
 /* Kex Shipyard — guided tours.
    The message packet: Kubix's recording, relayed by the droid at the end of Session 14 (link: #/tour or #/tour/<chapter>).
-   Other tours register themselves from their own files. The hangar orientation (assets/tour-hangar.js) is fetched
-   only once the hangar is open, so its text is not sent early. (The catalog still carries the bay's data: the site's
+   Other tours register themselves from their own files. The refit drill (assets/tour-drill.js, how upgrades, days and
+   decoding work) loads with the page and plays on a throwaway practice copy of the ship. The hangar orientation
+   (assets/tour-hangar.js) is fetched only once the hangar is open, so its text is not sent early. (The catalog still carries the bay's data: the site's
    secrecy is table tidiness, not security.)
    Each step moves to a screen, spotlights a real element and explains it. While a tour runs, the page behind it
    is inert (no clicks, no keyboard), so a tour can never change the ship record. The packet's numbers are its
@@ -41,7 +42,7 @@
   // The pledging chapter demonstrates on the hangar checklist; once the hangar is open, on the pattern archive.
   const KEX = E.index(CAT).hull.kex;
   const AI_LABEL = `${KEX.ai}${KEX.alias ? ` / ${KEX.alias}` : ''}`;
-  const PACKET = { who: 'kubix', label: `MESSAGE PACKET · ${AI_LABEL.toUpperCase()} · RECORDED`, title: "Kubix's message packet", home: '#/bridge', numbers: packet, chapters: [
+  const PACKET = { who: 'kubix', voice: 'kubix', doneLabel: 'Enter the shipyard ▸', followUp: { id: 'drill', label: 'Next: the refit drill ▸' }, label: `MESSAGE PACKET · ${AI_LABEL.toUpperCase()} · RECORDED`, title: "Kubix's message packet", home: '#/bridge', numbers: packet, chapters: [
     { name: 'Sound', steps: [
       { splash: true, route: '#/bridge', choice: 'sound', title: 'Sound on or off?',
         text: () => 'This packet comes with my voice and the ship\'s sounds: a soft hum, and a chime as we go.<br><br>Would you like sound on?' },
@@ -157,6 +158,8 @@
 
   // ---- rendering ------------------------------------------------------------------------------------------
   let tour = null; let idx = -1; let layer = null; let targetEl = null; let returnFocus = null; let inerted = []; let locked = false;
+  // Leaving a tour (finished, closed, or swapped for the chapter menu or another tour) runs its onEnd hook once.
+  function leave() { const t = tour; tour = null; idx = -1; if (t && t.onEnd) t.onEnd(); }
 
   // While a tour or its chapter menu is open, everything else on the page is inert (no clicks, no keyboard).
   function lockPage(on) {
@@ -199,6 +202,7 @@
       if (a === 'next') show(idx + 1); else if (a === 'back') show(idx - 1); else if (a === 'exit' || a === 'skip') finish(false);
       else if (a === 'sound-on' || a === 'sound-off') { if (window.KexSound) KexSound.set(a === 'sound-on'); show(idx + 1); }
       else if (a === 'menu') menu();
+      else if (a === 'follow' && tour && tour.followUp) { if (tour.id === 'kubix') storeSet(DONE_KEY, '1'); start(tour.followUp.id); }
     });
     document.body.appendChild(layer);
     lockPage(true);
@@ -212,10 +216,12 @@
     idx = i;
     const step = tour.steps[i];
     // Start the line inside the tap itself: Safari only lets sound start there, not from the timer below (audit V10-1).
-    if (window.KexSound) { if (tour.id === 'kubix') KexSound.speak(voiceId(step), step.text(tour.numbers())); else KexSound.stopVoice(); }
+    if (window.KexSound) { if (tour.voice) KexSound.speak(voiceId(tour, step), step.text(tour.numbers())); else KexSound.stopVoice(); }
     APP.closeOverlays(); APP.quiet();
     ensureLayer();
-    const route = step.whenHangarOpen && E.installed(APP.state(), 'k_hangar') ? step.whenHangarOpen : step.route;
+    if (tour.onStep) tour.onStep(step); // the drill sets its practice copy to this step's point in the demonstration
+    const r = typeof step.route === 'function' ? step.route() : step.route;
+    const route = step.whenHangarOpen && E.installed(APP.state(), 'k_hangar') ? step.whenHangarOpen : r;
     const needsRoute = route && location.hash !== route;
     if (needsRoute) location.hash = route;
     if (step.deck) APP.deck(step.deck);
@@ -223,7 +229,7 @@
     const at = idx; let tries = 0;
     const attempt = () => {
       if (!tour || idx !== at) return;
-      if (step.target && !step.splash && !document.querySelector(step.target) && tries++ < 16) { setTimeout(attempt, 150); return; }
+      if (step.target && !step.splash && !document.querySelector(targetOf(step)) && tries++ < 16) { setTimeout(attempt, 150); return; }
       place(step);
     };
     setTimeout(attempt, needsRoute || step.deck ? 280 : 30);
@@ -240,7 +246,7 @@
     $('.tc-count', L).textContent = `${idx + 1} / ${tour.steps.length}`;
     $('[data-tour="back"]', L).disabled = idx === 0;
     const nextBtn = $('[data-tour="next"]', L);
-    nextBtn.textContent = idx === 0 ? 'Play ▸' : idx === tour.steps.length - 1 ? (tour.id === 'kubix' ? 'Enter the shipyard ▸' : 'Done ▸') : 'Next ▸';
+    nextBtn.textContent = idx === 0 ? 'Play ▸' : idx === tour.steps.length - 1 ? (tour.doneLabel || 'Done ▸') : 'Next ▸';
     let choice = $('.tc-choice', L);
     if (step.choice && !choice) {
       choice = document.createElement('span'); choice.className = 'tc-choice';
@@ -249,6 +255,11 @@
     }
     if (!step.choice && choice) choice.remove();
     nextBtn.hidden = !!step.choice; $('[data-tour="back"]', L).hidden = !!step.choice;
+    // The packet ends by offering the refit drill (a button only: the recorded line is unchanged).
+    let follow = $('[data-tour="follow"]', L);
+    const wantFollow = idx === tour.steps.length - 1 && tour.followUp && TOURS[tour.followUp.id];
+    if (wantFollow && !follow) { follow = document.createElement('button'); follow.className = 'btn sm'; follow.dataset.tour = 'follow'; follow.textContent = tour.followUp.label; nextBtn.before(follow); }
+    if (!wantFollow && follow) follow.remove();
     let skip = $('[data-tour="skip"]', L);
     if (idx === 0 && !skip) { skip = document.createElement('button'); skip.className = 'btn sm ghost'; skip.dataset.tour = 'skip'; skip.textContent = 'Skip'; nextBtn.before(skip); }
     if (idx !== 0 && skip) skip.remove();
@@ -257,25 +268,27 @@
     body.innerHTML = html;
     if (window.KexSound) { if (step.splash) KexSound.fx.open(); else KexSound.fx.step(); } // the voice already started in show()
     if (!reduceMotion) { body.classList.remove('reveal'); void body.offsetWidth; body.classList.add('reveal'); }
-    targetEl = step.target ? document.querySelector(step.target) : null;
+    targetEl = step.target ? document.querySelector(targetOf(step)) : null;
     if (targetEl && !step.splash) {
       // Far targets jump instead of gliding (smooth scrolling also never runs in a hidden tab); the spotlight is placed
       // again once the page has settled.
       const instant = reduceMotion || document.hidden || Math.abs(targetEl.getBoundingClientRect().top) > window.innerHeight * 1.5;
+      const inline = targetEl.getBoundingClientRect().width > window.innerWidth ? 'start' : 'center';
       if (window.innerWidth < 720) {
         // Phones: the card docks at the bottom, so bring the target up to just under the sticky header.
         const head = document.querySelector('.topbar');
         const el = targetEl;
         el.style.scrollMarginTop = `${(head ? head.getBoundingClientRect().bottom : 0) + 10}px`;
-        el.scrollIntoView({ block: 'start', behavior: instant ? 'auto' : 'smooth' });
+        el.scrollIntoView({ block: 'start', inline, behavior: instant ? 'auto' : 'smooth' });
         setTimeout(() => { el.style.scrollMarginTop = ''; }, 1000);
-      } else targetEl.scrollIntoView({ block: 'center', behavior: instant ? 'auto' : 'smooth' });
+      } else targetEl.scrollIntoView({ block: 'center', inline, behavior: instant ? 'auto' : 'smooth' });
       setTimeout(() => position(card, hole), instant ? 30 : 320);
       setTimeout(() => {
         if (!targetEl || !layer) return;
-        // A browser can cut a smooth scroll short (audit V7-3): if the target is still off screen, jump there.
+        // A browser can cut a smooth scroll short (audit V7-3): if the target is still off screen, jump there. Wide panels
+        // (the upgrade tree on a phone) scroll sideways too.
         const r = targetEl.getBoundingClientRect();
-        if (r.bottom < 0 || r.top > window.innerHeight) targetEl.scrollIntoView({ block: window.innerWidth < 720 ? 'start' : 'center', behavior: 'auto' });
+        if (r.bottom < 0 || r.top > window.innerHeight || r.right < 0 || r.left > window.innerWidth) targetEl.scrollIntoView({ block: window.innerWidth < 720 ? 'start' : 'center', inline: r.width > window.innerWidth ? 'start' : 'center', behavior: 'auto' });
         position(card, hole);
       }, 900);
     } else {
@@ -307,17 +320,19 @@
     if (window.KexSound) KexSound.stopVoice();
     const done = tour;
     if (done && done.id === 'kubix') storeSet(DONE_KEY, '1');
-    tour = null; idx = -1;
+    leave();
     lockPage(false);
     if (layer) { layer.remove(); layer = null; }
     closeMenu();
-    if (completed || /^#\/tour/.test(location.hash)) location.hash = (done && done.home) || '#/bridge';
+    if (done && done.returnToStart) { /* its onEnd already returned the reader to where it started */ }
+    else if (completed || /^#\/tour/.test(location.hash)) location.hash = (done && done.home) || '#/bridge';
     restoreFocus();
   }
 
   function begin(t, chapter) {
     if (!layer) remember();
     closeMenu(true);
+    if (tour && tour !== t) leave();
     tour = t;
     const i = tour.steps.findIndex((s) => s.chapter === (chapter || 0));
     show(i < 0 ? 0 : i);
@@ -335,7 +350,8 @@
   }
 
   function menu() {
-    if (APP.found() && !TOURS[EXTRA.id] && !extraTried) { loadExtra(menu); return; }
+    if (tour) { remember(); if (layer) { layer.remove(); layer = null; } leave(); } // the real ship decides what is listed
+    if (APP.found() && !TOURS[EXTRA.id] && !extraTried) loadExtra(() => { if (document.querySelector('.tour-menu')) menu(); });
     if (!layer) remember();
     closeMenu(true);
     const list = Object.values(TOURS).filter((t) => !t.needsFound || APP.found());
@@ -349,7 +365,8 @@
       const b = e.target.closest('[data-tour-menu]'); if (!b) return;
       if (b.dataset.tourMenu === 'close') closeMenu(); else start(b.dataset.t, Number(b.dataset.c));
     });
-    if (layer) { layer.remove(); layer = null; tour = null; idx = -1; }
+    if (layer) { layer.remove(); layer = null; }
+    leave();
     document.body.appendChild(back);
     lockPage(true);
     const f = back.querySelector('button'); if (f) f.focus();
@@ -394,15 +411,23 @@
   window.addEventListener('resize', () => { if (idx >= 0 && layer && tour && !tour.steps[idx].splash) position($('.tour-card', layer), $('.tour-hole', layer)); });
   window.addEventListener('scroll', () => { if (idx >= 0 && layer && targetEl && tour && !tour.steps[idx].splash) position($('.tour-card', layer), $('.tour-hole', layer)); }, { passive: true });
 
-  // Voice lines are keyed by step title; script() lists the packet's lines with the exact HTML each recording must match.
-  function voiceId(step) { return `kubix-${step.title.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}`; }
-  const script = () => TOURS.kubix.steps.map((s) => ({ id: voiceId(s), chapter: s.chapter + 1, title: s.title, html: s.text(TOURS.kubix.numbers()) }));
+  // Voice lines are keyed by tour and step title; script(id) lists a voiced tour's lines with the exact HTML each
+  // recording must match (voice/README.md).
+  function voiceId(t, step) { return `${t.voice}-${step.title.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}`; }
+  const targetOf = (step) => (typeof step.target === 'function' ? step.target() : step.target);
+  const script = (id) => { const t = TOURS[id || 'kubix']; return t && t.voice ? t.steps.map((s) => ({ id: voiceId(t, s), chapter: s.chapter + 1, title: s.title, html: s.text(t.numbers()) })) : []; };
 
   window.KexTour = { start, menu, register, script, chapter: (c) => start('kubix', c), active: () => idx >= 0 };
 
   // Entry points: #/tour, #/tour/<n>, #/tour/<name> — or the first visit on this device, from the bridge only.
-  const m = location.hash.match(/^#\/tour(?:\/([a-z]+|\d+))?/i);
   const opening = () => (window.KexSound && KexSound.chosen() ? 1 : 0); // the sound choice is asked once per device
-  if (m) setTimeout(() => (m[1] && !/^\d+$/.test(m[1]) ? start(m[1].toLowerCase()) : start('kubix', m[1] ? Math.max(0, Number(m[1]) - 1) : opening())), 300);
+  const fromLink = (m) => {
+    history.replaceState(null, '', `${location.pathname}${location.search}#/bridge`); // Back never lands on the link again
+    if (m[1] && !/^\d+$/.test(m[1])) start(m[1].toLowerCase()); else start('kubix', m[1] ? Math.max(0, Number(m[1]) - 1) : opening());
+  };
+  const linkOf = () => location.hash.match(/^#\/tour(?:\/([a-z]+|\d+))?/i);
+  const m = linkOf();
+  window.addEventListener('hashchange', () => { const l = linkOf(); if (l && idx < 0) fromLink(l); });
+  if (m) setTimeout(() => fromLink(m), 300);
   else if (!storeGet(DONE_KEY) && /^(#\/?|#\/bridge)?$/.test(location.hash)) setTimeout(() => start('kubix', opening()), 700);
 })();

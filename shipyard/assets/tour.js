@@ -91,7 +91,7 @@
         text: (v) => `A <b>fabrication kit</b> is ordinary base metal: steel, copper, ceramic, fasteners. Buy them, or melt down scrap — every <b>${v.kitLb} lb</b> of mundane metal gear makes one kit.` },
     ] },
     { name: 'Patterns and the replicator', steps: [
-      { route: '#/hold', target: '.hold-grid > section.span-3', title: 'One item, one job',
+      { route: '#/hold', target: '#workshop', title: 'One item, one job',
         text: () => 'Feed me a magic item and it does <b>one</b> job:<br>• <b>Install</b> it — it becomes part of a system.<br>• <b>Learn</b> it — it is destroyed completely, nothing returned, and I keep its pattern.<br>• <b>Recycle</b> it — it is destroyed for a little fuel.<br><br>I cannot un-melt a cloak. Choose carefully.' },
       { route: '#/codex', target: '.codex-rules', title: 'Blueprints',
         text: (v) => `A learned pattern becomes a <b>blueprint</b>: each copy costs metal, kits, power and time. A rare pattern costs ${v.rareLearn} PU to learn, then <b>${v.rareGp} gp of coin metal, ${v.rareKits} kits, ${v.rarePu} PU and ${v.rareDays} days per copy</b>. Copies are hull-bound modules, never wearable.` },

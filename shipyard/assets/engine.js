@@ -166,7 +166,7 @@
   function generation(cat, st, hull) {
     const parts = [];
     if (hull === 'kex' && st.hulls.kex.mode === 'cold') return { total: 0, parts: [{ label: 'Cold storage — array offline', pu: 0 }] };
-    let raw = 0; // unrounded output, so the relay bonus is exact (a full cask gives 625 with an armory, not 625.07)
+    let raw = 0; // unrounded output, so the relay bonus is computed exactly (each day: 16.667 x 1.25 = 20.83)
     const add = (label, pu) => { raw += pu; parts.push({ label, pu: round2(pu) }); };
     cat.upgrades.filter((u) => u.hull === hull && u.generationPu && installed(st, u.id)).forEach((u) => {
       if (u.generationCondition === 'reactor_fueled') { if (st.reactorFuel > 0) add('Reactor cask', Math.min(st.reactorFuel, REACTOR_CASK_PU / REACTOR_DAYS)); }

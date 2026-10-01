@@ -472,22 +472,23 @@
   const partNote = (it, fabWhy) => `<div class="req-note">${it.availability === 'quest' ? 'Not for sale: it must be found or earned.' : it.availability === 'limited' ? 'Rare: someone has to be found who will sell it.' : 'Common stock.'}${it.protected ? ' Cannot be copied.' : ` Craft a copy: ${gp(it.replicaGp)} of coin metal · ${it.replicaKits || 0} kit${(it.replicaKits || 0) === 1 ? '' : 's'} · ${fmt(it.replicaPu)} PU · ${fmt(it.replicaDays)} work day${it.replicaDays === 1 ? '' : 's'}${fabWhy ? ` (${esc(fabWhy.toLowerCase())})` : ''}.`}</div>`;
   function shopText() {
     const st = S.state; const m = CAT.markets.find((x) => x.id === st.market) || CAT.markets[0]; let total = 0;
-    const lines = Object.entries(S.shop).filter(([k, q]) => shopKeyOk(k) && q > 0).map(([k, q]) => { const u = shopUnit(k, st); if (u !== null) total += u * q; return `${fmt(q)} × ${shopName(k)} — ${u === null ? 'must be found' : `est. ${fmt(u * q)} gp`}`; });
+    const lines = Object.entries(S.shop).filter(([k, q]) => shopKeyOk(k) && q > 0).map(([k, q]) => { const hidden = k.startsWith('item:') && secretItem(st, k.slice(5)); const u = hidden ? null : shopUnit(k, st); if (u !== null) total += u * q; return `${fmt(q)} × ${hidden ? 'encrypted part' : shopName(k)} — ${hidden ? 'no estimate yet' : u === null ? 'must be found' : `est. ${fmt(u * q)} gp`}`; });
     return `Kex shopping list (estimates at ${m.name})\n${lines.join('\n')}\nEstimated total: ${fmt(total)} gp`;
   }
+  const saveTxt = (t) => { download('kex-shopping-list.txt', t, 'text/plain'); say('kubix', '', 'Your browser would not let me copy, so I saved the list as a text file instead.'); };
   function shopList(st) {
     const rows = Object.entries(S.shop).filter(([k, q]) => shopKeyOk(k) && q > 0);
     if (!rows.length) return '<p class="empty">Empty. Use <b>Add to list</b> here, in the catalog below, or on any project\'s supply checklist.</p>';
     let total = 0;
     const body = rows.map(([k, q]) => {
-      const u = shopUnit(k, st); const line = u === null ? null : u * q; if (line) total += line; const it = k.startsWith('item:') ? IX.item[k.slice(5)] : null;
-      return `<tr><td><b>${esc(shopName(k))}</b>${it && it.availability === 'limited' ? ' <span class="avail limited">rare</span>' : k === 'raw' ? ' <span class="avail limited">scarce</span>' : ''}</td>
+      const it = k.startsWith('item:') ? IX.item[k.slice(5)] : null; const hidden = !!it && secretItem(st, it.id);
+      const u = hidden ? null : shopUnit(k, st); const line = u === null ? null : u * q; if (line) total += line;
+      return `<tr><td style="white-space:nowrap"><button class="btn sm ghost" data-ui="shop-del" data-key="${esc(k)}" aria-label="Remove ${esc(hidden ? 'encrypted part' : shopName(k))}">${icon('x')}</button> <b>${esc(hidden ? 'Encrypted part' : shopName(k))}</b>${it && it.availability === 'limited' ? ' <span class="avail limited">rare</span>' : k === 'raw' ? ' <span class="avail limited">scarce</span>' : ''}</td>
         <td class="num" style="white-space:nowrap"><button class="btn sm ghost" data-ui="shop-step" data-key="${esc(k)}" data-d="-1" aria-label="One fewer ${esc(shopName(k))}">−</button> ${fmt(q)} <button class="btn sm ghost" data-ui="shop-step" data-key="${esc(k)}" data-d="1" aria-label="One more ${esc(shopName(k))}">+</button></td>
-        <td class="num">${u === null ? '—' : gp(u)}</td><td class="num">${line === null ? 'must be found' : gp(line)}</td>
-        <td><button class="btn sm ghost" data-ui="shop-del" data-key="${esc(k)}" aria-label="Remove ${esc(shopName(k))}">${icon('x')}</button></td></tr>`;
+        <td class="num">${u === null ? '—' : gp(u)}</td><td class="num">${hidden ? '—' : line === null ? 'must be found' : gp(line)}</td></tr>`;
     }).join('');
-    return `<div style="overflow-x:auto"><table class="market-table shop-table"><thead><tr><th>Item</th><th>Qty</th><th>Est. each</th><th>Est. total</th><th></th></tr></thead><tbody>${body}</tbody>
-      <tfoot><tr><td colspan="3"><b>Estimated total</b></td><td class="num"><b>${gp(total)}</b></td><td></td></tr></tfoot></table></div>
+    return `<div style="overflow-x:auto"><table class="market-table shop-table"><thead><tr><th>Item</th><th>Qty</th><th>Est. each</th><th>Est. total</th></tr></thead><tbody>${body}</tbody>
+      <tfoot><tr><td colspan="3"><b>Estimated total</b></td><td class="num"><b>${gp(total)}</b></td></tr></tfoot></table></div>
       <p class="help">Estimates only. Rare items need someone willing to sell them, and ether crystal is scarce on a world without ley lines: whether anyone will sell it, and how much, is up to your GM. Real prices are settled in play. The list is saved on this device.</p>
       <div class="form-row"><button class="btn sm" data-ui="shop-copy">${icon('save')}Copy list</button><button class="btn sm ghost" data-ui="shop-clear">Clear list</button></div>`;
   }
@@ -563,7 +564,7 @@
               <button class="btn sm" data-act="givePart" data-from="#q-part-${esc(id)}-${line}" data-field="qty" data-args="${attr(Object.assign({ route: 'owned' }, base))}" ${dis(have > 0)}>${icon('hold')}Install from hold</button>
               <button class="btn sm" data-ui="shop-add" data-key="item:${esc(itemId)}" data-from="#q-part-${esc(id)}-${line}" ${dis(it.availability !== 'quest')}>${icon('plus')}Add to list${it.availability === 'quest' ? '' : ` · est. ${gp(E.buyPrice(CAT, st, it.marketGp))}`}</button>
               ${S.gm && !buyWhy ? `<button class="btn gm sm" data-act="givePart" data-from="#q-part-${esc(id)}-${line}" data-field="qty" data-args="${attr(Object.assign({ route: 'buy' }, base))}" title="Record parts the party bought in play: pays the listed price from the treasury">${icon('gold')}Bought in play</button>` : ''}
-              ${it.protected ? '' : `<button class="btn sm" data-act="givePart" data-from="#q-part-${esc(id)}-${line}" data-field="qty" data-args="${attr(Object.assign({ route: 'fabricate' }, base))}" ${dis(!fabWhy)} title="${esc(fabWhy || `Blueprint per copy: ${gp(it.replicaGp)} of coin metal, ${it.replicaKits || 0} kits, ${fmt(it.replicaPu)} PU, ${fmt(it.replicaDays)} days`)}">${icon('fabrication')}Fabricate · ${gp(it.replicaGp)} + ${it.replicaKits || 0} kits + ${fmt(it.replicaPu)} PU</button>`}
+              ${it.protected ? '' : `<button class="btn sm" data-act="givePart" data-from="#q-part-${esc(id)}-${line}" data-field="qty" data-args="${attr(Object.assign({ route: 'fabricate' }, base))}" ${dis(!fabWhy)} title="${esc(fabWhy || `Blueprint per copy: ${gp(it.replicaGp)} of coin metal, ${it.replicaKits || 0} kits, ${fmt(it.replicaPu)} PU, ${fmt(it.replicaDays)} days`)}">${icon('fabrication')}Fabricate · ${gp(it.replicaGp)} coin metal + ${it.replicaKits || 0} kits + ${fmt(it.replicaPu)} PU</button>`}
             </div>${partNote(it, fabWhy)}</div>`;
         }).join('');
       }
@@ -667,7 +668,7 @@
         ${found() ? `<div class="pd-section">Transfer charge</div><div class="form-row"><select class="field" id="tr-from"><option value="kex">Kex → ${esc(IX.hull.shuttle.name)}</option><option value="shuttle">${esc(IX.hull.shuttle.name)} → Kex</option></select><input type="number" id="tr-pu" min="1" value="20" aria-label="PU"><button class="btn" data-ui="transfer">${icon('power')}Transfer</button></div>` : ''}
         </div></section>
       <section class="panel span-3" id="shopping"><div class="panel-head"><h2>Shopping list</h2><span class="chip">estimates, not purchases</span></div><div class="panel-body">${shopList(st)}</div></section>
-      <section class="panel span-3"><div class="panel-head"><h2>Workshop · items in the hold</h2><span class="chip">${archive ? `Pattern archive ${E.patternCount(st)}/${E.ARCHIVE_CAP}` : 'Pattern archive offline'}</span></div><div class="panel-body">
+      <section class="panel span-3" id="workshop"><div class="panel-head"><h2>Workshop · items in the hold</h2><span class="chip">${archive ? `Pattern archive ${E.patternCount(st)}/${E.ARCHIVE_CAP}` : 'Pattern archive offline'}</span></div><div class="panel-body">
         ${inv.length ? `<div class="items">${inv.map(({ it, q }) => itemCard(it, q, archive)).join('')}</div>` : '<p class="empty">No components or donor items in the hold. Put what you need on the shopping list; the GM records what the party brings aboard.</p>'}
         ${E.patternCount(st) ? `<div class="pd-section">Pattern archive · blueprints</div><div class="blueprints">${st.patterns.map((p) => { const it = IX.item[p]; return `<div class="bp"><b>${esc(it.name)}</b><span>${gp(it.replicaGp)} coin metal · ${it.replicaKits || 0} kits · ${fmt(it.replicaPu)} PU · ${fmt(it.replicaDays)} d per copy</span></div>`; }).join('')}${(st.codexPatterns || []).map((cp) => { const v = E.itemValue(CAT, cp.rarity, cp.consumable); return `<div class="bp"><b>${esc(cp.name)}</b><span>${gp(v.blueprint.gp)} coin metal · ${v.blueprint.kits} kits · ${fmt(v.blueprint.pu)} PU · ${fmt(v.blueprint.days)} d per copy · the GM decides which system can use it</span></div>`; }).join('')}</div>` : ''}
         <p class="help">Want to know what another item is worth? Look it up in the <a href="#/codex">item codex</a> — every D&amp;D item, piece of gear and spell.</p>
@@ -1007,10 +1008,10 @@
       if (S.route !== 'hold') say('kubix', '', `Added to your shopping list: ${fmt(q)} × ${shopName(k)}. It is on the Hold page, under Shopping list.`);
       if (window.KexSound) KexSound.fx.ok(); renderView();
     },
-    'shop-step': (b) => { const k = b.dataset.key; if (!shopKeyOk(k)) return; const q = (S.shop[k] || 0) + Number(b.dataset.d); if (q > 0) S.shop[k] = q; else delete S.shop[k]; writeStore(); renderView(); },
+    'shop-step': (b) => { const k = b.dataset.key; if (!shopKeyOk(k)) return; const q = Math.min(1e6, (S.shop[k] || 0) + Number(b.dataset.d)); if (q > 0) S.shop[k] = q; else delete S.shop[k]; writeStore(); renderView(); },
     'shop-del': (b) => { delete S.shop[b.dataset.key]; writeStore(); renderView(); },
     'shop-clear': () => { S.shop = {}; writeStore(); renderView(); },
-    'shop-copy': () => { const t = shopText(); const done = () => say('kubix', '', 'Shopping list copied. Paste it wherever the party keeps notes.'); if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(t).then(done, () => download('kex-shopping-list.txt', t)); else download('kex-shopping-list.txt', t); },
+    'shop-copy': () => { const t = shopText(); const done = () => say('kubix', '', 'Shopping list copied. Paste it wherever the party keeps notes.'); if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(t).then(done, () => saveTxt(t)); else saveTxt(t); },
     'feed-material': () => { S.fmMat = $('#fm-mat').value; act('feedMaterial', { material: S.fmMat, bars: num('#fm-bars') }); },
     'buy-kits': () => { if (S.gm) act('buyKits', { qty: num('#by-kit') }); }, // GM records a purchase made in play
     transfer: () => { const from = $('#tr-from').value; act('transfer', { from, to: from === 'kex' ? 'shuttle' : 'kex', pu: num('#tr-pu') }); },

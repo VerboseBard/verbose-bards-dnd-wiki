@@ -509,10 +509,10 @@
   }
 
   // ------------------------------------------------------------------ project detail
-  function reqRow(title, ic, done, total, unit, body, note, keepNote) {
+  function reqRow(title, ic, done, total, unit, body, note, keepNote, cls) {
     const met = done >= total - 1e-9;
     if (met && !keepNote) note = '';
-    return `<div class="req ${met ? 'met' : ''}"><div class="req-top"><div class="req-name">${icon(met ? 'check' : ic)}${title}</div><div class="req-count">${fmt(done)} / ${fmt(total)}${unit ? ` ${unit}` : ''}</div></div>
+    return `<div class="req ${met ? 'met' : ''} ${cls || ''}"><div class="req-top"><div class="req-name">${icon(met ? 'check' : ic)}${title}</div><div class="req-count">${fmt(done)} / ${fmt(total)}${unit ? ` ${unit}` : ''}</div></div>
       <div class="bar"><i style="width:${Math.min(100, total ? (done / total) * 100 : 100)}%"></i></div>${met ? '' : body || ''}${note ? `<div class="req-note">${note}</div>` : ''}</div>`;
   }
   const qtyInput = (id, val, max) => `<span class="qty"><input type="number" id="${esc(id)}" min="1" ${max ? `max="${max}"` : ''} value="${Math.max(1, Math.round(val * 100) / 100)}" aria-label="Amount"></span>`;
@@ -639,7 +639,7 @@
         }).join('');
       }
       const opted = masked ? 'Kubix cannot decode this part yet' : locked ? `using ${IX.item[locked].name}` : `any one of: ${opts.map((o) => IX.item[o].name).join(' / ')}`;
-      html += reqRow(esc(masked ? 'Encrypted part' : c.label), 'item', p.parts[line], c.qty, '', body, esc(opted), true);
+      html += reqRow(esc(masked ? 'Encrypted part' : c.label), 'item', p.parts[line], c.qty, '', body, esc(opted), true, 'part');
     });
     const teams = E.teams(st).bay; const busy = E.busyTeams(CAT, st);
     if (s.state === 'building') {
@@ -708,6 +708,19 @@
   }
 
   // ------------------------------------------------------------------ views: hold
+  // What patterns are for, in four steps (the captain's feedback, 2026-10-02). The packet's "What a pattern is" step points here.
+  function patternsHelp(archive) {
+    const rare = E.itemValue(CAT, 'rare', false);
+    const step = (n, ic, title, text) => `<li class="pf-step"><div class="pf-k">${icon(ic)}<span>${n}</span>${title}</div><p>${text}</p></li>`;
+    return `<div class="pd-section">How patterns work</div>
+      <ol class="pattern-flow" id="patterns-help">
+        ${step(1, 'hold', 'Find one', 'A magic item the ship needs as a part: a prism, an alloy, a field coil.')}
+        ${step(2, 'fabrication', 'Learn it', `The item is destroyed and Kubix keeps its recipe, its <b>pattern</b>, for a little power (a rare item: ${fmt(rare.learnPu)} PU). ${archive ? `The archive holds ${E.ARCHIVE_CAP}.` : 'This needs the pattern archive restored.'}`)}
+        ${step(3, 'kit', 'Copy it', `Press <b>Fabricate</b> on any part line that lists it. Each copy costs its blueprint (a rare item: ${gp(rare.blueprint.gp)} coin metal, ${kitsTxt(rare.blueprint.kits)}, ${fmt(rare.blueprint.pu)} PU, ${fmt(rare.blueprint.days)} days).`)}
+        ${step(4, 'ship', 'It stays aboard', 'Hull copies are built into the ship, never carried. Only a personal replicator in the secondary armory makes gear you can take with you.')}
+      </ol>
+      <p class="help">One find is enough: learn it, then build every copy you need. The archive turns one lucky find into as many parts as you can pay for.</p>`;
+  }
   function viewHold() {
     const st = S.state; const m = IX.market[st.market] || CAT.markets[0];
     const hullOpts = (sel) => ['kex', 'shuttle'].filter((h) => h === 'kex' || found()).map((h) => `<option value="${h}" ${h === sel ? 'selected' : ''}>${esc(IX.hull[h].name)}</option>`).join('');
@@ -739,6 +752,7 @@
         </div></section>
       <section class="panel span-3" id="shopping"><div class="panel-head"><h2>Shopping list</h2><span class="chip">estimates, not purchases</span></div><div class="panel-body">${shopList(st)}</div></section>
       <section class="panel span-3" id="workshop"><div class="panel-head"><h2>Workshop · items in the hold</h2><span class="chip">${archive ? `Pattern archive ${E.patternCount(st)}/${E.ARCHIVE_CAP}` : 'Pattern archive offline'}</span></div><div class="panel-body">
+        ${patternsHelp(archive)}
         ${inv.length ? `<div class="items">${inv.map(({ it, q }) => itemCard(it, q, archive)).join('')}</div>` : '<p class="empty">No components or donor items in the hold. Put what you need on the shopping list; the GM records what the party brings aboard.</p>'}
         ${E.patternCount(st) ? `<div class="pd-section">Pattern archive · blueprints</div><div class="blueprints">${st.patterns.map((p) => { const it = IX.item[p]; return `<div class="bp"><b>${esc(it.name)}</b><span>${gp(it.replicaGp)} coin metal · ${kitsTxt(it.replicaKits || 0)} · ${fmt(it.replicaPu)} PU · ${fmt(it.replicaDays)} d per copy</span></div>`; }).join('')}${(st.codexPatterns || []).map((cp) => { const v = E.itemValue(CAT, cp.rarity, cp.consumable); return `<div class="bp"><b>${esc(cp.name)}</b><span>${gp(v.blueprint.gp)} coin metal · ${kitsTxt(v.blueprint.kits)} · ${fmt(v.blueprint.pu)} PU · ${fmt(v.blueprint.days)} d per copy · the GM decides which system can use it</span></div>`; }).join('')}</div>` : ''}
         <p class="help">Want to know what another item is worth? Look it up in the <a href="#/codex">item codex</a> — every D&amp;D item, piece of gear and spell.</p>
@@ -828,6 +842,7 @@
       <ul class="rules-list">
         <li><b>The ship takes metal, not payment.</b> Coins are melted as precious-metal feedstock (conductors, lattices, field coils). Gems, bullion and jewelry count at their trade value.</li>
         <li><b>Fabrication kits are base metal.</b> Buy them, or melt mundane metal gear: every ${CAT.itemRules.metalLbPerKit} lb of metal is 1 kit.</li>
+        <li><b>A pattern is a recipe.</b> Many ship systems take magic items as parts. Learn one item and the ship can fabricate copies of it whenever a part line asks for one: one find, then as many copies as you need.</li>
         <li><b>Learning</b> destroys the item completely — no fuel back — and stores its pattern. Every copy after that costs the blueprint.</li>
         <li><b>The hull fabricators make hull-bound modules,</b> never wearable items; only a personal replicator in the secondary armory makes gear you can carry. Big systems on the Kex need many copies; smaller systems need one or two.</li>
         <li><b>Consumables</b> (potions, scrolls, ammunition, dusts) count half. <b>Artifacts</b> are never copied; recycling one needs the GM's approval.</li>

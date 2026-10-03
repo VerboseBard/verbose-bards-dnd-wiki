@@ -719,6 +719,16 @@ body.touring .comms { display: none; }
 .blueprints { display: grid; gap: 6px; }
 .blueprints .bp { display: flex; flex-wrap: wrap; gap: 4px 12px; align-items: baseline; padding: 8px 10px; border: 1px solid var(--line); border-radius: 8px; background: rgba(167, 123, 255, 0.05); }
 .blueprints .bp span { font-size: 12.5px; color: var(--muted); }
+/* How patterns work: four steps in a row, with arrows between them; two by two, then one column, on smaller screens. */
+.pattern-flow { list-style: none; margin: 0 0 8px; padding: 0; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 14px; }
+.pattern-flow .pf-step { position: relative; padding: 10px 12px; border: 1px solid var(--line); border-radius: 8px; background: rgba(167, 123, 255, 0.05); }
+.pattern-flow .pf-step:not(:last-child)::after { content: '▸'; position: absolute; right: -12px; top: 50%; transform: translateY(-50%); color: var(--ether); font-size: 12px; }
+.pattern-flow .pf-k { display: flex; align-items: center; gap: 6px; font: 600 13px var(--display); letter-spacing: 0.04em; color: var(--text); }
+.pattern-flow .pf-k .icon { width: 16px; height: 16px; color: var(--ether); }
+.pattern-flow .pf-k span { font-size: 11px; color: var(--ether); }
+.pattern-flow p { margin: 6px 0 0; font-size: 12.5px; color: var(--muted); }
+@media (max-width: 900px) { .pattern-flow { grid-template-columns: repeat(2, minmax(0, 1fr)); } .pattern-flow .pf-step:nth-child(2)::after { content: none; } }
+@media (max-width: 520px) { .pattern-flow { grid-template-columns: minmax(0, 1fr); } .pattern-flow .pf-step::after { content: none !important; } }
 @media (max-width: 900px) { .codex-rules .rules-grid { grid-template-columns: minmax(0, 1fr); } }
 .codex-rules .rules-table { overflow-x: auto; }
 

@@ -34,6 +34,7 @@
       hangarPu: fmt(hangar.pu), hangarDays: fmt(hangar.days), hangarPerDay: fmt(hangar.pu / hangar.days),
       kitLb: fmt(CAT.itemRules.metalLbPerKit), multiples: full ? full.components[0].qty : 8,
       rareLearn: fmt(rare.learnPu), rareGp: fmt(rare.blueprint.gp), rareKits: rare.blueprint.kits, rarePu: fmt(rare.blueprint.pu), rareDays: fmt(rare.blueprint.days),
+      archiveCap: E.ARCHIVE_CAP,
     };
   }
 
@@ -94,10 +95,17 @@
     { name: 'Patterns and the replicator', steps: [
       { route: '#/hold', target: '#workshop', title: 'One item, one job',
         text: () => 'Feed me a magic item and it does <b>one</b> job:<br>• <b>Install</b> it — it becomes part of a system.<br>• <b>Learn</b> it — it is destroyed completely, nothing returned, and I keep its pattern.<br>• <b>Recycle</b> it — it is destroyed for a little fuel.<br><br>I cannot un-melt a cloak. Choose carefully.' },
+      // What patterns are for (the captain's feedback, 2026-10-02: the old steps said what learning costs, not why).
+      { route: '#/hold', target: '#patterns-help', title: 'What a pattern is',
+        text: (v) => `A <b>pattern</b> is my recipe for a magic item. The item you feed me is gone for good, but its recipe stays in my <b>pattern archive</b>, which holds ${v.archiveCap} once it is restored.<br><br>From then on I can build <b>copies</b> of that item whenever you bring the materials.` },
+      { route: '#/kex/k_pattern_archive', target: '.req.part', title: 'Why keep a recipe',
+        text: () => 'Many of my systems take <b>magic items as parts</b>. Without a pattern, you must find every single one. With it, you find <b>one</b>, let me learn it, and I build the rest.<br><br>Each part line shows what a copy would cost. Once I know the pattern, <b>Fabricate</b> builds it.' },
       { route: '#/codex', target: '.codex-rules', title: 'Blueprints',
-        text: (v) => `A learned pattern becomes a <b>blueprint</b>: each copy costs metal, kits, power and time. A rare pattern costs ${v.rareLearn} PU to learn, then <b>${v.rareGp} gp of coin metal, ${v.rareKits} kits, ${v.rarePu} PU and ${v.rareDays} days per copy</b>. Copies are hull-bound modules, never wearable.` },
+        text: (v) => `Every copy costs its <b>blueprint</b>: metal, kits, power and time. A rare pattern costs ${v.rareLearn} PU to learn, then <b>${v.rareGp} gp of coin metal, ${v.rareKits} kits, ${v.rarePu} PU and ${v.rareDays} days per copy</b>.<br><br>That is usually far cheaper than finding another one.` },
       { route: '#/codex', target: '.codex-rules .rules-list', title: 'Big systems need many copies',
         text: (v) => `My hull is large. A system spread across it needs <b>many</b> copies of a pattern — cloaking the whole hull would take <b>${v.multiples}</b> displacement matrices. Smaller systems need one or two. Learn one, build the rest.` },
+      { route: '#/kex/secarmory', target: '#side .room-map', title: 'Copies stay aboard',
+        text: () => 'What my hull fabricators build becomes <b>part of me</b>: fitted modules, never something you can wear or carry away.<br><br>Gear you can take with you needs a <b>personal replicator</b>, and the only place I can fit one is here, in the <b>secondary armory</b>, once it is restored.' },
       { route: '#/codex', target: '.codex-tabs', title: 'Look anything up',
         text: () => 'Every magic item, piece of gear and spell is listed here with what it is worth to me: fuel if recycled, the cost to learn it, and its blueprint. Before you sacrifice something, look it up.' },
       { route: '#/hold', target: '.materials-panel .panel-head', title: 'Metals I do not know',

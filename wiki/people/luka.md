@@ -1,6 +1,6 @@
 # Luka
 
-Luka is a male leonin, a Path of the Zealot frontliner, and a core member of the [Moon Stone Collectors](../factions/moon-stone-collectors.md), connected to Gorthak's faith and the party's Hell-side rescue arc.
+Luka is a male leonin, a Path of the Zealot frontliner, and a core member of the [Moon Stone Collectors](../factions/moon-stone-collectors.md), connected to [Gorthak](gorthak.md)'s faith and the party's Hell-side rescue arc.
 
 ## Faith
 

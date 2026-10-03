@@ -4,6 +4,8 @@ The Temple of Gorthak's Triumph is the [Ice Watch](ice-watch.md) religious compl
 
 ## Description
 
+The temple is dedicated to [Gorthak](../people/gorthak.md), the war god of the [Gobfolk Alliance](../factions/gobfolk-alliance.md).
+
 The temple is a place of authority, purification, and paperwork. The party is told to bring dangerous artifacts there for review rather than handling them casually.
 
 ## Campaign Role
@@ -12,6 +14,8 @@ The temple becomes part of the chain that moves the party from the harbor, to th
 
 ## Related
 
+- [Gorthak](../people/gorthak.md)
+- [Cardinal Octavian Ironheart](../people/bishop-octavian-ironheart.md)
 - [Frostfire Harbor](frostfire-harbor.md)
 - [Frostfire Tavern](frostfire-tavern.md)
 - [Moon Stone Collectors, Part 2](../sessions/moon-stone-collectors-part-2.md)

@@ -1,6 +1,6 @@
-# Godfolk Alliance
+# Gobfolk Alliance
 
-The Godfolk Alliance is the cultural and political bloc native to [Norvindr](../places/norvindr.md), including orcs, goblins, hobgoblins, bugbears, and related peoples.
+The Gobfolk Alliance is the cultural and political bloc native to [Norvindr](../places/norvindr.md), including orcs, goblins, hobgoblins, bugbears, and related peoples.
 
 ## Culture
 

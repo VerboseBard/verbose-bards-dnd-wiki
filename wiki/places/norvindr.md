@@ -58,7 +58,7 @@ The world remembers who benefited from the thaw, and who was left behind.
 - [Frostfire Keep](frostfire-keep.md)
 - [Chuckling Gecko](chuckling-gecko.md)
 - [Kuran Grove](kuran-grove.md)
-- [Godfolk Alliance](../factions/godfolk-alliance.md)
+- [Gobfolk Alliance](../factions/gobfolk-alliance.md)
 - [Demonic Dwarven Goo](../concepts/demonic-dwarven-goo.md)
 - [Moon Stone Collectors, Part 1](../sessions/moon-stone-collectors-part-1.md)
 - [Moon Stone Collectors, Part 11](../sessions/moon-stone-collectors-part-11.md)

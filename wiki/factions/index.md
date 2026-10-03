@@ -8,7 +8,7 @@
 - [Seekers](seekers.md)
 - [Sentinels of the Veil](sentinels-of-the-veil.md)
 - [The Ecclesiastical Order](ecclesiastical-order.md)
-- [Godfolk Alliance](godfolk-alliance.md)
+- [Gobfolk Alliance](gobfolk-alliance.md)
 - [Inquisition](inquisition.md)
 - [Crusaders](crusaders.md)
 - [Calvin's Curios](calvins-curios.md)

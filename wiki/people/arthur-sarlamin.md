@@ -17,4 +17,4 @@ Arthur stays in the [Eastern Tower](../places/eastern-tower.md) while the [Concu
 - [Nicole Sarlamin](nicole.md)
 - [Radiant Citadel](../places/radiant-citadel.md)
 - [Glacier's Edge Theater](../places/glaciers-edge-theater.md)
-- [Bishop Octavian Ironheart](bishop-octavian-ironheart.md)
+- [Cardinal Octavian Ironheart](bishop-octavian-ironheart.md)

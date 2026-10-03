@@ -34,7 +34,7 @@ TMC thwarts the attack and agrees, with promised reimbursement, to escort the em
 
 ## Norvindr
 
-[Norvindr](../places/norvindr.md) is the icebound home of the [Godfolk Alliance](../factions/godfolk-alliance.md): orcs, goblins, hobgoblins, bugbears, and related peoples. Its culture is described as Norse meets Rome, with professional military discipline alongside shield-wall traditions and harsh northern survival.
+[Norvindr](../places/norvindr.md) is the icebound home of the [Gobfolk Alliance](../factions/gobfolk-alliance.md): orcs, goblins, hobgoblins, bugbears, and related peoples. Its culture is described as Norse meets Rome, with professional military discipline alongside shield-wall traditions and harsh northern survival.
 
 The goblins are especially technologically advanced, with major underground cities and sophisticated engineering. Surface travel across frozen seas relies on reinforced ships fitted with sleds and skis.
 
@@ -65,7 +65,7 @@ The session closes with [Soda](../people/soda.md) lying on the ice, whimpering a
 - [Moon Stone Collectors](../factions/moon-stone-collectors.md)
 - [Norvindr](../places/norvindr.md)
 - [Ice Watch](../places/ice-watch.md)
-- [Godfolk Alliance](../factions/godfolk-alliance.md)
+- [Gobfolk Alliance](../factions/gobfolk-alliance.md)
 - [The Concurrence](../concepts/the-concurrence.md)
 - [War of the Gods](../concepts/war-of-the-gods.md)
 - [Hell's Bane Heroes](../factions/hells-bane-heroes.md)

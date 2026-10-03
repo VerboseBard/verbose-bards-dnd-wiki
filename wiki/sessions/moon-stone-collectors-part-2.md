@@ -63,7 +63,7 @@ Full review: [Moon Stone Collectors Elsewares](../campaign/moonstone-collectors-
 
 ## Important Factions
 
-- [Godfolk Alliance](../factions/godfolk-alliance.md)
+- [Gobfolk Alliance](../factions/gobfolk-alliance.md)
 - [Conclave of Churches](../factions/conclave-of-churches.md)
 
 ## Items and Mechanics Introduced

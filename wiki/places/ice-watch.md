@@ -42,7 +42,7 @@ Ice Watch changes from a frozen seat of power into a weather-stressed port and c
 ## Related
 
 - [Norvindr](norvindr.md)
-- [Godfolk Alliance](../factions/godfolk-alliance.md)
+- [Gobfolk Alliance](../factions/gobfolk-alliance.md)
 - [Conclave of Churches](../factions/conclave-of-churches.md)
 - [Moon Stone Collectors, Part 1](../sessions/moon-stone-collectors-part-1.md)
 - [Moon Stone Collectors, Part 2](../sessions/moon-stone-collectors-part-2.md)
